@@ -33,6 +33,7 @@ Diese Befunde tragen die Argumentation. Sie dürfen präzisiert, aber nicht stil
 - Marcora-Gesetz (Italien) als Vorbild; GmbH mit gebundenem Vermögen (Verantwortungseigentum) als deutscher Asset Lock.
 - Art. 15 GG als geordnete ultima ratio.
 - Nachfolgewelle im Mittelstand als historisches Zeitfenster der Strategie.
+- Superfest/Ceverit als Anreiz-Lehrfall der Kreislaufdimension: Langlebigkeit entstand, wo der Eigentümer die Lebenszykluskosten trug (staatliche Gastronomie, Plan-Rohstoffe); westliche Lizenzablehnung, Abwicklung 1991.
 
 ## Argumentative Hausregeln
 
@@ -65,7 +66,7 @@ Diese Befunde tragen die Argumentation. Sie dürfen präzisiert, aber nicht stil
 
 ## Backlog (Kandidaten für spätere Sessions)
 
-- Ökologische Kreislauf-Dimension vertiefen (Knappheit ökologischer Budgets ist in Befund 5 bereits angelegt).
+- Ökologische Kreislauf-Dimension vertiefen (Einstieg geleistet: Kreislaufdimension in Sektion III mit Superfest-Anker plus neue Flanke „Effizienz vs. Langlebigkeit" in Sektion VI, 22.07.2026; Knappheit ökologischer Budgets in Befund 5 angelegt).
 - EU-/Weltordnungsebene ausarbeiten (Handelsordnung, Beihilferecht – in IV/VI nur skizziert).
 - Quellen- und Literaturapparat: Grundstock liegt als `quellen_und_glossar.md` vor; die daraus folgenden Präzisierungsaufträge sind eingearbeitet (22.07.2026). Offen: direkte Erreichbarkeitsprüfung der URLs nachholen (in der Erstellungsumgebung war nur die indirekte Prüfung über Websuche-Indizierung möglich).
 - Ggf. Essay-/Aufsatzfassung aus dem Thesenpapier ableiten.
