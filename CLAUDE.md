@@ -1,6 +1,6 @@
 # CLAUDE.md – Arbeitsgrundlage für dieses Repository
 
-Dies ist ein politisch-ökonomisches Thesenpapier, kein Code-Projekt. Zentrale Datei: `polyzentrische_ordnung.md`. Diese Datei sichert inhaltliche und argumentative Konventionen für jede Weiterentwicklung. Vor jeder Bearbeitung: das Hauptdokument vollständig lesen.
+Dies ist ein politisch-ökonomisches Thesenpapier, kein Code-Projekt. Zentrale Datei: `polyzentrische_ordnung.md`. Begleitdatei: `quellen_und_glossar.md` (Quellenverzeichnis und Glossar; neue Begriffe und Belege dort eintragen, Verifikationsstatus ausweisen). Diese Datei sichert inhaltliche und argumentative Konventionen für jede Weiterentwicklung. Vor jeder Bearbeitung: das Hauptdokument vollständig lesen.
 
 ## Projektzweck
 
@@ -67,7 +67,7 @@ Diese Befunde tragen die Argumentation. Sie dürfen präzisiert, aber nicht stil
 
 - Ökologische Kreislauf-Dimension vertiefen (Knappheit ökologischer Budgets ist in Befund 5 bereits angelegt).
 - EU-/Weltordnungsebene ausarbeiten (Handelsordnung, Beihilferecht – in IV/VI nur skizziert).
-- Quellen- und Literaturapparat ergänzen: Steiner, Kornai, Ostrom, Volze, Xu Chenggang, Piketty, Gilens/Page, Luxemburg, Postone, Hirschman, Olson.
+- Quellen- und Literaturapparat: Grundstock liegt als `quellen_und_glossar.md` vor. Offen: die dort gelisteten Präzisierungsaufträge ins Hauptdokument einarbeiten; direkte Erreichbarkeitsprüfung der URLs nachholen (in der Erstellungsumgebung war nur die indirekte Prüfung über Websuche-Indizierung möglich).
 - Ggf. Essay-/Aufsatzfassung aus dem Thesenpapier ableiten.
 
 Bei Erweiterungen gilt die Reihenfolge: erst Hausregeln prüfen, dann empirische Anker sichern, dann schreiben – und jede neue Lücke in Sektion VI eintragen.

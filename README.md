@@ -8,6 +8,8 @@ Die zentrale These: Die entscheidende Variable ist nicht Kapitalismus vs. Sozial
 
 Das vollständige Dokument: **[polyzentrische_ordnung.md](polyzentrische_ordnung.md)**
 
+Begleitend: **[quellen_und_glossar.md](quellen_und_glossar.md)** – Quellenverzeichnis und Glossar in einem, mit Verifikationsstatus für jeden Eintrag.
+
 Es gliedert sich in sieben Teile:
 
 1. **Ausgangspunkt und Methode** – Mustervergleich über Fälle hinweg statt Utopie
