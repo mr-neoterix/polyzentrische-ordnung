@@ -64,6 +64,12 @@ Dieses Dokument ist Quellenverzeichnis und Glossar in einem. Es erläutert die z
 **URL:** https://www.bpb.de/themen/deutschlandarchiv/235690/sie-kamen-quasi-mit-leeren-haenden-zurueck/ – indiziert 22.07.2026
 **Verifikation:** bestätigt; mit Einschränkung: Wo genau die Gelder verblieben (DDR-Verrechnung vs. mosambikanischer Staatshaushalt), ist bis heute nicht abschließend geklärt.
 
+### Superfest / Ceverit (chemisch verfestigtes DDR-Glas)
+**Erläuterung:** In den 1970er Jahren in der DDR entwickeltes, durch Ionenaustausch (Natrium- gegen Kalium-Ionen an der Glasoberfläche) chemisch verfestigtes Trinkglas, um ein Mehrfaches bruchfester als Normalglas; 1980–1991 im VEB Sachsenglas Schwepnitz in ca. 110–120 Mio. Exemplaren produziert. Entwicklungsmotiv war die Internalisierung der Lebenszykluskosten durch den Eigentümer: Die staatliche Gastronomie trug die Bruchkosten, der Plan die Rohstoffkosten. Westliche Lizenzversuche scheiterten in den 1980ern; nach der Umwandlung in die SAXONIA-Glas GmbH wurde das Werk 1991 abgewickelt. Im Hauptdokument trägt der Fall die Kreislaufdimension in Sektion III.
+**Quelle(n):** Jens Malling: „Superfest"-Gläser aus der Lausitz sind einfach zu gut für den Markt, in: der Freitag; Museum Baruther Glashütte: Objektdokumentation „Trinkglas Superfest" (museum-digital Brandenburg); Markengeschichte auf superfest-leipzig.de (Neuauflage der Marke).
+**URL:** https://www.freitag.de/autoren/jens-malling/superfest-glaeser-aus-der-lausitz-sind-einfach-zu-gut-fuer-den-markt sowie https://brandenburg.museum-digital.de/object/36112 – indiziert 22.07.2026
+**Verifikation:** bestätigt (Technologie, Produktionszeitraum, Größenordnung der Stückzahlen, Lizenzablehnung, Abwicklung 1991); mit Einschränkung: Die vielzitierte Coca-Cola-Anekdote („Wir verdienen an jedem zerbrochenen Glas") ist mehrfach kolportiert, aber nicht durch eine Primärquelle gesichert – nur als Anekdote führen (im Hauptdokument deshalb nicht verwendet); Stückzahlen variieren je nach Quelle zwischen 110 und 120 Mio.
+
 ## B. Vergleichsfälle
 
 ### Vietnam – Đổi Mới und der Reis-Turnaround
