@@ -304,7 +304,7 @@ Dieses Dokument ist Quellenverzeichnis und Glossar in einem. Es erläutert die z
 
 ## Aus der Verifikation folgende Präzisierungsaufträge für das Hauptdokument
 
-Die Prüfung hat keine tragende These des Dokuments erschüttert, aber zehn Stellen ergeben, an denen Formulierungen oder Zahlen nachgeschärft werden sollten. Sie sind hier gesammelt, bis sie eingearbeitet sind; nach der Hausregel gilt: präzisieren, nicht stillschweigend verschieben.
+Die Prüfung hat keine tragende These des Dokuments erschüttert, aber zehn Stellen ergeben, an denen Formulierungen oder Zahlen nachgeschärft werden mussten. Alle zehn wurden am 22.07.2026 in das Hauptdokument eingearbeitet; die Liste bleibt als Änderungsdokumentation erhalten – nach der Hausregel gilt: präzisieren, nicht stillschweigend verschieben.
 
 1. *Marx-Zitat Kapital III (Sektion V, Einwand 6):* MEW-Wortlaut ist „das erste Durchbrechen der alten Form" und „Kooperativfabriken" – „erste Sprengung"/„Genossenschaftsfabriken" als Paraphrase kennzeichnen oder anpassen.
 2. *„Ideeller Gesamtkapitalist" (Sektion V, Einwand 2):* Die Formel stammt von Engels (Anti-Dühring, MEW 20, S. 260), nicht aus der Miliband/Poulantzas-Debatte – Zuschreibung präzisieren.

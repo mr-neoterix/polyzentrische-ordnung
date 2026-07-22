@@ -67,7 +67,7 @@ Diese Befunde tragen die Argumentation. Sie dürfen präzisiert, aber nicht stil
 
 - Ökologische Kreislauf-Dimension vertiefen (Knappheit ökologischer Budgets ist in Befund 5 bereits angelegt).
 - EU-/Weltordnungsebene ausarbeiten (Handelsordnung, Beihilferecht – in IV/VI nur skizziert).
-- Quellen- und Literaturapparat: Grundstock liegt als `quellen_und_glossar.md` vor. Offen: die dort gelisteten Präzisierungsaufträge ins Hauptdokument einarbeiten; direkte Erreichbarkeitsprüfung der URLs nachholen (in der Erstellungsumgebung war nur die indirekte Prüfung über Websuche-Indizierung möglich).
+- Quellen- und Literaturapparat: Grundstock liegt als `quellen_und_glossar.md` vor; die daraus folgenden Präzisierungsaufträge sind eingearbeitet (22.07.2026). Offen: direkte Erreichbarkeitsprüfung der URLs nachholen (in der Erstellungsumgebung war nur die indirekte Prüfung über Websuche-Indizierung möglich).
 - Ggf. Essay-/Aufsatzfassung aus dem Thesenpapier ableiten.
 
 Bei Erweiterungen gilt die Reihenfolge: erst Hausregeln prüfen, dann empirische Anker sichern, dann schreiben – und jede neue Lücke in Sektion VI eintragen.
