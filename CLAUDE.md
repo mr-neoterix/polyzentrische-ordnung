@@ -70,5 +70,6 @@ Diese Befunde tragen die Argumentation. Sie dürfen präzisiert, aber nicht stil
 - EU-/Weltordnungsebene ausarbeiten (Handelsordnung, Beihilferecht – in IV/VI nur skizziert).
 - Quellen- und Literaturapparat: Grundstock liegt als `quellen_und_glossar.md` vor; die daraus folgenden Präzisierungsaufträge sind eingearbeitet (22.07.2026). Offen: direkte Erreichbarkeitsprüfung der URLs nachholen (in der Erstellungsumgebung war nur die indirekte Prüfung über Websuche-Indizierung möglich).
 - Ggf. Essay-/Aufsatzfassung aus dem Thesenpapier ableiten.
+- Befunde des Prüfberichts einarbeiten: `pruefbericht_schwachstellen.md` (24.07.2026) enthält 22 geprüfte Einwände samt Urteil und Einarbeitungsvorschlägen, geordnet nach Priorität (Abschnitt F). Größter Einzelposten: die fehlende liberale Gegenprobe als neue Sektion (Hausregel 2 verlangt Symmetrie, Sektion V prüft bisher nur die linke Flanke). Entscheidungsbedürftig ist Befund A2 – ob der Bürgerfonds Eigentum oder bloßer Ertragsanspruch sein soll.
 
 Bei Erweiterungen gilt die Reihenfolge: erst Hausregeln prüfen, dann empirische Anker sichern, dann schreiben – und jede neue Lücke in Sektion VI eintragen.
