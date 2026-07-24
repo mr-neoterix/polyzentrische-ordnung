@@ -10,6 +10,8 @@ Das vollständige Dokument: **[polyzentrische_ordnung.md](polyzentrische_ordnung
 
 Begleitend: **[quellen_und_glossar.md](quellen_und_glossar.md)** – Quellenverzeichnis und Glossar in einem, mit Verifikationsstatus für jeden Eintrag.
 
+Adversariale Prüfung: **[pruefbericht_schwachstellen.md](pruefbericht_schwachstellen.md)** – Schwachstellen, Gegenargumente und Einarbeitungsvorschläge, jeweils mit Urteil (echte Schwäche, halbe Schwäche, keine Schwäche).
+
 Es gliedert sich in sieben Teile:
 
 1. **Ausgangspunkt und Methode** – Mustervergleich über Fälle hinweg statt Utopie
