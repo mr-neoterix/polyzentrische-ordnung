@@ -306,6 +306,96 @@ Dieses Dokument ist Quellenverzeichnis und Glossar in einem. Es erläutert die z
 **URL:** https://www.kfw.de/inlandsfoerderung/Unternehmen/Gr%C3%BCndung-und-Nachfolge/F%C3%B6rderprodukte/ERP-F%C3%B6rderkredit-Gr%C3%BCndung-und-Nachfolge-(077)/ – indiziert 22.07.2026
 **Verifikation:** bestätigt.
 
+## F. Anker des Essays (Einarbeitung des Prüfberichts, Stand 25.07.2026)
+
+Diese Einträge tragen `essay_polyzentrische_ordnung.md`. Sie stammen überwiegend aus dem Anhang des Prüfberichts vom 24.07.2026 und wandern nach Hausregel 6 mit der Einarbeitung hierher; die vier zuletzt aufgeführten Einträge sind Neuverifikationen vom 25.07.2026. Wo kein URL-Feld steht, lag in der Arbeitsumgebung keine belastbar geprüfte Adresse vor – die Beleglage beruht dann auf übereinstimmender Websuche-Indizierung, was im Verifikationsfeld ausgewiesen ist.
+
+### Fagor Electrodomésticos – Insolvenz 2013
+**Erläuterung:** Die älteste Genossenschaft des Mondragón-Verbunds stellte im Oktober/November 2013 mit rund 5.700 Beschäftigten weltweit und 1,1 Mrd. Euro Schulden den Insolvenzantrag; der Verbund hatte zuvor rund 300 Mio. Euro gestützt und verweigerte weitere 180 Mio. Euro. Im Essay trägt der Fall Befund 8 (Fehlertoleranz im Feldversuch) und gleichzeitig die Externalisierungs-Flanke, weil die Beschäftigten der Auslandstöchter ungeschützt blieben.
+**Quelle(n):** Presse- und Fachberichterstattung zur Insolvenz 2013 (übereinstimmend); Bretos/Errasti/Marcuello (2019) zur Verbundstruktur.
+**Verifikation:** bestätigt dem Grunde nach; die Zahl der über Solidarfonds umgesetzten Mitglieder ist nicht gesichert und im Essay deshalb nicht beziffert.
+
+### Employee Ownership Trusts (Vereinigtes Königreich)
+**Erläuterung:** Der Finance Act 2014 führte eine vollständige Kapitalertragsteuerbefreiung für Verkäufe an Employee Ownership Trusts ein. Registerstand Mai 2025: rund 2.470 belegschaftseigene Unternehmen mit etwa 358.000 Beschäftigten, allein 2024 rund 560 Neugründungen. Zum 26.11.2025 wurde die Entlastung von 100 auf 50 Prozent halbiert. Im Essay doppelt geführt: als stärkster Beleg für die Wirksamkeit des Steuerhebels (Sektion V) und als Rost-Beleg im laufenden Betrieb (Befund 9). Zusatz: EOTs sind treuhänderisch gehalten, nicht mitgliedschaftlich regiert – sie belegen die Übertragungs-, nicht die Selbstverwaltungsthese.
+**Quelle(n):** Employee Ownership Association / White Rose Centre, Registerauswertung Mai 2025; Finance Act 2014; Haushaltsbeschluss November 2025.
+**Verifikation:** bestätigt.
+
+### Horizontproblem und individuelle Kapitalkonten
+**Erläuterung:** Furubotn und Pejovich zeigten, dass Mitglieder selbstverwalteter Betriebe ohne mitnehmbaren Anspruch auf einbehaltene Gewinne systematisch in langlebige Anlagen unterinvestieren. Mondragóns individuelle Kapitalkonten – Gutschrift einbehaltener Überschüsse auf persönliche Konten, Auszahlung beim Ausscheiden – sind die erprobte Gegenkonstruktion. Im Essay tragen sie die Unternehmensverfassung des genossenschaftlichen Sektors (Sektion III) und die Abgrenzung gegen Jugoslawien (Sektion VII).
+**Quelle(n):** Furubotn/Pejovich zur Eigentumsrechte-Theorie der selbstverwalteten Firma; Aufarbeitung des Mondragón-Mechanismus bei David Ellerman.
+**Verifikation:** bestätigt in Theoriezuschreibung und Mechanismus; die bibliographischen Fundstellen sind vor wörtlichem Zitieren zu vervollständigen.
+
+### Genossenschaftsproduktivität, Überleben und Krisenresilienz
+**Erläuterung:** Pérotins Forschungsüberblick fasst zusammen, dass Arbeitergenossenschaften mindestens so produktiv sind wie konventionelle Unternehmen und mindestens so gut überleben; Burdíns Untersuchung von 22.315 uruguayischen Unternehmen (darunter 243 Genossenschaften, 1996–2005) findet nach Kontrolle für Größe, Kapital und Branche deutlich niedrigere Auflösungsraten. Pérotins eigene Einschränkung ist mitzuführen: Der Befund stammt aus Ländern mit degenerations- und unterinvestitionssicheren Genossenschaftsverfassungen – der Vorteil hängt am Design, nicht an der Rechtsform.
+**Quelle(n):** Virginie Pérotin: What do we really know about worker co-operatives?, Co-operatives UK, 2016; Gabriel Burdín zur Auflösungsrate uruguayischer Genossenschaften.
+**Verifikation:** bestätigt, mit der ausdrücklich mitzuführenden Design-Einschränkung.
+
+### Henry Hansmann – „The Ownership of Enterprise" (1996)
+**Erläuterung:** Hansmann erklärt die Seltenheit von Arbeitergenossenschaften mit den Kosten kollektiver Entscheidung bei heterogenen Eigentümerinteressen: Homogene Belegschaften tragen Arbeitereigentum, heterogene nicht. Im Essay der erste Einwand der liberalen Gegenprobe (Sektion VII), beantwortet über Zuschnitt, Delegation und verschachtelte Einheiten – sowie über die fehlende Gegenrechnung der Ownership Costs des Kapitaleigentums.
+**Quelle(n):** Henry Hansmann: The Ownership of Enterprise, Cambridge (Mass.): Harvard UP 1996.
+**Verifikation:** bestätigt.
+
+### Doppelstiftung (deutsche Gestaltungspraxis)
+**Erläuterung:** Kombination aus gemeinnütziger Stiftung und Familienstiftung mit disquotaler Aufteilung: Vermögensrechte überwiegend bei der steuerbegünstigten gemeinnützigen Stiftung, Stimmrechtsmehrheit bei der Familienstiftung. Das Modell wird ausdrücklich als Instrument zur Minimierung der Erbschaftsteuer bei gleichzeitiger Sicherung des Familieneinflusses beworben. Im Essay der Anlass für den Kontroll-Lock in Sektion III: Ein Asset Lock ohne Control Lock ist keine Sterblichkeitsregel, sondern ihre Umgehung.
+**Quelle(n):** Beratungs- und Gestaltungsliteratur zur Doppelstiftung.
+**Verifikation:** bestätigt; die Beleglage besteht überwiegend aus Beratungsliteratur, was hier ausreicht, da die Werbeaussage selbst der Beleg ist.
+
+### Schwedische AP-Pufferfonds
+**Erläuterung:** AP1 bis AP4 wurden im Jahr 2000 bewusst als vier parallele Häuser mit gleichem Startkapital und identischem Mandat angelegt. Im Januar 2025 beschloss die parlamentarische Rentengruppe, die Zahl der Pufferfonds von fünf auf drei zu senken – Schließung von AP1, Verschmelzung von AP2 und AP6 –, begründet mit Skaleneffekten, Kosten und Governance. Im Essay trägt der Anker beides: die Pluralisierung der Fondsarchitektur (Sektion V) und den Konsolidierungsdruck, der die Konsolidierungssperre nötig macht (Sektion VIII).
+**Quelle(n):** Beschluss der schwedischen Pensionsgruppe, Januar 2025; Gründungsarchitektur der AP-Fonds 2000.
+**Verifikation:** bestätigt.
+
+### Investitionsschutz: Vattenfall gegen Deutschland und Energiecharta-Vertrag
+**Erläuterung:** ICSID-Verfahren ARB/12/12 mit einer Forderung von rund 4,7 Mrd. Euro wegen des Atomausstiegs; außergerichtlicher Vergleich März 2021 mit 1,425 Mrd. Euro an Vattenfall und 880 Mio. Euro an RWE, förmliche Verfahrensbeendigung November 2021. Deutschlands Austritt aus dem Energiecharta-Vertrag wurde im Juni 2025 wirksam, die Sunset-Klausel schützt Altinvestitionen jedoch weitere zwanzig Jahre; bilaterale Investitionsschutzabkommen kommen hinzu. Im Essay die Wand des dritten Werktags (Sektion IV) und eine eigene Flanke (Sektion VIII), zugleich Bestätigung von Befund 9 auf völkerrechtlicher Ebene.
+**Quelle(n):** ICSID ARB/12/12; Vergleichsbekanntgabe der Bundesregierung März 2021; Austrittsnotifikation zum Energiecharta-Vertrag.
+**Verifikation:** bestätigt.
+
+### Berliner Expertenkommission zur Vergesellschaftung
+**Erläuterung:** Abschlussbericht vom 28.06.2023: Mehrheitlich ist die Vergesellschaftung großer Wohnungsunternehmen verfassungskonform ausgestaltbar, die Landesgesetzgebungskompetenz gegeben; strittig blieb und Gegenstand der Sondervoten war die Entschädigungsbemessung unterhalb des Verkehrswerts.
+**Quelle(n):** Expertenkommission „Vergesellschaftung großer Wohnungsunternehmen", Abschlussbericht, Berlin, 28.06.2023.
+**Verifikation:** bestätigt.
+
+### Loi Hamon und Loi Macron (Frankreich)
+**Erläuterung:** Informationspflicht gegenüber der Belegschaft zwei Monate vor dem Verkauf von Unternehmen unter 250 Beschäftigten, in Kraft seit 01.11.2014. Die Nichtigkeitssanktion verwarf der Conseil constitutionnel im Juli 2015 als unverhältnismäßigen Eingriff in die unternehmerische Freiheit; die Loi Macron vom 06.08.2015 verengte den Anwendungsbereich und ersetzte die Sanktion durch ein Bußgeld von höchstens 2 Prozent des Kaufpreises. Im Essay die Begründung dafür, das Belegschafts-Vorkaufsrecht als Andienungs- und Gleichpreisrecht mit Finanzierungsgarantie statt als Kontrahierungszwang zu bauen.
+**Quelle(n):** Loi Hamon (2014); Entscheidung des Conseil constitutionnel Juli 2015; Loi Macron vom 06.08.2015.
+**Verifikation:** bestätigt; die Wirkungsbilanz ist in der Fachliteratur umstritten und im Essay als umstritten gekennzeichnet.
+
+### Steuerlicher Querverbund und kommunale Finanzlage
+**Erläuterung:** Der steuerliche Querverbund erlaubt die Verlustverrechnung zwischen dauerdefizitären Sparten (ÖPNV, Bäder) und Gewinnsparten (Energie) und macht den Preis der Verlustsparte unsichtbar. Zur Größenordnung der Haushaltslage: Die Kommunen verzeichneten 2025 ein Rekorddefizit von 31,9 Mrd. Euro nach 24,8 Mrd. Euro im Jahr 2024. Im Essay tragen beide Befunde das Konstruktionselement „Sterblichkeit ohne Betriebsunterbrechung" (Sektion III).
+**Quelle(n):** Statistisches Bundesamt, Pressemitteilung zum kommunalen Finanzierungssaldo 2025 (April 2026) sowie zum Saldo 2024 (April 2025).
+**URL:** https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/04/PD26_114_71137.html – indiziert 25.07.2026
+**Verifikation:** bestätigt; **Korrektur gegenüber dem Prüfbericht:** Die 31,9 Mrd. Euro betreffen das Jahr 2025, nicht 2024.
+
+### Marx – Kapital III, S. 456 (vollständig) und Kritik des Gothaer Programms
+**Erläuterung:** Die im Thesenpapier halb zitierte Stelle lautet vollständig: „Die Kooperativfabriken der Arbeiter selbst sind, innerhalb der alten Form, das erste Durchbrechen der alten Form, obgleich sie natürlich überall, in ihrer wirklichen Organisation, alle Mängel des bestehenden Systems reproduzieren müssen." In der „Kritik des Gothaer Programms" (1875) verspottet Marx die Staatshilfe, „die der Staat Produktivgenossenschaften gibt, die er, nicht der Arbeiter, ins Leben ruft", als „würdig der Einbildung Lassalles, daß man mit Staatsanlehn ebensogut eine neue Gesellschaft bauen kann wie eine neue Eisenbahn", und stellt die Bedingung: „Was aber die jetzigen Kooperativgesellschaften betrifft, so haben sie nur Wert, soweit sie unabhängige, weder von den Regierungen noch von den Bourgeois protegierte Arbeiterschöpfungen sind." Im Essay ist die Fortsetzung der Kapital-Stelle in Einwand 6 und die Gotha-Kritik als eigener, schärfster Einwand 7 der marxistischen Gegenprobe eingebaut.
+**Quelle(n):** Karl Marx: Das Kapital, Bd. III, MEW 25, S. 456; ders.: Randglossen zum Programm der deutschen Arbeiterpartei (1875), MEW 19.
+**URL:** http://www.mlwerke.de/me/me25/me25_451.htm sowie https://www.marxists.org/deutsch/archiv/marx-engels/1875/kritik/randglos.htm – indiziert 25.07.2026
+**Verifikation:** Wortlaute beider Stellen am 25.07.2026 über übereinstimmende Textausgaben bestätigt; die Seitenangabe MEW 25, S. 456 ist weiterhin nur mittelbar geprüft. Damit ist der Präzisierungsauftrag 1 vollständig erledigt und die Paraphrase des Prüfberichts ersetzt.
+
+### Hirschman zur DDR 1989 – Korrektur einer Zuschreibung
+**Erläuterung:** Der Prüfbericht schrieb Hirschmans DDR-Aufsatz den Befund zu, Abwanderung könne Widerspruch verdrängen statt verstärken. Das ist falsch: In „Exit, Voice, and the Fate of the German Democratic Republic. An Essay in Conceptual History" revidiert Hirschman seine frühere Erwartung und beschreibt, dass Abwanderung und Widerspruch 1989 miteinander wirkten und sich gegenseitig verstärkten – die eskalierende Ausreisebewegung trieb die Bleibenden auf die Straße. Der Substitutionsmechanismus (Abwanderung entzieht der Organisation gerade die Mitglieder, deren Widerspruch sie verbessert hätte) stammt aus dem Buch von 1970. Der Essay führt beide Fälle und leitet die Exit-Designbedingung aus ihrem Unterschied ab.
+**Quelle(n):** Albert O. Hirschman: Exit, Voice, and the Fate of the German Democratic Republic, in: World Politics 45 (1993), H. 2, S. 173–202 (deutsch zuerst: Abwanderung, Widerspruch und das Schicksal der Deutschen Demokratischen Republik, in: Leviathan 1992); ders.: Exit, Voice, and Loyalty, 1970.
+**URL:** https://www.jstor.org/stable/2950657 – indiziert 25.07.2026
+**Verifikation:** bestätigt (Fundstelle, Jahr, Seitenzahlen und Richtung des Befunds).
+
+### Lebenszykluskosten im EU-Vergaberecht
+**Erläuterung:** Art. 68 der Richtlinie 2014/24/EU regelt die Lebenszykluskostenrechnung ausdrücklich als Grundlage des Zuschlagskriteriums Kosten – einschließlich Anschaffungs-, Nutzungs-, Wartungs- und Entsorgungskosten sowie, unter Bedingungen, externer Umweltkosten; die deutsche Umsetzung steht in § 59 der Vergabeverordnung. Damit ruht der Beschaffungshebel der Kreislaufdimension auf geltendem Recht und braucht kein neues Gesetz, sondern rechnende Vergabestellen.
+**Quelle(n):** Richtlinie 2014/24/EU, Art. 68; § 59 VgV.
+**URL:** https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32014L0024 sowie https://www.vergabevorschriften.de/vgv/59 – indiziert 25.07.2026
+**Verifikation:** bestätigt; damit ist der offene Verifikationsauftrag des Prüfberichts erledigt.
+
+### Erbschaft- und Schenkungsteuer 2024 und § 13a ErbStG
+**Erläuterung:** 2024 wurden 13,3 Mrd. Euro Erbschaft- und Schenkungsteuer festgesetzt (8,5 Mrd. Erbschaft-, 4,8 Mrd. Schenkungsteuer, jeweils Höchstwerte). Das übertragene Betriebsvermögen betrug 21,5 Mrd. Euro, die Großerwerbe über 26 Mio. Euro 8,6 Mrd. Euro. Die Steuerbegünstigungen nach § 13a ErbStG wurden mit 4,0 Mrd. Euro bei Erbschaften und 13,1 Mrd. Euro bei Schenkungen berücksichtigt – zusammen mehr als die insgesamt festgesetzte Steuer. Im Essay tragen die Zahlen die Erbschaftsteuerreform der Stufe 2, insbesondere die Zahlung in Anteilen statt in Geld.
+**Quelle(n):** Statistisches Bundesamt, Pressemitteilung Nr. 320 vom August 2025 zur festgesetzten Erbschaft- und Schenkungsteuer 2024; Statistischer Bericht zur Erbschaft- und Schenkungsteuer 2024.
+**URL:** https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/08/PD25_320_736.html – indiziert 25.07.2026
+**Verifikation:** bestätigt; mit Einschränkung: Die § 13a-Angaben bezeichnen berücksichtigtes begünstigtes Vermögen, nicht entgangenes Steueraufkommen – im Essay entsprechend als verschontes Vermögen geführt.
+
+### Genossenschaftssektor Deutschland (Größenordnung)
+**Erläuterung:** Rund 7.000 Genossenschaften mit etwa 22 Millionen Mitgliedern und über einer Million Beschäftigten; darunter 697 Genossenschaftsbanken mit 17,8 Millionen Mitgliedern und 135.400 Beschäftigten sowie rund 2.000 nicht im DGRV organisierte Wohnungsgenossenschaften mit 2,9 Millionen Mitgliedern. Statistisch ist jeder vierte Bundesbürger Genossenschaftsmitglied. Im Essay trägt der Anker die Aussage, dass der Sektor keine zu erfindende Nische, sondern eine vorhandene, im Produktionsbereich unterentwickelte Infrastruktur ist.
+**Quelle(n):** DGRV: Zahlen und Fakten der Genossenschaften, Edition Internationales Jahr der Genossenschaften 2025.
+**URL:** https://www.dgrv.de/wp-content/uploads/2025/08/Zahlen-und-Fakten-der-Genossenschaften-Edition-Internationales-Jahr-der-Genossenschaften-2025_2.Update.pdf – indiziert 25.07.2026
+**Verifikation:** bestätigt mit Einschränkung: Verbandsstatistik; im Essay ausdrücklich als solche gekennzeichnet.
+
 ---
 
 ## Aus der Verifikation folgende Präzisierungsaufträge für das Hauptdokument
