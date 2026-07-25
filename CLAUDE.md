@@ -1,6 +1,8 @@
 # CLAUDE.md – Arbeitsgrundlage für dieses Repository
 
-Dies ist ein politisch-ökonomisches Thesenpapier, kein Code-Projekt. Zentrale Datei: `polyzentrische_ordnung.md`. Begleitdatei: `quellen_und_glossar.md` (Quellenverzeichnis und Glossar; neue Begriffe und Belege dort eintragen, Verifikationsstatus ausweisen). Diese Datei sichert inhaltliche und argumentative Konventionen für jede Weiterentwicklung. Vor jeder Bearbeitung: das Hauptdokument vollständig lesen.
+Dies ist ein politisch-ökonomisches Thesenpapier, kein Code-Projekt. Zwei Hauptdokumente: `essay_polyzentrische_ordnung.md` (ausgeführte Fassung, Stand 25.07.2026, mit eingearbeitetem Prüfbericht, liberaler Gegenprobe, Funktions- und Umsetzungstest – der aktuelle Stand der Argumentation) und `polyzentrische_ordnung.md` (kompaktes Thesenpapier, Stand 22.07.2026, weiterhin gültig als Verdichtung, aber ohne die Korrekturen des Prüfberichts). Begleitdateien: `quellen_und_glossar.md` (Quellenverzeichnis und Glossar; neue Begriffe und Belege dort eintragen, Verifikationsstatus ausweisen) und `pruefbericht_schwachstellen.md` (adversariale Prüfung; im Essay abgearbeitet, dokumentiert in dessen Anhang A). Vor jeder Bearbeitung: das betroffene Hauptdokument vollständig lesen.
+
+**Konsistenzpflicht zwischen den Fassungen:** Wo der Essay eine Konstruktion geändert hat (Stimmrechtsverlagerung, Kontroll-Lock, Kapitalkonten, Sterberecht im Allmende-Sektor, Andienungsrecht statt Vorkaufszwang, Fondsfamilie), trägt das Thesenpapier noch die alte Fassung. Wer das Thesenpapier anfasst, zieht diese Änderungen nach oder weist die Differenz aus – stillschweigend divergieren dürfen die beiden Dokumente nicht.
 
 ## Projektzweck
 
@@ -18,6 +20,13 @@ Das Dokument ist die verdichtete Synthese eines langen dialogischen Herleitungsp
 - **Exit und Voice** (Hirschman) – Exit als Disziplin und Überdruckventil; das System muss den Vergleich wollen.
 - **Insider-Outsider-Problem** – Einhegung wirkt nur für Mitglieder; die Außenstehenden sind der härteste Testfall (Sektion VI).
 - **„Tragisches Weltbild mit Arbeitsauftrag"** – der Grundton des Dokuments: keine Erlösung, permanente Reparatur.
+- **Asset Lock plus Kapitalkonten** – der Lock verhindert den Verkauf, die individuellen Kapitalkonten verhindern die Unterinvestition (Horizontproblem Furubotn/Pejovich). Nie den Lock allein nennen.
+- **Asset Lock ohne Control Lock** – „keine Sterblichkeitsregel, sondern ihre Umgehung": Vermögensbindung ohne Stimmrechtsbindung produziert Dynastien (Doppelstiftung).
+- **Sterblichkeit ohne Betriebsunterbrechung** – das Insolvenzäquivalent des Allmende-Sektors: Netzeigentum von Betriebsführung trennen, befristete Konzessionen mit Benchmark, Verbot stiller Verlustdeckung, Kostenvergleich. „Kein Insolvenzrecht, aber ein Sterberecht für Betreiber."
+- **Stimmrechtsverlagerung** – die im Essay getroffene Entscheidung zu Befund A2 des Prüfberichts: Ertragsanspruch an die Fonds, Stimmrechte an die Belegschaft (nicht an die Fondsverwaltung, nicht gelöscht). Nicht zurückdrehen ohne Ausweisung des Preises.
+- **Fondsfamilie mit Konsolidierungssperre** – mehrere Fonds mit identischem Mandat statt eines Bürgerfonds; Exit angewandt auf die eigene Institution.
+- **Abschaltkriterium** – Förderung braucht eine Schwelle mit Entscheidungsregel und gematchte Vergleiche: „Eine Kennzahl ohne Schwelle falsifiziert nichts."
+- **„Programme kann man abwählen, Eigentümer nicht"** – individuelle Berechtigung als Bestandsschutz (zweite Meidner-Lektion).
 
 ## Empirische Anker (nur mit Beleg verändern)
 
@@ -33,15 +42,21 @@ Diese Befunde tragen die Argumentation. Sie dürfen präzisiert, aber nicht stil
 - Marcora-Gesetz (Italien) als Vorbild; GmbH mit gebundenem Vermögen (Verantwortungseigentum) als deutscher Asset Lock.
 - Art. 15 GG als geordnete ultima ratio.
 - Nachfolgewelle im Mittelstand als historisches Zeitfenster der Strategie.
-- Superfest/Ceverit als Anreiz-Lehrfall der Kreislaufdimension: Langlebigkeit entstand, wo der Eigentümer die Lebenszykluskosten trug (staatliche Gastronomie, Plan-Rohstoffe); westliche Lizenzablehnung, Abwicklung 1991.
+- Superfest/Ceverit als Anreiz-Lehrfall der Kreislaufdimension: Langlebigkeit entstand, wo der Eigentümer die Lebenszykluskosten trug (staatliche Gastronomie, Plan-Rohstoffe); Lizenz von westlichen Herstellern nicht genommen – das Motiv ist ungesichert und darf nicht zugeschrieben werden (Hausregel 2), das Anreizargument hängt nicht daran; Abwicklung 1991.
+- Fagor 2013 als Feldbeleg für Befund 8: Insolvenz des Mondragón-Flaggschiffs (rund 5.700 Beschäftigte, 1,1 Mrd. Euro Schulden), harte Budgetgrenze der Föderation gegen das eigene Gründungsmitglied – mit endlicher Auffangkapazität und ungeschützten Auslandsbeschäftigten.
+- Employee Ownership Trusts (UK) als doppelter Anker: Steuerhebel wirkt (rund 2.470 Unternehmen, ca. 358.000 Beschäftigte, Stand Mai 2025), und er rostet (Halbierung der Entlastung zum 26.11.2025). Zusatz: Treuhand ohne Mitgliedschaftsdemokratie.
+- Doppelstiftung als Beleg für den nötigen Kontroll-Lock; schwedische AP-Fonds (Parallelarchitektur 2000, Konsolidierungsbeschluss Januar 2025) als Beleg für Fondspluralität und ihren Verfallsdruck.
+- Investitionsschutz als Grenze des Umsetzungspfads: Vattenfall/ICSID (Forderung rund 4,7 Mrd., Vergleich 2021 mit 1,425 Mrd. plus 880 Mio.), Energiecharta-Austritt wirksam Juni 2025 mit zwanzigjähriger Sunset-Klausel. Folge: Kauf und Konzessionsrückfall sind schiedsfest, Vergesellschaftung nicht.
+- Loi Hamon/Loi Macron als Grund, das Belegschaftsrecht als Andienungs- und Gleichpreisrecht mit Finanzierungsgarantie zu bauen, nicht als Kontrahierungszwang.
+- Erbschaftsteuerzahlen 2024 (13,3 Mrd. festgesetzt; nach § 13a ErbStG verschont: 4,0 Mrd. bei Erbschaften, 13,1 Mrd. bei Schenkungen) als Rechenbasis der Stufe 2; kommunales Rekorddefizit 31,9 Mrd. Euro für 2025 (nicht 2024) als Beleg der weichen Budgetbeschränkung im Allmende-Sektor.
 
 ## Argumentative Hausregeln
 
-1. **Gegenprobe-Pflicht:** Jede neue These muss ihren stärksten Gegeneinwand mitliefern und beantworten (Muster der Sektion V). Eine These ohne beantworteten Einwand ist keine Architektur, sondern eine Hoffnung.
+1. **Gegenprobe-Pflicht, beidseitig:** Jede neue These muss ihren stärksten Gegeneinwand mitliefern und beantworten – im Muster der Gegenproben (Essay VI und VII, Thesenpapier V). Seit dem 25.07.2026 gilt: Ein Einwand ist nur geprüft, wenn er von beiden Flanken geprüft ist, der linken und der liberalen. Eine These ohne beantworteten Einwand ist keine Architektur, sondern eine Hoffnung.
 2. **Symmetrische Hermeneutik:** Offizielle Begründungen östlicher wie westlicher Akteure gleich behandeln – Muster über Fälle vergleichen statt Rhetorik glauben. Pro-kapitalistische wie pro-sozialistische Reflexe explizit prüfen. Das Dokument entstand aus einer Bias-Debatte; das ist Teil seiner Identität.
-3. **Konzessionen sind Feature, nicht Schwäche:** „Ehrliche Grenzen" ausweisen statt kaschieren. Sektion VI (Offene Flanken) ist das Ehrlichkeits-Ledger und wächst mit jeder neuen Lücke – eine erkannte Lücke wird dort eingetragen, nicht wegargumentiert.
+3. **Konzessionen sind Feature, nicht Schwäche:** „Ehrliche Grenzen" ausweisen statt kaschieren. Die Sektion „Offene Flanken" ist das Ehrlichkeits-Ledger (Essay VIII, Thesenpapier VI) und wächst mit jeder neuen Lücke – eine erkannte Lücke wird dort eingetragen, nicht wegargumentiert. Das gilt auch für Lücken, die eine eigene Korrektur erst erzeugt.
 4. **Kein Endzustand:** Das Dokument darf nie in Erlösungsrhetorik kippen. Es verspricht permanente Reparatur, kein gelöstes Machtproblem. Formulierungen, die einen finalen Zustand suggerieren, sind zu streichen oder zu brechen.
-5. **Marx-Behandlung:** Diagnose übernehmen, Therapie verwerfen. Marx selbst (Inauguraladresse 1864, Kapital III) ist als immanenter Kronzeuge nutzbar – der Streit ist oft einer mit Marx' Erben, nicht mit Marx.
+5. **Marx-Behandlung:** Diagnose übernehmen, Therapie verwerfen. Marx selbst (Inauguraladresse 1864, Kapital III) ist als immanenter Kronzeuge nutzbar – der Streit ist oft einer mit Marx' Erben, nicht mit Marx. Aber vollständig zitieren: Die Kapital-III-Stelle geht mit den „Mängeln des bestehenden Systems" weiter, und die Gotha-Kritik von 1875 spottet über staatlich gestiftete Produktivgenossenschaften. Wer sich die passende Stelle aussucht, ohne die andere zu zeigen, argumentiert nicht, sondern zitiert.
 6. **Belegpflicht:** Neue empirische Behauptungen vor Aufnahme per Websuche verifizieren. Was nicht verifizierbar ist, wird als offene Frage markiert oder nicht aufgenommen.
 
 ## Stil- und Formatregeln
@@ -54,7 +69,20 @@ Diese Befunde tragen die Argumentation. Sie dürfen präzisiert, aber nicht stil
 - Zuspitzung am Absatz- oder Sektionsende erwünscht (Muster: „Die Hülle frisst den Kern.", „Scheitert ein Modell, stirbt das Modell – nicht das Land.").
 - Fachbegriffe beim ersten Auftreten knapp erklären, danach voraussetzen.
 
-## Dokumentstruktur (Stand: Sektionen I–VII)
+## Dokumentstruktur des Essays (`essay_polyzentrische_ordnung.md`, Sektionen I–IX plus zwei Anhänge)
+
+- **I. Die Frage und das Verfahren** – drei Methodenregeln, Absage an die Utopie, die zwei Prüfsteine Funktions- und Umsetzungstest.
+- **II. Die Diagnose: neun Befunde** – identisch nummeriert wie im Thesenpapier; Querverweise überall als „Befund N".
+- **III. Die Ordnung und ihr Funktionstest** – Sektoren, Größenordnungen, Koordination, Unternehmensverfassung, Kapitalquellen, Sterblichkeitsregeln, Sterberecht im Allmende-Sektor, Kreislaufdimension, Arbeit und Sorge, Makro und Krise, politische Architektur, Exit-Bedingung.
+- **IV. Drei Werktage** – Fallproben: Maschinenbauer ohne Nachfolger, Stadtwerk mit Sterberecht, Wohnungsbestand und die Investitionsschutz-Wand.
+- **V. Der Umsetzungspfad** – fünf Umsetzbarkeitstests, drei Stufen mit Dringlichkeitsordnung, Erbschaftsteuer-Rechnung, Fondsfamilie, Abschaltkriterien, Kosten, Gewinner- und Verliererkoalition.
+- **VI. Die marxistische Gegenprobe** – acht Einwände (neu: Marx gegen Lassalle) plus Konzessionen.
+- **VII. Die liberale Gegenprobe** – zehn Einwände (Hansmann, Risiko, Kapitalmarkt, Innovation, Jugoslawien, Produktivität, zwei Public-Choice-Einwände, Hayek gegen den Entwurf selbst, Investorenwarnung) plus Konzessionen.
+- **VIII. Offene Flanken** – das Ehrlichkeits-Ledger, deutlich erweitert.
+- **IX. Die Formel** – Verdichtung; endet auf Fehlertoleranz.
+- **Anhang A/B** – Nachweis der Prüfbericht-Einarbeitung; Korrekturen an Prüfbericht und Vorlagen.
+
+## Dokumentstruktur des Thesenpapiers (`polyzentrische_ordnung.md`, Sektionen I–VII)
 
 - **I. Ausgangspunkt und Methode** – Frage, Fallvergleich, Test am härtesten Gegenbeispiel.
 - **II. Die Befunde** – neun nummerierte Befunde als Fundament; alles Spätere verweist hierauf.
@@ -66,10 +94,11 @@ Diese Befunde tragen die Argumentation. Sie dürfen präzisiert, aber nicht stil
 
 ## Backlog (Kandidaten für spätere Sessions)
 
-- Ökologische Kreislauf-Dimension vertiefen (Einstieg geleistet: Kreislaufdimension in Sektion III mit Superfest-Anker plus neue Flanke „Effizienz vs. Langlebigkeit" in Sektion VI, 22.07.2026; Knappheit ökologischer Budgets in Befund 5 angelegt).
-- EU-/Weltordnungsebene ausarbeiten (Handelsordnung, Beihilferecht – in IV/VI nur skizziert).
-- Quellen- und Literaturapparat: Grundstock liegt als `quellen_und_glossar.md` vor; die daraus folgenden Präzisierungsaufträge sind eingearbeitet (22.07.2026). Offen: direkte Erreichbarkeitsprüfung der URLs nachholen (in der Erstellungsumgebung war nur die indirekte Prüfung über Websuche-Indizierung möglich).
-- Ggf. Essay-/Aufsatzfassung aus dem Thesenpapier ableiten.
-- Befunde des Prüfberichts einarbeiten: `pruefbericht_schwachstellen.md` (24.07.2026) enthält 22 geprüfte Einwände samt Urteil und Einarbeitungsvorschlägen, geordnet nach Priorität (Abschnitt F). Größter Einzelposten: die fehlende liberale Gegenprobe als neue Sektion (Hausregel 2 verlangt Symmetrie, Sektion V prüft bisher nur die linke Flanke). Entscheidungsbedürftig ist Befund A2 – ob der Bürgerfonds Eigentum oder bloßer Ertragsanspruch sein soll.
+- Erledigt am 25.07.2026: Essayfassung abgeleitet, Prüfbericht vollständig eingearbeitet (Nachweis in Anhang A des Essays), Befund A2 entschieden (Stimmrechtsverlagerung), liberale Gegenprobe als Sektion VII ergänzt, neue Anker in `quellen_und_glossar.md` Abschnitt F eingetragen.
+- Thesenpapier nachziehen oder Differenz ausweisen (Konsistenzpflicht oben): Es enthält noch stimmrechtslose Fondsanteile, Asset Lock ohne Kapitalkonten, Stiftungsempfehlung ohne Kontroll-Lock, Vorkaufsrecht als Zwangsinstrument, Allmende-Sektor ohne Sterberecht, „unkooptierbare" Bürgerräte und die Superfest-Motivzuschreibung.
+- Ökologische Kreislauf-Dimension weiter vertiefen (Stand: Kreislaufdimension mit Superfest-Anker, fünf Mechanismen und vergaberechtlicher Verankerung – Art. 68 RL 2014/24/EU, § 59 VgV; Flanke „Effizienz vs. Langlebigkeit" ausgewiesen).
+- EU-/Weltordnungsebene ausarbeiten (Handelsordnung, Beihilfe-, Vergabe- und Binnenmarktrecht – im Essay in V und VIII benannt, nicht ausgeführt; ausdrücklich als Lücke im Ledger).
+- Offene Verifikationsaufträge: direkte Erreichbarkeitsprüfung der URLs nachholen (bisher nur indirekt über Websuche-Indizierung möglich, 22.–25.07.2026); bibliographische Fundstellen zu Furubotn/Pejovich und Ellerman vervollständigen; Seitenangabe MEW 25, S. 456 direkt gegen die Druckausgabe prüfen.
+- Ausbaukandidaten aus dem Essay selbst: der Ausschüttungskonflikt zwischen stimmberechtigter Belegschaft und ertragsberechtigtem Fonds (Ledger, bisher nur benannt); Ausgestaltung der Konsolidierungssperre der Fondsfamilie; Umgang mit Altfällen im Stiftungsrecht; Ersatzstrategie, falls die Nachfolgewelle vor dem Aufbau des Kanals durchläuft.
 
-Bei Erweiterungen gilt die Reihenfolge: erst Hausregeln prüfen, dann empirische Anker sichern, dann schreiben – und jede neue Lücke in Sektion VI eintragen.
+Bei Erweiterungen gilt die Reihenfolge: erst Hausregeln prüfen, dann empirische Anker sichern, dann schreiben – und jede neue Lücke im Ledger eintragen (Essay: Sektion VIII, Thesenpapier: Sektion VI).
