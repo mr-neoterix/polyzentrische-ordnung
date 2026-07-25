@@ -1,6 +1,8 @@
 # CLAUDE.md – Arbeitsgrundlage für dieses Repository
 
-Dies ist ein politisch-ökonomisches Thesenpapier, kein Code-Projekt. Zwei Hauptdokumente: `essay_polyzentrische_ordnung.md` (ausgeführte Fassung, Stand 25.07.2026, mit eingearbeitetem Prüfbericht, liberaler Gegenprobe, Funktions- und Umsetzungstest – der aktuelle Stand der Argumentation) und `polyzentrische_ordnung.md` (kompaktes Thesenpapier, Stand 22.07.2026, weiterhin gültig als Verdichtung, aber ohne die Korrekturen des Prüfberichts). Begleitdateien: `quellen_und_glossar.md` (Quellenverzeichnis und Glossar; neue Begriffe und Belege dort eintragen, Verifikationsstatus ausweisen) und `pruefbericht_schwachstellen.md` (adversariale Prüfung; im Essay abgearbeitet, dokumentiert in dessen Anhang A). Vor jeder Bearbeitung: das betroffene Hauptdokument vollständig lesen.
+Dies ist ein politisch-ökonomisches Thesenpapier, kein Code-Projekt. Zwei Hauptdokumente: `essay_polyzentrische_ordnung.md` (ausgeführte Fassung, Stand 25.07.2026, mit liberaler Gegenprobe, Funktions- und Umsetzungstest – der aktuelle Stand der Argumentation) und `polyzentrische_ordnung.md` (kompaktes Thesenpapier, Stand 22.07.2026, weiterhin gültig als Verdichtung, aber ohne die Korrekturen des Prüfberichts). Begleitdateien: `quellen_und_glossar.md` (Quellenverzeichnis und Glossar; neue Begriffe und Belege dort eintragen, Verifikationsstatus ausweisen) und `pruefbericht_schwachstellen.md` (adversariale Prüfung; vollständig im Essay abgearbeitet, Zuordnung Befund zu Textstelle in dessen Abschnitt G). Vor jeder Bearbeitung: das betroffene Hauptdokument vollständig lesen.
+
+**Der Essay ist ein eigenständiger Text, kein Änderungsprotokoll.** Er begründet die korrigierten Konstruktionen positiv und erwähnt weder Prüfbericht noch frühere Fassungen; Verweise auf behobene Fehler irritieren den Leser und gehören nicht hinein. Wer künftig einen Befund einarbeitet, schreibt das Ergebnis in den Essay und den Nachweis in Abschnitt G des Prüfberichts.
 
 **Konsistenzpflicht zwischen den Fassungen:** Wo der Essay eine Konstruktion geändert hat (Stimmrechtsverlagerung, Kontroll-Lock, Kapitalkonten, Sterberecht im Allmende-Sektor, Andienungsrecht statt Vorkaufszwang, Fondsfamilie), trägt das Thesenpapier noch die alte Fassung. Wer das Thesenpapier anfasst, zieht diese Änderungen nach oder weist die Differenz aus – stillschweigend divergieren dürfen die beiden Dokumente nicht.
 
@@ -69,9 +71,9 @@ Diese Befunde tragen die Argumentation. Sie dürfen präzisiert, aber nicht stil
 - Zuspitzung am Absatz- oder Sektionsende erwünscht (Muster: „Die Hülle frisst den Kern.", „Scheitert ein Modell, stirbt das Modell – nicht das Land.").
 - Fachbegriffe beim ersten Auftreten knapp erklären, danach voraussetzen.
 
-## Dokumentstruktur des Essays (`essay_polyzentrische_ordnung.md`, Sektionen I–IX plus zwei Anhänge)
+## Dokumentstruktur des Essays (`essay_polyzentrische_ordnung.md`, Sektionen I–IX)
 
-- **I. Die Frage und das Verfahren** – drei Methodenregeln, Absage an die Utopie, die zwei Prüfsteine Funktions- und Umsetzungstest.
+- **I. Die Frage und das Verfahren** – drei Methodenregeln, Absage an die Utopie, die zwei Prüfsteine Funktions- und Umsetzungstest, Leseplan.
 - **II. Die Diagnose: neun Befunde** – identisch nummeriert wie im Thesenpapier; Querverweise überall als „Befund N".
 - **III. Die Ordnung und ihr Funktionstest** – Sektoren, Größenordnungen, Koordination, Unternehmensverfassung, Kapitalquellen, Sterblichkeitsregeln, Sterberecht im Allmende-Sektor, Kreislaufdimension, Arbeit und Sorge, Makro und Krise, politische Architektur, Exit-Bedingung.
 - **IV. Drei Werktage** – Fallproben: Maschinenbauer ohne Nachfolger, Stadtwerk mit Sterberecht, Wohnungsbestand und die Investitionsschutz-Wand.
@@ -79,8 +81,7 @@ Diese Befunde tragen die Argumentation. Sie dürfen präzisiert, aber nicht stil
 - **VI. Die marxistische Gegenprobe** – acht Einwände (neu: Marx gegen Lassalle) plus Konzessionen.
 - **VII. Die liberale Gegenprobe** – zehn Einwände (Hansmann, Risiko, Kapitalmarkt, Innovation, Jugoslawien, Produktivität, zwei Public-Choice-Einwände, Hayek gegen den Entwurf selbst, Investorenwarnung) plus Konzessionen.
 - **VIII. Offene Flanken** – das Ehrlichkeits-Ledger, deutlich erweitert.
-- **IX. Die Formel** – Verdichtung; endet auf Fehlertoleranz.
-- **Anhang A/B** – Nachweis der Prüfbericht-Einarbeitung; Korrekturen an Prüfbericht und Vorlagen.
+- **IX. Die Formel** – Verdichtung; endet auf Fehlertoleranz, danach nur ein Einzeiler zum Belegapparat.
 
 ## Dokumentstruktur des Thesenpapiers (`polyzentrische_ordnung.md`, Sektionen I–VII)
 
@@ -94,7 +95,7 @@ Diese Befunde tragen die Argumentation. Sie dürfen präzisiert, aber nicht stil
 
 ## Backlog (Kandidaten für spätere Sessions)
 
-- Erledigt am 25.07.2026: Essayfassung abgeleitet, Prüfbericht vollständig eingearbeitet (Nachweis in Anhang A des Essays), Befund A2 entschieden (Stimmrechtsverlagerung), liberale Gegenprobe als Sektion VII ergänzt, neue Anker in `quellen_und_glossar.md` Abschnitt F eingetragen.
+- Erledigt am 25.07.2026: Essayfassung abgeleitet, Prüfbericht vollständig eingearbeitet (Nachweis in Abschnitt G des Prüfberichts), Befund A2 entschieden (Stimmrechtsverlagerung), liberale Gegenprobe als Sektion VII ergänzt, neue Anker in `quellen_und_glossar.md` Abschnitt F eingetragen.
 - Thesenpapier nachziehen oder Differenz ausweisen (Konsistenzpflicht oben): Es enthält noch stimmrechtslose Fondsanteile, Asset Lock ohne Kapitalkonten, Stiftungsempfehlung ohne Kontroll-Lock, Vorkaufsrecht als Zwangsinstrument, Allmende-Sektor ohne Sterberecht, „unkooptierbare" Bürgerräte und die Superfest-Motivzuschreibung.
 - Ökologische Kreislauf-Dimension weiter vertiefen (Stand: Kreislaufdimension mit Superfest-Anker, fünf Mechanismen und vergaberechtlicher Verankerung – Art. 68 RL 2014/24/EU, § 59 VgV; Flanke „Effizienz vs. Langlebigkeit" ausgewiesen).
 - EU-/Weltordnungsebene ausarbeiten (Handelsordnung, Beihilfe-, Vergabe- und Binnenmarktrecht – im Essay in V und VIII benannt, nicht ausgeführt; ausdrücklich als Lücke im Ledger).
