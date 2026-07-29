@@ -8,6 +8,8 @@ Die zentrale These: Die entscheidende Variable ist nicht Kapitalismus vs. Sozial
 
 Die ausgeführte Fassung: **[essay_polyzentrische_ordnung.md](essay_polyzentrische_ordnung.md)** – ein eigenständiger Essay, der Herleitung, Institutionenentwurf, Umsetzungspfad und beide Gegenproben zusammenführt. Zwei Prüfsteine geben ihm seine Form: Funktionstest (wie arbeitet die Ordnung im Werktag?) und Umsetzungstest (geht der erste Schritt im geltenden Recht, mit gewöhnlichen Mehrheiten, aus vorhandenem Geld?).
 
+Die literarische Buchfassung: **[manuskript/](manuskript/)** – ein kapitelweise gegliedertes Manuskript in 25 Kapiteln, das die Herleitung didaktisch entfaltet: Begriffe und historische Fälle werden erklärt statt vorausgesetzt, jedes Kapitel schließt mit eigenem Belegapparat samt Verifikationsstatus. Es arbeitet die Lösungsvorschläge des Problemkatalogs vom 28.07.2026 ein. Übersicht und Leseplan in [manuskript/00_inhalt.md](manuskript/00_inhalt.md).
+
 Das kompakte Thesenpapier: **[polyzentrische_ordnung.md](polyzentrische_ordnung.md)**
 
 Begleitend: **[quellen_und_glossar.md](quellen_und_glossar.md)** – Quellenverzeichnis und Glossar in einem, mit Verifikationsstatus für jeden Eintrag.
