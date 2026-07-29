@@ -38,6 +38,12 @@ Dies ist auch keine Utopie, und zwar nicht aus Bescheidenheit, sondern aus einem
 
 Dieses Buch nennt die Sache den *Engpass*: die Stelle, an der alle Macht durch ein Nadelöhr muss, damit die Verhältnisse sich ändern. Wer schneller ans Ziel will, muss durch den Engpass. Wer durch den Engpass geht, kommt nicht mehr heraus. Alles, was hier vorgeschlagen wird, ist so konstruiert, dass es ohne den Engpass auskommt – und der Preis dafür ist Langsamkeit. Dieser Preis wird im Buch nicht versteckt, sondern ausgerechnet.
 
+An dieser Stelle ist allerdings eine Anleihe zu deklarieren, die sonst ungedeckt bliebe. Bakunin wird hier als Zeuge gegen Marx aufgerufen, und er ist ein guter Zeuge – aber er hätte auch diesem Buch widersprochen, und zwar aus demselben Grund. Sein Einwand galt nicht der Diktatur des Proletariats im Besonderen, sondern dem Staat im Allgemeinen: Jede zentrale Zwangsgewalt erzeuge eine Kaste, die von ihr lebt, gleichgültig in wessen Namen sie eingesetzt wurde. Die Ordnung, die hier vorgeschlagen wird, benutzt Staatsmacht ausgiebig – Steuerrecht, Konzessionen, Gerichte, eine staatliche Förderbank. Wer Bakunins Prophezeiung zitiert und seine Konsequenz nicht zieht, schuldet eine Begründung.
+
+Sie lautet: Die Abschaffung des Staates beseitigt Macht nicht, sie verlagert sie an den, der lokal Gewalt organisieren kann. Ein staatliches Gewaltmonopol, das von Gerichten, Wahlen und Presse bestritten werden kann, ist eine Errungenschaft und kein Normalzustand – und die Fälle, in denen es fehlte, sind nicht freier gewesen. Das ist derselbe Einwand, den dieses Buch gegen Marx erhebt, nur in die andere Richtung gewendet: Wer erwartet, dass mit einer Institution auch das Problem verschwindet, das sie bearbeitet, baut keine Käfige mehr.
+
+Aber es ist eine Begründung und keine Widerlegung. Zwischen einem Entwurf, der den Staat als eines von vielen konkurrierenden Machtzentren einplant, und einer Position, die ihn als Quelle des Problems ansieht, liegt ein Dissens, der sich nicht durch bessere Argumente auflöst, sondern nur ausweisen lässt. Er steht deshalb im fünfundzwanzigsten Kapitel und nicht in einer Fußnote.
+
 Und schließlich: Dies ist kein Text mit Happy End. Er verspricht keinen Zustand, in dem das Machtproblem gelöst wäre, weil Knappheit, Konflikt und legitime Meinungsverschiedenheit nicht verschwinden. Man kann das ein tragisches Weltbild nennen, aber es ist ein tragisches Weltbild mit Arbeitsauftrag: keine Erlösung, permanente Reparatur. Wer eine Gesellschaftsordnung sucht, nach deren Errichtung man endlich in Ruhe leben kann, wird hier nichts finden. Wer eine sucht, die Fehler übersteht, vielleicht.
 
 ### Zwei Prüfsteine
@@ -58,7 +64,7 @@ Die entscheidende Frage einer Wirtschafts- und Gesellschaftsverfassung ist nicht
 
 Daraus folgt der Vorschlag. Nicht ein Sektor, der die anderen ersetzt, sondern drei, die nebeneinander konkurrieren: belegschaftseigene Betriebe auf Märkten mit echtem Insolvenzrisiko; Netze, Wasser, Wohnen und digitale Grundstrukturen in gemeinwirtschaftlicher Trägerschaft mit einem Verfahren, das schlechte Betreiber sterben lässt, ohne den Betrieb zu unterbrechen; und ein privater Marktsektor, der bleibt, weil dezentrales Risiko-Nehmen der einzige bekannte verlässliche Innovationsmotor ist – aber unter Regeln, nach denen Vermögen entstehen darf und dynastisch werden nicht.
 
-Ob das trägt, ist die Frage der folgenden vierundzwanzig Kapitel. Beginnen wir dort, wo es angefangen hat: in der Buchhaltung eines Staates, den es nicht mehr gibt.
+Ob das trägt, ist die Frage der folgenden fünfundzwanzig Kapitel. Beginnen wir dort, wo es angefangen hat: in der Buchhaltung eines Staates, den es nicht mehr gibt.
 
 ---
 

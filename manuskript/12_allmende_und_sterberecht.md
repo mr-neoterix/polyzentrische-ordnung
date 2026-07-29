@@ -86,11 +86,15 @@ Und der ehrliche Zusatz, den die Formel braucht: Wo der Bedarf existenziell und 
 
 Bleibt die unangenehmste Einsicht dieses Kapitels, und sie folgt aus dem achten: Alles, was hier vorgeschlagen wurde – Sterberecht, Verlustdeckungsverbot, Kostenvergleich, Datenstelle –, sind *Regeln*. Und Regeln rosten.
 
-Damit ist der Allmende-Sektor nach der eigenen Logik dieses Buches sein am schwächsten gesicherter Teil, obwohl er der größte werden soll. Das steht im vierundzwanzigsten Kapitel und wird dort nicht relativiert.
+Damit ist der Allmende-Sektor nach der eigenen Logik dieses Buches sein am schwächsten gesicherter Teil, obwohl er der größte werden soll. Zwei Züge verschieben das, und keiner von beiden beseitigt es.
 
 Was sich tun lässt, ist, wenigstens teilweise Eigentumslogik nachzurüsten – und das ist der stärkste unausgeschöpfte Zug der ganzen Ordnung. Überall dort, wo statt einer rein kommunalen Trägerschaft eine genossenschaftliche möglich ist, entsteht ein Träger, der die Struktur verteidigt, statt einer Verwaltung, die sie betreut. *Netzgenossenschaften mit individueller Mitgliedschaft der Anschlussnehmer. Energiegemeinschaften mit Anteilen. Wohnungsgenossenschaften, in denen die Mieter Mitglieder sind. Wasserverbände mit Mitgliedsrechten.* Wo Bürger Mitglied statt Kunde sind, gibt es jemanden, dem etwas weggenommen würde.
 
-Die Regel dafür ist einfach und sollte in jedes Kommunalrecht: Bei jeder Rekommunalisierung wird geprüft, ob eine genossenschaftliche statt einer rein kommunalen Trägerschaft möglich ist, und die Entscheidung wird begründet. Das verschiebt den Sektor von der schwächsten Richtung der stärksten Sicherung – vollständig gelingt es bei Monopolnetzen nicht.
+Die Regel dafür ist einfach und sollte in jedes Kommunalrecht: Bei jeder Rekommunalisierung wird geprüft, ob eine genossenschaftliche statt einer rein kommunalen Trägerschaft möglich ist, und die Entscheidung wird begründet. Das verschiebt den Sektor von der schwächsten in Richtung der stärksten Sicherung – vollständig gelingt es bei Monopolnetzen nicht.
+
+Ein zweiter Zug wirkt auch dort, wo genossenschaftliche Trägerschaft technisch ausscheidet, und er ist der wichtigere: *Die Vergleichsschwelle bekommt einen Kläger.* Anschlussnehmer, Mitglieder einer Netzgenossenschaft und Wettbewerber erhalten ein eigenes, einklagbares Recht darauf, dass die veröffentlichten Kennzahlen erhoben werden und dass die Folge eintritt, wenn die Schwelle gerissen ist. Damit hängt das Sterberecht nicht mehr davon ab, dass eine Aufsichtsbehörde den Mut und das Personal hat, es gegen den eigenen Träger durchzusetzen – sondern davon, dass irgendjemand von einigen zehntausend Betroffenen den Weg zum Gericht findet. Der Unterschied ist der zwischen einer Behörde mit Ermessen, die man aushungern kann, und einem Anspruch, den man einzeln abwehren muss.
+
+Damit ist der Sektor nicht eigentumsgesichert. Er ist aber auch nicht mehr bloß verfahrensgesichert, sondern *anspruchsgesichert* – eine Zwischenstufe, die es in der deutschen Daseinsvorsorge bisher kaum gibt und die genau dort ansetzt, wo Regeln gewöhnlich rosten: nicht am Text der Norm, sondern an ihrem Vollzug.
 
 Und eine Sperre gilt ohne Ausnahme, gezogen aus der Landesbanken-Erfahrung: *Gemeinwirtschaftliche Träger dürfen Infrastruktur betreiben, aber keine Finanzgeschäfte mit Fristentransformation und Eigenhandel.* Wer das Netz besitzt, braucht keine strukturierten Wertpapiere.
 

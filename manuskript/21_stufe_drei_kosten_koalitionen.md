@@ -12,11 +12,9 @@ Wo natürliche Monopole in Privatbesitz nachweislich Renten extrahieren und die 
 
 Dass diese Möglichkeit am Ende steht und nicht am Anfang, ist allerdings nicht Zaghaftigkeit, sondern die Konsequenz aus dem siebzehnten Kapitel. Kauf im Nachfolgefall und Konzessionsrückfall bei Auslaufen sind schiedsfest; Vergesellschaftung ist es bis in die vierziger Jahre nur eingeschränkt, weil neben dem Grundgesetz ein Parallelrechtsweg für ausländische Eigentümer steht.
 
-Was daraus für die Rechtspolitik folgt, ist eine eigene Agenda mit Zeithorizont, und sie gehört benannt, weil die Instrumentenwahl allein zu wenig ist. *Beendigung der bilateralen Investitionsschutzabkommen mit einem veröffentlichten Sunset-Kalender,* damit man weiß, wann welche Tür aufgeht. *Keine neuen Abkommen ohne Ausnahme für die Daseinsvorsorge.* Und *Vorrang der Vertragsgestaltung, wo immer sie möglich ist:* Konzessionsverträge mit vereinbarten Rückfall- und Bewertungsklauseln entziehen dem Schiedsverfahren den Streitgegenstand, bevor er entsteht. Wo ein ausländischer Eigentümer beteiligt ist, wird gekauft, nicht vergesellschaftet, auch wenn es teurer ist. Das ist eine Grenze, keine Lösung.
+Damit steht Stufe drei mit einem Bein außerhalb dieses Buches. Was aus dem Investitionsschutz für die Rechtspolitik folgt – Beendigung der bilateralen Abkommen mit veröffentlichtem Sunset-Kalender, keine neuen Abkommen ohne Ausnahme für die Daseinsvorsorge, Vorrang der Vertragsgestaltung –, was das Beihilfe-, Vergabe- und Binnenmarktrecht dem Pfad an Grenzen setzt, und warum die europäische Antwort keine Verteidigungs-, sondern eine Exportstrategie sein muss, ist Gegenstand des folgenden Kapitels. Es steht dort und nicht hier, weil es kein Anhängsel des Umsetzungspfades ist, sondern eine eigene Ebene mit eigenen Regeln.
 
-Zur Stufe drei gehören außerdem zwei Vorhaben, die dieses Buch benennt und nicht ausarbeitet, und diese Unterscheidung ist ernst gemeint. Das eine ist die Prüfung einer zweiten Kammer aus Losgremien für Generationen- und Verfassungsfragen. Das andere ist die europäische Ebene: Beihilfe- und Binnenmarktrecht so fortzuentwickeln, dass gemeinwirtschaftliche Eigentumsformen nicht strukturell benachteiligt sind, und Handelspräferenzen an Arbeitsnormen zu koppeln.
-
-Für die Richtung reicht es zu sagen, wo die Wände stehen. *Beihilferechtlich* ist der Steuerhebel als allgemeine Maßnahme zu konstruieren, die an die Übertragungsart und nicht an eine Trägerform anknüpft; die Finanzierungsinstrumente sind auf dem Niveau zu halten, auf das die italienische CFI nach der Beanstandung von 2001 umstellen musste. *Vergaberechtlich* gilt die Unterscheidung aus dem neunzehnten Kapitel: Standards über Kriterien, nicht über Trägerpräferenz. *Binnenmarktrechtlich* ist die Kapitalverkehrsfreiheit die eigentliche Wand, an der Beschränkungen des Anteilserwerbs enden – das ist der Punkt, an dem eine europäische Rechtsgrundlage für belegschafts- und gemeinwohlgebundene Rechtsformen nötig wird, analog zur Europäischen Genossenschaft. Und die Handelsordnungsebene bleibt, was sie ist: eine Behauptung, solange niemand sie ausarbeitet. Sie ist ein eigener Arbeitsauftrag und kein Halbsatz.
+Zur Stufe drei gehört daneben ein Vorhaben, das dieses Buch benennt und nicht ausarbeitet: die Prüfung einer zweiten Kammer aus Losgremien für Generationen- und Verfassungsfragen.
 
 ### Falsifizierbarkeit: der Einwand, den dieses Buch sich selbst machen muss
 
@@ -62,6 +60,8 @@ Verlierer gibt es dennoch, und sie sind benennbar. *Beteiligungsgesellschaften,*
 
 Ihre wirksamste Waffe ist nicht der Kapitalstreik. Es ist die Verzögerung im Detail: beihilferechtliche Bedenken, Bewertungsfragen, Prüfungsauflagen, Fristen, Formulare, Zuständigkeitsstreitigkeiten. Deshalb ist die Transaktionsinfrastruktur des neunzehnten Kapitels so wichtig – **der Widerstand findet in Formularen statt.**
 
+Für die Verlierer im Ausland gilt dasselbe in verschärfter Form, und die Gründe – warum der klassische Erzwingungskanal aus Kapitalflucht und Währungsdruck gegen dieses Programm schlecht greift, warum die Angriffsfläche über die drei Sektoren sehr ungleich verteilt ist und warum der reale Angriff juristisch und nicht ökonomisch ausfällt – stehen im folgenden Kapitel.
+
 ### Die Gewinnerkoalition
 
 Und nun der stärkste Umsetzbarkeitsbefund dieses Buches, der zugleich sein unpathetischster ist.
@@ -98,8 +98,14 @@ Wer die Antwort hat, soll sie nennen. Wer sie nicht hat, sollte den langsamen We
 
 *Kommunales Defizit 2025:* siehe Kapitel 12. **Bestätigt.**
 
-*CFI-Beihilfeniveau nach 2001, Vergaberecht, Kapitalverkehrsfreiheit:* Belege zur CFI in Kapitel 19; zum Vergaberecht in Kapitel 14 und 19. Die Einordnung der Kapitalverkehrsfreiheit als eigentliche binnenmarktrechtliche Grenze ist **Wertung** dieses Buches; die europäische Ebene ist im vierundzwanzigsten Kapitel als Lücke ausgewiesen.
+*CFI-Beihilfeniveau nach 2001, Vergaberecht, Kapitalverkehrsfreiheit:* Belege zur CFI in Kapitel 19; zum Vergaberecht in Kapitel 14 und 19. Die Einordnung der Kapitalverkehrsfreiheit als eigentliche binnenmarktrechtliche Grenze ist **Wertung** dieses Buches; die europäische Ebene ist im fünfundzwanzigsten Kapitel als Lücke ausgewiesen.
 
 *KfW-Instrumente:* siehe Kapitel 18. **Bestätigt.**
 
-*Abschaltkriterium, gematchte Messung, Wellen-Rollout mit Kontrollgruppe, Zwischenbilanz nach zehn Jahren, Sunset-Kalender für Investitionsschutzabkommen und die Analyse der Gewinner- und Verliererkoalition* sind Konstruktionsvorschläge und Einschätzungen dieses Buches. **Wertung.**
+*Kapitalverkehrsfreiheit:* Artikel 63 AEUV gilt nicht nur im Verhältnis zwischen Mitgliedstaaten, sondern auch gegenüber Drittstaaten. **Bestätigt** als geltende Vertragslage.
+
+*Mitbestimmungserosion über ausländische und europäische Rechtsformen:* siehe Kapitel 8 (Hans-Böckler-Stiftung). **Bestätigt.**
+
+*Die Einschätzung der Erzwingungskanäle* – begrenzte Wirksamkeit von Währungs- und Anleihedruck gegenüber einem Euro-Mitglied mit Leistungsbilanzüberschuss und geringem Finanzierungsbedarf; ungleiche Verteilung der Angriffsfläche über die drei Sektoren; der Asset Lock als Nebenwirkung auch Übernahmeabwehr – ist eine Analyse dieses Buches und keine quantitative Untersuchung. **Wertung.**
+
+*Abschaltkriterium, gematchte Messung, Wellen-Rollout mit Kontrollgruppe, Zwischenbilanz nach zehn Jahren, Sunset-Kalender für Investitionsschutzabkommen, die Export- statt Verteidigungsstrategie auf europäischer Ebene und die Analyse der Gewinner- und Verliererkoalition* sind Konstruktionsvorschläge und Einschätzungen dieses Buches. **Wertung.**

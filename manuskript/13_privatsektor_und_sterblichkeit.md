@@ -34,6 +34,22 @@ Drei Sterblichkeitsregeln trägt diese Ordnung.
 
 Die Formel für alle drei: **Reich werden ja – private Regierungsgewalt und Dynastien nein.**
 
+### Und jede dieser Regeln bekommt einen Kläger
+
+Damit ist allerdings erst die halbe Arbeit getan, denn die dritte Sterblichkeitsregel – Kartell- und Plattformkontrolle – ist selbst wieder eine Fessel und damit rostanfällig. Das achte Kapitel hat die Konstruktionsanweisung dafür geliefert, und sie wird hier eingelöst, statt sie nur zu zitieren: *Wo immer möglich, bekommt eine Regel keinen Aufseher, sondern einen Anspruchsinhaber.*
+
+Der Unterschied ist nicht juristische Feinheit, sondern der ganze Mechanismus. Eine Aufsichtsbehörde kann man aushungern: Man kürzt ihr Personal, verlängert ihre Verfahren, besetzt ihre Spitze mit jemandem, der keine Konflikte sucht. Das kostet einen Haushaltsvermerk und fällt niemandem auf. Einen Anspruch, den zehntausend Betroffene einzeln einklagen können, muss man einzeln abwehren – und dafür gibt es kein Verfahren, das leise bleibt.
+
+*Im Kartellrecht* existiert dieser Weg bereits und ist auszubauen: Der Kartellschadensersatz gibt Wettbewerbern und geschädigten Abnehmern eigene Ansprüche gegen Kartellanten, europaweit harmonisiert und im deutschen Wettbewerbsrecht verankert. Wer ihn stärkt – Beweiserleichterungen, kollektive Durchsetzung, Verjährungsfristen –, macht die Kartellkontrolle unabhängiger von der Personalausstattung einer Behörde.
+
+*Im Plattformrecht* heißt das: Interoperabilität, Datenportabilität und Zugang werden als subjektive Rechte der Nutzer und Wettbewerber ausgestaltet und nicht als Auflagen, deren Durchsetzung im Ermessen einer Aufsicht liegt. Ein Wettbewerber, der eine Schnittstelle einklagen kann, ist ein dauerhafteres Institut als eine Behörde, die sie anordnen darf.
+
+*Beim Kontroll-Lock* liegt der Träger auf der Hand, sobald man die Beweislast umdreht. Der Steuervorteil wird nicht gewährt und dann überwacht, sondern jährlich neu nachgewiesen – die Stiftung legt ihre Beteiligungs- und Stimmrechtsstruktur offen, und wer den Nachweis nicht führt, verliert die Begünstigung ohne weiteres Verfahren. Damit hat die Finanzverwaltung ein Einnahmeinteresse an der Durchsetzung statt einer Prüfpflicht, und Wettbewerber, die den Vorteil nicht bekommen, haben einen Grund, hinzusehen.
+
+*Bei den ökologischen Budgetpreisen* stehen die Träger im vierzehnten Kapitel: Versicherer, Recycler, Poolbetreiber und klagebefugte Betroffene haben ein konzentriertes eigenes Interesse an ihrem Bestand.
+
+Und dann die Stelle, an der die Anweisung *nicht* eingelöst werden kann, weil sich kein Träger findet: das Medienkonzentrationsrecht. An der Vielfalt von Medieneigentum hat niemand ein konzentriertes materielles Interesse – die Nutznießer sind alle, die Betroffenen sind wenige und wohlhabend. Es bleibt eine Regel ohne Kläger, und damit die klassisch rostanfällige. Das ist keine Nachlässigkeit dieses Entwurfs, sondern eine Eigenschaft des Gegenstands; sie steht im fünfundzwanzigsten Kapitel.
+
 ### Die Falle: ein halb gebauter Riegel
 
 Und nun zur Stelle, an der eine Sterblichkeitsregel in ihr Gegenteil kippt, wenn man sie nur halb baut. Sie ist im deutschen Recht so gut ausgebaut, dass ein Buch, das sie übersähe, sein eigenes Programm in sein Gegenteil verkehren würde.
@@ -89,6 +105,10 @@ Wer diese Ordnung angreifen will, findet hier eine Stelle. Sie wird nicht vertei
 *Gesellschaft mit gebundenem Vermögen:* Sanders / Dauner-Lieb / Kempny / Möslein / Veil u. a., *Gesetz zur Einführung einer Gesellschaft mit gebundenem Vermögen. Akademischer Entwurf*, 2020, überarbeitet 2021 (Mohr Siebeck); Aufnahme in den Koalitionsvertrag 2021; bis zum Ende der Koalition 2024 nicht umgesetzt. Getragen von der Stiftung Verantwortungseigentum. **Bestätigt.**
 
 *Kartell- und Plattformkontrolle, Entflechtungskompetenz:* im Text als Konstruktionsforderung geführt, nicht als Befund. **Wertung.**
+
+*Kartellschadensersatz als vorhandener Träger-Mechanismus:* Die private Durchsetzung des Kartellrechts durch Schadensersatzansprüche geschädigter Wettbewerber und Abnehmer ist europäisch harmonisiert (Richtlinie 2014/104/EU) und im deutschen Wettbewerbsrecht verankert. **Bestätigt** als geltende Rechtslage; der Vorschlag, sie auszubauen und dieselbe Bauweise auf Plattform- und Stiftungsrecht zu übertragen, ist **Wertung** dieses Buches.
+
+*Die Feststellung, dass sich für das Medienkonzentrationsrecht kein konzentrierter Träger findet,* ist eine Schlussfolgerung aus Olsons Logik und kein empirischer Befund. **Wertung.**
 
 *Kontroll-Lock (Stimmrechtsobergrenze, keine erblichen Besetzungsrechte, Offenlegung, periodische Zweckprüfung), die drei Hebel für Altfälle und die Ausstiegslösung für Wagniskapital* sind Konstruktionsvorschläge dieses Buches. **Wertung.**
 

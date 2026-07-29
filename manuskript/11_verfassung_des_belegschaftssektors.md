@@ -18,7 +18,7 @@ Friedrich Wilhelm Raiffeisen, tiefreligiöser Sozialreformer im Rheinland, tat f
 
 Aus Schulze-Delitzschs Arbeit entstand 1867 ein preußisches Genossenschaftsgesetz, das er selbst entworfen hatte, und aus diesem wiederum das Reichsgesetz, das am 1. Oktober 1889 in Kraft trat und – vielfach novelliert – bis heute gilt.
 
-Diese Vorgeschichte ist kein Schmuck. Sie enthält bereits den Streit, den das zweiundzwanzigste Kapitel führen wird. Denn Schulze-Delitzschs großer Gegenspieler war Ferdinand Lassalle, der 1863 in Leipzig den Allgemeinen Deutschen Arbeiterverein gründete – die erste moderne deutsche Arbeiterpartei – und dessen zentrale Forderung lautete: Produktivgenossenschaften *mit Staatshilfe*. Selbsthilfe gegen Staatshilfe, so hieß der Streit, und er ist bis heute nicht entschieden. Karl Marx hat sich 1875 in dieser Sache zu Wort gemeldet, und zwar gegen Lassalle. Das wird noch wichtig.
+Diese Vorgeschichte ist kein Schmuck. Sie enthält bereits den Streit, den das dreiundzwanzigste Kapitel führen wird. Denn Schulze-Delitzschs großer Gegenspieler war Ferdinand Lassalle, der 1863 in Leipzig den Allgemeinen Deutschen Arbeiterverein gründete – die erste moderne deutsche Arbeiterpartei – und dessen zentrale Forderung lautete: Produktivgenossenschaften *mit Staatshilfe*. Selbsthilfe gegen Staatshilfe, so hieß der Streit, und er ist bis heute nicht entschieden. Karl Marx hat sich 1875 in dieser Sache zu Wort gemeldet, und zwar gegen Lassalle. Das wird noch wichtig.
 
 ### Die erste Hälfte: der Asset Lock
 
@@ -66,9 +66,33 @@ Deshalb muss der Test an der *Tätigkeit* ansetzen und nicht am Vertrag. Maßgeb
 
 Das ist administrativ aufwendig. Es ist die einzige Fassung, die nicht in der ersten Konjunktur umgangen wird.
 
+Und weil die Grenze zwischen Mitgliedern und Nicht-Mitgliedern nicht am Werkstor endet, gilt die Quote ausdrücklich auch jenseits der Staatsgrenze. Der Musterfall ist nicht hypothetisch: Mondragón beschäftigt in seinen Auslandstöchtern über zehntausend Lohnarbeiter ohne Mitgliedschaft, und als Fagor fiel, waren genau sie ungeschützt. Eine Genossenschaft kann demokratisch beschließen, Nicht-Mitglieder auszubeuten – das ist kein Fehlverhalten Einzelner, sondern eine Konstruktionslücke des Belegschaftseigentums selbst, weil es den Konflikt zwischen Kapital und Arbeit nur für die Mitglieder internalisiert.
+
+Die Symmetrieregel verlangt an dieser Stelle den unbequemen Zusatz, denn auch der Staatssozialismus hat Ausbeutung exportiert. Von den über zwanzigtausend mosambikanischen Vertragsarbeitern in der DDR wurden bis 1985 pauschal 25 Prozent des Nettolohns einbehalten, ab 1986 60 Prozent oberhalb eines Sockelbetrags – Beträge, die großteils nicht überwiesen, sondern mit Mosambiks Schulden bei der DDR verrechnet wurden. Kuba behält von der Vergütung seiner Ärztemissionen je nach Schätzung 75 bis 95 Prozent ein. Ausbeutung der Außenstehenden ist eben kein Eigentumsform-, sondern ein Machtproblem, und keine Eigentumsordnung wird gegen sie immun geboren.
+
+Die Ordnung kann diese Lücke nicht durch fremde Rechtsordnungen schließen, wohl aber durch ihre eigene Förderentscheidung, und genau das ist die *Auslandsbedingung des Sektors*: Wer die steuerlichen und finanziellen Vorteile in Anspruch nimmt, verpflichtet sich zu Mitgliedschaftspfaden in allen beherrschten Töchtern, im Inland wie im Ausland, mit veröffentlichter Kennzahl und verbindlichen Fristen. Wer sie nicht erfüllt, verliert die Begünstigung – nicht die Existenz. Das ist ein Instrument, das ausschließlich von deutschen Behörden vollzogen wird und keine internationale Vereinbarung braucht. Es beseitigt das globale Lohngefälle nicht; es beseitigt, dass die eigenen Institutionen davon leben.
+
+### Die Kosten der Beteiligung gehören in die Kalkulation
+
+Es gibt einen Einwand gegen jede partizipative Ordnung, der gewöhnlich Oscar Wilde zugeschrieben wird – die Zuschreibung ist apokryph und geht auf einen Essay Michael Walzers von 1968 zurück, der die Pointe selbst Wilde zuschrieb. Er lautet, ein solches System nehme zu viele Abende in Anspruch. Falsch zugeschrieben oder nicht: Der Einwand ist ernst, und er ist der häufigste Grund, aus dem selbstverwaltete Betriebe im Laufe der Zeit von denselben fünf Leuten regiert werden.
+
+Er wird hier nicht mit gutem Zureden beantwortet, sondern mit Satzungsrecht, und die Antwort besteht aus fünf Bestimmungen, die in jede Mustersatzung gehören.
+
+*Beteiligung ist bezahlte Zeit.* Gremienarbeit erfolgt mit Freistellung und Lohnersatz, Sitzungen liegen in der Arbeitszeit, Betreuung von Kindern und Angehörigen ist Teil der Veranstaltung und nicht Privatsache der Teilnehmenden. Wer Demokratie will, muss ihre Kosten in die Kalkulation nehmen, nicht in die Freizeit.
+
+*Der Katalog der vollversammlungspflichtigen Entscheidungen wird satzungsmäßig klein gehalten und abschließend aufgezählt.* Alles Übrige entscheiden gewählte Gremien oder die Geschäftsführung. Eine Genossenschaft, in der jede Frage die Vollversammlung erreicht, ist keine besonders demokratische, sondern eine besonders erschöpfte.
+
+*Asynchrone Verfahren* für alles, was keine Versammlung braucht – Beschlussfassung in Textform, Fristen statt Termine.
+
+*Amtszeitbegrenzung* in allen Gremien, gegen die Verfestigung derselben Aktiven. Das ist die Sterblichkeitsregel, angewandt auf die eigene Funktionärsschicht.
+
+*Und eine veröffentlichte Kennzahl zur Zusammensetzung* von Versammlungen und Gremien, aufgeschlüsselt unter anderem nach Sorgeverpflichtung. Ohne diese Zahl weiß eine Genossenschaft nicht, wen ihre Verfahren systematisch aussieben – und was niemand misst, ändert niemand.
+
+Diese fünf Bestimmungen lösen das Problem nicht auf; Beteiligung bleibt aufwendig. Sie verwandeln den Aufwand aber von einem Opfer, das die Bereitwilligen erbringen, in einen Kostenposten, den der Betrieb trägt. Das ist der ganze Unterschied zwischen einer Demokratie der Verfügbaren und einer der Mitglieder.
+
 ### Der Zuschnitt der Einheiten
 
-Das dritte Konstruktionselement beantwortet den stärksten unideologischen Einwand gegen Belegschaftseigentum überhaupt, und er wird im dreiundzwanzigsten Kapitel ausführlich behandelt: Der amerikanische Rechtswissenschaftler Henry Hansmann hat 1996 die Seltenheit von Arbeitergenossenschaften nicht mit Unterdrückung erklärt, sondern mit Kosten. Je heterogener die Interessen der Eigentümer, desto teurer wird kollektive Entscheidung. Deshalb überleben Arbeitereigentumsformen dort, wo Belegschaften homogen sind – Kanzleien, Praxen, Ingenieurbüros –, und scheitern, wo sie es nicht sind.
+Das dritte Konstruktionselement beantwortet den stärksten unideologischen Einwand gegen Belegschaftseigentum überhaupt, und er wird im vierundzwanzigsten Kapitel ausführlich behandelt: Der amerikanische Rechtswissenschaftler Henry Hansmann hat 1996 die Seltenheit von Arbeitergenossenschaften nicht mit Unterdrückung erklärt, sondern mit Kosten. Je heterogener die Interessen der Eigentümer, desto teurer wird kollektive Entscheidung. Deshalb überleben Arbeitereigentumsformen dort, wo Belegschaften homogen sind – Kanzleien, Praxen, Ingenieurbüros –, und scheitern, wo sie es nicht sind.
 
 Die Antwort darauf ist keine Widerlegung, sondern eine Konstruktionsvariable: Homogenität ist herstellbar durch Zuschnitt. Kleine, autonome Einheiten mit klaren Grenzen statt Großbelegschaften; gestufte Entscheidungsrechte nach Betroffenheit, so dass nicht jede Frage alle angeht; Delegation statt Dauerversammlung; und Verbindung der Einheiten zu Sekundärgenossenschaften – Genossenschaften, deren Mitglieder selbst Genossenschaften sind – und weiter zu einer Föderation. Das sind exakt Ostroms verschachtelte Einheiten, angewandt auf Betriebe, und Mondragóns Aufbau aus vielen einzelnen Genossenschaften unter einem Verbund ist ihre empirische Form.
 
@@ -96,7 +120,7 @@ Ein Belegschaftseigentümer legt Arbeitsplatz, Vermögen und häufig einen Teil 
 
 Die Designantwort mildert das Problem und beseitigt es nicht. In die Mustersatzung gehört eine *Obergrenze*: höchstens ein definierter Anteil des Privatvermögens darf im eigenen Betrieb gebunden sein. Beträge oberhalb dieser Grenze fließen automatisch in einen breit gestreuten Anteil der Fondsfamilie. Und die Alterssicherung darf grundsätzlich nicht am Kapitalkonto hängen – wer beides koppelt, macht aus einer Betriebsinsolvenz eine Altersarmut. Dazu kommt, was der Verbund leistet: Solidarfonds, Umsetzungsrechte in andere Betriebe, gemeinsame Sozialversicherung.
 
-Was bleibt, bleibt: Der Arbeitsplatz liegt weiterhin im selben Betrieb wie das Vermögen. Die Risikokonzentration ist ein Argument für die Föderation, nicht gegen die Genossenschaft – aber sie bleibt ein Argument, und sie steht deshalb auch im vierundzwanzigsten Kapitel.
+Was bleibt, bleibt: Der Arbeitsplatz liegt weiterhin im selben Betrieb wie das Vermögen. Die Risikokonzentration ist ein Argument für die Föderation, nicht gegen die Genossenschaft – aber sie bleibt ein Argument, und sie steht deshalb auch im fünfundzwanzigsten Kapitel.
 
 ---
 
