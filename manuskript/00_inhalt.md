@@ -22,7 +22,7 @@ Am Ende steht kein Zielzustand. Wer einen sucht, wird enttäuscht werden, und di
 
 **Teil I – Die Frage**
 
-*1. Eine Frage, die weiterführte.* Wie aus der Buchhaltung eines untergegangenen Staates eine Ordnungsfrage wurde; die drei Regeln des Verfahrens; was dieses Buch nicht ist.
+*1. Eine Frage, die weiterführte.* Wie aus der Buchhaltung eines untergegangenen Staates eine Ordnungsfrage wurde; die drei Regeln des Verfahrens; was dieses Buch nicht ist – und welche Anleihe es bei Bakunin nimmt, ohne dessen Konsequenz zu ziehen.
 
 **Teil II – Die Diagnose: Was wirklich scheiterte**
 
@@ -72,17 +72,21 @@ Am Ende steht kein Zielzustand. Wer einen sucht, wird enttäuscht werden, und di
 
 *21. Stufe drei, die Kosten und die Koalitionen.* Was der Weg wirklich kostet, wer verliert, und woran man erkennt, dass er gescheitert ist.
 
-**Teil VI – Die Proben**
+**Teil VI – Die äußere Ebene**
 
-*22. Die marxistische Gegenprobe.* Acht Einwände, darunter Marx gegen Lassalle – der schärfste, und er kommt von innen.
+*22. Die Weltordnungsebene.* Wo der Umsetzungspfad endet und die Ordnung nicht: drei sehr ungleiche Angriffsflächen, die juristische statt der ökonomischen Zermürbung, der Investitionsschutz als Regelwerk, das nicht rostet, die Export- statt Verteidigungsstrategie in Europa – und am Ende der Befund, dass das internationale System polyzentrisch und trotzdem die gewalttätigste Ordnung der Welt ist. Das Kapitel benennt seine eigene Fortsetzung.
 
-*23. Die liberale Gegenprobe.* Zehn Einwände, die mit Kosten argumentieren statt mit Weltanschauung, und deshalb schwerer wiegen.
+**Teil VII – Die Proben**
 
-**Teil VII – Der ehrliche Rest**
+*23. Die marxistische Gegenprobe.* Acht Einwände, darunter Marx gegen Lassalle – der schärfste, und er kommt von innen.
 
-*24. Offene Flanken.* Das Ehrlichkeits-Ledger: was nicht gelöst ist, was nur gemildert ist, und was diese Ordnung strukturell nicht erreicht.
+*24. Die liberale Gegenprobe.* Elf Einwände, die mit Kosten argumentieren statt mit Weltanschauung, und deshalb schwerer wiegen.
 
-*25. Die Formel.* Verdichtung – und warum am Ende nicht ein Versprechen steht, sondern ein Kriterium.
+**Teil VIII – Der ehrliche Rest**
+
+*25. Offene Flanken.* Das Ehrlichkeits-Ledger, in Klassen getrennt: Grenzen der Reichweite, Stellen ohne Träger, unentschiedene Fragen – mit ausdrücklichem Nachweis, welche frühere Flanke durch welche Änderung der Ordnung geschlossen wurde.
+
+*26. Die Formel.* Verdichtung – und warum am Ende nicht ein Versprechen steht, sondern ein Kriterium.
 
 ---
 

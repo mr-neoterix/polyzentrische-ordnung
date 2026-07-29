@@ -54,7 +54,7 @@ Ist dieser Verfall unumkehrbar? Nein. Die Kompressionsphase beweist das Gegentei
 
 ### Marx als Kronzeuge
 
-Zum Schluss eine Notiz, die im zweiundzwanzigsten Kapitel ausgeführt wird und hier nur angekündigt sei, weil sie für den Aufbau des Buches wichtig ist.
+Zum Schluss eine Notiz, die im dreiundzwanzigsten Kapitel ausgeführt wird und hier nur angekündigt sei, weil sie für den Aufbau des Buches wichtig ist.
 
 Der Streit über Genossenschaften und Belegschaftseigentum wird meist als Streit mit Marx geführt. Er ist es nicht. Marx hat die Genossenschaftsbewegung emphatisch verteidigt: In der Inauguraladresse der Internationalen Arbeiter-Assoziation von 1864 pries er die Kooperativfabriken als Beweis, dass Produktion in großem Maßstab möglich ist ohne „die Existenz einer Klasse von Meistern, die eine Klasse von ‚Händen' anwendet", und forderte, die Kooperativarbeit über vereinzelte Experimente hinaus zu nationalen Dimensionen zu entwickeln.
 

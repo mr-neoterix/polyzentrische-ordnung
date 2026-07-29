@@ -1,4 +1,4 @@
-# Zweiundzwanzigstes Kapitel
+# Dreiundzwanzigstes Kapitel
 
 ## Die marxistische Gegenprobe
 
@@ -35,6 +35,8 @@ Die Antwort ist dreiteilig.
 *Die Sequenzierung,* die im einundzwanzigsten Kapitel ausbuchstabiert ist: Chile und Mitterrand scheiterten an frontalen Verstaatlichungsprogrammen in makroökonomisch verwundbarer Lage. Der Nachfolgeweg ist deren strukturelle Umkehrung – er beginnt dort, wo das Kapital ohnehin verkaufen will.
 
 *Und die Meidner-Lektion in ihrer doppelten Form:* individuelle Berechtigung nicht nur als Legitimation, sondern als Bestandsschutz gegen die nächste Mehrheit. Wobei das zwanzigste Kapitel gezeigt hat, dass dieser Schutz schwächer ist als behauptet und Eigenleistung braucht, um zu tragen.
+
+Die härtere Fassung dieses Einwands zielt allerdings nicht auf den einzelnen Staat, sondern auf das Staatensystem: dass dessen Konkurrenzstellung unweigerlich Kriege erzeuge und eine Eigentumsordnung daran nichts ändere. Sie wird hier nicht abgewiesen, sondern hat ein eigenes Kapitel bekommen – das zweiundzwanzigste –, und sie geht dort schlechter für dieses Buch aus als jeder Einwand in diesem.
 
 ### 3. Der Wertform-Einwand (Wertkritik, Postone)
 

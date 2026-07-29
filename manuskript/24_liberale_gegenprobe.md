@@ -1,4 +1,4 @@
-# Dreiundzwanzigstes Kapitel
+# Vierundzwanzigstes Kapitel
 
 ## Die liberale Gegenprobe
 
@@ -66,7 +66,9 @@ Ein großer öffentlicher Sektor ist eine Beschäftigungs- und Auftragsmasse, ü
 
 *Antwort:* Der Einwand ist berechtigt, und er ist im zwölften Kapitel gestellt und beantwortet worden, bevor ein Liberaler ihn stellt: Sterberecht für Betreiber, Verbot der stillen Verlustdeckung, Trennung von Netzeigentum und Betriebsführung, unabhängige Datenerhebung, veröffentlichter Kostenvergleich mit Abschaltschwelle.
 
-Was bleibt, ist ehrlich zu sagen: Diese Instrumente sind Regeln, und Regeln rosten. Der Allmende-Sektor ist die Stelle, an der diese Ordnung am wenigsten Eigentumslogik und am meisten Verfahrensdisziplin einsetzt – und damit ihre am schwächsten gesicherte Flanke. Sie steht im Ledger, und die Gegenmaßnahme – genossenschaftliche statt rein kommunaler Trägerschaft, wo immer möglich – mildert sie, ohne sie zu beseitigen.
+Was bleibt, ist ehrlich zu sagen: Diese Instrumente sind Regeln, und Regeln rosten. Zwei Züge verschieben das Problem, ohne es zu lösen. Der eine ist genossenschaftliche statt rein kommunaler Trägerschaft, wo immer sie technisch möglich ist – dann gibt es Mitglieder statt Kunden. Der andere ist wirksamer, weil er auch beim Monopolnetz greift: Die Vergleichsschwelle bekommt einen Kläger. Anschlussnehmer und Wettbewerber erhalten ein einklagbares Recht darauf, dass die Kennzahlen erhoben werden und die Folge eintritt – womit der Vollzug nicht mehr davon abhängt, ob eine Aufsicht den Mut hat, ihn gegen den eigenen Träger zu betreiben.
+
+Der Sektor ist damit anspruchsgesichert, nicht eigentumsgesichert. Das ist besser als reine Verfahrensdisziplin und schlechter als Eigentum, und es bleibt die am schwächsten gesicherte Stelle der ganzen Ordnung. Sie steht im Ledger.
 
 ### 8. Der zweite Public-Choice-Einwand: der neue Sektor wird selbst eine Interessengruppe
 
