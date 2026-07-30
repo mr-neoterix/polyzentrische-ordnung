@@ -494,6 +494,23 @@ Diese Einträge tragen das Manuskript unter `manuskript/` und – nach dem Nachz
 **URL:** http://www.mlwerke.de/me/me20/me20_239.htm – indiziert 29.07.2026
 **Verifikation:** Wortlaut bestätigt. **Offen:** Die genaue Seitenangabe der MEW-Ausgabe ist nicht gegen die Druckfassung geprüft und wird deshalb in den Hauptdokumenten nicht angegeben.
 
+### Alter der Gattung und Entstehung der Staaten
+**Erläuterung:** Die Fossilien von Jebel Irhoud in Marokko wurden 2017 in zwei Aufsätzen in *Nature* auf rund 300.000 bis 315.000 Jahre datiert und gelten als die ältesten bekannten Funde des anatomisch modernen *Homo sapiens*; sie verschoben den Ursprung der Art um mindestens 100.000 Jahre nach hinten. Die ersten Staaten entstehen im südlichen Mesopotamien vor etwa fünf- bis sechstausend Jahren. Im Manuskript (Kapitel 23) und im Thesenpapier (Sektion V, Einwand 9) trägt der Befund den Staatlichkeits-Einwand; im sechzehnten Kapitel begründet er die Subsidiarität.
+**Quelle(n):** Hublin u. a., „New fossils from Jebel Irhoud, Morocco and the pan-African origin of *Homo sapiens*", *Nature* 546 (2017); Richter u. a., „The age of the hominin fossils from Jebel Irhoud, Morocco, and the origins of the Middle Stone Age", ebenda. Zur Staatsentstehung: allgemein anerkannter Stand der Altorientalistik.
+**URL:** https://www.nature.com/articles/nature22336 – indiziert 30.07.2026
+**Verifikation:** bestätigt. Die daraus abgeleiteten Prozentangaben (unter zwei Prozent ab dem anatomisch modernen Menschen, sieben bis zehn Prozent ab der Verhaltensmoderne) sind eine Rechnung des Projekts und werden als Spanne geführt.
+
+### Graeber/Wengrow und Scott – die Gegenposition zum Skalenargument
+**Erläuterung:** David Graeber und David Wengrow argumentieren in *The Dawn of Everything* (2021), die Vorgeschichte sei politisch weit experimenteller gewesen als das Standardbild kleiner egalitärer Bände – mit großen Siedlungen ohne erkennbare Herrschaftsschicht und bewussten Entscheidungen gegen Hierarchie. James C. Scott beschreibt frühe Staaten als klein und extraktiv und Staatsvermeidung als Massenphänomen. Im Manuskript (Kapitel 23) werden beide als der beste verfügbare Gegenbeleg gegen das eigene Skalenargument geführt – nach Hausregel 3 selbst vorgebracht, nicht abgewartet.
+**Quelle(n):** David Graeber / David Wengrow: *The Dawn of Everything. A New History of Humanity*, 2021; James C. Scott: *The Art of Not Being Governed*, 2009; ders.: *Against the Grain. A Deep History of the Earliest States*, 2017.
+**Verifikation:** bestätigt hinsichtlich Autoren, Titel und Kernthesen. Die Einschätzung, das Werk von Graeber und Wengrow sei als Demontage der Stufentheorien wirkungsvoller denn als Nachweis dauerhafter staatenloser Komplexität, ist **Wertung** des Projekts; die archäologische Debatte ist ausdrücklich als offen gekennzeichnet.
+
+### Engels – „Museum der Altertümer"
+**Erläuterung:** Das Bild für das Absterben des Staates: Die Gesellschaft, die die Produktion auf Grundlage freier und gleicher Assoziation neu organisiert, versetze die ganze Staatsmaschine dorthin, wohin sie dann gehöre – ins Museum der Altertümer, neben das Spinnrad und die bronzene Axt. Im Manuskript (Kapitel 23) die Stelle, an der die Rückfrage ansetzt: Der marxistische Weg zur Staatenlosigkeit führt durch den maximal verstärkten Staat.
+**Quelle(n):** Friedrich Engels: *Der Ursprung der Familie, des Privateigentums und des Staats* (1884), neuntes Kapitel „Barbarei und Zivilisation"; MEW 21.
+**URL:** https://www.europa.clio-online.de/quelle/id/q63-28346 – indiziert 30.07.2026
+**Verifikation:** bestätigt hinsichtlich Werk, Kapitel und Bildgehalt; im Text sinngemäß und nicht als wörtliches Zitat geführt. **Offen:** die Seitenangabe der MEW-Ausgabe ist nicht gegen die Druckfassung geprüft. Nicht mit der Formel „Verwaltung von Sachen" verwechseln – die stammt aus dem *Anti-Dühring*, siehe oben.
+
 ### Kriege zwischen sozialistischen Staaten
 **Erläuterung:** Sowjetisch-chinesischer Grenzkonflikt 1969, vietnamesische Intervention in Kambodscha 1978, chinesisch-vietnamesischer Krieg 1979. Im Manuskript (Kapitel 22) der Testfall, an dem die leninistische Fassung des Kriegseinwands scheitert: Wären Staaten kriegerisch, weil sie kapitalistisch sind, dürften sozialistische Staaten einander nicht bekriegen.
 **Quelle(n):** Allgemein anerkannte Zeitgeschichte; im Projekt nicht einzeln nachgewiesen, weil unstrittig.

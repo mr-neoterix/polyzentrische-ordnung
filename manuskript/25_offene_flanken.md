@@ -64,9 +64,11 @@ Zwischen diesen Klassen und der letzten steht etwas, das keine Lücke ist, sonde
 
 Dieses Buch beruft sich in seiner Einleitung auf Bakunins Prophezeiung gegen Marx und baut anschließend eine Ordnung, die Bakunin abgelehnt hätte. Sein Einwand galt nicht der Diktatur des Proletariats im Besonderen, sondern dem Staat im Allgemeinen: Jede zentrale Zwangsgewalt erzeuge eine Kaste, die von ihr lebt. Diese Ordnung benutzt Staatsmacht ausgiebig – Steuerrecht, Konzessionen, Gerichte, eine staatliche Förderbank – und rechnet den Staat unter die konkurrierenden Machtzentren, statt ihn als Quelle des Problems zu behandeln.
 
-Die Begründung dafür steht in der Einleitung und ist dieselbe wie gegen Marx: Die Abschaffung des Staates beseitigt Macht nicht, sondern verlagert sie an den, der lokal Gewalt organisieren kann. Aber das ist eine Begründung und keine Widerlegung. Wer die anarchistische Position hält, hat gegen dieses Buch kein Argument verloren, sondern eine andere Ausgangsannahme – und aus verschiedenen Ausgangsannahmen folgen verschiedene Ordnungen, ohne dass eine Seite die andere widerlegt hätte.
+Der Einwand ist im dreiundzwanzigsten Kapitel ausgeführt und beantwortet – in seiner stärkeren, anthropologischen Fassung: Die Menschheit ist die längste Zeit ihrer Geschichte ohne Staaten ausgekommen, und diese Ordnungen waren kein Chaos. Die Antwort dort besteht aus dem Skalenargument, das ausgerechnet Ostrom liefert, aus dem selbst vorgebrachten Gegenbeleg von Graeber und Wengrow und aus der Rückfrage, dass dieses Argument den Marxisten härter trifft als diesen Text, weil sein Weg zur Staatenlosigkeit durch den maximal verstärkten Staat führt.
 
-Ein Text, der einen Zeugen für einen Teil seiner Argumentation aufruft und seinen übrigen Einwand verschweigt, tut dasselbe wie einer, der Marx zur Hälfte zitiert.
+Was nach dieser Antwort als Dissens übrigbleibt, ist genau bestimmbar und bleibt bestehen. Dieses Buch beweist nicht, dass Staaten notwendig sind; es stellt fest, dass niemand einen Weg ohne sie hat, der den Umsetzungstest besteht. Das ist eine Aussage über den Stand der verfügbaren Übergangstheorien und keine über die Natur der Sache. Wer den Staat für die Quelle des Problems hält, hat gegen dieses Buch kein Argument verloren, sondern eine andere Ausgangsannahme – und er behält die bessere Anthropologie, während dieser Text nur die Frage nach dem Weg behält.
+
+Aus verschiedenen Ausgangsannahmen folgen verschiedene Ordnungen, ohne dass eine Seite die andere widerlegt hätte. Ein Text, der einen Zeugen für einen Teil seiner Argumentation aufruft und seinen übrigen Einwand verschweigt, tut dasselbe wie einer, der Marx zur Hälfte zitiert.
 
 ## IV. Die Weltordnungsebene – ausgelagert, nicht geschlossen
 

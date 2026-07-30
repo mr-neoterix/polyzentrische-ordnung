@@ -58,7 +58,7 @@ Am Ende steht kein Zielzustand. Wer einen sucht, wird enttäuscht werden, und di
 
 *15. Arbeit, Sorge, Krise und Weltmarkt.* Wovon Menschen leben, was die Ordnung nicht erreicht, und warum die Krise sie füttert statt sie zu widerlegen.
 
-*16. Die politische Architektur und die Bedingung des Exits.* Subsidiarität, Losgremien, Daten – und Hirschmans doppelte Lehre.
+*16. Die politische Architektur und die Bedingung des Exits.* Subsidiarität – nicht als Vorliebe für Nähe, sondern aus dem anthropologischen Befund hergeleitet und mit umgekehrter Beweislast –, Losgremien, Daten und Hirschmans doppelte Lehre.
 
 *17. Drei Werktage.* Ein Maschinenbauer ohne Nachfolger, ein Stadtwerk mit Sterberecht, ein Wohnungsbestand und die Wand des Investitionsschutzes.
 
@@ -78,7 +78,7 @@ Am Ende steht kein Zielzustand. Wer einen sucht, wird enttäuscht werden, und di
 
 **Teil VII – Die Proben**
 
-*23. Die marxistische Gegenprobe.* Acht Einwände, darunter Marx gegen Lassalle – der schärfste, und er kommt von innen.
+*23. Die marxistische Gegenprobe.* Neun Einwände, darunter Marx gegen Lassalle – der schärfste, der von innen kommt – und der Staatlichkeits-Einwand: Die Menschheit kam die längste Zeit ihrer Geschichte ohne Staaten aus.
 
 *24. Die liberale Gegenprobe.* Elf Einwände, die mit Kosten argumentieren statt mit Weltanschauung, und deshalb schwerer wiegen.
 

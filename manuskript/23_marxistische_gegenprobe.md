@@ -106,6 +106,40 @@ Was sie ersetzt, ist nicht der Kampf, sondern das eine Weltsubjekt. An die Stell
 
 Das ist Olsons Logik, die im sechsten Kapitel gegen die Einhegung arbeitete, auf die eigene Seite gezogen: konzentrierte Teilinteressen als Motor der Verschiebung. Man kann das unheroisch finden. Es ist der einzige bekannte Transformationsmodus, der ohne den Engpass maximaler Machtkonzentration auskommt.
 
+### 9. Der Staatlichkeits-Einwand – und er ist der beste in diesem Kapitel
+
+Der letzte Einwand stammt eher aus der anarchistischen als aus der marxistischen Tradition, wird aber von links erhoben und gehört deshalb hierher. Er lautet: Die Menschheit ist die längste Zeit ihrer Geschichte ohne Staaten ausgekommen. Warum soll ausgerechnet eine Ordnung, die Macht einhegen will, an dem Instrument festhalten, das Macht am stärksten bündelt – und das diese Ordnung an jeder Stelle benutzt: Steuerrecht, Konzessionen, Gerichte, eine staatliche Förderbank?
+
+Der Sachverhalt stimmt, und er gehört beziffert statt umschrieben. Der anatomisch moderne Mensch existiert seit rund dreihunderttausend Jahren – die Funde von Jebel Irhoud in Marokko haben diesen Zeitpunkt 2017 um mehr als hunderttausend Jahre nach hinten verschoben. Die ersten Staaten entstehen im südlichen Mesopotamien vor etwa fünf- bis sechstausend Jahren. Staatlichkeit bedeckt damit weniger als zwei Prozent der Geschichte der Gattung; rechnet man vorsichtiger und beginnt erst bei dem, was als Verhaltensmoderne bezeichnet wird, sind es sieben bis zehn Prozent. In jeder Rechnung ist der Staat die Ausnahme und die Staatenlosigkeit der Normalfall.
+
+Und diese staatenlosen Gesellschaften waren nicht Chaos. Sie hatten Recht, Verfahren zur Konfliktbeilegung, Eigentumsordnungen, abgestufte Sanktionen, Verwandtschaftspflichten, Ächtung. Wer sie als Vorstufe behandelt, hat sie nicht angesehen. Dass die Kapitel zwei bis neun diesen Befund nicht führen, ist eine Lücke – die dritte Methodenregel verlangt, jede These am härtesten Gegenbeispiel zu prüfen, und dies ist das härteste Gegenbeispiel zur Staatlichkeit überhaupt.
+
+Die Antwort hat vier Teile.
+
+*Erstens die Unterscheidung, die der Einwand verwischt.* Er enthält zwei Behauptungen. Die eine: Der Staat ist keine Naturnotwendigkeit, sondern eine historische Formation mit einem Anfang. Das ist richtig, und dieses Buch bestreitet es nirgends – das siebte Kapitel argumentiert nicht für den Staat, sondern gegen die Erwartung, mit einer Institution verschwinde auch das Problem, das sie bearbeitet. Die andere: Also könnten wir ohne auskommen. Das folgt nicht, und der Grund ist nicht ideologisch, sondern quantitativ.
+
+*Zweitens das Skalenargument, und es kommt von der Kronzeugin dieses Buches.* Alle dokumentierten staatenlosen Ordnungen funktionierten bei kleiner Zahl – Bänder von Dutzenden, Verbände von Hunderten bis wenigen Tausend. Und die Mechanismen, die sie trugen, sind skalenabhängig: Reputation setzt voraus, dass jeder jeden kennt; Ächtung wirkt nur, wo der Geächtete nicht ausweichen kann; Verwandtschaftspflicht reicht so weit wie Verwandtschaft; und Abwanderung in unbesiedeltes Land ist eine Option, die es seit Jahrhunderten nicht mehr gibt.
+
+Elinor Ostroms gesamtes Werk ist die Untersuchung von Selbstverwaltung ohne Staat, und es bestätigt beides. Ihre Fälle – Bewässerungsgemeinschaften, Alpweiden, Fischgründe – funktionieren seit Jahrhunderten, und sie umfassen Dutzende bis Hunderte von Nutzern. Ihre Gestaltungsprinzipien verlangen klar definierte Grenzen, Überwachung und abgestufte Sanktionen; und wenn die Aufgabe größer wird als die Gruppe, verlangen sie *verschachtelte Einheiten*. Verschachtelung heißt aber irgendwann: eine Ebene, die für die darunterliegenden verbindlich entscheidet, und das ist der Anfang von etwas, das dem Staat ähnelt.
+
+Der anthropologische Befund stützt also das *Prinzip* dieses Buches und nicht die Abschaffung des Staates. Er zeigt, dass Macht Gegengewichte braucht und dass diese Gegengewichte informell sein können. Das Band, das den Gewalttätigen ächten konnte, praktizierte Madison, ohne ihn gelesen zu haben. Was er nicht zeigt: dass dieselben Mechanismen bei vierundachtzig Millionen Menschen mit kontinentaler Arbeitsteilung, Halbleiterlieferketten und Kernkraftwerken tragen.
+
+*Drittens der beste verfügbare Gegenbeleg gegen dieses Skalenargument – und er steht hier, weil die dritte Methodenregel verlangt, ihn selbst vorzubringen.* David Graeber und David Wengrow haben 2021 in *The Dawn of Everything* genau diese Argumentation angegriffen: Die Vorgeschichte sei politisch weit experimenteller und variantenreicher gewesen, als das Standardbild der kleinen egalitären Bände nahelegt – mit großen Siedlungen ohne erkennbare Herrschaftsschicht, saisonal wechselnden Verfassungen und bewussten Entscheidungen gegen Hierarchie. Trägt das, ist das Skalenargument angeschlagen.
+
+Die Einschätzung dieses Buches, ausdrücklich als Einschätzung: Das Werk ist als Demontage der Stufentheorien wirkungsvoller denn als Nachweis, dass staatenlose Komplexität *dauerhaft* ist – die angeführten Fälle bestehen nicht bis in die Größenordnung und Verflechtung moderner Gesellschaften fort, und die archäologische Debatte darüber ist offen, nicht entschieden. In dieselbe Richtung, aber vorsichtiger, argumentiert James C. Scott: Frühe Staaten waren klein und extraktiv, und Menschen entzogen sich ihnen massenhaft. Das stützt den Einwand in der Bewertung und dieses Buch in der Ursachenanalyse, denn auch bei Scott hängt der Staat an Getreide, Sesshaftigkeit und Zahl.
+
+*Viertens die Rückfrage, und sie trifft den Fragesteller härter als diesen Text.* Wenn aus „die Menschheit kam ohne Staaten aus" folgt „also brauchen wir keinen", dann ist die redliche Konsequenz Anarchismus und nicht Marxismus. Denn der marxistische Weg zur Staatenlosigkeit führt durch den maximal verstärkten Staat: Übergangsherrschaft, dann Absterben. Engels hat dafür 1884 das Bild geliefert, die ganze Staatsmaschine werde am Ende dorthin wandern, wohin sie gehöre – ins Museum der Altertümer, neben das Spinnrad und die bronzene Axt. Das setzt voraus, dass man sie vorher noch einmal zum stärksten Instrument der Geschichte macht.
+
+Das ist exakt Bakunins Einwand von 1873, und wer ihn gegen dieses Buch erhebt, hebt eine Waffe auf, die sein eigenes Programm härter trifft. Diese Ordnung behält einen Staat, der von Gerichten, Presse und Wahlen bestritten werden kann. Der marxistische Weg baut einen, der von nichts bestritten werden kann, und *hofft* auf die Auflösung. Wie diese Hoffnung ausgeht, handeln die Kapitel zwei bis fünf ab.
+
+Der Anarchist hat diese Blöße nicht. Er hat eine andere: Er hat keine Übergangstheorie. Auf die Frage, wie man von hier nach dort kommt, ohne dass in der Zwischenzeit derjenige übernimmt, der lokal am besten Gewalt organisiert, gibt es keine Antwort, die den Umsetzungstest des ersten Kapitels bestehen würde.
+
+Und damit die ehrliche Form dessen, was dieses Buch behauptet – sie ist schwächer, als sie bisher klang, und dadurch haltbarer. **Es muss nicht beweisen, dass Staaten notwendig sind. Es muss nur feststellen, dass niemand einen Weg hat.** Das ist dieselbe Zurückhaltung, mit der es gegen Marx argumentiert: nicht „euer Ziel ist falsch", sondern „euer Weg ist besichtigt".
+
+Was als Dissens bleibt, bleibt, und er steht im fünfundzwanzigsten Kapitel. Wer den Staat für die Quelle des Problems hält, hat gegen dieses Buch kein Argument verloren, sondern eine andere Ausgangsannahme – und er behält die bessere Anthropologie. Dieser Text behält nur die Frage nach dem Weg. Das ist weniger, als es klingt, und mehr, als der Anarchismus bisher beantwortet hat.
+
+Einen konstruktiven Ertrag hat der Einwand außerdem, und er ist erheblich: Der anthropologische Befund verdient nicht eine Abwehr, sondern eine Konstruktionsregel. Sie steht im sechzehnten Kapitel und kehrt die Beweislast der Subsidiarität um.
+
 ### Und der Vorwurf, das sei alles nur Sozialdemokratie mit besserer Prosa
 
 Der Unterschied ist präzise benennbar, und er ist der Kern des achten Kapitels: *Sozialdemokratie reguliert Eigentum, diese Ordnung verteilt es um.*
@@ -151,3 +185,15 @@ Die Antwort darauf ist kein Trost, sondern eine Feststellung: Erlösung stand ni
 *Lassalle und Schulze-Delitzsch:* siehe Kapitel 11.
 
 *Olson:* siehe Kapitel 6.
+
+*Alter der Gattung:* Die Fossilien von Jebel Irhoud (Marokko) wurden 2017 in zwei Aufsätzen in *Nature* auf rund 300.000 bis 315.000 Jahre datiert und gelten als die ältesten bekannten Funde des anatomisch modernen *Homo sapiens*; sie verschoben den Ursprung der Art um mindestens 100.000 Jahre. **Bestätigt.**
+
+*Staatsentstehung:* Die ersten Staaten entstehen im südlichen Mesopotamien vor etwa fünf- bis sechstausend Jahren. Allgemein anerkannte Grundlage der Altorientalistik; im Projekt nicht einzeln nachgewiesen, weil unstrittig. **Bestätigt als Tatsachengrundlage.** Die daraus abgeleiteten Prozentangaben sind eine Rechnung dieses Buches und als Spanne geführt. **Wertung.**
+
+*Graeber und Wengrow:* David Graeber / David Wengrow, *The Dawn of Everything. A New History of Humanity*, 2021. Im Text als Position referiert und ausdrücklich als offene archäologische Debatte gekennzeichnet; die Einschätzung, das Werk sei als Demontage der Stufentheorien wirkungsvoller denn als Nachweis dauerhafter staatenloser Komplexität, ist **Wertung** dieses Buches.
+
+*Scott:* James C. Scott, *The Art of Not Being Governed*, 2009; ders., *Against the Grain. A Deep History of the Earliest States*, 2017. Im Text als Position referiert.
+
+*Engels, Museum der Altertümer:* Friedrich Engels, *Der Ursprung der Familie, des Privateigentums und des Staats* (1884), neuntes Kapitel „Barbarei und Zivilisation"; MEW 21. Wortlaut sinngemäß wiedergegeben, nicht als wörtliches Zitat geführt. **Bestätigt** hinsichtlich Werk, Kapitel und Bildgehalt; *offen:* die Seitenangabe der MEW-Ausgabe ist nicht gegen die Druckfassung geprüft.
+
+*Ostrom:* siehe Kapitel 5 und 7. **Bestätigt.**

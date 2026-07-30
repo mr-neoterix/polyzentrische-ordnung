@@ -46,6 +46,8 @@ Das Dokument ist die verdichtete Synthese eines langen dialogischen Herleitungsp
 - **Export statt Verteidigung** – die europäische Antwort: nicht deutsche Sonderregeln gegen Brüssel verteidigen, sondern in mehreren Mitgliedstaaten Eigentümer erzeugen, die dieselbe Rechtsgrundlage brauchen.
 - **Föderalismustest** – der sechste Umsetzbarkeitstest neben Rechts-, Mehrheits-, Finanz-, Widerstands- und Bestandstest: Wer zahlt, wer verwaltet, wer bekommt das Aufkommen, wer muss im Bundesrat zustimmen.
 - **Belastungstest** – für jedes Bauteil angeben, was von ihm übrigbleibt, wenn Förderung eingestellt, Gesetz geändert und Verwaltung umgebaut wird. „Was den Test nicht besteht, ist ein Programm und darf nicht als Struktur geführt werden."
+- **Subsidiarität als Befund, nicht als Vorliebe** – Selbstverwaltung ohne formale Autorität ist bei kleiner Zahl über Jahrtausende demonstriert und bei großer Zahl undemonstriert. Daraus folgt die *Beweislastumkehr*: Nicht die kleinere Einheit begründet ihre Zuständigkeit, sondern die größere, warum sie es sein muss. Nie wieder als bloße Wertentscheidung führen.
+- **Der Staatlichkeits-Einwand** – die stärkste linke Gegenposition (Kapitel 23): Die Menschheit kam über neunundneunzig Prozent ihrer Geschichte ohne Staaten aus. Die Antwort ist bewusst schwach gehalten: Das Projekt behauptet nicht, Staaten seien notwendig, sondern nur, dass niemand einen Weg ohne sie hat, der den Umsetzungstest besteht. Diese Zurückhaltung nicht wieder zu einer Notwendigkeitsbehauptung verstärken.
 
 ## Empirische Anker (nur mit Beleg verändern)
 
@@ -98,7 +100,7 @@ Eine Datei je Kapitel, `NN_kurzname.md`, plus `00_inhalt.md` mit Übersicht und 
 - **Teil IV – Die Ordnung** (10–17): drei Sektoren, Belegschaftsverfassung, Allmende mit Sterberecht, Privatsektor und Sterblichkeitsregeln, Kreislaufdimension, Arbeit und Sorge, politische Architektur und Exit, drei Werktage.
 - **Teil V – Der Weg** (18–21): sechs Tests und vorhandene Bausteine, Stufe 1 bis 3, Kosten und Koalitionen.
 - **Teil VI – Die äußere Ebene** (22): die Weltordnungsebene, mit dem Befund gegen die eigene Kernthese.
-- **Teil VII – Die Proben** (23–24): marxistische Gegenprobe (acht Einwände), liberale Gegenprobe (elf Einwände).
+- **Teil VII – Die Proben** (23–24): marxistische Gegenprobe (neun Einwände), liberale Gegenprobe (elf Einwände).
 - **Teil VIII – Der ehrliche Rest** (25–26): Offene Flanken in drei Klassen plus Schließungsnachweis, dann die Formel.
 
 ## Dokumentstruktur des Essays (`essay_polyzentrische_ordnung.md`, Sektionen I–IX)
@@ -119,7 +121,7 @@ Eine Datei je Kapitel, `NN_kurzname.md`, plus `00_inhalt.md` mit Übersicht und 
 - **II. Die Befunde** – neun nummerierte Befunde als Fundament; alles Spätere verweist hierauf.
 - **III. Die Ordnung** – drei konkurrierende Eigentumssektoren, politische Architektur, Designprinzipien.
 - **IV. Umsetzungspfad** – drei Stufen für die Bundesrepublik (bestehendes Recht → Strukturaufbau → Konsolidierung), Erfolgskriterien mit eingebauter Falsifizierbarkeit.
-- **V. Die marxistische Gegenprobe** – acht Einwände mit Antworten (seit 30.07.2026 einschließlich Marx gegen Lassalle) plus Konzessionen und ein Verweis auf die liberale Gegenprobe im Manuskript.
+- **V. Die marxistische Gegenprobe** – neun Einwände mit Antworten (seit 30.07.2026 einschließlich Marx gegen Lassalle und des Staatlichkeits-Einwands) plus Konzessionen und ein Verweis auf die liberale Gegenprobe im Manuskript.
 - **VI. Offene Flanken** – das Ehrlichkeits-Ledger in drei Klassen, mit Schließungsnachweis; wächst, schrumpft nie stillschweigend.
 - **VII. Die Formel** – Verdichtung; endet auf Fehlertoleranz als ehrlichstem Kriterium.
 

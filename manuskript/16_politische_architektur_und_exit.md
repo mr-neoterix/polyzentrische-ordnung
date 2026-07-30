@@ -10,13 +10,29 @@ Dieses Kapitel beschreibt sie – und deflationiert dabei zwei Versprechen, die 
 
 ### Die Grundelemente
 
-*Radikale Subsidiarität mit verschachtelten Ebenen.* Entscheidungen fallen auf der kleinsten Ebene, die sie tragen kann; höhere Ebenen bekommen nur, was tiefere nicht leisten können. Das ist Ostroms Prinzip verschachtelter Einheiten, angewandt auf den Staat, und es ist in Deutschland als Föderalismus und kommunale Selbstverwaltung bereits vorhanden – wenn auch mit einer starken Zentralisierungstendenz, die aus derselben Logik stammt wie überall: Wer oben sitzt, hält Vereinheitlichung für Effizienz.
+*Radikale Subsidiarität mit verschachtelten Ebenen.* Entscheidungen fallen auf der kleinsten Ebene, die sie tragen kann; höhere Ebenen bekommen nur, was tiefere nicht leisten können. Das ist Ostroms Prinzip verschachtelter Einheiten, angewandt auf den Staat, und es ist in Deutschland als Föderalismus und kommunale Selbstverwaltung bereits vorhanden – wenn auch mit einer starken Zentralisierungstendenz, die aus derselben Logik stammt wie überall: Wer oben sitzt, hält Vereinheitlichung für Effizienz. Warum dieses Prinzip mehr ist als eine Vorliebe für Nähe, steht gleich im Anschluss.
 
 *Unantastbare Grundrechte und unabhängige Gerichte.* Sie schützen die Überstimmten, und zwar gerade gegen Mehrheiten. Dieses Buch schlägt eine Ordnung vor, in der viele Entscheidungen kollektiv fallen – in Mitgliederversammlungen, kommunalen Gremien, gelosten Räten. Genau deshalb braucht es eine Instanz, die sagt: Das dürft ihr nicht, auch nicht einstimmig. Wer Wirtschaftsdemokratie will und den Grundrechtsschutz für zweitrangig hält, hat Kapitel sieben nicht gelesen.
 
 *Pluralisierte Medien mit wirksamem Konzentrationsrecht.* Wenn die Sektoren miteinander konkurrieren sollen, konkurrieren sie zuerst um Aufmerksamkeit und Deutungen. Ein Medienmarkt in wenigen Händen entscheidet diesen Wettbewerb, bevor er beginnt.
 
 *Radikale, maschinenlesbare Datentransparenz* der öffentlichen Hand und der gemeinwirtschaftlichen Sektoren. Sie hat in dieser Ordnung drei Funktionen zugleich: Sie ist das Ersatz-Preissystem des Allmende-Sektors, das Frühwarnsystem gegen dessen weiche Budgetbeschränkung und die Voraussetzung dafür, dass Vergleich überhaupt möglich ist. Und sie hat ein historisches Motiv: Das Schürer-Papier war ein Geheimdokument, das die Lage eines ganzen Landes beschrieb und das niemand lesen durfte, der etwas hätte ändern können. Es soll kein Schürer-Papier mehr geben können.
+
+### Subsidiarität ist keine Vorliebe, sondern ein Befund
+
+In Ordnungsentwürfen wird Subsidiarität gewöhnlich als Wertentscheidung geführt: Nähe sei gut, Ferne schlecht, kleine Einheiten menschlicher. Das ist zu wenig, denn eine Wertentscheidung lässt sich mit einer anderen beantworten – etwa mit der ebenso plausiblen, dass Gleichheit der Lebensverhältnisse einheitliche Regeln verlangt. So geführt endet der Streit dort, wo er anfängt.
+
+Es gibt eine bessere Begründung, und sie ist empirisch. Das dreiundzwanzigste Kapitel behandelt den Einwand, die Menschheit sei die längste Zeit ihrer Geschichte ohne Staaten ausgekommen – ein Einwand, der zutrifft: Staatlichkeit bedeckt weniger als zwei Prozent der Geschichte der Gattung. Was diese staatenlosen Ordnungen trugen, waren Reputation, Ächtung, Verwandtschaftspflicht, abgestufte Sanktion und Konfliktverfahren, und sie trugen zuverlässig – bei kleiner Zahl. Ostroms Fälle zeigen dasselbe für die Gegenwart: Allmenden, die seit Jahrhunderten ohne staatliche Aufsicht bestehen, umfassen Dutzende bis Hunderte von Nutzern.
+
+Daraus folgt eine Asymmetrie im Wissensstand, und sie ist die eigentliche Begründung der Subsidiarität. **Selbstverwaltung ohne formale Autorität ist bei kleiner Zahl über Jahrtausende demonstriert und bei großer Zahl undemonstriert.** Das ist keine Präferenz, sondern ein Befund über die Beweislage – und wer eine Ordnung unter Unsicherheit baut, sollte den Mechanismus dort einsetzen, wo er nachweislich funktioniert, und nur dort etwas anderes verlangen, wo er nachweislich nicht reicht.
+
+Als Konstruktionsregel: Entscheidungen fallen so weit unten, wie der nachgewiesene Mechanismus trägt. Formale Autorität ist für das reserviert, was auf dieser Ebene nachweislich nicht zu leisten ist – Netze, die über Gemeindegrenzen laufen, Ansprüche, die gegen die eigene Gemeinschaft durchgesetzt werden müssen, Konflikte zwischen Einheiten.
+
+Und daraus folgt eine Verfahrensregel, die in keinem deutschen Kommunalrecht steht und die den praktischen Unterschied macht: **die Umkehr der Beweislast.** Nicht die kleinere Einheit muss begründen, warum sie zuständig sein soll, sondern die größere, warum sie es sein muss – öffentlich, im Einzelfall, unter Angabe, welcher Mechanismus auf der unteren Ebene versagt hat und woran man das erkennt.
+
+Das ist mehr als eine Formulierung. Zentralisierung geschieht fast nie durch Beschluss. Sie geschieht durch Zuständigkeitsverschiebung im Einzelfall, jede für sich plausibel begründet, jede für sich zu klein für öffentliche Aufmerksamkeit – dieselbe Mechanik, mit der Regeln rosten, nur in die andere Richtung. Eine Beweislastregel greift genau dort an: Sie macht aus tausend unauffälligen Verschiebungen tausend begründungspflichtige Vorgänge. Sie verhindert die Zentralisierung nicht, aber sie verteuert sie und macht sie sichtbar, und mehr kann eine Verfahrensregel nicht.
+
+Zwei Grenzen gehören dazu. Die Regel sagt nicht, wo im Einzelfall die Grenze des Tragfähigen liegt; das bleibt eine Abwägung, sie ist nur nicht mehr voraussetzungslos. Und sie gilt nicht nach oben ohne Ende: Das zweiundzwanzigste Kapitel zeigt, dass Polyzentrik ohne gemeinsamen Rechtsraum keine Einhegung erzeugt, sondern Krieg. Subsidiarität ist ein Prinzip innerhalb einer Rechtsordnung, nicht ein Argument gegen sie.
 
 ### Geloste Bürgerräte, ohne Übertreibung
 
@@ -84,6 +100,10 @@ Eine Ordnung, deren Fortbestand von der Überzeugung ihrer Verwalter abhängt, h
 
 *Schürer-Papier:* siehe Kapitel 2.
 
-*Verfahrensdesign für Losgremien, Sterblichkeitsregeln für Funktionäre, Operationalisierung der beiden Exit-Bedingungen und die Bindung der Reparaturfähigkeit an Datenpflichten und Klagerechte* sind Konstruktionsvorschläge dieses Buches. **Wertung.**
+*Anthropologische Grundlage der Subsidiarität:* Alter der Gattung, Staatsentstehung und die Debatte um Graeber/Wengrow sind in Kapitel 23 belegt. **Bestätigt** hinsichtlich der Tatsachengrundlage. Die Ableitung einer Konstruktionsregel und der Beweislastumkehr daraus ist **Wertung** dieses Buches.
+
+*Ostrom:* siehe Kapitel 5 und 7. **Bestätigt.**
+
+*Verfahrensdesign für Losgremien, Sterblichkeitsregeln für Funktionäre, Operationalisierung der beiden Exit-Bedingungen, die Beweislastumkehr bei der Subsidiarität und die Bindung der Reparaturfähigkeit an Datenpflichten und Klagerechte* sind Konstruktionsvorschläge dieses Buches. **Wertung.**
 
 *Ostdeutsche Abwanderung nach 1990:* im Text als Verlaufsmuster referiert; die demografisch-fiskalische Abwärtsspirale ist in der Regionalforschung breit belegt. **Wertung** mit anerkannter Tatsachengrundlage.

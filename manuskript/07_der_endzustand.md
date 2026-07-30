@@ -40,6 +40,8 @@ Das ist der Gegenentwurf zum Endzustand, und er ist in einem Satz zu sagen: *Gem
 
 Ostroms Fälle liefern damit den empirischen Beweis für etwas, das der Marxismus theoretisch für unmöglich hielt: dauerhaft funktionierendes Gemeineigentum ohne Staat, ohne Markt und ohne die Abschaffung des Eigeninteresses. Und sie liefern zugleich die Begründung dafür, warum der Staatssozialismus es nicht schaffte. Er hat nicht zu viel Gemeineigentum gehabt, sondern zu wenig Institutionen, die mit dem Menschen rechnen, der es nutzt.
 
+Damit ist allerdings eine Frage aufgeworfen, die dieses Kapitel nicht beantworten kann und die ein aufmerksamer Leser sofort stellt. Wenn Gemeinschaften ihre Angelegenheiten über Jahrhunderte ohne Staat regeln – und die Menschheit hat das über den weitaus größten Teil ihrer Geschichte getan, denn Staatlichkeit bedeckt weniger als zwei Prozent davon –, warum baut dieses Buch dann eine Ordnung, die den Staat an jeder Stelle benutzt? Der Einwand ist ernst, er ist der beste, den die linke Tradition gegen diesen Entwurf hat, und er wird im dreiundzwanzigsten Kapitel eigens verhandelt. Die kurze Fassung der Antwort lautet: Was Ostrom zeigt, ist skalenabhängig, und was ihre Prinzipien beim Wachsen verlangen – verschachtelte Einheiten –, ist der Anfang von etwas, das dem Staat ähnelt. Aber die kurze Fassung genügt an dieser Stelle nicht, und deshalb steht dort die lange.
+
 ### Freiheit als Praxis
 
 Es ist üblich geworden, an dieser Stelle vom „Menschenbild" zu sprechen, und dieses Buch möchte das vermeiden, weil das Wort meist als Vorwurf gebraucht wird. Die Sache selbst lässt sich präziser fassen.
