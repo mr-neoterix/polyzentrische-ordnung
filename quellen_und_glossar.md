@@ -396,6 +396,109 @@ Diese Einträge tragen `essay_polyzentrische_ordnung.md`. Sie stammen überwiege
 **URL:** https://www.dgrv.de/wp-content/uploads/2025/08/Zahlen-und-Fakten-der-Genossenschaften-Edition-Internationales-Jahr-der-Genossenschaften-2025_2.Update.pdf – indiziert 25.07.2026
 **Verifikation:** bestätigt mit Einschränkung: Verbandsstatistik; im Essay ausdrücklich als solche gekennzeichnet.
 
+## G. Anker des Manuskripts und der nachgezogenen Thesenpapier-Fassung (Stand 30.07.2026)
+
+Diese Einträge tragen das Manuskript unter `manuskript/` und – nach dem Nachziehen vom 30.07.2026 – auch `polyzentrische_ordnung.md`. Die rechtlichen Anker stammen überwiegend aus dem Anhang des Problemkatalogs vom 28.07.2026 und wandern nach Hausregel 6 mit ihrer Einarbeitung hierher; die vier zuletzt aufgeführten Einträge sind Neuverifikationen vom 29.07.2026. Der Prüfhinweis zur Erreichbarkeit im Kopf dieses Dokuments gilt unverändert: Direkte Abruftests standen auch hier nicht zur Verfügung.
+
+### Abspaltungsverbot
+**Erläuterung:** Verwaltungsrechte, insbesondere das Stimmrecht, sind nicht getrennt vom Mitgliedschaftsrecht übertragbar; abtretbar sind nur reine Vermögensansprüche wie der Gewinnanspruch. Im Manuskript (Kapitel 20) und im Thesenpapier (Sektion IV, Stufe 2) trägt dieser Grundsatz die Korrektur der Stimmrechtsverlagerung: Nicht der Fonds hält den Anteil und gibt die Stimme ab, sondern eine Belegschaftstreuhand hält den Anteil, und der Fonds erhält ein gesondert bestelltes Ertragsrecht.
+**Quelle(n):** § 717 Satz 1 BGB (Personengesellschaft); § 711a Satz 2 BGB (Abtretbarkeit reiner Vermögensansprüche, seit dem MoPeG ausdrücklich).
+**URL:** https://www.gesetze-im-internet.de/bgb/__717.html – indiziert 28.07.2026
+**Verifikation:** bestätigt für die Personengesellschaft. Für Kapitalgesellschaften und Genossenschaften gilt das Abspaltungsverbot nach herrschender Lehre entsprechend – **hier nicht einzelbelegt**; in beiden Hauptdokumenten ausdrücklich als herrschende Lehre gekennzeichnet.
+
+### Stimmrechtslose Vorzugsaktien
+**Erläuterung:** Nur bis zur Hälfte des Grundkapitals zulässig; der Stimmrechtsverzicht wird durch einen Gewinnvorzug ausgeglichen. Die Grenze ist der zweite Grund, warum ein dauerhaft stimmrechtslos gedachter Fonds gesellschaftsrechtlich nicht trägt, sobald er in einem Unternehmen groß wird.
+**Quelle(n):** § 139 Absatz 2 AktG; ergänzend § 139 Absatz 1 und § 140 Absatz 1 AktG.
+**URL:** https://www.gesetze-im-internet.de/aktg/__139.html – indiziert 28.07.2026
+**Verifikation:** bestätigt.
+
+### Ertragshoheit und Verwaltung der Erbschaftsteuer
+**Erläuterung:** Das Aufkommen der Erbschaft- und Schenkungsteuer steht den Ländern zu, die Verwaltung liegt bei den Ländern, und ein Bundesgesetz bedarf der Zustimmung des Bundesrates. Daraus folgt der *Föderalismustest* als sechster Umsetzbarkeitstest und die Konstruktion der Fondsfamilie als Länderfamilie.
+**Quelle(n):** Artikel 106 Absatz 2, Artikel 108 Absatz 2 und Artikel 105 Absatz 3 GG.
+**URL:** https://www.gesetze-im-internet.de/gg/art_106.html – indiziert 28.07.2026
+**Verifikation:** bestätigt.
+
+### Eigentumsschutz sozialrechtlicher Ansprüche und Anwartschaften
+**Erläuterung:** Artikel 14 Absatz 1 GG schützt Ansprüche und Anwartschaften nur, soweit sie auf einer nicht unerheblichen Eigenleistung beruhen; diese Eigenleistung ist der besondere Grund ihrer Anerkennung als Eigentumsposition. Daraus folgt die Korrektur des Bestandsschutzarguments: Eine unentgeltlich zugeteilte Fondsanwartschaft ist keine solche Position, weshalb ein Eigenbeitragselement eingebaut wird.
+**Quelle(n):** Ständige Rechtsprechung des Bundesverfassungsgerichts, u. a. BVerfGE 53, 257; 100, 1; 116, 96.
+**Verifikation:** bestätigt dem Grundsatz nach. **Ausdrücklicher Vorbehalt:** Die Übertragung auf eine gesetzlich zugeteilte Fondsanwartschaft ist eine Schlussfolgerung des Projekts, keine Rechtsprechung – in beiden Hauptdokumenten so gekennzeichnet.
+
+### Geschäftsguthaben, Mindestkapital und Auszahlung im Genossenschaftsrecht
+**Erläuterung:** Das Auseinandersetzungsguthaben ist nach dem Ausscheiden grundsätzlich binnen sechs Monaten auszuzahlen, abweichende Satzungsregelungen zu Voraussetzungen, Modalitäten und Frist sind zulässig; die Satzung kann außerdem ein Mindestkapital bestimmen, das durch Auszahlungen nicht unterschritten werden darf. Zweck der Regelung von 2006 war ausdrücklich, den Eigenkapitalausweis der Geschäftsguthaben nach IAS 32 zu erhalten. Ohne diese Klauseln ist das individuelle Kapitalkonto rückzahlbares Fremdkapital mit Eigenkapitalanmutung.
+**Quelle(n):** § 73 GenG (insbesondere Absatz 4); § 8a GenG.
+**URL:** https://www.gesetze-im-internet.de/geng/__73.html – indiziert 28.07.2026
+**Verifikation:** bestätigt.
+
+### Vereinfachtes Ertragswertverfahren
+**Erläuterung:** Durchschnittsertrag der letzten drei Jahre, pauschaler Ertragsteuerabzug von 30 Prozent, Kapitalisierung mit dem festen Faktor 13,75 (entspricht rund 7,3 Prozent Kapitalisierungszins, am Markt nicht beobachtbar). Trägt die Begründung des Bewertungskorridors: Für die Umrechnung einer Steuerschuld in Anteile wird die Bewertung von der Steuerfestsetzung entkoppelt.
+**Quelle(n):** §§ 199 bis 203 BewG, insbesondere § 202 und § 203.
+**URL:** https://www.gesetze-im-internet.de/bewg/__203.html – indiziert 28.07.2026
+**Verifikation:** bestätigt. Die Kritik an einer systematischen Überbewertung kleiner und mittlerer Unternehmen stammt aus Fachliteratur und Beratungspraxis und ist als Wertung zu führen.
+
+### Veräußerungsgewinnbesteuerung bei Betriebsübergabe
+**Erläuterung:** Freibetrag 45.000 Euro, Abschmelzung ab einem Veräußerungsgewinn von 136.000 Euro, vollständiger Wegfall bei 181.000 Euro, einmal im Leben, ab dem 55. Lebensjahr oder bei dauernder Berufsunfähigkeit; auf Antrag ermäßigter Steuersatz von 56 Prozent des durchschnittlichen Steuersatzes, mindestens 14 Prozent. Das ist die Norm, an der der Steuerhebel der Stufe 1 ansetzt.
+**Quelle(n):** § 16 Absatz 4 EStG; § 34 Absatz 3 EStG.
+**URL:** https://www.gesetze-im-internet.de/estg/__16.html – indiziert 28.07.2026
+**Verifikation:** bestätigt.
+
+### Wegenutzungsverträge und Netzübernahme
+**Erläuterung:** Höchstlaufzeit zwanzig Jahre, diskriminierungsfreie Vergabe; die wirtschaftlich angemessene Vergütung für die Netzübereignung bemisst sich am objektivierten Ertragswert. Bundesweit bestehen rund 20.000 Konzessionsverträge für Strom und Gas. Trägt das Nachfolgerproblem des Sterberechts.
+**Quelle(n):** § 46 EnWG, insbesondere Absatz 2 Satz 4.
+**URL:** https://www.gesetze-im-internet.de/enwg_2005/__46.html – indiziert 28.07.2026
+**Verifikation:** bestätigt; die Einschätzung, dass die Regelung Rechtsstreitigkeiten nicht vermeidet, stammt aus anwaltlicher Fachliteratur und ist als Wertung zu führen.
+
+### Effizienzvergleich der Netzbetreiber
+**Erläuterung:** Anreizregulierungsverordnung seit 2007, Anwendung seit 2009; der Effizienzvergleich vor jeder Regulierungsperiode arbeitet mit Dateneinhüllungsanalyse und stochastischer Effizienzgrenzenanalyse. Im Manuskript das Vorbild, das der Allmende-Sektor übernehmen soll, statt ein neues Verfahren zu erfinden – und zugleich der Beleg dafür, dass ein solcher Vergleich ein Dauerstreit über Datenbasis und Methode ist.
+**Quelle(n):** §§ 12 bis 14 ARegV.
+**URL:** https://www.gesetze-im-internet.de/aregv/__12.html – indiziert 28.07.2026
+**Verifikation:** bestätigt.
+
+### Landesbanken in der Finanzkrise
+**Erläuterung:** WestLB abgewickelt, SachsenLB notverkauft, HSH Nordbank nach Jahren der Stützung privatisiert, BayernLB und LBBW mit Milliardenhilfen ihrer Träger. Im Manuskript (Kapitel 8 und 12) der Symmetriebeleg, den ein Text schuldet, der die Sparkassen als Kronzeugen aufruft: der teuerste deutsche Fall weicher Budgetbeschränkung in öffentlichem Eigentum. Daraus folgen drei Sperren – Trennung von Träger und Regulierer, keine Finanzgeschäfte im Allmende-Sektor, kein Hebel für die Fondsfamilie.
+**Quelle(n):** Zusammenstellungen zur Bankenrettung in Deutschland; Größenordnung rund 68 bis 70 Milliarden Euro seit 2007.
+**Verifikation:** **Größenordnung bestätigt, Einzelzahlen quellenabhängig.** In den Hauptdokumenten nur als Größenordnung geführt; eine Prüfung gegen amtliche Quellen (Bundesrechnungshof, Bundesbank, Nachfolgeeinrichtungen der FMSA) steht aus.
+
+### Kapitalverkehrsfreiheit
+**Erläuterung:** Die Freiheit des Kapitalverkehrs gilt nicht nur zwischen Mitgliedstaaten, sondern auch im Verhältnis zu Drittstaaten. Im Manuskript (Kapitel 22) die eigentliche binnenmarktrechtliche Wand, an der Beschränkungen des Anteilserwerbs enden – und der Grund, warum eine europäische Rechtsgrundlage für belegschafts- und gemeinwohlgebundene Rechtsformen nötig wird.
+**Quelle(n):** Artikel 63 AEUV.
+**URL:** https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12012E/TXT – indiziert 29.07.2026
+**Verifikation:** bestätigt als geltende Vertragslage.
+
+### Kartellschadensersatz als private Rechtsdurchsetzung
+**Erläuterung:** Geschädigte Wettbewerber und Abnehmer haben eigene Schadensersatzansprüche gegen Kartellanten; das Regime ist europäisch harmonisiert und im deutschen Wettbewerbsrecht verankert. Im Manuskript (Kapitel 13) der vorhandene Beleg dafür, dass sich die Konstruktionsanweisung „jede Regel bekommt einen Kläger" nicht erst erfinden muss.
+**Quelle(n):** Richtlinie 2014/104/EU über Schadensersatzklagen wegen Zuwiderhandlungen gegen wettbewerbsrechtliche Bestimmungen; Umsetzung im GWB.
+**URL:** https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32014L0104 – indiziert 29.07.2026
+**Verifikation:** bestätigt als geltende Rechtslage; der Vorschlag, sie auszubauen und die Bauweise auf Plattform- und Stiftungsrecht zu übertragen, ist Wertung des Projekts.
+
+### Walter Eucken und die Freiburger Schule
+**Erläuterung:** Eucken begründete Anfang der 1930er Jahre gemeinsam mit den Juristen Franz Böhm und Hans Großmann-Doerth die Freiburger Schule des Ordoliberalismus. Kern ist die Unterscheidung zwischen regelsetzender Ordnungspolitik und interventionistischer Prozesspolitik sowie die Einsicht, dass eine Wettbewerbsordnung nicht spontan entsteht, sondern gestaltet und gesichert werden muss – private Wirtschaftsmacht ist für die Freiheit des Einzelnen ebenso gefährlich wie staatliche. Im Manuskript (Kapitel 5) der liberale Kronzeuge für die Polyzentrik-These.
+**Quelle(n):** Walter Eucken: Die Grundlagen der Nationalökonomie, 1940; ders.: Grundsätze der Wirtschaftspolitik, postum 1952. Einordnung über das Walter Eucken Institut, Freiburg, und die Ausstellungsdokumentation „Ordnung in Freiheit – Walter Eucken und die Soziale Marktwirtschaft".
+**URL:** https://www.ordnung-in-freiheit.de/themen/freiburger-schule/ – indiziert 29.07.2026
+**Verifikation:** bestätigt (Werke, Datierung, Mitbegründer, Kernbegriffe). Die Zuspitzung, Eucken sei hinsichtlich der Haltbarkeit von Regeln zu optimistisch gewesen, ist Wertung des Projekts.
+
+### Schulze-Delitzsch, Raiffeisen und die deutsche Genossenschaftsgründung
+**Erläuterung:** Hermann Schulze-Delitzsch gründete 1849 in Delitzsch seine erste Genossenschaft (für Schuhmacher), entwickelte in den 1850er Jahren Musterstatuten für Kreditvereine und entwarf das preußische Genossenschaftsgesetz von 1867, aus dem das Reichsgesetz von 1889 hervorging; sein Leitwort war Selbsthilfe ohne Staatshilfe. Friedrich Wilhelm Raiffeisen begründete parallel die ländliche Kreditgenossenschaft. Im Manuskript (Kapitel 11) die Vorgeschichte, in der bereits der Streit steckt, den Kapitel 23 führt.
+**Quelle(n):** Genossenschaftsgeschichtsschreibung, u. a. genostory.de und die Kurzbiographie bei demokratie-geschichte.de; Genossenschaftsgesetz in Kraft seit 01.10.1889.
+**URL:** https://genostory.de/systemstreit-zwischen-raiffeisen-und-schulze-delitzsch-724 – indiziert 29.07.2026
+**Verifikation:** bestätigt.
+
+### Ferdinand Lassalle und der ADAV
+**Erläuterung:** Lassalle gründete am 23. Mai 1863 in Leipzig den Allgemeinen Deutschen Arbeiterverein, die erste moderne deutsche Arbeiterpartei. Seine Kernforderungen waren staatlich finanzierte Produktivgenossenschaften und das allgemeine, gleiche Wahlrecht; die Gegenposition Schulze-Delitzschs lautete Selbsthilfe statt Staatshilfe. Im Manuskript (Kapitel 11 und 23) und im Thesenpapier (Sektion V, Einwand 7) der deutsche Ursprung des Streits, in den Marx' Gotha-Kritik von 1875 eingreift.
+**Quelle(n):** Erinnerungsorte der Sozialdemokratie, Friedrich-Ebert-Stiftung; Karl Marx: Randglossen zum Programm der deutschen Arbeiterpartei (1875), MEW 19.
+**URL:** https://erinnerungsorte.fes.de/ferdinand-lassalle/ – indiziert 29.07.2026
+**Verifikation:** bestätigt.
+
+### Engels – „Verwaltung von Sachen"
+**Erläuterung:** Die klassische Formulierung des technokratischen Endzustandsdenkens: An die Stelle der Regierung über Personen trete „die Verwaltung von Sachen und die Leitung von Produktionsprozessen". Im Manuskript (Kapitel 7) der Ausgangspunkt der Kritik am wegdefinierten Machtproblem.
+**Quelle(n):** Friedrich Engels: Herrn Eugen Dührings Umwälzung der Wissenschaft (Anti-Dühring, 1878), dritter Abschnitt; MEW 20.
+**URL:** http://www.mlwerke.de/me/me20/me20_239.htm – indiziert 29.07.2026
+**Verifikation:** Wortlaut bestätigt. **Offen:** Die genaue Seitenangabe der MEW-Ausgabe ist nicht gegen die Druckfassung geprüft und wird deshalb in den Hauptdokumenten nicht angegeben.
+
+### Kriege zwischen sozialistischen Staaten
+**Erläuterung:** Sowjetisch-chinesischer Grenzkonflikt 1969, vietnamesische Intervention in Kambodscha 1978, chinesisch-vietnamesischer Krieg 1979. Im Manuskript (Kapitel 22) der Testfall, an dem die leninistische Fassung des Kriegseinwands scheitert: Wären Staaten kriegerisch, weil sie kapitalistisch sind, dürften sozialistische Staaten einander nicht bekriegen.
+**Quelle(n):** Allgemein anerkannte Zeitgeschichte; im Projekt nicht einzeln nachgewiesen, weil unstrittig.
+**Verifikation:** bestätigt als Tatsachengrundlage; die daraus gezogene Schlussfolgerung ist Wertung des Projekts.
+
 ---
 
 ## Aus der Verifikation folgende Präzisierungsaufträge für das Hauptdokument

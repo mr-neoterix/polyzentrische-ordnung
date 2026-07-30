@@ -1,12 +1,20 @@
 # CLAUDE.md – Arbeitsgrundlage für dieses Repository
 
-Dies ist ein politisch-ökonomisches Thesenpapier, kein Code-Projekt. Zwei Hauptdokumente: `essay_polyzentrische_ordnung.md` (ausgeführte Fassung, Stand 25.07.2026, mit liberaler Gegenprobe, Funktions- und Umsetzungstest – der aktuelle Stand der Argumentation) und `polyzentrische_ordnung.md` (kompaktes Thesenpapier, Stand 22.07.2026, weiterhin gültig als Verdichtung, aber ohne die Korrekturen des Prüfberichts). Begleitdateien: `quellen_und_glossar.md` (Quellenverzeichnis und Glossar; neue Begriffe und Belege dort eintragen, Verifikationsstatus ausweisen) , `pruefbericht_schwachstellen.md` (adversariale Prüfung des Thesenpapiers; vollständig im Essay abgearbeitet, Zuordnung Befund zu Textstelle in dessen Abschnitt G) und `problemkatalog_polyzentrische_ordnung.md` (Stand 28.07.2026; 49 Einträge mit Lösungsvorschlägen – die Folgeprobleme der Essay-Korrekturen, die Divergenzen zum Thesenpapier, die ungelösten Ledger-Flanken und die offenen Verifikationsaufträge; noch nicht eingearbeitet). Vor jeder Bearbeitung: das betroffene Hauptdokument vollständig lesen.
+Dies ist ein politisch-ökonomisches Thesenpapier, kein Code-Projekt. Es hat drei Fassungen derselben Argumentation, und ihre Rangfolge ist eindeutig.
 
-**Drei Zählungen nicht vermischen:** „Befund N" meint immer die neun Befunde der Sektion II; „A1" bis „D5" die Befunde des Prüfberichts; „Nummer N" die Einträge des Problemkatalogs.
+**`manuskript/` – der maßgebliche Stand.** 26 Kapitel in acht Teilen, literarische Buchfassung, Stand 29.07.2026. Sie erklärt Begriffe und historische Fälle, statt sie vorauszusetzen, schließt jedes Kapitel mit eigenem Belegapparat samt Verifikationsstatus ab und hat die Lösungsvorschläge des Problemkatalogs eingearbeitet. Übersicht und Leseplan in `manuskript/00_inhalt.md`. **Im Zweifel gilt das Manuskript.**
 
-**Der Essay ist ein eigenständiger Text, kein Änderungsprotokoll.** Er begründet die korrigierten Konstruktionen positiv und erwähnt weder Prüfbericht noch frühere Fassungen; Verweise auf behobene Fehler irritieren den Leser und gehören nicht hinein. Wer künftig einen Befund einarbeitet, schreibt das Ergebnis in den Essay und den Nachweis in Abschnitt G des Prüfberichts.
+**`polyzentrische_ordnung.md` – die Verdichtung,** Stand 30.07.2026, auf den Manuskriptstand nachgezogen. Gültig als Kurzfassung; sie weist im Kopf aus, was sie weglässt (Belegapparat, liberale Gegenprobe, Fallproben, Ausarbeitung der Weltordnungsebene).
 
-**Konsistenzpflicht zwischen den Fassungen:** Wo der Essay eine Konstruktion geändert hat (Stimmrechtsverlagerung, Kontroll-Lock, Kapitalkonten, Sterberecht im Allmende-Sektor, Andienungsrecht statt Vorkaufszwang, Fondsfamilie), trägt das Thesenpapier noch die alte Fassung. Wer das Thesenpapier anfasst, zieht diese Änderungen nach oder weist die Differenz aus – stillschweigend divergieren dürfen die beiden Dokumente nicht.
+**`essay_polyzentrische_ordnung.md` – die ältere ausgeführte Fassung,** Stand 25.07.2026. Sie hat den Prüfbericht vollständig abgearbeitet, kennt aber den Problemkatalog nicht und ist damit inzwischen das rückständigste Hauptdokument: ohne Föderalismustest und Länderfonds, ohne die Korrektur des Abspaltungsverbots, ohne Eigenbeitragselement, ohne Auszahlungsregeln der Kapitalkonten, ohne Sterberegel für die Fonds und ohne Weltordnungsebene. Wer ihn anfasst, zieht nach oder weist die Differenz aus.
+
+Begleitdateien: `quellen_und_glossar.md` (Quellenverzeichnis und Glossar; neue Begriffe und Belege dort eintragen, Verifikationsstatus ausweisen – Abschnitt G trägt die Anker des Manuskripts), `pruefbericht_schwachstellen.md` (adversariale Prüfung des Thesenpapiers, vollständig im Essay abgearbeitet, Nachweis in dessen Abschnitt G) und `problemkatalog_polyzentrische_ordnung.md` (Stand 28.07.2026, 49 Einträge mit Lösungsvorschlägen; in Manuskript und Thesenpapier eingearbeitet, im Essay nicht). Vor jeder Bearbeitung: das betroffene Hauptdokument vollständig lesen.
+
+**Vier Zählungen nicht vermischen:** „Befund N" meint immer die neun Befunde der Sektion II des Thesenpapiers beziehungsweise der Zwischenbilanz in Kapitel 9 des Manuskripts; „Kapitel N" immer ein Manuskriptkapitel; „A1" bis „D5" die Befunde des Prüfberichts; „Nummer N" die Einträge des Problemkatalogs.
+
+**Die Haupttexte sind eigenständige Texte, keine Änderungsprotokolle.** Sie begründen die korrigierten Konstruktionen positiv und erwähnen weder Prüfbericht noch frühere Fassungen; Verweise auf behobene Fehler irritieren den Leser und gehören nicht hinein. Die einzige Ausnahme ist das Ledger: Weil es nach Hausregel 3 nie stillschweigend schrumpfen darf, weist es aus, welche Flanke durch welche Konstruktionsänderung geschlossen wurde und wohin sie gewandert ist.
+
+**Konsistenzpflicht zwischen den Fassungen:** Manuskript und Thesenpapier sind seit dem 30.07.2026 auf gleichem Stand; der Essay ist es nicht. Wer eine tragende Konstruktion ändert, ändert sie im Manuskript *und* im Thesenpapier oder weist die Differenz aus – stillschweigend divergieren dürfen die Fassungen nicht.
 
 ## Projektzweck
 
@@ -24,13 +32,20 @@ Das Dokument ist die verdichtete Synthese eines langen dialogischen Herleitungsp
 - **Exit und Voice** (Hirschman) – Exit als Disziplin und Überdruckventil; das System muss den Vergleich wollen.
 - **Insider-Outsider-Problem** – Einhegung wirkt nur für Mitglieder; die Außenstehenden sind der härteste Testfall (Sektion VI).
 - **„Tragisches Weltbild mit Arbeitsauftrag"** – der Grundton des Dokuments: keine Erlösung, permanente Reparatur.
-- **Asset Lock plus Kapitalkonten** – der Lock verhindert den Verkauf, die individuellen Kapitalkonten verhindern die Unterinvestition (Horizontproblem Furubotn/Pejovich). Nie den Lock allein nennen.
+- **Asset Lock plus Kapitalkonten** – der Lock verhindert den Verkauf, die individuellen Kapitalkonten verhindern die Unterinvestition (Horizontproblem Furubotn/Pejovich), und die Auszahlungsregel verhindert, dass die Konten den Betrieb verhindern: Mindestkapitalklausel nach § 8a GenG und gestreckte Auszahlung nach § 73 Absatz 4 GenG gehören in jede Mustersatzung, sonst ist das Konto rückzahlbares Fremdkapital mit Eigenkapitalanmutung. Nie den Lock allein nennen.
+- **Auslandsbedingung des Sektors** – die Mitgliedschaftsquote wird an der Tätigkeit gemessen, nicht am Vertrag, und gilt für alle beherrschten Töchter im In- und Ausland. Sie ist die einzige Fassung des Insider-Outsider-Problems, die keine fremde Rechtsordnung braucht, sondern nur die eigene Förderentscheidung.
 - **Asset Lock ohne Control Lock** – „keine Sterblichkeitsregel, sondern ihre Umgehung": Vermögensbindung ohne Stimmrechtsbindung produziert Dynastien (Doppelstiftung).
 - **Sterblichkeit ohne Betriebsunterbrechung** – das Insolvenzäquivalent des Allmende-Sektors: Netzeigentum von Betriebsführung trennen, befristete Konzessionen mit Benchmark, Verbot stiller Verlustdeckung, Kostenvergleich. „Kein Insolvenzrecht, aber ein Sterberecht für Betreiber."
-- **Stimmrechtsverlagerung** – die im Essay getroffene Entscheidung zu Befund A2 des Prüfberichts: Ertragsanspruch an die Fonds, Stimmrechte an die Belegschaft (nicht an die Fondsverwaltung, nicht gelöscht). Nicht zurückdrehen ohne Ausweisung des Preises.
-- **Fondsfamilie mit Konsolidierungssperre** – mehrere Fonds mit identischem Mandat statt eines Bürgerfonds; Exit angewandt auf die eigene Institution.
+- **Belegschaftstreuhand statt Anteilsspaltung** – die korrigierte Fassung der Stimmrechtsverlagerung (Nummer 1 des Problemkatalogs). Ertragsanspruch und Stimmrecht an denselben Anteilen zu trennen, verbietet das Abspaltungsverbot (§ 717 Satz 1 BGB; § 711a Satz 2 BGB für die abtretbaren Vermögensansprüche; § 139 Absatz 2 AktG als zusätzliche Grenze). Also umdrehen statt spalten: Die Belegschaftstreuhand hält den Anteil, die Stimme folgt dem Anteil, der Fonds erhält ein gesondert bestelltes Ertragsrecht (Nießbrauch, Genussrecht, insolvenzfeste Ergebnisbeteiligung). Wo kein Träger zustande kommt, ruht das Stimmrecht. Die frühere Formulierung „Stimmrechtsverlagerung" nicht mehr als Konstruktion verwenden.
+- **Fondsfamilie als Länderfamilie mit Konsolidierungssperre** – mehrere Fonds mit identischem Mandat statt eines Bürgerfonds; Zuschnitt nach der Ertragshoheit der Länder (Art. 106 Absatz 2, 108 Absatz 2, 105 Absatz 3 GG). Die Sperre braucht einen Träger: Fusion nur mit Zustimmung der Berechtigten des betroffenen Hauses. Exit angewandt auf die eigene Institution.
 - **Abschaltkriterium** – Förderung braucht eine Schwelle mit Entscheidungsregel und gematchte Vergleiche: „Eine Kennzahl ohne Schwelle falsifiziert nichts."
-- **„Programme kann man abwählen, Eigentümer nicht"** – individuelle Berechtigung als Bestandsschutz (zweite Meidner-Lektion).
+- **„Programme kann man abwählen, Eigentümer nicht"** – individuelle Berechtigung als Bestandsschutz (zweite Meidner-Lektion), aber nur mit Eigenleistung: Art. 14 Absatz 1 GG schützt Anwartschaften nur, soweit sie auf nicht unerheblicher Eigenleistung beruhen. Deshalb Eigenbeitragselement, frühe Auszahlungen, Übertragbarkeit im Erbfall. Ohne das gilt: „Eigentum verteidigt sich – aber nur, wenn es Eigentum ist."
+- **Jede Regel bekommt einen Kläger** – die operative Fassung von Befund 9: Klagerechte statt Aufsichtszuständigkeiten, Betroffene mit eigenem Anspruch statt Behörden mit Ermessen. Eingelöst beim Kostenvergleich des Allmende-Sektors, beim Kartell- und Plattformrecht und beim Kontroll-Lock; nicht einlösbar beim Medienkonzentrationsrecht, und das steht so im Ledger.
+- **Anspruchsgesichert** – die Zwischenstufe zwischen verfahrens- und eigentumsgesichert, die der Allmende-Sektor erreicht: kein Eigentum, aber ein einklagbarer Anspruch auf Erhebung und Folge.
+- **Polyzentrik ist notwendig, aber nicht hinreichend** – der Befund aus Kapitel 22: Das internationale Staatensystem ist polyzentrisch und zugleich die gewalttätigste Ordnung. Es fehlen vier innerstaatlich stillschweigend vorausgesetzte Bauteile – gemeinsamer Rechtsraum, Exit und Voice für Betroffene, geordnete Sterblichkeit der Einheiten, Träger für die Regeln. Befund 4 nie ohne diese Einschränkung führen.
+- **Export statt Verteidigung** – die europäische Antwort: nicht deutsche Sonderregeln gegen Brüssel verteidigen, sondern in mehreren Mitgliedstaaten Eigentümer erzeugen, die dieselbe Rechtsgrundlage brauchen.
+- **Föderalismustest** – der sechste Umsetzbarkeitstest neben Rechts-, Mehrheits-, Finanz-, Widerstands- und Bestandstest: Wer zahlt, wer verwaltet, wer bekommt das Aufkommen, wer muss im Bundesrat zustimmen.
+- **Belastungstest** – für jedes Bauteil angeben, was von ihm übrigbleibt, wenn Förderung eingestellt, Gesetz geändert und Verwaltung umgebaut wird. „Was den Test nicht besteht, ist ein Programm und darf nicht als Struktur geführt werden."
 
 ## Empirische Anker (nur mit Beleg verändern)
 
@@ -73,6 +88,19 @@ Diese Befunde tragen die Argumentation. Sie dürfen präzisiert, aber nicht stil
 - Zuspitzung am Absatz- oder Sektionsende erwünscht (Muster: „Die Hülle frisst den Kern.", „Scheitert ein Modell, stirbt das Modell – nicht das Land.").
 - Fachbegriffe beim ersten Auftreten knapp erklären, danach voraussetzen.
 
+## Dokumentstruktur des Manuskripts (`manuskript/`, 26 Kapitel in acht Teilen)
+
+Eine Datei je Kapitel, `NN_kurzname.md`, plus `00_inhalt.md` mit Übersicht und Leseplan. Jedes Kapitel schließt mit einem Abschnitt *Belege*, der Fundstellen und Verifikationsstatus nennt (*bestätigt* / *mit Einschränkung* / *Wertung* / *offen*). Kapitelüberschriften sind ausgeschrieben („# Siebzehntes Kapitel"), Querverweise ebenfalls („im fünfundzwanzigsten Kapitel") – bei Umnummerierungen alle Verweise mitziehen.
+
+- **Teil I – Die Frage** (1): Werdegang, drei Methodenregeln, Bakunin-Anleihe als offener Dissens.
+- **Teil II – Die Diagnose** (2–5): DDR-Pleitefrage, verhinderte Reform, Muster über fünf Länder, Gegenprobe am Kapitalismus. Erst Kapitel 5 nennt die Systemvariable.
+- **Teil III – Warum beide Antworten nicht genügen** (6–9): Marx' Diagnose und Irrtum, der wegdefinierte Endzustand, Rost-These, Fehlertoleranz mit Zwischenbilanz der neun Befunde.
+- **Teil IV – Die Ordnung** (10–17): drei Sektoren, Belegschaftsverfassung, Allmende mit Sterberecht, Privatsektor und Sterblichkeitsregeln, Kreislaufdimension, Arbeit und Sorge, politische Architektur und Exit, drei Werktage.
+- **Teil V – Der Weg** (18–21): sechs Tests und vorhandene Bausteine, Stufe 1 bis 3, Kosten und Koalitionen.
+- **Teil VI – Die äußere Ebene** (22): die Weltordnungsebene, mit dem Befund gegen die eigene Kernthese.
+- **Teil VII – Die Proben** (23–24): marxistische Gegenprobe (acht Einwände), liberale Gegenprobe (elf Einwände).
+- **Teil VIII – Der ehrliche Rest** (25–26): Offene Flanken in drei Klassen plus Schließungsnachweis, dann die Formel.
+
 ## Dokumentstruktur des Essays (`essay_polyzentrische_ordnung.md`, Sektionen I–IX)
 
 - **I. Die Frage und das Verfahren** – drei Methodenregeln, Absage an die Utopie, die zwei Prüfsteine Funktions- und Umsetzungstest, Leseplan.
@@ -91,18 +119,19 @@ Diese Befunde tragen die Argumentation. Sie dürfen präzisiert, aber nicht stil
 - **II. Die Befunde** – neun nummerierte Befunde als Fundament; alles Spätere verweist hierauf.
 - **III. Die Ordnung** – drei konkurrierende Eigentumssektoren, politische Architektur, Designprinzipien.
 - **IV. Umsetzungspfad** – drei Stufen für die Bundesrepublik (bestehendes Recht → Strukturaufbau → Konsolidierung), Erfolgskriterien mit eingebauter Falsifizierbarkeit.
-- **V. Die marxistische Gegenprobe** – sieben Einwände mit Antworten plus abschließende Konzessionen; Vorlage für alle künftigen Gegenproben.
-- **VI. Offene Flanken** – das Ehrlichkeits-Ledger; wächst, schrumpft nie stillschweigend.
+- **V. Die marxistische Gegenprobe** – acht Einwände mit Antworten (seit 30.07.2026 einschließlich Marx gegen Lassalle) plus Konzessionen und ein Verweis auf die liberale Gegenprobe im Manuskript.
+- **VI. Offene Flanken** – das Ehrlichkeits-Ledger in drei Klassen, mit Schließungsnachweis; wächst, schrumpft nie stillschweigend.
 - **VII. Die Formel** – Verdichtung; endet auf Fehlertoleranz als ehrlichstem Kriterium.
 
 ## Backlog (Kandidaten für spätere Sessions)
 
-- Problemkatalog vom 28.07.2026 einarbeiten – er ist erhoben, aber in keinem Hauptdokument angekommen. Vorrang nach dessen Sektion VI: Nummer 1 (Abspaltungsverbot – die Stimmrechtsverlagerung ist in der beschriebenen Form gesellschaftsrechtlich nicht zulässig, Ertragsrecht statt Anteilsspaltung), Nummer 5 (Bestandsschutz braucht Eigenleistung, sonst trägt „Programme kann man abwählen, Eigentümer nicht" den Fonds nicht), Nummer 3 (Erbschaftsteuer ist Landessteuer – Föderalismustest und Länderfonds), Nummer 6 (Kapitalkonten sind kündbar: § 8a und § 73 GenG in die Mustersatzung), Nummer 10 (Sterberegel für die Fonds selbst).
-- Erledigt am 25.07.2026: Essayfassung abgeleitet, Prüfbericht vollständig eingearbeitet (Nachweis in Abschnitt G des Prüfberichts), Befund A2 entschieden (Stimmrechtsverlagerung), liberale Gegenprobe als Sektion VII ergänzt, neue Anker in `quellen_und_glossar.md` Abschnitt F eingetragen.
-- Thesenpapier nachziehen oder Differenz ausweisen (Konsistenzpflicht oben): Es enthält noch stimmrechtslose Fondsanteile, Asset Lock ohne Kapitalkonten, Stiftungsempfehlung ohne Kontroll-Lock, Vorkaufsrecht als Zwangsinstrument, Allmende-Sektor ohne Sterberecht, „unkooptierbare" Bürgerräte und die Superfest-Motivzuschreibung. Die vollständige Differenzliste mit Vorschlägen steht als Nummern 15 bis 21 im Problemkatalog.
-- Ökologische Kreislauf-Dimension weiter vertiefen (Stand: Kreislaufdimension mit Superfest-Anker, fünf Mechanismen und vergaberechtlicher Verankerung – Art. 68 RL 2014/24/EU, § 59 VgV; Flanke „Effizienz vs. Langlebigkeit" ausgewiesen).
-- EU-/Weltordnungsebene ausarbeiten (Handelsordnung, Beihilfe-, Vergabe- und Binnenmarktrecht – im Essay in V und VIII benannt, nicht ausgeführt; ausdrücklich als Lücke im Ledger).
-- Offene Verifikationsaufträge: direkte Erreichbarkeitsprüfung der URLs nachholen (bisher nur indirekt über Websuche-Indizierung möglich, 22.–25.07.2026); bibliographische Fundstellen zu Furubotn/Pejovich und Ellerman vervollständigen; Seitenangabe MEW 25, S. 456 direkt gegen die Druckausgabe prüfen.
-- Ausbaukandidaten aus dem Essay selbst: der Ausschüttungskonflikt zwischen stimmberechtigter Belegschaft und ertragsberechtigtem Fonds (Ledger, bisher nur benannt); Ausgestaltung der Konsolidierungssperre der Fondsfamilie; Umgang mit Altfällen im Stiftungsrecht; Ersatzstrategie, falls die Nachfolgewelle vor dem Aufbau des Kanals durchläuft.
+*Erledigt.* Am 25.07.2026: Essayfassung abgeleitet, Prüfbericht vollständig eingearbeitet (Nachweis in dessen Abschnitt G), Befund A2 entschieden, liberale Gegenprobe ergänzt, Anker in `quellen_und_glossar.md` Abschnitt F. Am 29.07.2026: Manuskript in 26 Kapiteln geschrieben, Problemkatalog eingearbeitet, Weltordnungsebene als Kapitel 22 abgetrennt, sechs Ledger-Flanken durch Konstruktionsänderungen geschlossen. Am 30.07.2026: Thesenpapier auf Manuskriptstand nachgezogen (Divergenzen 15 bis 21 des Problemkatalogs erledigt), Anker in `quellen_und_glossar.md` Abschnitt G.
 
-Bei Erweiterungen gilt die Reihenfolge: erst Hausregeln prüfen, dann empirische Anker sichern, dann schreiben – und jede neue Lücke im Ledger eintragen (Essay: Sektion VIII, Thesenpapier: Sektion VI).
+*Offen, nach Aufwand-Ertrag-Verhältnis:*
+
+- **Essay nachziehen oder als historische Fassung kennzeichnen.** Er ist jetzt das rückständigste Hauptdokument (siehe Konsistenzpflicht oben). Zwei Wege: nachziehen wie beim Thesenpapier – das ist Arbeit, weil seine Sektionen V und VIII stark betroffen sind – oder einen Kopfvermerk setzen, der ihn als Stand 25.07.2026 ausweist und auf das Manuskript verweist. Empfohlen wird das Zweite, weil das Manuskript den Essay funktional ersetzt.
+- **Weltordnungsebene ausarbeiten.** Kapitel 22 benennt vier Aufgaben und löst keine: eine europäische Rechtsgrundlage für belegschafts- und gemeinwohlgebundene Rechtsformen, die Einzelprüfung von Beihilfe- und Binnenmarktrecht, eine Handelsordnung, die nicht rostet, und die vier fehlenden Bauteile der internationalen Ebene. Das Kapitel sagt selbst, dass daraus ein eigenes Buch würde.
+- **Offene Verifikationsaufträge:** direkte Erreichbarkeitsprüfung der URLs aus einer Umgebung ohne Netzwerksperre (bisher nur indirekt über Websuche-Indizierung, 22.–29.07.2026); bibliographische Fundstellen zu Furubotn/Pejovich und Ellerman vervollständigen; Seitenangaben MEW 25, S. 456 und Engels' „Verwaltung von Sachen" gegen die Druckausgabe prüfen; Landesbanken-Größenordnung gegen amtliche Quellen sichern.
+- **Ausbaukandidaten aus dem Manuskript selbst:** die Konsortialform für kapitalintensive Großindustrie (benannt, unbelegt); das Rechenverfahren für Lebenszykluskosten und den Ersatzfall; der Modellversuch zu entkoppelten Prämien; und die im Ledger als unentschieden geführten Fragen, sobald es dazu Fälle gibt.
+
+Bei Erweiterungen gilt die Reihenfolge: erst Hausregeln prüfen, dann empirische Anker sichern (und in `quellen_und_glossar.md` eintragen), dann schreiben – und jede neue Lücke im Ledger eintragen (Manuskript: Kapitel 25, Thesenpapier: Sektion VI, Essay: Sektion VIII). Wird eine Flanke durch eine Konstruktionsänderung geschlossen, wandert sie in das zuständige Sachkapitel und der Schließungsnachweis in das Ledger – schrumpfen darf es, stillschweigend nicht.
