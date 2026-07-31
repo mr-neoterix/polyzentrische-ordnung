@@ -1,0 +1,86 @@
+name: Manuskript-PDF
+
+# Bei jeder Änderung am Manuskript wird das Buch neu gesetzt. Das Ergebnis
+# hängt als Artefakt am Lauf und lässt sich dort herunterladen.
+
+on:
+  push:
+    paths:
+      - 'manuskript/**'
+      - 'satz/**'
+      - '.github/workflows/manuskript-pdf.yml'
+  pull_request:
+    paths:
+      - 'manuskript/**'
+      - 'satz/**'
+      - '.github/workflows/manuskript-pdf.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+# Wer zweimal hintereinander schiebt, braucht nur den zweiten Satz.
+concurrency:
+  group: manuskript-pdf-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  satz:
+    name: Buch setzen
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Quellen holen
+        uses: actions/checkout@v4
+
+      - name: Satzwerkzeuge einrichten
+        run: |
+          sudo apt-get update -qq
+          sudo DEBIAN_FRONTEND=noninteractive apt-get install -y -qq \
+            --no-install-recommends \
+            pandoc \
+            texlive-luatex \
+            texlive-latex-recommended \
+            texlive-lang-german \
+            texlive-fonts-recommended \
+            fonts-texgyre \
+            poppler-utils
+
+      - name: Buch setzen
+        run: python3 satz/build.py
+
+      - name: Ergebnis vermerken
+        run: |
+          pdf=build/polyzentrische-ordnung-manuskript.pdf
+          seiten=$(pdfinfo "$pdf" | awk '/^Pages:/ {print $2}')
+          groesse=$(du -h "$pdf" | cut -f1)
+          {
+            echo "### Manuskript gesetzt"
+            echo
+            echo "| | |"
+            echo "|---|---|"
+            echo "| Seiten | ${seiten} |"
+            echo "| Umfang | ${groesse} |"
+            echo "| Quellstand | \`${GITHUB_SHA:0:7}\` |"
+            echo
+            echo "Das PDF hängt als Artefakt **manuskript-pdf** an diesem Lauf."
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: PDF als Artefakt ablegen
+        uses: actions/upload-artifact@v4
+        with:
+          name: manuskript-pdf
+          path: build/polyzentrische-ordnung-manuskript.pdf
+          if-no-files-found: error
+
+      # Scheitert der Satz, ist der zusammengesetzte Quelltext das, woran man
+      # den Fehler sieht – deshalb wird er dann mitgegeben.
+      - name: Zwischenstand bei Fehlschlag ablegen
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: manuskript-zwischenstand
+          path: build/
+          if-no-files-found: ignore
+          retention-days: 7

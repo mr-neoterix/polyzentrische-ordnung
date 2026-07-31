@@ -125,6 +125,18 @@ Eine Datei je Kapitel, `NN_kurzname.md`, plus `00_inhalt.md` mit Übersicht und 
 - **VI. Offene Flanken** – das Ehrlichkeits-Ledger in drei Klassen, mit Schließungsnachweis; wächst, schrumpft nie stillschweigend.
 - **VII. Die Formel** – Verdichtung; endet auf Fehlertoleranz als ehrlichstem Kriterium.
 
+## Satz des Manuskripts (`satz/`)
+
+Aus den Kapiteldateien wird bei jeder Änderung an `manuskript/` automatisch ein Buch-PDF gesetzt (GitHub-Action `.github/workflows/manuskript-pdf.yml`, Satzskript und LaTeX-Vorlage in `satz/`, Ergebnis als Artefakt `manuskript-pdf` am jeweiligen Lauf). Das ist Werkzeug, nicht Inhalt – aber es macht drei Formregeln des Manuskripts tragend, die vorher bloß Konvention waren:
+
+*Erstens:* Jede Kapiteldatei beginnt mit der ausgeschriebenen Kapitelbezeichnung als `#` und dem Kapiteltitel als `##`. Beide zusammen ergeben den Kapitelanfang im Satz. Alle weiteren Überschriften der Datei – ob `##` wie in Kapitel 25 oder `###` wie sonst – gelten als Abschnitte des Kapitels.
+
+*Zweitens:* Der Belegapparat steht am Dateiende unter einer Überschrift `Belege` und wird als Apparat gesetzt, kleiner und mit Abstand statt Einzug.
+
+*Drittens:* Die Zuordnung der Kapitel zu den acht Teilen liest der Satz aus dem Abschnitt *Aufbau* in `manuskript/00_inhalt.md` – fette Zeilen `**Teil I – Die Frage**`, darunter kursive Kapitelzeilen `*1. Eine Frage, die weiterführte.*`. Wer ein Kapitel einfügt oder verschiebt, pflegt diese Liste mit, sonst fehlt dem Kapitel die Teilseite. Der Lauf sagt es, aber er bricht deswegen nicht ab.
+
+Am Text ändert der Satz nichts als zweierlei Form: das schließende Anführungszeichen (die Quellen schreiben `„Zitat"`, gesetzt wird das deutsche Paar) und hoch- oder tiefgestellte Ziffern, die die Brotschrift nicht mitführt. Beides geschieht auf dem Weg ins PDF; die Quellen bleiben unangetastet. Näheres in `satz/README.md`.
+
 ## Backlog (Kandidaten für spätere Sessions)
 
 *Erledigt.* Am 25.07.2026: Essayfassung abgeleitet, Prüfbericht vollständig eingearbeitet (Nachweis in dessen Abschnitt G), Befund A2 entschieden, liberale Gegenprobe ergänzt, Anker in `quellen_und_glossar.md` Abschnitt F. Am 29.07.2026: Manuskript in 26 Kapiteln geschrieben, Problemkatalog eingearbeitet, Weltordnungsebene als Kapitel 22 abgetrennt, sechs Ledger-Flanken durch Konstruktionsänderungen geschlossen. Am 30.07.2026: Thesenpapier auf Manuskriptstand nachgezogen (Divergenzen 15 bis 21 des Problemkatalogs erledigt), Anker in `quellen_und_glossar.md` Abschnitt G.
