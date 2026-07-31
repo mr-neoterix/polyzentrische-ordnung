@@ -2,8 +2,21 @@
 
 Hier liegt, was aus den Kapiteldateien in `manuskript/` ein Buch-PDF macht.
 Der Satz läuft bei jeder Änderung am Manuskript automatisch
-(`.github/workflows/manuskript-pdf.yml`); das Ergebnis hängt als Artefakt
-`manuskript-pdf` am jeweiligen Lauf unter *Actions*.
+(`.github/workflows/manuskript-pdf.yml`).
+
+Das Ergebnis geht zwei Wege. Jeder Lauf hängt es als Artefakt
+`manuskript-pdf` unter *Actions* an – auch für Zweige und Pull Requests,
+aber nur mit Anmeldung erreichbar und nach neunzig Tagen verfallen. Läuft
+der Satz auf dem Hauptzweig, wandert es zusätzlich an die Veröffentlichung
+unter der Marke `manuskript-aktuell`, und die ist ohne Anmeldung offen. Ihr
+Verweis bleibt derselbe, während sich der Anhang ändert:
+
+```
+https://github.com/mr-neoterix/polyzentrische-ordnung/releases/latest/download/polyzentrische-ordnung-manuskript.pdf
+```
+
+Die Marke bleibt dabei stehen, wo sie angelegt wurde; aus welchem Stand das
+PDF gesetzt wurde, sagt der Text der Veröffentlichung.
 
 | Datei | Aufgabe |
 |---|---|

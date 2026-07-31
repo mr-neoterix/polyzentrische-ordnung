@@ -10,7 +10,7 @@ Die ausgeführte Fassung: **[essay_polyzentrische_ordnung.md](essay_polyzentrisc
 
 Die literarische Buchfassung: **[manuskript/](manuskript/)** – ein kapitelweise gegliedertes Manuskript in 26 Kapiteln, das die Herleitung didaktisch entfaltet: Begriffe und historische Fälle werden erklärt statt vorausgesetzt, jedes Kapitel schließt mit eigenem Belegapparat samt Verifikationsstatus. Es arbeitet die Lösungsvorschläge des Problemkatalogs vom 28.07.2026 ein und führt die Weltordnungsebene als eigenes Kapitel. Übersicht und Leseplan in [manuskript/00_inhalt.md](manuskript/00_inhalt.md).
 
-Aus dem Manuskript wird bei jeder Änderung automatisch ein Buch-PDF gesetzt – Titelei, Inhaltsverzeichnis, acht Teilseiten, 26 Kapitel mit ihrem Belegapparat. Es hängt als Artefakt `manuskript-pdf` am jeweiligen Lauf unter *Actions*; wie es entsteht und wie man es örtlich baut, steht in [satz/README.md](satz/README.md).
+Zum Lesen am Stück: **[das Manuskript als PDF](https://github.com/mr-neoterix/polyzentrische-ordnung/releases/latest/download/polyzentrische-ordnung-manuskript.pdf)** – Titelei, Inhaltsverzeichnis, acht Teilseiten, 26 Kapitel mit ihrem Belegapparat. Der Verweis zeigt immer auf den letzten Stand: Bei jeder Änderung am Manuskript wird das Buch neu gesetzt und die Veröffentlichung ausgetauscht. Wie der Satz entsteht und wie man ihn örtlich baut, steht in [satz/README.md](satz/README.md).
 
 Das kompakte Thesenpapier: **[polyzentrische_ordnung.md](polyzentrische_ordnung.md)**
 

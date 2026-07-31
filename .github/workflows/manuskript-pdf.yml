@@ -29,6 +29,9 @@ jobs:
     name: Buch setzen
     runs-on: ubuntu-latest
     timeout-minutes: 20
+    # Schreibrecht braucht allein der letzte Schritt: die Veröffentlichung.
+    permissions:
+      contents: write
 
     steps:
       - name: Quellen holen
@@ -73,6 +76,37 @@ jobs:
           name: manuskript-pdf
           path: build/polyzentrische-ordnung-manuskript.pdf
           if-no-files-found: error
+
+      # Ein Artefakt ist nur mit Anmeldung erreichbar und verfällt. Damit das
+      # Buch von außen sichtbar bleibt, hängt es zusätzlich an einer rollenden
+      # Veröffentlichung des Hauptzweigs: Die Marke bleibt stehen, der Anhang
+      # wird bei jedem Satz ersetzt. Der Verweis darauf ist deshalb dauerhaft.
+      - name: Veröffentlichung aktualisieren
+        if: github.event_name != 'pull_request' && github.ref_name == github.event.repository.default_branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+          MARKE: manuskript-aktuell
+        run: |
+          pdf=build/polyzentrische-ordnung-manuskript.pdf
+          stand=$(sed -n 's/^\*Manuskript\. \(Stand: .*\)\.\*$/\1/p' manuskript/00_inhalt.md | head -1)
+          seiten=$(pdfinfo "$pdf" | awk '/^Pages:/ {print $2}')
+          notiz=$(printf '%s\n' \
+            "Das Manuskript als Buch-PDF – ${stand:-ohne Standangabe}, ${seiten} Seiten." \
+            "" \
+            "Gesetzt aus \`${GITHUB_SHA:0:7}\`. Diese Veröffentlichung rollt: Ihr Anhang ist" \
+            "immer der zuletzt gesetzte Stand des Hauptzweigs, die Marke selbst bleibt stehen." \
+            "" \
+            "Geändert wird im Markdown unter \`manuskript/\`, nicht im PDF.")
+          if gh release view "$MARKE" > /dev/null 2>&1; then
+            gh release upload "$MARKE" "$pdf" --clobber
+            gh release edit "$MARKE" --title "Manuskript – aktueller Stand" --notes "$notiz" --latest
+          else
+            gh release create "$MARKE" "$pdf" \
+              --target "$GITHUB_SHA" \
+              --title "Manuskript – aktueller Stand" \
+              --notes "$notiz" \
+              --latest
+          fi
 
       # Scheitert der Satz, ist der zusammengesetzte Quelltext das, woran man
       # den Fehler sieht – deshalb wird er dann mitgegeben.
