@@ -1,0 +1,271 @@
+# Die Sippe als Sorgeträger
+
+## Konzeptpapier zur offenen Flanke der Sorgearbeit
+
+Stand: 31.07.2026.
+
+Dieses Papier prüft einen Vorschlag: ob ein gesellschaftliches Konzept der Sippe – als Rechtsform, steuerlich bevorzugt – die offene Flanke schließen kann, die das Manuskript im fünfzehnten Kapitel benennt und im fünfundzwanzigsten unter „Grenzen der Reichweite" führt. Und ob sich die Grundsätze der polyzentrischen Ordnung in ein solches Konzept einbauen lassen, ohne dass es aufhört, ein Sorgekonzept zu sein.
+
+Es ist ein Arbeitsdokument wie der Problemkatalog, kein Hauptdokument. Es ändert weder Manuskript noch Thesenpapier; was zu ändern wäre, wenn der Vorschlag angenommen wird, steht vollständig in Abschnitt X. Der Grund für diese Trennung ist die Konsistenzpflicht: Eine tragende Konstruktion, die hier entsteht, müsste in beiden Fassungen zugleich stehen, und diese Entscheidung gehört nicht in ein Konzeptpapier.
+
+Die Zählungen des Projekts gelten unverändert. „Befund N" meint die neun Befunde der Sektion II des Thesenpapiers und der Zwischenbilanz in Kapitel 9; „Kapitel N" ein Manuskriptkapitel; „Nummer N" einen Eintrag des Problemkatalogs. Die Bauteile, die dieses Papier neu vorschlägt, tragen Namen und keine Nummern.
+
+Für die empirischen und rechtlichen Behauptungen gilt Hausregel 6. Sie sind am 31.07.2026 per Websuche geprüft und mit Verifikationsstatus in Abschnitt XI ausgewiesen. Was ungeprüft ist, steht als ungeprüft da.
+
+---
+
+## I. Was in der Flanke steckt
+
+Der Ledger-Eintrag lautet: „Diese Ordnung verteilt Eigentum an Betrieben. Sie kann Sorgearbeit teilweise entkommerzialisieren, weil Gesundheit, Pflege und Wohnen im Allmende-Sektor liegen, und sie kann verhindern, dass ihre eigenen Gremien Sorgeverpflichtete systematisch aussieben. Wer zu Hause die Wäsche macht, entscheidet sie nicht."
+
+Der Satz ist richtig und er ist zu grob. In ihm stecken drei verschiedene Fragen, die verschiedene Antworten haben und in der Zusammenfassung dieselbe bekommen haben.
+
+*Die erste Frage* lautet: Wer macht die Arbeit? Wer wäscht, kocht, tröstet, wechselt Verbände, sitzt nachts am Bett. Diese Frage kann eine Eigentumsordnung tatsächlich nicht entscheiden. Sie fällt in jedem Haushalt neu, aus Gewohnheit, Zuneigung, Erschöpfung und Verhandlungsmacht, und kein Gesetzgeber greift dorthin. Der Eintrag gehört für sie in Klasse I und bleibt dort.
+
+*Die zweite Frage* lautet: Wer bekommt etwas dafür? Und diese Frage ist vollständig entscheidbar, sie ist längst entschieden, und die geltende Entscheidung heißt: fast nichts. Sie ist Steuerrecht, Sozialversicherungsrecht und Erbrecht – also genau das Material, aus dem dieses Projekt seine anderen Bauteile schneidet.
+
+*Die dritte Frage* lautet: Wer trägt die Infrastruktur, die die Arbeit erleichtert oder ersetzt? Sie ist im Manuskript beantwortet: Betreuung, Pflege und Gesundheit liegen im Allmende-Sektor, und für den gilt das zwölfte Kapitel mit Kostenvergleich, Sterberecht und Klagerecht.
+
+Die Flanke ist also nicht eine, sondern eine echte Grenze mit zwei entscheidbaren Fragen daneben, und die zweite ist bisher nicht bearbeitet worden. **Die Ordnung kann nicht entscheiden, wer die Wäsche macht. Sie kann entscheiden, ob jemand dadurch Eigentümer wird.**
+
+Und sie schuldet diese Entscheidung, weil sie überall sonst genau so argumentiert. Befund 9 sagt: Eigentum verteidigt sich, Regeln muss man verteidigen. Auf die Sorgearbeit angewandt ergibt das eine unbequeme Diagnose: Sorgearbeit erzeugt heute keinen Titel, sondern einen Rest. Wer sie leistet, hat am Ende keine Position, die sich verteidigt – kein Kapitalkonto, keine Anwartschaft mit Eigenleistung, keine Stimme in irgendeinem Gremium, das über etwas entscheidet. Er hat eine Biographie mit Lücken.
+
+## II. Der Befund: die Sorgesphäre ist monozentrisch organisiert
+
+Bevor konstruiert wird, gehört die Diagnose gestellt, und zwar nach der Methode dieses Projekts: rückwärts aus dem Scheitern, nicht vorwärts aus dem Ideal.
+
+Die Größenordnung zuerst, damit die Skizze nicht schwebt. Der Gender Care Gap – der Unterschied im täglichen Aufwand für unbezahlte Arbeit – lag 2022 bei 44,3 Prozent; Frauen leisteten rund 29, Männer rund 20 Wochenstunden unbezahlte Arbeit. Der Wert war 2012/13 noch deutlich höher, nämlich 52,4 Prozent, die Bewegung geht also in die richtige Richtung und ist langsam. Die Bruttowertschöpfung der Haushaltsproduktion bezifferte das Statistische Bundesamt für 2013 auf 987 Milliarden Euro, rund 39 Prozent des Bruttoinlandsprodukts. Im Dezember 2023 waren 5,7 Millionen Menschen pflegebedürftig; 86 Prozent von ihnen wurden zu Hause versorgt, zwei Drittel – 3,8 Millionen – überwiegend durch Angehörige, und 3,1 Millionen bezogen ausschließlich Pflegegeld, also die Geldleistung, die an die Stelle eines Dienstes tritt und in aller Regel in der Familie bleibt.
+
+Das ist kein Randbereich der Volkswirtschaft. Es ist, gemessen an der Wertschöpfung, der größte Sektor des Landes, und er hat keine Eigentumsverfassung.
+
+Nun die Diagnose. Warum ist diese Arbeit unbezahlt? Nicht, weil niemand sie schätzt – sie wird in jeder Sonntagsrede geschätzt. Sondern weil ihr alle vier Bauteile fehlen, an denen dieses Projekt sonst die Funktionsfähigkeit einer Institution misst.
+
+*Es fehlt der Träger.* Es gibt niemanden, der von der Anerkennung der Sorgearbeit materiell lebt und deshalb um sie kämpft. Die Nutznießer sind alle, das Interesse ist diffus, und das ist exakt Olsons Konstellation aus der Rost-These. Die Gegenseite ist keine Lobby, sondern die Bequemlichkeit eines Zustands, den alle kennen.
+
+*Es fehlt der Exit.* Wer aus einer Sorgebeziehung aussteigt, verliert in der Regel alles, was er in ihr aufgebaut hat, weil er nichts aufgebaut hat, was ihm gehört. Ein Exit ohne mitnehmbare Position ist kein Exit, sondern ein Absturz – und Hirschman gilt hier wie überall: Wo Abwanderung unbezahlbar ist, verliert auch der Widerspruch seine Kraft. Die schwache Stellung in der Aushandlung darüber, wer wäscht, hat hier ihren Grund.
+
+*Es fehlt die harte Budgetbeschränkung.* Der Haushalt ist die letzte Institution mit unbegrenzter Verlustdeckung: Was an Diensten fehlt, wird durch unbezahlte Zeit ersetzt, und diese Zeit erscheint in keiner Rechnung. Die Pflegeversicherung hat das nicht übersehen, sie hat darauf gebaut. § 3 SGB XI stellt seit 1995 den Vorrang der häuslichen Pflege fest und verspricht ausdrücklich, „die Pflegebereitschaft der Angehörigen und Nachbarn" zu unterstützen. Das ist keine Beschreibung, das ist eine Kalkulationsgrundlage. **Die deutsche Pflegeversicherung ist längst eine Sippenordnung: Sie rechnet mit der Familie und bezahlt sie nicht.**
+
+*Und es fehlt die Polyzentrik.* Es gibt für die Sorge im Ernstfall genau einen Träger. Der Markt ist teuer und für existenzielle Lagen ein schlechter Koordinator – ein Mensch, der akut pflegebedürftig ist, ist kein souveräner Nachfrager, das steht im zehnten Kapitel. Die öffentliche Infrastruktur ist lückenhaft und im Zweifel nachrangig, per Gesetz. Bleibt der Haushalt, und der ist keine Wahl, sondern ein Auffangbecken. **Die Sorgesphäre ist der letzte monozentrische Sektor dieser Gesellschaft** – und Monokulturen sind anfällig, gleichgültig aus welcher Pflanze sie bestehen.
+
+Damit ist die Flanke nicht mehr das, wofür sie gehalten wurde. Sie ist nicht die Grenze einer Eigentumsordnung, sondern die Stelle, an der das Projekt seine eigene Diagnose nicht angewandt hat.
+
+## III. Was am Wort „Sippe" trägt und was nicht
+
+Der Vorschlag benutzt ein belastetes Wort, und der Umgang damit entscheidet, ob aus ihm eine Konstruktion wird.
+
+Zwei Einwände sind zu trennen. Der erste ist historisch: „Sippe" ist im Deutschen kein neutrales Wort mehr. Der Nationalsozialismus hat es zum Rechtsbegriff gemacht – Sippenamt, Sippenforschung, Ahnenpass, Sippenhaft –, und zwar genau in der Bedeutung, die hier zu vermeiden ist: Zugehörigkeit durch Abstammung, mit Folgen für Rechte und Pflichten. Wer das Wort benutzt, muss diese Bedeutung ausdrücklich abstreifen, sonst trägt sie mit.
+
+Der zweite Einwand ist der wichtigere, weil er nicht am Wort hängt, sondern an der Sache. Ein Kriterium der Abstammung verstößt gegen zwei Grundsätze dieser Ordnung zugleich. Es verstößt gegen die *offene Mitgliedschaft*: Der genossenschaftliche Sektor wird nur begünstigt, wenn er Mitgliedschaftspfade für alle Tätigen öffnet, weil eine geschlossene Gruppe ihre Vorteile nach innen zieht und die Außenstehenden zu Werkzeugen macht – das ist der Ward-Effekt, und er gilt für Familien nicht weniger als für Belegschaften. Und es verstößt gegen die *Insider-Outsider-Prüfung* aus Sektion VI des Thesenpapiers, nach der jede Einhegung an ihren Außenstehenden gemessen wird. Eine steuerlich privilegierte Abstammungsgemeinschaft ist die Insider-Institution in Reinform.
+
+Was am Begriff dennoch trägt, und weshalb er als Suchbild besser ist als seine harmlosen Alternativen: Er meint etwas, das „Haushalt" und „Partnerschaft" nicht meinen. Er meint *Mehrgenerationalität* – die Einheit umfasst Alte und Kinder, nicht nur erwerbsfähige Erwachsene. Er meint *Unbefristetheit* – man tritt nicht für ein Projekt ein, sondern auf unbestimmte Zeit. Er meint *Wechselseitigkeit über die Zeit* statt Leistungsaustausch im Moment: Wer heute pflegt, wird später gepflegt, und niemand rechnet auf. Und er meint eine Einheit, die *größer ist als das Paar und kleiner als die Gemeinde* – genau die Größenordnung, in der Ostroms Mechanismen nachweislich funktionieren.
+
+Daraus folgt die Konstruktionsregel, und sie ist dieselbe wie bei der Auslandsbedingung des elften Kapitels: **Das Kriterium ist die Tätigkeit, nicht der Status.** Die Sippe ist als Analyseform brauchbar und als Rechtsform unbrauchbar, weil ihr Kriterium die Abstammung ist. Was gebaut wird, behält ihre Funktion und streicht ihr Kriterium.
+
+Die Rechtsform heißt in diesem Papier deshalb *Sorgegemeinschaft*. Der Vorschlag ist nicht neu, und das ist sein größter Vorzug: Das Bundesjustizministerium hat am 5. Februar 2024 Eckpunkte für eine „Verantwortungsgemeinschaft" vorgelegt – notariell beurkundeter Vertrag, höchstens sechs Vertragspartner, nur Volljährige, Voraussetzung eine tatsächliche persönliche Nähebeziehung, mit Modulen für das Zusammenleben und für Sorge und Zuwendung, einschließlich der Prüfung, ob die Freistellungsansprüche des Pflegezeit- und Familienpflegezeitgesetzes auf sie übertragen werden. Ein Gesetz wurde daraus nicht; nach dem Bruch der Koalition Ende 2024 blieb der angekündigte Referentenentwurf aus.
+
+Der Grund für das Scheitern ist für diesen Vorschlag lehrreicher als das Vorhaben selbst: Die Eckpunkte enthielten kein Geld. Sie boten Rechtsverhältnisse ohne materielle Folge – und eine Rechtsform ohne materielle Folge hat keinen Träger, der um sie kämpft. Sie ist genau das, was Befund 9 beschreibt: eine Regel, die niemand verteidigt, und sie ist folgerichtig nicht einmal geboren worden.
+
+## IV. Die Konstruktion: vier Bauteile
+
+### 1. Die Sorgegemeinschaft als Rechtsform
+
+Registriert durch Erklärung, zwischen zwei und sechs volljährigen Personen, ohne Voraussetzung von Abstammung, Ehe, Partnerschaft oder gemeinsamem Wohnsitz. Wer verwandt ist, kann sich registrieren; wer es nicht ist, ebenso. Die bestehende Familie ist ein Anwendungsfall der Form und nicht ihr Maßstab.
+
+Drei Bestimmungen machen aus der Registrierung eine Institution statt einer Etikette. *Eine Sorgevereinbarung,* die benennt, wer welche Sorge übernimmt, und die periodisch neu zu beschließen ist. *Eine Mindestdauer* von drei Jahren für die steuerliche Wirkung, damit die Form nicht jährlich nach Steuerlage gewechselt wird. *Und die Einmaligkeit:* Eine Person gehört zu einer Sorgegemeinschaft, nicht zu mehreren – sonst summieren sich Privilegien statt der Sorge.
+
+Der Austritt ist jederzeit möglich, einseitig, ohne Grund und ohne Zustimmung der übrigen. Was an Ansprüchen erworben wurde, geht mit. Das ist keine Nebenbestimmung, sondern das tragende Element; Abschnitt V begründet, warum.
+
+### 2. Das Sorgekonto
+
+Das eigentliche Bauteil, und es ist die Übertragung der Kapitalkonten des elften Kapitels auf eine Arbeit, die keinen Betrieb hat.
+
+Geleistete Sorge wird einem *individuellen, mitnehmbaren Konto* gutgeschrieben, das eine Anwartschaft in der Fondsfamilie des zwanzigsten Kapitels begründet. Nicht ein Lohn, nicht eine Leistung, nicht ein Punkt in einem Programm, sondern eine Eigentumsposition mit Erträgen, die dem Berechtigten gehört und ihm auch dann gehört, wenn die Sorgegemeinschaft, in der sie erworben wurde, nicht mehr besteht.
+
+Gutgeschrieben wird *Zeit*, nicht Geld, und zwar zu einem für alle gleichen Satz. Das ist der entscheidende Unterschied zu jedem Splitting- oder Freibetragsmodell: Ein Vorteil, der über den Steuersatz wirkt, ist für hohe Einkommen mehr wert; eine Gutschrift je Stunde ist für alle gleich viel wert. Wer die Sorgearbeit über das Steuertarifrecht honoriert, honoriert am stärksten die Sorgearbeit in wohlhabenden Haushalten.
+
+Bleibt die Frage, wie Sorge gemessen wird, ohne einen Kontrollapparat zu bauen – und hier liegt die eigentliche Nachricht dieses Abschnitts: Das Recht misst sie längst. § 19 SGB XI kennt den Begriff der Pflegeperson, die nicht erwerbsmäßig in häuslicher Umgebung pflegt; § 44 SGB XI knüpft daran Rentenbeiträge, wenn mindestens zehn Wochenstunden auf mindestens zwei Tage verteilt geleistet werden, der Pflegebedürftige mindestens Pflegegrad 2 hat und die Pflegeperson höchstens dreißig Wochenstunden erwerbstätig ist; festgestellt wird das im Einzelfall durch den Medizinischen Dienst. § 56 SGB VI rechnet Kindererziehungszeiten als Beitragszeiten an, und der Bund zahlt dafür Beiträge in einer Größenordnung von 19,2 Milliarden Euro für 2025 nach 18,14 Milliarden im Vorjahr.
+
+Das heißt: **Deutschland behandelt Sorgearbeit bereits als Beitrag – im Rentenrecht, mit einem zweistelligen Milliardenbetrag im Jahr.** Der Vorschlag erfindet nichts, er ändert die Form des Ertrags. Und der Grund, warum die Form zählt, steht im zwanzigsten Kapitel: Rentenpunkte kann eine Mehrheit ändern, und genau das geschieht mit der Mütterrente in jeder Legislaturperiode – 2014 eingeführt, 2019 erweitert, für 2027 erneut erweitert, inzwischen mit rund 13,5 Milliarden Euro jährlich zu Buche schlagend und aus wechselnden Quellen finanziert. Ein Programm mit hohem Preis und ohne Bestandsschutz. **Programme kann man abwählen, Eigentümer nicht** – die zweite Meidner-Lektion gilt hier wörtlich.
+
+Eine Bedingung ist dabei unabdingbar, und sie folgt aus den Designprinzipien des zehnten Kapitels. Eine Gutschrift, der kein Vermögen gegenübersteht, ist keine Eigentumsposition, sondern ein Zahlungsversprechen aus künftigen Haushalten – also genau die weiche Budgetbeschränkung, die dieses Projekt der DDR und den Landesbanken anrechnet. Das Sorgekonto muss deshalb *gedeckt* sein: Die Mittel, die aus der Umwidmung des nächsten Abschnitts frei werden, fließen als Dotierung in die Länderfonds und erwerben dort die Bestände, gegen die die Konten laufen. Ohne diese Deckung ist der Vorschlag ein Umlageverfahren mit Eigentumsanmutung – dieselbe Konstruktionsfalle, vor der das elfte Kapitel bei den Kapitalkonten warnt, wenn Mindestkapitalklausel und gestreckte Auszahlung fehlen. Und wenn die Umwidmung politisch nicht zu haben ist, dann wächst das Konto langsamer, statt ungedeckt zu wachsen.
+
+Daraus ergibt sich der Kreis, der diesen Vorschlag zusammenhält, und er ist die Pointe der ganzen Konstruktion: **Die Erben, die nicht gesorgt haben, finanzieren die Konten derer, die gesorgt haben.** Die Umstellung der Erbschaftsteuerklassen erzeugt genau dort Aufkommen, wo die Abstammung heute ein Privileg ohne Leistung trägt, und dieses Aufkommen deckt die Position derer, deren Leistung heute kein Privileg trägt. Es ist dieselbe Bewegung wie in Stufe zwei, nur in der Sorgesphäre: kein neuer Topf, sondern eine andere Zurechnung.
+
+Und damit löst dieses Bauteil ein zweites Problem, das gar nicht seines ist. Das zwanzigste Kapitel braucht für die Fondsanwartschaft ein *Eigenbeitragselement*, weil Artikel 14 Absatz 1 GG Anwartschaften nur schützt, soweit sie auf nicht unerheblicher Eigenleistung beruhen, und weil eine unentgeltlich zugeteilte Anwartschaft gerade keine solche Position ist. Bisher besteht dieses Element aus einer kleinen Einzahlung oder der Einbringung von Kapitalkonten – also aus Geld. Sorgearbeit ist die andere Eigenleistung, und sie ist die, die diejenigen erbringen können, die kein Geld haben. Der Fonds bekommt eine zweite Klasse von Einzahlern, deren Beitrag unbestreitbar Arbeit ist, und die Sorgearbeit bekommt das Gefäß, in dem sie sich in Eigentum verwandelt. Nebenbei wird die Konsolidierungssperre des zwanzigsten Kapitels dadurch stärker: Eine Zusammenlegung von Fonds bedarf der Zustimmung der Berechtigten des betroffenen Hauses, und diese Berechtigten sind dann nicht mehr nur diejenigen, die Geld einzahlen konnten.
+
+### 3. Umwidmung statt Neubau
+
+Drei steuerliche Bevorzugungen dieser Art existieren bereits. Sie sind erheblich, und sie sind auf ein Kriterium ausgerichtet, das nicht die Sorge ist.
+
+*Das Ehegattensplitting.* Es begünstigt nicht die Sorge, sondern die Einkommensdifferenz zwischen Verheirateten – am stärksten dort, wo einer viel und der andere wenig verdient, unabhängig davon, ob jemand gepflegt, erzogen oder nur nicht gearbeitet hat. Das Bundesverfassungsgericht hat es 1982 nicht als Subvention, sondern als Ausdruck der ehelichen Erwerbs- und Verbrauchsgemeinschaft gedeutet, und 2013 seine Ausdehnung auf eingetragene Lebenspartnerschaften erzwungen. Das ist die Rechtslage, an der jede Reform sich messen muss – und zugleich der Beleg, dass die Ausdehnung auf weitere Gemeinschaftsformen der leichtere Weg ist als die Abschaffung. Der Vorschlag lautet deshalb: nicht abschaffen, sondern das Anknüpfungsmerkmal wechseln. Ein *Sorgesplitting* mit gedeckeltem Übertragungsbetrag folgt der registrierten und tatsächlich geleisteten Sorge statt der Eheurkunde; bestehende Ehen genießen Bestandsschutz, wie die Altfälle des dreizehnten Kapitels. Die Größenordnung ist als Band zu führen und nicht als Punkt: Schätzungen zum fiskalischen Volumen einer Splitting-Reform reichen je nach Variante und Verhaltensannahme von rund acht bis zu rund 25 Milliarden Euro jährlich.
+
+*Die Steuerklassen der Erbschaftsteuer.* Hier ist die geltende Sippendefinition am deutlichsten. § 15 ErbStG teilt die Erwerber nach Abstammung und Ehe in drei Klassen; § 16 gibt dem Ehegatten 500.000, dem Kind 400.000, dem Enkel 200.000 Euro Freibetrag, allen übrigen 20.000; § 19 belegt Klasse I mit 7 bis 30, Klasse III mit 30 bis 50 Prozent. Wer gepflegt hat, ohne verwandt zu sein, ist Klasse III. Wer nie da war, aber Kind ist, ist Klasse I. Daneben steht, fast als Eingeständnis, § 13 Absatz 1 Nummer 9 ErbStG: 20.000 Euro steuerfrei für den, der dem Erblasser unentgeltlich Pflege oder Unterhalt gewährt hat – ein Freibetrag, der beantragt werden muss und den der Bundesfinanzhof 2013 auch Kindern mit gesetzlicher Unterhaltspflicht zugestanden hat. Das ist der Keim der Reform und ihre Karikatur zugleich: Die Sorge ist im Erbschaftsteuerrecht anerkannt, und sie ist ein Zwanzigstel dessen wert, was die Abstammung wert ist. Der Vorschlag: Die Klassenzuordnung folgt der registrierten Sorge, nicht der Verwandtschaft. Wer gepflegt hat, kommt in Klasse I; wer nur erbt, bekommt einen Grundfreibetrag und den Tarif der Klasse II.
+
+*Und § 35a EStG.* Zwanzig Prozent, höchstens 4.000 Euro, für haushaltsnahe Dienstleistungen einschließlich Pflege- und Betreuungsleistungen, gegen Rechnung und unbare Zahlung. Das Steuerrecht begünstigt also das *Einkaufen* von Sorge und ignoriert ihr *Leisten*. Das ist keine Bosheit, sondern eine Folge der Messbarkeit – Rechnungen kann man prüfen, Zuwendung nicht. Aber es ist eine Asymmetrie mit Verteilungswirkung, denn Sorge einkaufen kann, wer Geld hat.
+
+Der Finanztest dieses Vorschlags beruht deshalb auf einer Umwidmung und nicht auf einem neuen Titel. Das ist nicht nur haushaltspolitisch bequem, sondern ordnungspolitisch nötig: Ein neuer Fördertopf wäre ein Programm und stünde beim ersten Konsolidierungsdruck zur Disposition.
+
+### 4. Die Sterblichkeitsregeln der Sorgegemeinschaft
+
+Und nun die Stelle, an der der Vorschlag in sein Gegenteil kippt, wenn man ihn nur halb baut. Sie ist dieselbe wie beim Asset Lock im dreizehnten Kapitel und verdient dieselbe Härte.
+
+Eine steuerlich privilegierte, mehrgenerationale, dauerhafte Personengemeinschaft ist von einer Familienstiftung nur durch das getrennt, was man ihr verbietet. Wer sie bauen darf, ohne sie sterblich zu machen, hat das effektivste Dynastie-Instrument des deutschen Rechts noch einmal erfunden – diesmal mit dem Etikett der Fürsorge. **Ein Sippenprivileg ohne Sterblichkeitsregel ist keine Sorgeförderung, sondern eine Dynastieförderung.**
+
+Fünf Bestimmungen halten sie sterblich.
+
+*Status, kein Vermögensträger.* Die Sorgegemeinschaft ist keine juristische Person, sie kann kein Betriebsvermögen halten, keine Anteile erwerben, keine Beteiligungen bündeln und nicht Empfängerin einer Übertragung sein. Sie ist ein personenbezogener steuerlicher Status und ein Zurechnungspunkt für Sorgekonten – mehr nicht. Das ist die tragende Sperre gegen alles, was das dreizehnte Kapitel bekämpft.
+
+*Kein Statuserbe.* Der Status endet mit der Sorge und wird nicht vererbt. Die Konten der Mitglieder überleben ihn; die Gemeinschaft nicht. Der Satz aus dem zwanzigsten Kapitel gilt hier gespiegelt: Die Sorgegemeinschaft stirbt, das Konto nicht.
+
+*Jährlicher Nachweis mit umgekehrter Beweislast.* Der Vorteil wird nicht gewährt und dann überwacht, sondern jährlich neu nachgewiesen – über Daten, die ohnehin entstehen: Pflegegrad, Feststellungen des Medizinischen Dienstes, Meldeverhältnisse, Kindergeldbezug. Wer den Nachweis nicht führt, verliert die Begünstigung ohne weiteres Verfahren. Das ist die Konstruktion des Kontroll-Locks, angewandt auf einen anderen Gegenstand: Die Finanzverwaltung bekommt ein Einnahmeinteresse statt einer Prüfpflicht.
+
+*Periodische Bestätigung.* Alle fünf Jahre wird die Sorgevereinbarung neu beschlossen. Wer nicht bestätigt, ist nicht mehr registriert. Auch das ist eine Sterblichkeitsregel: Institutionen, die nichts tun müssen, um zu bestehen, bestehen ewig.
+
+*Kein Haftungsverbund.* Aus dem Status folgen keine Unterhalts-, Einstands- oder Haftungspflichten gegenüber den übrigen Mitgliedern und keine Anrechnung ihres Einkommens bei Sozialleistungen. Der Grund ist historisch und systematisch zugleich: Eine Gemeinschaft, deren Mitglieder füreinander haften, ist eine Gemeinschaft, aus der man nicht aussteigen kann – und der Gesetzgeber hat sich mit dem Angehörigen-Entlastungsgesetz zum 1. Januar 2020 aus guten Gründen in die andere Richtung bewegt, indem er den Rückgriff auf Kinder pflegebedürftiger Eltern erst oberhalb von 100.000 Euro Jahresbruttoeinkommen zulässt.
+
+Womit ein Befund über das geltende Recht anfällt, der schärfer ist als jeder Vorschlag: **Das geltende Recht hat der Sippe die Pflichten genommen und ihr die Privilegien gelassen.** Der Elternunterhalt ist faktisch abgeschafft, die Steuerklasse I nach Abstammung nicht. Dieser Vorschlag dreht die Asymmetrie um: Das Privileg folgt der Leistung, nicht der Herkunft – und Pflichten entstehen aus der Vereinbarung, nicht aus der Geburt.
+
+## V. Die Grundsätze der Ordnung, Stück für Stück eingebaut
+
+Der zweite Teil der Frage lautet, wie sich die Grundsätze der polyzentrischen Ordnung in ein solches Konzept einarbeiten lassen. Sie werden hier einzeln durchgegangen, weil ein Konzept, das sie nur im Ganzen behauptet, sie nicht enthält.
+
+*Polyzentrik statt Monozentrik.* Die Grundfigur des zehnten Kapitels wird auf die Sorge übertragen: drei konkurrierende Träger statt eines Auffangbeckens. Die Sorgegemeinschaft, die Infrastruktur des Allmende-Sektors und der Markt stehen nebeneinander, keiner löst die anderen ab, und die betroffene Person wählt. Das verlangt steuerliche Neutralität zwischen ihnen – wer § 35a für gekaufte Sorge behält und für geleistete Sorge nichts vorsieht, hat die Wahl schon getroffen. Und es verlangt, dass keine Form dekretiert wird: Wer allein lebt und Dienste kauft, verliert nichts.
+
+*Harte Budgetbeschränkung.* Der Vorteil ist gedeckelt, umgewidmet und ohne Verlustdeckung. Eine Sorgegemeinschaft, in der keine Sorge geleistet wird, verliert ihren Status im Folgejahr; es gibt keine Übergangshilfe, keine Härtefallregelung für den Status selbst und keine Rettung einer Gemeinschaft, die auseinanderfällt. Was aufgefangen wird, sind Personen – dafür ist der Sozialstaat da, und das fünfzehnte Kapitel begründet, warum er die Voraussetzung dieser Ordnung ist und nicht ihr Gegenstand.
+
+*Fehlertoleranz.* Sorgegemeinschaften dürfen scheitern, und sie werden es tun; Menschen zerstreiten sich, ziehen weg, sterben. Die Konstruktion ist so gebaut, dass das Scheitern der Gemeinschaft nicht das Scheitern ihrer Mitglieder ist: Das Konto ist individuell, mitnehmbar und überlebt die Auflösung. **Scheitert eine Sorgegemeinschaft, stirbt die Gemeinschaft – nicht ihre Mitglieder.**
+
+*Exit und Voice.* Hier liegt der Kern, und er ist die Antwort auf den schwersten Einwand gegen jede Familienförderung. Der einseitige, jederzeitige Austritt mit dem erworbenen Konto verwandelt die Sorgebeziehung aus einer Falle in eine Beziehung mit Ausweichmöglichkeit. Hirschmans Befund gilt: Voice wird stark, wo Exit möglich ist. Wer gehen kann, ohne alles zu verlieren, verhandelt anders darüber, wer wäscht – und das ist der einzige Weg, auf dem eine Ordnung die erste Frage aus Abschnitt I überhaupt berührt, ohne in den Haushalt hineinzuregieren.
+
+Die Voice-Seite hat eine zweite Hälfte, die unspektakulär ist und deshalb leicht übersehen wird: die Sorgevereinbarung. Sie muss benennen, wer welche Sorge übernimmt, und sie muss periodisch neu beschlossen werden. Damit wird die Verteilung zu einem Beschluss statt zu einem Zustand. **Man kann die Hausarbeit nicht umverteilen. Man kann verlangen, dass ihre Verteilung beschlossen wird, statt sich zu ergeben.** Und man kann die Verteilung in anonymisierten Kennzahlen veröffentlichen, wie das elfte Kapitel es für die Zusammensetzung von Gremien verlangt – der erste Schritt zu jeder Veränderung ist, dass sie sichtbar wird.
+
+*Jede Regel bekommt einen Kläger.* Der Anspruch auf Gutschrift steht der pflegenden Person individuell zu und ist einklagbar; die gepflegte Person hat einen eigenen Anspruch auf Feststellung. Das ist keine juristische Feinheit, sondern der ganze Mechanismus aus dem achten Kapitel: Eine Behörde kann man aushungern, Millionen kleiner Ansprüche muss man einzeln abwehren. Und der Träger, der der Sorgearbeit heute fehlt, entsteht genau hier – nicht als Verband, sondern als eine sehr große Zahl von Menschen mit einer eigenen Rechtsposition.
+
+*Sterbliche Macht.* Behandelt in Abschnitt IV.4, und sie gilt auch für die Verwaltung: Die Stelle, die Sorgezeiten feststellt, unterliegt Amtszeitbegrenzung, Prüferrotation und Offenlegung wie jede andere Stelle dieser Ordnung. Die Machtwanderung aus dem fünfundzwanzigsten Kapitel bekommt hier einen neuen Adressaten, und er gehört benannt.
+
+*Subsidiarität als Befund, nicht als Vorliebe.* Die Sorgegemeinschaft ist die kleine Einheit, und für sie gilt die Beweislastumkehr: Nicht sie begründet ihre Zuständigkeit, sondern die größere Einheit begründet, warum sie es sein muss. Aber genau hier ist die Gegenrichtung zwingend mitzuführen, weil der Vorschlag sonst zu dem wird, was seine Kritiker in ihm sehen. Subsidiarität in der Sorge ist historisch das Vehikel des Rückzugs gewesen: Erst wird die Familie für zuständig erklärt, dann wird die Infrastruktur nicht gebaut. Die Sperre dagegen ist eine Kopplungsregel: *Die Begünstigung der Sorgegemeinschaften darf nur wachsen, solange die Versorgungsquote der Betreuungs- und Pflegeinfrastruktur nicht sinkt.* Sinkt sie, wird der Vorteil eingefroren. Damit hängt der Vorteil an einer Kennzahl mit Schwelle und Entscheidungsregel – und eine Kennzahl ohne Schwelle falsifiziert nichts.
+
+*Insider und Outsider.* Die Konstruktion schließt die Grenze so weit, wie ihre eigene Förderentscheidung reicht, und nicht weiter. Sorge zählt auch, wenn sie Nichtmitgliedern geleistet wird – dem Nachbarn, der zu niemandem gehört. Abstammung ist kein Zugangskriterium, Zuzug in eine Gemeinschaft ist jederzeit möglich, und die Infrastrukturspur bleibt universal und unabhängig vom Status. Was bleibt, steht in Abschnitt IX: Wer weder Sorge gibt noch empfängt, geht leer aus, und das ist eine echte Ungleichbehandlung, die ausgewiesen und nicht wegargumentiert wird.
+
+*Eingebaute Falsifizierbarkeit.* Drei Schwellen mit Entscheidungsregel, gemessen im Wellen-Rollout mit Kontrollgruppe, wie ihn der Umsetzungspfad ohnehin vorsieht. *Erstens:* Sinkt die Erwerbsbeteiligung von Personen mit Sorgekonto im gematchten Vergleich nach fünf Jahren, wird die Gutschrift gekappt und an eine Erwerbstätigkeitsbedingung geknüpft. *Zweitens:* Sinkt die Versorgungsquote der Infrastruktur, wird der Vorteil eingefroren. *Drittens:* Verschiebt sich die Verteilung der Sorgezeiten zwischen den Geschlechtern nach zehn Jahren nicht, ist die zentrale Wette dieses Vorschlags verloren und wird als verloren ausgewiesen. Ohne diese dritte Schwelle wäre das Papier eine Hoffnung.
+
+## VI. Die sechs Tests und der Belastungstest
+
+*Rechtstest.* Die Rechtsform ist ausgearbeitet vorhanden (Eckpunkte 2024). Die Erbschaftsteuerklassen sind einfaches Recht und stehen zur Disposition des Gesetzgebers. Die Wand steht beim Splitting: Artikel 6 Absatz 1 GG schützt Ehe und Familie, und die Rechtsprechung deutet das Splitting nicht als Subvention, sondern als Ausdruck der ehelichen Erwerbs- und Verbrauchsgemeinschaft. Daraus folgt eine Richtungsentscheidung: *ausdehnen statt abschaffen.* Wer den Vorteil auf andere Sorgeformen erstreckt, hat die leichtere Argumentation und den Präzedenzfall von 2013 auf seiner Seite; wer ihn Verheirateten nimmt, führt einen Verfassungsprozess, dessen Ausgang niemand kennt.
+
+*Mehrheitstest.* Der schwerste Test. Das Splitting hat eine große, wohlhabende, gut organisierte Nutznießergruppe; die Sorgearbeit hat bisher keine Organisation. Die Reihenfolge des Umsetzungspfads gilt deshalb auch hier – dort anfangen, wo der Gegner nicht steht: Rechtsform und Sorgekonto zuerst, die Erbschaftsteuerklassen als Teil der ohnehin anstehenden Reform der Stufe 2, das Splitting zuletzt und als Ausdehnung.
+
+*Finanztest.* Umwidmung statt neuem Titel; die Bänder stehen in Abschnitt IV.3. Der Vorschlag ist nicht kostenlos – die Gutschriften sind ein echter Aufwand –, aber er ist gegenfinanzierbar aus Positionen, die dasselbe Ziel schlechter erreichen. Die Deckungsregel bindet beides aneinander und ist der eigentliche Finanztest dieses Papiers: Die Konten wachsen nur so schnell, wie die Umwidmung sie deckt. Wer die Umwidmung nicht durchsetzt und die Konten trotzdem füllt, hat ein Umlageverfahren gebaut und Eigentum daraufgeschrieben.
+
+*Widerstandstest.* Der Widerstand kommt aus zwei Richtungen zugleich, was ungewöhnlich ist: von denen, die das Splitting behalten wollen, und von denen, die jede Honorierung häuslicher Sorge für einen Rückschritt halten. Beide Einwände sind in den Abschnitten VII und VIII beantwortet, und der zweite ist der ernstere.
+
+*Bestandstest und Belastungstest.* Was bleibt, wenn eine Regierung kommt, die das alles nicht will? *Die Rechtsform bleibt* – registrierte Verhältnisse verschwinden nicht durch Streichung eines Programms. *Die Erbschaftsteuerklasse bleibt,* solange das Gesetz nicht geändert wird, und ihre Änderung ist ein sichtbarer Vorgang. *Das Sorgekonto hält genau in dem Maß, in dem es Eigenleistung verkörpert* – das ist dieselbe offene Rechtsfrage wie beim Fonds und wird in Abschnitt IX als solche geführt. *Das Splitting fällt zuerst,* weil Tarifrecht das am leichtesten Umkehrbare ist. Was den Test nicht besteht, ist ein Programm und darf nicht als Struktur geführt werden – das gilt hier wie überall.
+
+*Föderalismustest.* Und er liefert den nützlichsten Einzelbefund dieses Papiers. Die Sorge ist föderal das zerrissenste Feld, das diese Ordnung berührt: Die Einkommensteuer ist Gemeinschaftsteuer, ihre Änderung braucht die Zustimmung des Bundesrates; die Erbschaftsteuer steht nach Artikel 106 Absatz 2 GG den Ländern zu und wird von ihnen verwaltet; die Pflegeversicherung ist Bundesrecht; Kindertagesbetreuung ist Sache der Länder und Kommunen. Vor allem aber steht am Ende dieses Feldes ein Urteil, das die Wahl des Rechtsvehikels vorentscheidet: Das Bundesverfassungsgericht hat am 21. Juli 2015 das Betreuungsgeld einstimmig für nichtig erklärt – nicht wegen seines Inhalts, sondern weil dem Bund die Gesetzgebungskompetenz fehlte.
+
+Daraus folgt eine harte Konstruktionsanweisung: **kein Geldleistungsgesetz des Bundes.** Der Weg über eine neue Bundesleistung „für Sorgearbeit" ist der verfassungsrechtlich anfälligste von allen. Die tragfähigen Vehikel sind das Steuerrecht, die Sozialversicherung und die Fondsfamilie der Länder – und für die Fondsfamilie liefert die Ertragshoheit der Länder den Zuschnitt frei Haus, wie sie ihn schon im zwanzigsten Kapitel geliefert hat. Das Sorgekonto gehört deshalb in die Länderfonds, mit bundeseinheitlichem Mandat und länderweiser Trägerschaft.
+
+## VII. Die linke Gegenprobe
+
+**1. Der Refamilialisierungs-Einwand, und er ist der stärkste.** Wer häusliche Sorge honoriert, hält Frauen zu Hause; die Empirie zum Betreuungsgeld und zu den nordischen Cash-for-care-Leistungen zeigt es. Der Befund stimmt und gehört beziffert: Für Finnland zeigt die Forschung, dass ein um 100 Euro höheres Pflegegeld für häusliche Betreuung die Betreuungsdauer um zwei bis drei Monate verlängert; Untersuchungen zu Deutschland, Norwegen und Schweden finden negative kurzfristige Effekte auf die Erwerbstätigkeit von Müttern, wobei die Wirkung mit dem Alter des Kindes nachlässt.
+
+Die Antwort hat vier Teile, und der letzte ist eine Konzession. *Erstens* ist die Gutschrift kein Verzichtsentgelt: Sie hängt an der geleisteten Sorge, nicht am Nichterwerb, und sie ist nach § 44 SGB XI ausdrücklich mit Erwerbstätigkeit bis zu dreißig Wochenstunden vereinbar. *Zweitens* zieht der Vorschlag den größten bestehenden Anreiz zum Nichterwerb in die andere Richtung: Das Ehegattensplitting ist die Zweitverdienerinnenfalle, und ein Sorgesplitting mit gedeckeltem Übertragungsbetrag schwächt sie. *Drittens* ist das Konto individuell und mitnehmbar – es gehört ihr, nicht dem Haushalt, und es fällt beim Auszug nicht weg; genau das unterscheidet es vom Betreuungsgeld. *Viertens die Konzession:* Die beiden Komponenten ziehen gegenläufig, und die Nettowirkung auf die Erwerbsbeteiligung ist unbekannt. Deshalb Wellen-Rollout mit Kontrollgruppe und die erste Abschaltschwelle aus Abschnitt V. Wer die Nettowirkung behauptet, statt sie zu messen, argumentiert nicht.
+
+**2. Der Lohn-für-Hausarbeit-Einwand.** Die feministische Debatte der siebziger Jahre hat das Argument vorweggenommen: Wer Hausarbeit entlohnt, zementiert sie als Frauenarbeit, statt sie zu vergesellschaften. Die Antwort ist eine Unterscheidung, die diesem Projekt zentral ist: Der Vorschlag zahlt keinen Lohn, sondern erzeugt eine Eigentumsposition. Ein Lohn ist ein Programm, das der nächste Haushaltsgesetzgeber streicht; ein Konto mit Eigenleistung ist eine Position, die sich verteidigt. Und der Vorschlag setzt nicht an die Stelle der Vergesellschaftung, sondern neben sie – die Kopplungsregel macht die Infrastruktur zur Bedingung des Vorteils. Konzession: Wenn die Kopplungsregel fällt, wird aus dem Vorschlag genau das, was der Einwand beschreibt.
+
+**3. Der Subsidiaritäts-Einwand.** Die Aufwertung der Familie ist historisch das Vehikel des staatlichen Rückzugs; § 3 SGB XI ist der Beweis, dass diese Ordnung längst auf der unbezahlten Arbeit der Angehörigen ruht. Der Einwand wird zugestanden und beantwortet, nicht widerlegt: Er ist der Grund für die Kopplungsregel und für die zweite Abschaltschwelle. Das Papier behauptet nicht, dass die Regel hält; es behauptet, dass sie eine Kennzahl, eine Schwelle und eine Entscheidungsregel hat und deshalb sichtbar bricht, wenn sie bricht.
+
+**4. Der Klassen-Einwand.** Jede Begünstigung über den Steuertarif ist für hohe Einkommen mehr wert. Der Einwand trifft das Splitting vollständig und das Sorgekonto nicht: Gutgeschrieben wird Zeit zu einem für alle gleichen Satz. Das ist der eigentliche Grund, warum das Konto und nicht der Freibetrag das tragende Bauteil ist.
+
+**5. Der Kontroll-Einwand.** Ein Register über Sorgeverhältnisse ist ein Register über die intimsten Verhältnisse überhaupt. Zugestanden, und die Antwort ist Zweckbindung, Datensparsamkeit und die Beschränkung auf Merkmale, die ohnehin erhoben werden. Was bleibt, geht in das Ledger.
+
+## VIII. Die liberale Gegenprobe
+
+**1. Der Hayek-Einwand.** Die Familie ist der Prototyp einer gewachsenen Ordnung; ein staatlich definierter, registrierter, steuerlich privilegierter Verband ist konstruktivistische Anmaßung. Die Antwort ist eine Feststellung über den Ist-Zustand: Der Staat definiert diese Verhältnisse längst und definiert sie über Abstammung und Eheschließung – §§ 15, 16 ErbStG, das Splitting, das Unterhaltsrecht. Der Vorschlag ersetzt eine staatliche Definition durch eine erklärungsbasierte, aus der man jederzeit austreten kann. Das ist, gemessen an der Gestaltungsfreiheit der Beteiligten, ein Zuwachs und kein Verlust.
+
+**2. Der Gestaltungs-Einwand.** Jeder Status mit Steuerfolge wird zum Gestaltungsobjekt; Fremde werden sich als Sorgegemeinschaft registrieren, um Freibeträge zu verschieben. Die Antwort besteht aus vier Sperren: nachweisbare, relationale Sorge als Voraussetzung, eine Sorgegemeinschaft je Person, Mindestdauer, und die allgemeine Missbrauchsvorschrift des Steuerrechts. Konzession: Restgestaltung bleibt, wie bei jedem Statusprivileg. Der Vergleichsmaßstab ist allerdings nicht die Gestaltungsfreiheit von null, sondern die heutige – und die Doppelstiftung ist ein größeres Loch als jede denkbare Scheinsorgegemeinschaft.
+
+**3. Der Dynastie-Einwand, und er ist der schärfste, weil er von innen kommt.** Dieses Projekt bekämpft dynastisches Vermögen und schlägt hier eine steuerlich privilegierte Verwandtschaftsstruktur vor. Die Antwort ist die Sperre aus Abschnitt IV.4 – Status ohne Vermögensträgerschaft, kein Statuserbe, periodische Bestätigung – und ein Nettoeffekt, der in die entgegengesetzte Richtung zeigt: Wer die Steuerklasse I von der Abstammung auf die Sorge umstellt, nimmt dem Erben, der nie da war, den Freibetrag von 400.000 Euro. Der Vorschlag verschiebt das Erbschaftsteuerprivileg von der Herkunft auf die Arbeit und ist damit anti-dynastisch, nicht dynastisch – aber nur, solange die Sperre steht.
+
+**4. Der Verwaltungs-Einwand.** Wer Sorgezeiten feststellt, baut einen Apparat. Zugestanden, und die Gegenrechnung: Der Apparat existiert – Medizinischer Dienst, Pflegekassen, Rentenversicherung stellen diese Zeiten bereits fest. Der Vorschlag nutzt ihn für eine zweite Rechtsfolge, statt einen zweiten zu bauen. Was hinzukommt, ist die Registerführung, und sie ist gegen die Kosten des heutigen Nebeneinanders von Splitting, Freibeträgen und Rentenanrechnung zu halten.
+
+**5. Der Arbeitsangebots-Einwand.** Sorge, die honoriert wird, wird nicht am Markt nachgefragt; das kostet Beschäftigung und Wachstum in einem Bereich mit ohnehin knappem Personal. Der Einwand ist ernst und wird nicht mit Zahlen bestritten, weil es keine gibt. Die Antwort ist die Neutralitätsregel: Der Vorschlag begünstigt die häusliche Sorge nicht *gegenüber* der gekauften, sondern gleicht eine bestehende Bevorzugung der gekauften aus. Wer Neutralität für Verzerrung hält, muss erklären, warum § 35a EStG keine ist.
+
+**6. Der Ehe-Einwand.** Artikel 6 Absatz 1 GG schützt die Ehe besonders; ein Konzept, das ihre steuerliche Sonderstellung einebnet, greift eine verfassungsrechtlich geschützte Institution an. Die Antwort steht im Rechtstest: Der Vorschlag nimmt der Ehe nichts, er erstreckt den Vorteil auf andere Sorgeformen und lässt bestehende Ehen im Bestandsschutz. Ob die Ausdehnung selbst den Schutzgehalt verletzt, ist eine offene Rechtsfrage und wird als solche geführt.
+
+## IX. Was das Ledger davon hat – und was es dazubekommt
+
+Nach Hausregel 3 darf das Verzeichnis nicht stillschweigend schrumpfen, und es muss um die Lücken wachsen, die eine Korrektur selbst erzeugt. Beides ist hier der Fall.
+
+*Was schrumpft.* Der Eintrag „Die Arbeitsteilung im Haushalt" steht heute in Klasse I – Grenzen der Reichweite, „diese Einträge werden nicht kleiner, wenn man länger nachdenkt". Das trifft für die Frage zu, wer die Arbeit tut, und nicht für die Frage, ob sie eine Eigentumsposition erzeugt. Der zweite Teil ist konstruierbar, und ein Eintrag, der Konstruierbares als unerreichbar führt, verdeckt Arbeit. **Der Eintrag verlässt das Ledger nicht. Er wechselt die Klasse** – der konstruierbare Teil wandert in Klasse III, zu den Fragen, über die niemand etwas weiß, weil es die Konstellation nicht gab; in Klasse I bleibt, was dort hingehört.
+
+*Was in Klasse I bleibt, und es ist präziser als vorher.* Die Verteilung der Arbeit im Haushalt selbst. Und darüber hinaus eine Messgrenze, die die Konstruktion erst sichtbar macht: Gutschreiben lässt sich nur *relationale, nachweisbare* Sorge – Pflege eines Menschen mit festgestelltem Pflegegrad, Betreuung eines Kindes, Sorge für einen Menschen mit Behinderung. Die laufende Hausarbeit zwischen zwei erwerbsfähigen Erwachsenen bleibt unmessbar, und sie bleibt damit unverteilt und unvergolten. Wer sie messen wollte, bräuchte ein Verfahren, das in Wohnungen hineinsieht, und das ist der Preis, den diese Ordnung nicht zahlt. Die Flanke wird also kleiner und schärfer, nicht kleiner und unschärfer.
+
+*Was neu hinzukommt, weil die Konstruktion es erzeugt.* Vier Einträge.
+
+*Die gegenläufige Wirkung.* Splitting-Reform und Sorgegutschrift ziehen die Erwerbsbeteiligung in entgegengesetzte Richtungen. Niemand weiß, welche Wirkung überwiegt; es gibt keinen Fall, in dem beides zusammen erprobt worden wäre. Verfahren statt Behauptung: Wellen-Rollout mit Kontrollgruppe, drei Schwellen mit Entscheidungsregel, Veröffentlichung nach fünf und zehn Jahren.
+
+*Wer niemanden hat.* Der Vorschlag begünstigt Menschen in Sorgebeziehungen und lässt die übrigen, wo sie sind – die Alleinstehenden ohne Angehörige, die Zugewanderten ohne Familie im Land, die, für die niemand sorgt und die für niemanden sorgen. Es ist die Insider-Outsider-Grenze in ihrer intimsten Fassung, und sie ist mit den Mitteln dieses Konzepts nur teilweise zu schließen: dadurch, dass Sorge an Nichtverwandte zählt, und dadurch, dass die Infrastrukturspur universal bleibt. Ein Rest bleibt und gehört ausgewiesen.
+
+*Ob das Sorgekonto den Bestandsschutz trägt.* Dieselbe unentschiedene Frage wie beim Fonds, mit einem eigenen Zusatz: Ob ein Gericht geleistete Sorgearbeit als „nicht unerhebliche Eigenleistung" im Sinne der Rechtsprechung zu Artikel 14 Absatz 1 GG anerkennt, ist offen. Das Rentenrecht behandelt sie faktisch so; entschieden ist es für eine Fondsanwartschaft nicht, und es wäre unredlich, auf die günstige Auslegung zu wetten.
+
+*Das Register.* Ein staatliches Verzeichnis von Sorgeverhältnissen entsteht neu und ist mit Zweckbindung, nicht mit Vertrauen zu sichern. Register überleben die Zwecke, für die sie angelegt wurden – das ist keine Verschwörungsvermutung, sondern die Rost-These, angewandt auf Daten.
+
+## X. Was in Manuskript und Thesenpapier zu ändern wäre
+
+Wird der Vorschlag angenommen, ist er nach der Konsistenzpflicht in beiden Fassungen zugleich zu führen. Der Umfang ist beträchtlich, und er sei ehrlich angegeben.
+
+*Im Manuskript.* Kapitel 15 verliert seinen resignativen Abschnitt und bekommt die Konstruktion – wahrscheinlich als eigenes Kapitel in Teil IV, weil ein Bauteil dieser Größe neben Belegschaftsverfassung, Allmende und Privatsektor gehört und nicht in einen Abschnitt über Makroökonomie; dann sind die Kapitel 16 bis 26 umzunummerieren, alle ausgeschriebenen Querverweise mitzuziehen und die Teileliste in `00_inhalt.md` zu pflegen, sonst fehlt dem Kapitel im Satz die Teilseite. Kapitel 20 erweitert das Eigenbeitragselement um die Sorgeleistung. Kapitel 13 nimmt die Umstellung der Erbschaftsteuerklassen auf. Kapitel 12 bekommt die Kopplungsregel und die Versorgungsquote als Kennzahl mit Schwelle. Kapitel 18 nimmt den Befund zum Föderalismustest auf – kein Geldleistungsgesetz des Bundes. Kapitel 23 und 24 bekommen je zwei bis drei neue Einwände. Kapitel 25 wird nach Abschnitt IX umgeschrieben: ein Eintrag wechselt die Klasse, vier kommen hinzu.
+
+*Im Thesenpapier.* Sektion III bekommt die Sorgegemeinschaft als vierten Baustein neben den drei Sektoren, Sektion IV die steuerlichen Umwidmungen und die Abschaltschwellen, Sektion V zwei Einwände, Sektion VI die Ledger-Änderung.
+
+*In `quellen_und_glossar.md`* ein eigener Abschnitt mit den Ankern dieses Papiers und den Glossareinträgen: Sorgegemeinschaft, Sorgekonto, Kopplungsregel, Statusregel.
+
+*Der Essay* divergiert dadurch weiter. Er kennt schon den Föderalismustest nicht; hier käme ein ganzes Bauteil hinzu. Das ist ein zusätzliches Argument für die im Backlog empfohlene Lösung, ihn als Stand vom 25.07.2026 zu kennzeichnen, statt ihn nachzuziehen.
+
+*Und in `CLAUDE.md`* wären drei Kernbegriffe zu ergänzen, wenn die Konstruktion tragend wird: *Sorge erzeugt Eigentum, nicht Lohn* – *Status, kein Vermögensträger* – *Kopplungsregel: Der Vorteil wächst nur, solange die Infrastruktur nicht schrumpft.*
+
+---
+
+## XI. Belege
+
+*Gender Care Gap 2022:* Statistisches Bundesamt, Pressemitteilung Nr. 073 vom 28. Februar 2024, in korrigierter Fassung: 44,3 Prozent (ursprünglich veröffentlicht: 43,8 Prozent); Frauen rund 29, Männer rund 20 Wochenstunden unbezahlte Arbeit; Vergleichswert der Zeitverwendungserhebung 2012/13: 52,4 Prozent. **Bestätigt mit Einschränkung:** Der Wert erschien in zwei Fassungen; in der Sekundärliteratur kursieren daneben abweichende Angaben um 43,4 Prozent, vermutlich aus abweichender Abgrenzung. Im Text wird der korrigierte Wert des Statistischen Bundesamtes geführt.
+
+*Wert der Haushaltsproduktion:* Statistisches Bundesamt, Satellitensystem Haushaltsproduktion – Bruttowertschöpfung 987 Milliarden Euro für 2013, rund 39 Prozent des Bruttoinlandsprodukts; Wert der unbezahlten Arbeit 826 Milliarden Euro. **Bestätigt mit Einschränkung:** Zeitbasis ist die Zeitverwendungserhebung 2012/13; eine Fortschreibung auf die Erhebung 2022 konnte nicht bestätigt werden. Die Zahl ist deshalb als Größenordnung und mit Jahresangabe zu führen.
+
+*Pflegestatistik:* Statistisches Bundesamt, Pressemitteilung Nr. 478 vom Dezember 2024 – 5,7 Millionen Pflegebedürftige im Dezember 2023; 86 Prozent (4,9 Millionen) zu Hause versorgt; 67 Prozent (3,8 Millionen) zu Hause überwiegend durch Angehörige; 3,1 Millionen ausschließlich mit Pflegegeld; 14 Prozent (800.000) vollstationär. **Bestätigt.**
+
+*Vorrang der häuslichen Pflege:* § 3 SGB XI, in Kraft seit 1. Januar 1995 – die Pflegeversicherung soll vorrangig die häusliche Pflege und die Pflegebereitschaft der Angehörigen und Nachbarn unterstützen. **Bestätigt.** Die Deutung als Kalkulationsgrundlage ist **Wertung** dieses Papiers.
+
+*Pflegeperson und ihre Feststellung:* § 19 SGB XI (nicht erwerbsmäßige Pflege in häuslicher Umgebung); § 44 SGB XI (Rentenbeiträge bei mindestens zehn Wochenstunden auf mindestens zwei Tage verteilt, Pflegegrad 2 oder höher, Erwerbstätigkeit der Pflegeperson höchstens 30 Wochenstunden; Feststellung durch den Medizinischen Dienst oder einen beauftragten Gutachter). **Bestätigt.**
+
+*Kindererziehungszeiten und Mütterrente:* Anrechnung nach § 56 SGB VI; Beitragszahlungen des Bundes für Kindererziehungszeiten in Höhe von 19,2 Milliarden Euro für 2025 nach 18,14 Milliarden Euro 2024; laufende Kosten der Mütterrente rund 13,5 Milliarden Euro jährlich; geplante Ausweitung ab 2027 mit rund 5 Milliarden Euro zusätzlich, steuerfinanziert. **Bestätigt mit Einschränkung:** Haushalts- und Presseangaben, keine amtliche Rechnungslegung; die Größenordnung ist unstrittig, die Einzelbeträge sind als solche zu führen.
+
+*Freistellungsansprüche:* Pflegezeitgesetz und Familienpflegezeitgesetz – bis zu zehn Tage kurzzeitige Arbeitsverhinderung mit Pflegeunterstützungsgeld, bis zu sechs Monate Pflegezeit ohne Entgeltfortzahlung, bis zu 24 Monate Familienpflegezeit, dazu ein zinsloses Bundesdarlehen. **Bestätigt dem Grunde nach**; Einzelheiten der Anspruchsvoraussetzungen sind hier nicht einzelbelegt.
+
+*Erbschaftsteuerklassen und Freibeträge:* §§ 15, 16, 19 ErbStG – Steuerklasse I für Ehegatten, Lebenspartner, Kinder, Enkel und in Teilen Eltern; Freibeträge 500.000 Euro (Ehegatte), 400.000 Euro (Kind), 200.000 Euro (Enkel), 20.000 Euro in den Klassen II und III; Steuersätze 7 bis 30 Prozent (Klasse I), 15 bis 43 Prozent (Klasse II), 30 bis 50 Prozent (Klasse III). **Bestätigt** für den Stand 2026.
+
+*Pflegefreibetrag:* § 13 Absatz 1 Nummer 9 ErbStG – bis zu 20.000 Euro steuerfrei für Personen, die dem Erblasser unentgeltlich oder gegen unzureichendes Entgelt Pflege oder Unterhalt gewährt haben; antragsgebunden; nach der Rechtsprechung des Bundesfinanzhofs (Urteil vom 11. September 2013, II R 37/12) auch für gesetzlich Unterhaltsverpflichtete. **Bestätigt.**
+
+*Haushaltsnahe Dienstleistungen:* § 35a EStG – Steuerermäßigung von 20 Prozent, höchstens 4.000 Euro, auch für Pflege- und Betreuungsleistungen; Rechnung und unbare Zahlung erforderlich. **Bestätigt.**
+
+*Ehegattensplitting, Verfassungsrecht:* BVerfGE 61, 319 (Urteil vom 3. November 1982) – das Splittingverfahren entspricht dem Grundsatz der Besteuerung nach der Leistungsfähigkeit unter der Annahme, dass zusammenlebende Ehegatten eine Erwerbs- und Verbrauchsgemeinschaft bilden; BVerfG, Beschluss vom 7. Mai 2013 – 2 BvR 909/06 u.a. – Verfassungswidrigkeit des Ausschlusses eingetragener Lebenspartnerschaften. **Bestätigt.**
+
+*Fiskalisches Volumen einer Splitting-Reform:* Schätzungen des DIW und anderer Institute reichen je nach Reformvariante und Verhaltensannahme von rund 8 bis rund 25 Milliarden Euro jährlich; die Variante Individualbesteuerung mit übertragbarem Grundfreibetrag wird mit bis zu rund 15 Milliarden Euro angegeben. **Bestätigt mit Einschränkung:** Schätzungen, keine amtliche Zahl; im Text ausdrücklich als Band geführt.
+
+*Betreuungsgeld:* BVerfG, Urteil vom 21. Juli 2015 – 1 BvF 2/13 – §§ 4a bis 4d BEEG nichtig; einstimmig; tragender Grund ist die fehlende Gesetzgebungskompetenz des Bundes (Art. 74 Absatz 1 Nummer 7 in Verbindung mit Art. 72 Absatz 2 GG), nicht der Inhalt der Leistung. **Bestätigt.**
+
+*Verantwortungsgemeinschaft:* Eckpunkte des Bundesministeriums der Justiz vom 5. Februar 2024 – notariell beurkundeter Vertrag, höchstens sechs Vertragspartner, nur Volljährige, tatsächliche persönliche Nähebeziehung, Module unter anderem für Zusammenleben sowie Sorge und Zuwendung einschließlich der Prüfung einer Übertragung der Regelungen des Pflegezeit- und Familienpflegezeitgesetzes. Ein Referentenentwurf war für 2025 angekündigt und kam nach dem Bruch der Koalition Ende 2024 nicht zustande. **Bestätigt.** Ob das Vorhaben in der folgenden Legislaturperiode aufgegriffen wird: **offen** – im Koalitionsvertrag 2025 nicht überprüfbar, weil die Datei in dieser Arbeitsumgebung nicht abrufbar war.
+
+*Angehörigen-Entlastungsgesetz:* in Kraft seit 1. Januar 2020 – Rückgriff der Sozialhilfeträger auf Kinder pflegebedürftiger Eltern erst ab einem Jahresbruttoeinkommen über 100.000 Euro. **Bestätigt.**
+
+*Haushaltsführung und Zugewinn im Bürgerlichen Recht:* § 1360 Satz 2 BGB – wer den Haushalt führt, erfüllt damit in der Regel seine Pflicht, durch Arbeit zum Familienunterhalt beizutragen; § 1378 Absatz 1 BGB – die Hälfte des Überschusses steht dem anderen Ehegatten als Ausgleichsforderung zu. **Bestätigt.** Die Deutung, dass das Recht damit Sorgearbeit bereits in einen Vermögensanspruch übersetzt – aber nur innerhalb der Ehe und nur bei ihrer Beendigung –, ist **Wertung** dieses Papiers.
+
+*Wirkung von Cash-for-care-Leistungen:* Für Finnland ist belegt, dass ein um 100 Euro höheres Betreuungsgeld die häusliche Betreuung um durchschnittlich zwei bis drei Monate verlängert und dass die Wirkung mit steigendem Alter des Kindes verschwindet; Untersuchungen zu Deutschland, Norwegen und Schweden finden negative kurzfristige Effekte auf die Erwerbstätigkeit von Müttern. **Bestätigt dem Grunde nach**, mit der Einschränkung, dass Langfristwirkungen in diesen Arbeiten überwiegend nicht untersucht sind.
+
+*Völkische Vorbelastung des Begriffs „Sippe":* Sippenamt, Sippenforschung, Ahnenpass und Sippenhaft als Institute und Praktiken des Nationalsozialismus – historisch allgemein bekannt, hier nicht einzelbelegt. **Wertung** ist allein die daraus gezogene Folgerung für die Begriffswahl.
+
+*Sämtliche Konstruktionsvorschläge dieses Papiers* – Sorgegemeinschaft als Rechtsform, Sorgekonto in der Fondsfamilie, Sorgesplitting, sorgebasierte Erbschaftsteuerklassen, die fünf Sterblichkeitsregeln, die Kopplungsregel, die drei Abschaltschwellen und der Befund zum Rechtsvehikel aus dem Betreuungsgeld-Urteil – sind **Wertung**: Vorschläge, keine Befunde.
+
+*Erreichbarkeitsprüfung:* Wie im übrigen Projekt konnte die Erreichbarkeit der zitierten Netzadressen in dieser Arbeitsumgebung nur indirekt über die Indizierung in Suchmaschinen bestätigt werden; zwei direkte Abrufe wurden vom Server abgewiesen. **Offen**, wie in Kapitel 25 Abschnitt V ausgewiesen.
