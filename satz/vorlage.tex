@@ -1,0 +1,257 @@
+% Pandoc-Vorlage für das Manuskript „Die polyzentrische Ordnung“.
+%
+% Gesetzt wird mit LuaLaTeX. Die Vorlage ersetzt die mitgelieferte Vorlage
+% von Pandoc absichtlich vollständig: Der Text ist reine Prosa ohne Formeln,
+% Tabellen, Bilder und Listen, deshalb kommt der Satz mit wenigen Paketen
+% aus – das hält die Installation klein und den Lauf schnell.
+
+\documentclass[
+  fontsize=11pt,
+  paper=a4,
+  oneside,
+  parskip=false,
+]{scrbook}
+
+\usepackage{fontspec}
+\usepackage[ngerman]{babel}
+\usepackage{microtype}
+\usepackage{xcolor}
+\usepackage[
+  a4paper,
+  top=30mm, bottom=32mm, left=38mm, right=38mm,
+  headsep=9mm, footskip=16mm,
+]{geometry}
+
+% --------------------------------------------------------------------------
+% Schrift
+% --------------------------------------------------------------------------
+% Pagella (ein Palatino-Nachbau) ist für deutsche Fließtextprosa gebaut:
+% offene Formen, kräftiges ß, ruhige Umlaute.
+
+% Angesprochen werden die Schriftdateien, nicht die Schriftnamen: So findet
+% LuaTeX sie über den TeX-Baum auch dort, wo kein Fontconfig-Zwischenspeicher
+% gepflegt ist – etwa in einem frisch aufgesetzten Bauläufer.
+
+\setmainfont{texgyrepagella}[
+  Extension = .otf,
+  UprightFont = *-regular,
+  ItalicFont = *-italic,
+  BoldFont = *-bold,
+  BoldItalicFont = *-bolditalic,
+  Ligatures = TeX,
+]
+\setsansfont{texgyreheros}[
+  Extension = .otf,
+  UprightFont = *-regular,
+  ItalicFont = *-italic,
+  BoldFont = *-bold,
+  BoldItalicFont = *-bolditalic,
+  Ligatures = TeX,
+  Scale = MatchLowercase,
+]
+\setmonofont{lmmono10}[
+  Extension = .otf,
+  UprightFont = *-regular,
+  ItalicFont = *-italic,
+  Scale = MatchLowercase,
+]
+\linespread{1.10}
+
+\definecolor{akzent}{HTML}{4A5D6B}
+\definecolor{leise}{HTML}{6B6B6B}
+
+% --------------------------------------------------------------------------
+% Satzspiegel und Umbruch
+% --------------------------------------------------------------------------
+% Deutsche Komposita sind lang; ohne etwas Dehnung im Notfall entstehen
+% übervolle Zeilen. Schusterjungen und Hurenkinder werden verboten.
+
+\emergencystretch=3em
+\widowpenalty=10000
+\clubpenalty=10000
+\raggedbottom
+\frenchspacing
+
+% --------------------------------------------------------------------------
+% Kolumnentitel
+% --------------------------------------------------------------------------
+
+\usepackage{scrlayer-scrpage}
+\clearpairofpagestyles
+\setkomafont{pagehead}{\normalfont\footnotesize\itshape\color{leise}}
+\setkomafont{pagenumber}{\normalfont\footnotesize\color{leise}}
+\ihead{\headmark}
+\ohead{\pagemark}
+% Das eckige Argument gilt für den Seitenstil „plain“: Auf Kapitelanfängen
+% steht kein Kolumnentitel, die Seitenzahl aber sehr wohl – sonst verliert
+% man beim Blättern die Orientierung.
+\cfoot[\pagemark]{}
+\pagestyle{scrheadings}
+\renewcommand*{\chapterpagestyle}{plain}
+
+% --------------------------------------------------------------------------
+% Verweise
+% --------------------------------------------------------------------------
+
+\usepackage[
+  unicode,
+  colorlinks=true,
+  linkcolor=akzent,
+  urlcolor=akzent,
+  citecolor=akzent,
+  breaklinks=true,
+  bookmarksnumbered=false,
+  bookmarksopen=true,
+  bookmarksopenlevel=1,
+  bookmarksdepth=2,
+  pdftitle={$titel$$if(untertitel)$. $untertitel$$endif$},
+  pdfauthor={$autor$},
+  pdfsubject={$stand$},
+  pdflang={de-DE},
+  pdfcreator={pandoc, lualatex},
+]{hyperref}
+
+% --------------------------------------------------------------------------
+% Gliederung
+% --------------------------------------------------------------------------
+% Nichts wird nummeriert: Die Kapitel tragen ihre Zählung ausgeschrieben im
+% Namen („Neuntes Kapitel“), die Teile ebenso. Das Inhaltsverzeichnis führt
+% nur Teile und Kapitel; die Abschnitte stehen als Lesezeichen im PDF.
+
+\setcounter{secnumdepth}{-\maxdimen}
+\setcounter{tocdepth}{0}
+
+% KOMA setzt Überschriften und Verzeichniseinträge serifenlos. In einem Buch,
+% dessen Text eine Antiqua ist, wirkt das wie ein Fremdkörper.
+\setkomafont{disposition}{\normalfont\bfseries}
+\setkomafont{section}{\normalfont\large\bfseries}
+\setkomafont{chapterentry}{\normalfont}
+\setkomafont{chapterentrypagenumber}{\normalfont}
+\setkomafont{partentry}{\normalfont\bfseries\color{akzent}}
+\setkomafont{partentrypagenumber}{\normalfont\bfseries\color{akzent}}
+\RedeclareSectionCommand[beforeskip=-2.2\baselineskip, afterskip=0.8\baselineskip]{section}
+
+\makeatletter
+
+% Ein Kapitelanfang: Bezeichnung als Zeile darüber, Titel darunter.
+\newcommand{\kapitel}[2]{%
+  \clearpage
+  \phantomsection
+  \thispagestyle{plain}%
+  \vspace*{0.08\textheight}%
+  \begingroup
+    \raggedright
+    {\normalfont\large\scshape\color{akzent}#1\par}%
+    \vspace{0.7em}%
+    {\normalfont\Huge\bfseries#2\par}%
+  \endgroup
+  \vspace{2.4em}%
+  \addcontentsline{toc}{chapter}{#1 – #2}%
+  \markboth{#2}{#2}%
+  \@afterindentfalse\@afterheading
+}
+
+% Eine Teilseite: allein auf der Seite, ohne Kolumnentitel.
+\newcommand{\teil}[1]{%
+  \clearpage
+  \phantomsection
+  \thispagestyle{empty}%
+  \null\vspace*{0.24\textheight}%
+  \begingroup
+    \centering
+    {\normalfont\LARGE\bfseries\color{akzent}#1\par}%
+  \endgroup
+  \addcontentsline{toc}{part}{#1}%
+  \markboth{#1}{#1}%
+  \clearpage
+}
+
+% Ein Vorspannabschnitt: wie ein Kapitel, aber schlichter.
+\newcommand{\vorspann}[1]{%
+  \clearpage
+  \phantomsection
+  \thispagestyle{plain}%
+  \vspace*{0.04\textheight}%
+  \begingroup
+    \raggedright
+    {\normalfont\LARGE\bfseries#1\par}%
+  \endgroup
+  \vspace{1.6em}%
+  \addcontentsline{toc}{chapter}{#1}%
+  \markboth{#1}{#1}%
+  \@afterindentfalse\@afterheading
+}
+
+\newcommand{\hauptteil}{\cleardoublepage\mainmatter}
+
+% Der Belegapparat am Kapitelende: kleiner gesetzt, mit Abstand statt
+% Einzug, damit er als Apparat und nicht als Fließtext gelesen wird.
+\newcounter{belegblock}
+\newcommand{\belegeanfang}{%
+  \par\bigskip
+  \stepcounter{belegblock}%
+  \pdfbookmark[1]{Belege}{belege.\thebelegblock}%
+  \noindent\textcolor{leise}{\rule{0.3\linewidth}{0.4pt}}\par
+  \nobreak\vspace{0.9em}%
+  \nobreak{\normalfont\scshape\color{akzent}Belege}\par
+  \nobreak\vspace{0.5em}%
+  \begingroup
+    \small
+    \setlength{\parindent}{0pt}%
+    \setlength{\parskip}{0.55em}%
+}
+\newcommand{\belegeende}{\par\endgroup}
+
+\makeatother
+
+% Von Pandoc erzeugte Hilfsmakros, die in reiner Prosa nicht vorkommen, hier
+% aber vorsorglich definiert sind, damit eine spätere Liste den Satz nicht
+% zum Absturz bringt.
+\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\providecommand{\passthrough}[1]{#1}
+\providecommand{\pandocbounded}[1]{#1}
+
+% --------------------------------------------------------------------------
+% Titelei
+% --------------------------------------------------------------------------
+
+\begin{document}
+\frontmatter
+\pagestyle{empty}
+
+\begin{titlepage}
+  \centering
+  \null\vspace*{0.20\textheight}
+  {\Huge\bfseries $titel$\par}
+  $if(untertitel)$
+  \vspace{1.6em}
+  {\large\itshape\color{akzent}$untertitel$\par}
+  $endif$
+  $if(autor)$
+  \vspace{3.4em}
+  {\large $autor$\par}
+  $endif$
+  \vfill
+  $if(stand)$
+  {\small\color{leise}$stand$\par}
+  $endif$
+\end{titlepage}
+
+\thispagestyle{empty}
+\null\vfill
+{\footnotesize\color{leise}\raggedright
+  Diese Fassung wurde aus den Kapiteldateien in \texttt{manuskript/} gesetzt.
+  Sie ist ein Erzeugnis des Satzlaufs, nicht die Quelle: Geändert wird im
+  Markdown, nicht im PDF.\par
+  \vspace{0.7em}
+  $if(fassung)$Quellstand: \texttt{$fassung$}$if(satzdatum)$, $satzdatum$$endif$.\par$endif$
+}
+\clearpage
+
+\pagestyle{scrheadings}
+\pdfbookmark[0]{Inhalt}{inhalt}
+\tableofcontents
+
+$body$
+
+\end{document}
