@@ -518,6 +518,65 @@ Diese Einträge tragen das Manuskript unter `manuskript/` und – nach dem Nachz
 
 ---
 
+## H. Anker der Sorge-Konstruktion (Stand 31.07.2026)
+
+Diese Einträge tragen die Erweiterung vom 31.07.2026 in Manuskript (Kapitel 12, 13, 15, 25) und Thesenpapier (Sektionen III, IV, VI): den einklagbaren Anspruch auf einen Pflege- und Betreuungsplatz, die Gleichstellung der Sorge mit der Abstammung in der Erbschaftsteuer und die beiden offenen Fragen, die daraus im Ledger entstehen. Geprüft am 31.07.2026 per Websuche; zwei direkte Abrufversuche wurden vom Server abgewiesen, der Erreichbarkeitsvorbehalt im Kopf dieses Dokuments gilt also unverändert. Die weiteren Anker des Konzeptpapiers `konzept_sorgegemeinschaft.md` – Ehegattensplitting, Betreuungsgeld-Urteil, Verantwortungsgemeinschaft, Angehörigen-Entlastungsgesetz, § 35a EStG – stehen dort und wandern erst hierher, wenn sie in ein Hauptdokument eingearbeitet werden.
+
+### Anspruch auf einen Betreuungsplatz
+**Erläuterung:** Subjektiver Anspruch auf frühkindliche Förderung ab dem vollendeten ersten Lebensjahr, in Kraft seit 1. August 2013. Der Bundesgerichtshof hat 2016 entschieden, dass Eltern, denen trotz rechtzeitiger Bedarfsanmeldung kein Platz nachgewiesen wird, Amtshaftungsansprüche wegen Verdienstausfalls geltend machen können – ihre Erwerbsinteressen liegen im Schutzbereich der verletzten Amtspflicht. Im Manuskript (Kapitel 12) und im Thesenpapier (Sektion III) der Beleg dafür, dass ein Anspruch mit Inhaber leistet, was eine Planungspflicht nicht leistet.
+**Quelle(n):** § 24 Absatz 2 SGB VIII; BGH, Urteile vom 20. Oktober 2016, III ZR 278/15, III ZR 302/15, III ZR 303/15 (Amtshaftung nach § 839 Absatz 1 Satz 1 BGB in Verbindung mit Artikel 34 Satz 1 GG).
+**URL:** https://dejure.org/dienste/lex/SGB_VIII/24/1.html – indiziert 31.07.2026
+**Verifikation:** bestätigt.
+
+### Keine Entsprechung in der Pflege
+**Erläuterung:** Die Länder tragen Vorhaltung und Planungsverantwortung für die pflegerische Infrastruktur, die Pflegekassen einen Sicherstellungsauftrag. Beides sind Systempflichten; ein individueller Anspruch auf einen Pflegeplatz besteht nicht. Diese Asymmetrie zur Kinderbetreuung ist der Ausgangspunkt der Konstruktion in Kapitel 12.
+**Quelle(n):** § 9 SGB XI (Aufgaben der Länder); § 69 SGB XI (Sicherstellungsauftrag).
+**URL:** https://www.sozialgesetzbuch-sgb.de/sgbxi/9.html – indiziert 31.07.2026
+**Verifikation:** bestätigt.
+
+### Vorrang der häuslichen Pflege
+**Erläuterung:** Die Pflegeversicherung soll vorrangig die häusliche Pflege und die Pflegebereitschaft der Angehörigen und Nachbarn unterstützen, damit Pflegebedürftige möglichst lange in ihrer häuslichen Umgebung bleiben können. Im Manuskript (Kapitel 15) der Beleg dafür, dass das geltende Recht mit unbezahlter Angehörigenarbeit kalkuliert.
+**Quelle(n):** § 3 SGB XI, in Kraft seit 1. Januar 1995. Ergänzend § 19 SGB XI (Begriff der Pflegeperson) und § 44 SGB XI (Rentenbeiträge ab zehn Wochenstunden auf mindestens zwei Tage, Pflegegrad 2 oder höher, Erwerbstätigkeit der Pflegeperson höchstens 30 Wochenstunden).
+**URL:** https://www.sozialgesetzbuch-sgb.de/sgbxi/3.html – indiziert 31.07.2026
+**Verifikation:** bestätigt. Die Deutung der Vorschrift als Kalkulationsgrundlage ist **Wertung** des Projekts.
+
+### Häusliche Versorgung in Zahlen
+**Erläuterung:** Im Dezember 2023 waren 5,7 Millionen Menschen pflegebedürftig; 86 Prozent (4,9 Millionen) wurden zu Hause versorgt, zwei Drittel (3,8 Millionen) zu Hause überwiegend durch Angehörige, 3,1 Millionen bezogen ausschließlich Pflegegeld, 14 Prozent (800.000) wurden vollstationär betreut. Die Zahl trägt den Satz, dass der fehlende Platz nicht verschwindet, sondern in die Haushalte wandert.
+**Quelle(n):** Statistisches Bundesamt, Pressemitteilung Nr. 478 vom Dezember 2024 (Pflegestatistik zum Dezember 2023).
+**URL:** https://www.destatis.de/DE/Presse/Pressemitteilungen/2024/12/PD24_478_224.html – indiziert 31.07.2026
+**Verifikation:** bestätigt.
+
+### Familienprinzip der Erbschaftsteuer
+**Erläuterung:** Aus Artikel 6 Absatz 1 in Verbindung mit Artikel 14 Absatz 1 GG folgt, dass der Erwerb der engsten Familienangehörigen – insbesondere Ehegatten und Kinder – je nach Größe des Nachlasses deutlich überwiegend, bei kleineren Vermögen vollständig steuerfrei bleiben muss. Diese Norm ist der Grund, warum die Sorge in der Erbschaftsteuer nur *neben* die Abstammung treten kann und sie nicht ersetzt (Kapitel 13, Thesenpapier Sektion III).
+**Quelle(n):** BVerfG, Beschluss des Zweiten Senats vom 22. Juni 1995 – 2 BvR 552/91 (BVerfGE 93, 165).
+**URL:** https://www.servat.unibe.ch/dfr/bv093165.html – indiziert 31.07.2026
+**Verifikation:** bestätigt. Die Folgerung für die Konstruktion ist **Wertung** des Projekts.
+
+### Steuerklassen, Freibeträge und Pflegefreibetrag
+**Erläuterung:** Das Erbschaftsteuerrecht ordnet die Erwerber nach Abstammung und Ehe drei Steuerklassen zu. Freibeträge: 500.000 Euro (Ehegatte), 400.000 (Kind), 200.000 (Enkel), 20.000 in den Klassen II und III. Steuersätze: 7 bis 30 Prozent (I), 15 bis 43 (II), 30 bis 50 (III). Daneben ein antragsgebundener Freibetrag bis 20.000 Euro für unentgeltlich gewährte Pflege oder Unterhalt, den der Bundesfinanzhof auch gesetzlich Unterhaltsverpflichteten zugesprochen hat.
+**Quelle(n):** §§ 15, 16, 19 ErbStG; § 13 Absatz 1 Nummer 9 ErbStG; BFH, Urteil vom 11. September 2013, II R 37/12.
+**URL:** https://www.bundesfinanzhof.de/en/entscheidungen/entscheidungen-online/decision-detail/STRE201310296/ – indiziert 31.07.2026
+**Verifikation:** bestätigt für den Stand 2026.
+
+### Gender Care Gap und Wert der Haushaltsproduktion
+**Erläuterung:** Der Unterschied im täglichen Aufwand für unbezahlte Arbeit lag 2022 bei 44,3 Prozent zulasten der Frauen (rund 29 gegen rund 20 Wochenstunden), nach 52,4 Prozent in der Erhebung 2012/13. Die Bruttowertschöpfung der Haushaltsproduktion betrug für 2013 987 Milliarden Euro, rund 39 Prozent des Bruttoinlandsprodukts. Beide Zahlen tragen den Satz, dass die Sorge – an der Wertschöpfung gemessen – der größte Sektor des Landes ist und keine Eigentumsverfassung hat.
+**Quelle(n):** Statistisches Bundesamt, Pressemitteilung Nr. 073 vom 28. Februar 2024 (Zeitverwendungserhebung 2022), in korrigierter Fassung; Satellitensystem Haushaltsproduktion, WISTA 2/2016.
+**URL:** https://www.destatis.de/DE/Presse/Pressemitteilungen/2024/02/PD24_073_63991.html – indiziert 31.07.2026 (direkter Abruf mit 403 abgewiesen)
+**Verifikation:** bestätigt mit Einschränkung. Der Gender-Care-Gap-Wert erschien in zwei Fassungen (ursprünglich 43,8, korrigiert 44,3 Prozent), und in der Sekundärliteratur kursieren abweichende Angaben um 43,4 Prozent aus abweichender Abgrenzung; im Text steht der korrigierte Wert. Die Wertschöpfungszahl hat die Zeitbasis 2012/13 und ist nicht auf die Erhebung 2022 fortgeschrieben – im Text mit Jahresangabe geführt.
+
+### Sorgezeiten im Rentenrecht
+**Erläuterung:** Kindererziehungszeiten werden als Beitragszeiten angerechnet; der Bund zahlt dafür Beiträge in der Größenordnung von 19,2 Milliarden Euro für 2025 nach 18,14 Milliarden 2024. Das deutsche Recht behandelt Sorgearbeit damit bereits als Beitrag – allerdings als Programm, das in jeder Legislaturperiode neu geschrieben wird. Im Manuskript (Kapitel 15, 25) das Argument für und zugleich die Warnung vor einem Sorgekonto.
+**Quelle(n):** § 56 SGB VI; Haushaltsangaben zu den Beitragszahlungen des Bundes; laufende Kosten der Mütterrente rund 13,5 Milliarden Euro jährlich, geplante Ausweitung ab 2027 mit rund 5 Milliarden zusätzlich.
+**Verifikation:** bestätigt mit Einschränkung – Haushalts- und Presseangaben, keine amtliche Rechnungslegung; die Größenordnung ist unstrittig, die Einzelbeträge sind als solche geführt.
+
+### Wirkung von Geldleistungen für häusliche Betreuung
+**Erläuterung:** Für Finnland ist belegt, dass ein um 100 Euro höheres Betreuungsgeld die häusliche Betreuung um durchschnittlich zwei bis drei Monate verlängert und die Wirkung mit steigendem Alter des Kindes verschwindet; Untersuchungen zu Deutschland, Norwegen und Schweden finden negative kurzfristige Effekte auf die Erwerbstätigkeit von Müttern. Dieser Befund ist der Grund, warum das Sorgekonto im Ledger als offene Frage mit Modellversuch steht und nicht als Konstruktion.
+**Quelle(n):** Forschungsliteratur zur finnischen *kotihoidon tuki* und zur norwegischen *kontantstøtte*, u. a. „Back to work or stay at home? Family policies and maternal employment in Finland", *Journal of Population Economics* 35 (2022), H. 3.
+**URL:** https://ideas.repec.org/a/spr/jopoec/v35y2022i3d10.1007_s00148-021-00843-4.html – indiziert 31.07.2026
+**Verifikation:** bestätigt dem Grunde nach, mit der Einschränkung, dass Langfristwirkungen überwiegend nicht untersucht sind.
+
+---
+
 ## Aus der Verifikation folgende Präzisierungsaufträge für das Hauptdokument
 
 Die Prüfung hat keine tragende These des Dokuments erschüttert, aber zehn Stellen ergeben, an denen Formulierungen oder Zahlen nachgeschärft werden mussten. Alle zehn wurden am 22.07.2026 in das Hauptdokument eingearbeitet; die Liste bleibt als Änderungsdokumentation erhalten – nach der Hausregel gilt: präzisieren, nicht stillschweigend verschieben.
