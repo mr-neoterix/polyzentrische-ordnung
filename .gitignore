@@ -1,2 +1,6 @@
 # Erzeugnisse des Satzlaufs – das PDF ist kein Quelltext.
 build/
+
+# Python-Zwischenstände des Satzskripts.
+__pycache__/
+*.pyc

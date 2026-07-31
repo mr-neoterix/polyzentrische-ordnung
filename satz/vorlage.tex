@@ -105,6 +105,7 @@
   bookmarksopenlevel=1,
   bookmarksdepth=2,
   pdftitle={$titel$$if(untertitel)$. $untertitel$$endif$},
+  pdfauthor={$autor$},
   pdfsubject={$stand$},
   pdflang={de-DE},
   pdfcreator={pandoc, lualatex},
@@ -225,6 +226,10 @@
   $if(untertitel)$
   \vspace{1.6em}
   {\large\itshape\color{akzent}$untertitel$\par}
+  $endif$
+  $if(autor)$
+  \vspace{3.4em}
+  {\large $autor$\par}
   $endif$
   \vfill
   $if(stand)$

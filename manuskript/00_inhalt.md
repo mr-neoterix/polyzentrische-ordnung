@@ -2,6 +2,8 @@
 
 ### Warum Eigentum verteilt werden muss, damit Freiheit Bestand hat
 
+**Marcel Richtsteiger**
+
 *Manuskript. Stand: 29. Juli 2026.*
 
 ---

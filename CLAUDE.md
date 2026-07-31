@@ -135,6 +135,8 @@ Aus den Kapiteldateien wird bei jeder Änderung an `manuskript/` automatisch ein
 
 *Drittens:* Die Zuordnung der Kapitel zu den acht Teilen liest der Satz aus dem Abschnitt *Aufbau* in `manuskript/00_inhalt.md` – fette Zeilen `**Teil I – Die Frage**`, darunter kursive Kapitelzeilen `*1. Eine Frage, die weiterführte.*`. Wer ein Kapitel einfügt oder verschiebt, pflegt diese Liste mit, sonst fehlt dem Kapitel die Teilseite. Der Lauf sagt es, aber er bricht deswegen nicht ab.
 
+Aus dem Kopf derselben Datei – allem vor dem ersten Abschnitt – kommt die Titelei: Titel als `#`, Untertitel als `###`, Verfasser als einzige fett gesetzte Zeile (`**Marcel Richtsteiger**`), Stand als kursive Zeile `*Manuskript. Stand: …*`. Der Verfassername steht auf der Titelseite und in den PDF-Metadaten.
+
 Am Text ändert der Satz nichts als zweierlei Form: das schließende Anführungszeichen (die Quellen schreiben `„Zitat"`, gesetzt wird das deutsche Paar) und hoch- oder tiefgestellte Ziffern, die die Brotschrift nicht mitführt. Beides geschieht auf dem Weg ins PDF; die Quellen bleiben unangetastet. Näheres in `satz/README.md`.
 
 ## Backlog (Kandidaten für spätere Sessions)

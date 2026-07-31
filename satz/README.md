@@ -53,6 +53,13 @@ die Teilseiten. Ein Kapitel, das dort nicht auftaucht, wird trotzdem gesetzt
 Die Reihenfolge der Kapitel ist die Reihenfolge der Dateinamen. Wer ein
 Kapitel einschiebt, nummeriert die Dateien um.
 
+*Die Titelei steht im Kopf von `00_inhalt.md`*, also vor dem ersten
+Abschnitt: der Titel als `#`, der Untertitel als `###`, der Verfasser als
+einzige fett gesetzte Zeile, der Stand als kursive Zeile `*Manuskript.
+Stand: …*`. Titel, Untertitel und Verfasser wandern auch in die
+PDF-Metadaten. Fehlt eine der Zeilen, entfällt sie schlicht auf der
+Titelseite; nur ohne Titel bricht der Satz ab.
+
 ## Was das Skript am Text ändert
 
 Nichts am Inhalt, zweierlei an der Form. Die Quellen setzen das öffnende

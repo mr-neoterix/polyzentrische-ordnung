@@ -124,15 +124,23 @@ def als_latex(text: str) -> str:
 
 
 def lies_titelei(text: str) -> dict[str, str]:
-    """Zieht Titel, Untertitel und Stand aus dem Kopf von 00_inhalt.md."""
-    titel = re.search(r"^# (.+)$", text, re.M)
-    untertitel = re.search(r"^### (.+)$", text, re.M)
-    stand = re.search(r"^\*(Manuskript\.[^*]+)\*$", text, re.M)
+    """Zieht Titel, Untertitel, Verfasser und Stand aus 00_inhalt.md.
+
+    Gelesen wird nur der Kopf – alles vor dem ersten Abschnitt. Sonst
+    verwechselte der Verfassername sich mit den fett gesetzten Teilzeilen
+    des Aufbaus.
+    """
+    kopf = re.split(r"^## ", text, maxsplit=1, flags=re.M)[0]
+    titel = re.search(r"^# (.+)$", kopf, re.M)
+    untertitel = re.search(r"^### (.+)$", kopf, re.M)
+    autor = re.search(r"^\*\*(.+?)\*\*$", kopf, re.M)
+    stand = re.search(r"^\*(Manuskript\.[^*]+)\*$", kopf, re.M)
     if not titel:
         raise Fehler(f"{INHALT}: keine Titelzeile (# …) gefunden.")
     return {
         "titel": titel.group(1).strip(),
         "untertitel": untertitel.group(1).strip() if untertitel else "",
+        "autor": autor.group(1).strip() if autor else "",
         "stand": stand.group(1).strip().rstrip(".") if stand else "",
     }
 
@@ -256,6 +264,7 @@ def baue_quelltext(fassung: str, satzdatum: str) -> str:
     zeilen.append("---")
     zeilen.append(kopfzeile("titel", titelei["titel"]))
     zeilen.append(kopfzeile("untertitel", titelei["untertitel"]))
+    zeilen.append(kopfzeile("autor", titelei["autor"]))
     zeilen.append(kopfzeile("stand", titelei["stand"]))
     zeilen.append(kopfzeile("fassung", fassung))
     zeilen.append(kopfzeile("satzdatum", satzdatum))
