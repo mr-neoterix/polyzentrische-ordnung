@@ -98,6 +98,28 @@ Damit ist der Sektor nicht eigentumsgesichert. Er ist aber auch nicht mehr bloß
 
 Und eine Sperre gilt ohne Ausnahme, gezogen aus der Landesbanken-Erfahrung: *Gemeinwirtschaftliche Träger dürfen Infrastruktur betreiben, aber keine Finanzgeschäfte mit Fristentransformation und Eigenhandel.* Wer das Netz besitzt, braucht keine strukturierten Wertpapiere.
 
+### Der Anspruch reicht bisher nur auf die Güte, nicht auf die Existenz
+
+Bleibt eine Lücke, die dieses Kapitel selbst aufgerissen hat, und im größten Teilbereich des Sektors ist sie die wichtigere Frage.
+
+Alles bisher Gebaute regelt, was mit einem *schlechten* Träger geschieht: Er verliert die Konzession, ein Nachfolger steht bereit, das Netz läuft weiter, und der Anschlussnehmer kann die Folge einklagen. **Es regelt nicht, was geschieht, wenn es gar keinen Träger gibt.** Bei einem Wasserrohr ist das eine theoretische Frage, denn das Netz existiert. Bei einem Pflegeplatz, einem Platz in der Tagespflege, einem Betreuungsplatz ist es der Normalfall: Der häufigste Mangel ist nicht der schlechte Platz, sondern der fehlende.
+
+Und der fehlende Platz verschwindet nicht, er wandert. Wo keine Einrichtung ist, wird zu Hause gepflegt und betreut, unbezahlt und überwiegend von Frauen. Im Dezember 2023 wurden 86 Prozent der 5,7 Millionen Pflegebedürftigen zu Hause versorgt, zwei Drittel von ihnen – 3,8 Millionen – überwiegend durch Angehörige. Die Lücke im Allmende-Sektor ist deshalb keine Versorgungslücke, sondern eine Verschiebung: aus einem Haushalt, in dem sie erschiene, in eine Zeitrechnung, in der sie nicht erscheint. **Was hier fehlt, taucht anderswo als unbezahlte Arbeit wieder auf.**
+
+Das deutsche Recht behandelt diese Frage in zwei Bereichen vollkommen verschieden, und der Unterschied ist genau der, an dem dieses Buch überall hängt. Für die Kinderbetreuung besteht seit August 2013 ein subjektiver Anspruch auf einen Betreuungsplatz nach § 24 Absatz 2 des Achten Sozialgesetzbuchs, und der Bundesgerichtshof hat 2016 entschieden, dass Eltern, denen trotz rechtzeitiger Bedarfsanmeldung kein Platz nachgewiesen wird, Amtshaftungsansprüche wegen Verdienstausfalls geltend machen können – ihr Erwerbsinteresse liegt im Schutzbereich der verletzten Amtspflicht. Für die Pflege gibt es nichts dergleichen: § 9 SGB XI weist den Ländern Vorhaltung und Planungsverantwortung zu, § 69 SGB XI den Pflegekassen einen Sicherstellungsauftrag – Systempflichten ohne individuellen Anspruch auf einen Platz.
+
+Aufgabe mit Ermessen gegen Anspruch mit Inhaber: **Eine Planungsverantwortung erfüllt man, indem man plant. Einen Anspruch erfüllt man, indem man baut.**
+
+Also derselbe Anspruch für die Pflege- und Betreuungsinfrastruktur, einklagbar und individuell, mit Haftungsfolge bei Nichterfüllung. Drei Bestimmungen halten ihn mit dem Rest dieses Kapitels vereinbar.
+
+*Er richtet sich auf den Platz, nicht auf den Träger.* Sonst wird aus dem Versorgungsanspruch eine Bestandsgarantie für schlechte Betreiber, und das Sterberecht wäre auf dem Umweg über die Fürsorge wieder abgeschafft. Es ist dieselbe Trennung, die dieses Kapitel zwischen Netzeigentum und Betriebsführung zieht, angewandt auf den Unterschied zwischen Anspruch und Anbieter.
+
+*Er wird angemeldet und mit Frist erfüllt,* nach dem Muster der Bedarfsanmeldung im Kinderbetreuungsrecht. Ein Anspruch ohne Vorlaufzeit erlaubt dem Verpflichteten keine Planung, sondern erzeugt nur Haftung – und Haftung baut keine Plätze.
+
+*Und seine Kosten werden ausgewiesen.* Was ein Platz kostet, steht im Kostenvergleich; was eine Kommune oder ein Land zuschießt, steht als beschlossene Zahlung da und nicht in einer konsolidierten Rechnung. Das ist das Verbot der stillen Verlustdeckung, angewandt auf den eigenen Anspruch.
+
+Der Preis dieser Konstruktion gehört daneben, weil er echt ist. Ein einklagbarer Anspruch verschiebt eine Last aus den privaten Haushalten in die öffentlichen Etats, und die stehen bei 31,9 Milliarden Euro kommunalem Defizit ohnehin an ihrer Grenze. Das ist keine Nebenwirkung, sondern der Zweck – der Anspruch macht sichtbar, was heute unsichtbar getragen wird. Er macht die Rechnung aber nicht kleiner. Ein Anspruch, dessen Erfüllung dauerhaft aus stiller Verlustdeckung finanziert wird, hätte die weiche Budgetbeschränkung auf einem neuen Weg wieder hereingelassen; deshalb steht er hier neben dem Kostenvergleich und nicht allein. Und ob ein einklagbarer Anspruch in einem chronisch unterfinanzierten Bereich Kapazität erzeugt oder nur Schadensersatz, ist eine Frage, die auch der Kinderbetreuungsfall nicht eindeutig beantwortet. Sie steht deshalb im fünfundzwanzigsten Kapitel.
+
 ---
 
 ### Belege
@@ -114,4 +136,10 @@ Und eine Sperre gilt ohne Ausnahme, gezogen aus der Landesbanken-Erfahrung: *Gem
 
 *Liaoning:* siehe Kapitel 4. **Bestätigt.**
 
-*Datenstelle mit Erhebungsrecht, Testat mit Haftung, Stichproben, physisch-technische Gegenmessung, Klagerecht Dritter, Betriebsführer letzter Instanz, Standardvertragswerk mit Personalfolge, umgekehrte Sequenz, Vorwarnschwelle für Einrichtungen mit Versorgungsauftrag, Nachrüstung genossenschaftlicher Trägerschaft und die Sperre für Finanzgeschäfte* sind Konstruktionsvorschläge dieses Buches. **Wertung.**
+*Anspruch auf einen Betreuungsplatz:* § 24 Absatz 2 SGB VIII – subjektiver Anspruch auf frühkindliche Förderung ab dem vollendeten ersten Lebensjahr, in Kraft seit 1. August 2013. Bundesgerichtshof, Urteile vom 20. Oktober 2016, III ZR 278/15, III ZR 302/15 und III ZR 303/15: Amtshaftung nach § 839 Absatz 1 Satz 1 BGB in Verbindung mit Artikel 34 Satz 1 GG bei Nichtnachweis eines Platzes trotz rechtzeitiger Bedarfsanmeldung; die Erwerbsinteressen der Eltern liegen im Schutzbereich der Amtspflicht. **Bestätigt.**
+
+*Keine Entsprechung in der Pflege:* § 9 SGB XI (Vorhaltung und Planungsverantwortung der Länder), § 69 SGB XI (Sicherstellungsauftrag der Pflegekassen). Beide begründen Systempflichten, keinen individuellen Anspruch auf einen Pflegeplatz. **Bestätigt.**
+
+*Häusliche Versorgung:* Statistisches Bundesamt, Pflegestatistik zum Dezember 2023 – 5,7 Millionen Pflegebedürftige, davon 86 Prozent (4,9 Millionen) zu Hause versorgt und zwei Drittel (3,8 Millionen) zu Hause überwiegend durch Angehörige. **Bestätigt.**
+
+*Datenstelle mit Erhebungsrecht, Testat mit Haftung, Stichproben, physisch-technische Gegenmessung, Klagerecht Dritter, Betriebsführer letzter Instanz, Standardvertragswerk mit Personalfolge, umgekehrte Sequenz, Vorwarnschwelle für Einrichtungen mit Versorgungsauftrag, Nachrüstung genossenschaftlicher Trägerschaft, die Sperre für Finanzgeschäfte und die Übertragung des Platzanspruchs auf die Pflege- und Betreuungsinfrastruktur samt ihren drei Bestimmungen* sind Konstruktionsvorschläge dieses Buches. **Wertung.**

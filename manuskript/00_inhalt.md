@@ -4,7 +4,7 @@
 
 **Marcel Richtsteiger**
 
-*Manuskript. Stand: 29. Juli 2026.*
+*Manuskript. Stand: 31. Juli 2026.*
 
 ---
 
@@ -58,7 +58,7 @@ Am Ende steht kein Zielzustand. Wer einen sucht, wird enttäuscht werden, und di
 
 *14. Die Kreislaufdimension.* Ein Trinkglas aus der Lausitz und die Frage, warum niemand Haltbarkeit verkaufen will.
 
-*15. Arbeit, Sorge, Krise und Weltmarkt.* Wovon Menschen leben, was die Ordnung nicht erreicht, und warum die Krise sie füttert statt sie zu widerlegen.
+*15. Arbeit, Sorge, Krise und Weltmarkt.* Wovon Menschen leben, warum die Sorge der letzte monozentrische Bereich ist, und warum die Krise die Ordnung füttert statt sie zu widerlegen.
 
 *16. Die politische Architektur und die Bedingung des Exits.* Subsidiarität – nicht als Vorliebe für Nähe, sondern aus dem anthropologischen Befund hergeleitet und mit umgekehrter Beweislast –, Losgremien, Daten und Hirschmans doppelte Lehre.
 

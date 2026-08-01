@@ -144,6 +144,8 @@ Was unabhängig davon gilt und den Belastungstest besteht, ist die genossenschaf
 
 Er folgt derselben Logik und sei knapp benannt.
 
+*Die Steuerklassen der Erbschaftsteuer,* die neben die Abstammung die geleistete Sorge setzen – begründet im dreizehnten Kapitel. Für diese Stufe ist daran zweierlei wichtig. Die Änderung ist zustimmungsbedürftig und kostet die Länder Aufkommen; sie gehört deshalb in dasselbe Verhandlungspaket wie die Fondsfamilie, in dem die Länder etwas bekommen, statt einzeln in den Bundesrat zu gehen. Und sie besteht den Belastungstest besser als alles andere in dieser Stufe: Eine Steuerklasse ist kein Programm, das man auslaufen lässt, sondern ein Paragraph, dessen Streichung ein sichtbarer Beschluss ist.
+
 *Plattform- und Kartellrecht mit echter Entflechtungskompetenz,* weil Netzwerkeffekte Monopole erzeugen, die kein Verhaltensrecht bändigt. *Medienkonzentrationsrecht mit Zähnen,* weil der Sektorenwettbewerb um Köpfe sonst entschieden ist, bevor er beginnt. *Öffentliche digitale Basisinfrastruktur:* Glasfaser wie Straßen, quelloffene Verwaltungssoftware, föderierte Protokolle als geförderter Standard. *Geloste Beteiligung* auf Landes- und Bundesebene für definierte Fragetypen, mit dem Verfahrensdesign aus dem sechzehnten Kapitel. Und *Transparenzpflichten:* maschinenlesbare Echtzeitdaten aller öffentlichen und gemeinwirtschaftlichen Träger – zugleich das Ersatz-Preissystem des Allmende-Sektors und das Frühwarnsystem gegen dessen weiche Budgetbeschränkung.
 
 ---

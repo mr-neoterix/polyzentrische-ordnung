@@ -6,9 +6,9 @@ Die zentrale These: Die entscheidende Variable ist nicht Kapitalismus vs. Sozial
 
 ## Inhalt
 
-Die ausgeführte Fassung: **[essay_polyzentrische_ordnung.md](essay_polyzentrische_ordnung.md)** – ein eigenständiger Essay, der Herleitung, Institutionenentwurf, Umsetzungspfad und beide Gegenproben zusammenführt. Zwei Prüfsteine geben ihm seine Form: Funktionstest (wie arbeitet die Ordnung im Werktag?) und Umsetzungstest (geht der erste Schritt im geltenden Recht, mit gewöhnlichen Mehrheiten, aus vorhandenem Geld?).
+Der maßgebliche Stand: **[manuskript/](manuskript/)** – ein kapitelweise gegliedertes Manuskript in 26 Kapiteln, das die Herleitung didaktisch entfaltet: Begriffe und historische Fälle werden erklärt statt vorausgesetzt, jedes Kapitel schließt mit eigenem Belegapparat samt Verifikationsstatus. Es arbeitet die Lösungsvorschläge des Problemkatalogs vom 28.07.2026 ein, führt die Weltordnungsebene als eigenes Kapitel und beide Gegenproben, die marxistische und die liberale. Zwei Prüfsteine geben ihm seine Form: Funktionstest (wie arbeitet die Ordnung im Werktag?) und Umsetzungstest (geht der erste Schritt im geltenden Recht, mit gewöhnlichen Mehrheiten, aus vorhandenem Geld?). Übersicht und Leseplan in [manuskript/00_inhalt.md](manuskript/00_inhalt.md). Im Zweifel gilt das Manuskript.
 
-Die literarische Buchfassung: **[manuskript/](manuskript/)** – ein kapitelweise gegliedertes Manuskript in 26 Kapiteln, das die Herleitung didaktisch entfaltet: Begriffe und historische Fälle werden erklärt statt vorausgesetzt, jedes Kapitel schließt mit eigenem Belegapparat samt Verifikationsstatus. Es arbeitet die Lösungsvorschläge des Problemkatalogs vom 28.07.2026 ein und führt die Weltordnungsebene als eigenes Kapitel. Übersicht und Leseplan in [manuskript/00_inhalt.md](manuskript/00_inhalt.md).
+Die historische Fassung: **[essay_polyzentrische_ordnung.md](essay_polyzentrische_ordnung.md)** – die erste vollständig ausgeführte Fassung der Argumentation, Stand 25. Juli 2026, stillgelegt und nicht mehr fortgeschrieben. Sie bleibt lesbar, ist aber an sieben Stellen überholt; ihr Kopfvermerk weist jede einzeln aus, darunter eine Konstruktion, die das Gesellschaftsrecht so nicht hergibt.
 
 Zum Lesen am Stück: **[das Manuskript als PDF](https://github.com/mr-neoterix/polyzentrische-ordnung/releases/latest/download/polyzentrische-ordnung-manuskript.pdf)** – Titelei, Inhaltsverzeichnis, acht Teilseiten, 26 Kapitel mit ihrem Belegapparat. Der Verweis zeigt immer auf den letzten Stand: Bei jeder Änderung am Manuskript wird das Buch neu gesetzt und die Veröffentlichung ausgetauscht. Wie der Satz entsteht und wie man ihn örtlich baut, steht in [satz/README.md](satz/README.md).
 
@@ -18,7 +18,7 @@ Begleitend: **[quellen_und_glossar.md](quellen_und_glossar.md)** – Quellenverz
 
 Adversariale Prüfung: **[pruefbericht_schwachstellen.md](pruefbericht_schwachstellen.md)** – Schwachstellen, Gegenargumente und Einarbeitungsvorschläge, jeweils mit Urteil (echte Schwäche, halbe Schwäche, keine Schwäche); Abschnitt G weist nach, wo jeder Befund im Essay gelandet ist.
 
-Der Essay gliedert sich in neun Sektionen: Frage und Verfahren, neun Befunde, die Ordnung mit ihrem Funktionstest, drei Werktage als Fallproben, der Umsetzungspfad mit Abschaltkriterien, die marxistische und die liberale Gegenprobe, die offenen Flanken, die Formel.
+Das Manuskript gliedert sich in acht Teile: die Frage, die Diagnose über fünf Länder, warum weder Marx noch der gefesselte Kapitalismus genügen, die Ordnung mit ihren drei Sektoren, der Weg in drei Stufen, die äußere Ebene, die beiden Gegenproben und der ehrliche Rest aus offenen Flanken und Formel. Der Essay folgt derselben Argumentation in neun Sektionen; wo beide abweichen, gilt das Manuskript.
 
 Das Thesenpapier gliedert sich in sieben Teile:
 
