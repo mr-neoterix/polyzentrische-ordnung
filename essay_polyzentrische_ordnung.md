@@ -4,6 +4,30 @@
 
 ---
 
+**Stand: 25. Juli 2026. Historische Fassung – sie wird nicht fortgeschrieben.**
+
+Dieser Essay war die erste vollständig ausgeführte Fassung der Argumentation. Er hat den Prüfbericht vom 24.07.2026 abgearbeitet, er führt beide Gegenproben und die drei Werktage als Fallproben, und als zusammenhängender Text ist er lesbar geblieben. Maßgeblich ist er nicht mehr. **Wo dieser Essay und das Manuskript unter `manuskript/` voneinander abweichen, gilt das Manuskript.**
+
+Wer weglässt, muss sagen, dass er weglässt – und wer überholt ist, muss sagen, worin. Sieben Stellen sind es, und die erste ist keine Auslassung, sondern ein Fehler.
+
+*Die Stimmrechtsverlagerung in Sektion III und V ist gesellschaftsrechtlich nicht zu haben.* Der Essay lässt den Ertragsanspruch an die Fonds und die Stimmrechte *derselben Anteile* an die Belegschaft gehen. Genau diese Trennung verbietet das Abspaltungsverbot: für die Personengesellschaft § 717 Satz 1 BGB, abtretbar sind nur reine Vermögensansprüche nach § 711a Satz 2 BGB, für Kapitalgesellschaften und Genossenschaften nach herrschender Lehre entsprechend; bei der Aktiengesellschaft kommt die Hälftegrenze für stimmrechtslose Vorzugsaktien nach § 139 Absatz 2 AktG hinzu. Die tragfähige Fassung dreht die Zuordnung um, statt sie zu spalten: Die Belegschaftstreuhand hält den Anteil, die Stimme folgt dem Anteil, und der Fonds erhält ein gesondert bestelltes Ertragsrecht. Sie steht im zwanzigsten Kapitel des Manuskripts.
+
+*Die Kapitalkonten stehen ohne Auszahlungsregel da.* Ohne Mindestkapitalklausel nach § 8a GenG und gestreckte Auszahlung nach § 73 Absatz 4 GenG ist das Konto rückzahlbares Fremdkapital mit Eigenkapitalanmutung.
+
+*Der Föderalismustest fehlt,* und mit ihm die Fondsfamilie als Länderfamilie. Der Essay kennt fünf Umsetzbarkeitstests; der sechste fragt, wer zahlt, wer verwaltet, wer das Aufkommen bekommt und wer im Bundesrat zustimmen muss.
+
+*Der Bestandsschutz der Anwartschaft ruht auf einer Rechtsannahme.* Artikel 14 Absatz 1 GG schützt Anwartschaften nur, soweit sie auf nicht unerheblicher Eigenleistung beruhen; das Eigenbeitragselement, das daraus folgt, kennt der Essay nicht. Ebenso wenig die Sterberegel für die Fonds und den Zustimmungsvorbehalt der Berechtigten bei einer Zusammenlegung.
+
+*Die Weltordnungsebene führt er als Ledger-Eintrag,* nicht als Gegenstand. Im Manuskript ist sie das zweiundzwanzigste Kapitel, mit dem Befund gegen die eigene Kernthese: Polyzentrik ist notwendig, aber nicht hinreichend.
+
+*Der Staatlichkeits-Einwand fehlt* – die stärkste linke Gegenposition –, und mit ihm die Herleitung der Subsidiarität aus einem Befund statt aus einer Vorliebe.
+
+*Und die Sorge-Flanke führt er als bloße Grenze.* Das Manuskript hat sie am 31.07.2026 bearbeitet: Anspruch auf den Pflege- und Betreuungsplatz im zwölften Kapitel, Gleichstellung der Sorge mit der Abstammung in der Erbschaftsteuer im dreizehnten, die Diagnose im fünfzehnten.
+
+Der Text bleibt trotzdem stehen, und der Grund ist derselbe, aus dem das Ledger nie stillschweigend schrumpfen darf: Eine überholte Konstruktion verschwindet nicht dadurch, dass man die Datei löscht, sondern dadurch, dass man sagt, wodurch sie ersetzt wurde.
+
+---
+
 ## I. Die Frage und das Verfahren
 
 Angefangen hat es mit einer engen historischen Frage: War die DDR eigentlich pleite? Die Antwort führte weiter, als die Frage reichte, und das Verfahren, mit dem sie gefunden wurde, ist wichtiger als jedes Einzelergebnis. Es hat drei Regeln.
