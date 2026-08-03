@@ -2,7 +2,7 @@
 
 ## Konzeptpapier zur offenen Flanke der Sorgearbeit
 
-Stand: 31.07.2026. **Teilweise entschieden – siehe Kopfvermerk.**
+Stand: 03.08.2026. **Teilweise entschieden und neu verortet – siehe die beiden Kopfvermerke.**
 
 ---
 
@@ -17,6 +17,22 @@ Von den drei Vorschlägen dieses Papiers sind zwei in Manuskript und Thesenpapie
 *Nicht eingearbeitet:* **Sorgegemeinschaft als Rechtsform, Sorgekonto und Sorgesplitting.** Von hier stammen alle vier neuen Ledger-Einträge des Abschnitts IX, die unbekannte Nettowirkung auf die Erwerbsbeteiligung, das Register und – nach der Korrektur – ein ungelöstes Deckungsproblem. Der Gegenstand ist damit nicht verworfen, sondern anders eingeordnet: Er steht im Ledger des Manuskripts (Kapitel 25) und des Thesenpapiers (Sektion VI) als offene Frage mit Verfahren – ein räumlich begrenzter Modellversuch mit Kontrollgruppe, veröffentlichten Messgrößen und einer Abschaltschwelle. Das ist die Behandlung, die dieses Projekt für Konstellationen ohne Erfahrung vorsieht.
 
 Der Text darunter bleibt, wie er war, mit Ausnahme der drei Stellen, die der Korrektur widersprachen. Er ist damit kein Vorschlag mehr, sondern die Herleitung, aus der zwei Bauteile und eine Modellversuchsfrage hervorgegangen sind.
+
+---
+
+**Zweiter Kopfvermerk vom 03.08.2026: die Verortung.**
+
+Dieses Papier hat die Sippe als Bauteil der polyzentrischen Ordnung behandelt – als Rechtsform mit steuerlicher Wirkung, eingehängt in Fondsfamilie und Umsetzungspfad. Das ist die falsche Ebene, und die Korrektur ist wichtiger als alles, was unten an Einzelheiten steht.
+
+**Die Sippe ist keine Institution der Ordnung, sondern eine Empfehlung zur Lebensführung.** Sie gehört auf die unterste Ebene, dorthin, wo Menschen entscheiden, mit wem sie leben und füreinander einstehen. Die polyzentrische Ordnung ordnet Eigentum an Produktionsmitteln, Netzen und Vermögen; sie ordnet nicht, wie Menschen ihr Leben einrichten. Wer die unterste Ebene mitordnet, ordnet zu tief.
+
+Diese Trennung ist keine Zurückhaltung aus Höflichkeit, sondern folgt aus drei Prinzipien des Entwurfs. *Fehlertoleranz:* Lebensformen müssen scheitern, wechseln und aussterben können; eine Ordnung, die eine von ihnen zur Norm macht, macht sie unsterblich, und Monokulturen sind anfällig, gleichgültig aus welcher Pflanze sie bestehen. *Polyzentrik:* Es soll mehrere Formen nebeneinander geben – allein leben, zu zweit, in einer Sippe, in einem Wohnprojekt –, und keine darf durch die Ordnung zur Vorgabe werden. *Und das Engpass-Problem:* Wer die Lebensführung ordnen will, braucht die Instrumente, mit denen man sie kontrolliert, und diese Instrumente lösen sich historisch nie wieder auf.
+
+Was von diesem Papier bleibt, ist deshalb ein anderer Gegenstand als sein ursprünglicher: **ein eigener bürgerlich-rechtlicher Titel, mit dem sich volljährige Menschen gegenseitig Schutz und Sorge zusichern** – abstammungsblind, freiwillig, kündbar –, und daneben die Frage, wie die Ordnung sich zu ihm verhält. Die Antwort auf die zweite Frage heißt *Begünstigung* und nicht *Konstruktion*: Die Ordnung schafft die Sippe nicht, sie hört auf, sie zu benachteiligen.
+
+Vier Kanäle hat diese Begünstigung, und drei davon sind bereits gebaut. *Der Titel selbst* gehört ins bürgerliche Recht und nicht in den Umsetzungspfad; die Eckpunkte zur Verantwortungsgemeinschaft von 2024 sind der vorhandene Entwurf. *Die Erbschaftsteuerklasse* fragt seit dem 31.07.2026 nach geleisteter Sorge statt nach Abstammung – sie begünstigt die Sippe, ohne sie zu definieren, und das ist die Bauart, um die es geht. *Der Anspruch auf den Platz* macht die Sorge zur Wahl statt zur Notlage und schützt die Sippe damit vor der Rolle, in die sie sonst gedrängt wird: Lückenbüßerin einer fehlenden Infrastruktur. *Und die Freistellungsansprüche* des Pflegezeit- und Familienpflegezeitrechts, die heute an Verwandtschaft hängen, folgen dem Titel – der billigste und naheliegendste Schritt, den schon die Eckpunkte von 2024 vorsahen.
+
+Dazu eine Sperre, die den Unterschied zwischen einer Empfehlung und einer Vorgabe hält: **Die Begünstigung darf die Benachteiligung ausgleichen und nicht überkompensieren.** Wo sie darüber hinausgeht, ist aus der Empfehlung ein Anreiz geworden, aus dem Anreiz ein Druck, und aus der Lebensform eine Politik. Das ist zugleich der Maßstab, an dem sich das unten vorgeschlagene Sorgekonto messen lassen muss und an dem es zweifelhaft bleibt.
 
 ---
 
@@ -76,6 +92,16 @@ Der zweite Einwand ist der wichtigere, weil er nicht am Wort hängt, sondern an 
 
 Was am Begriff dennoch trägt, und weshalb er als Suchbild besser ist als seine harmlosen Alternativen: Er meint etwas, das „Haushalt" und „Partnerschaft" nicht meinen. Er meint *Mehrgenerationalität* – die Einheit umfasst Alte und Kinder, nicht nur erwerbsfähige Erwachsene. Er meint *Unbefristetheit* – man tritt nicht für ein Projekt ein, sondern auf unbestimmte Zeit. Er meint *Wechselseitigkeit über die Zeit* statt Leistungsaustausch im Moment: Wer heute pflegt, wird später gepflegt, und niemand rechnet auf. Und er meint eine Einheit, die *größer ist als das Paar und kleiner als die Gemeinde* – genau die Größenordnung, in der Ostroms Mechanismen nachweislich funktionieren.
 
+Der stärkste Gehalt des Wortes ist damit noch nicht genannt: Die Sippe ist keine Alternative zur Familie, sondern deren Erweiterung. Das lohnt eine genaue Betrachtung, weil das Recht hier weiter ist, als man vermutet, und die Sozialgeschichte anders, als die These zunächst nahelegt.
+
+*Das Verfassungsrecht.* Artikel 6 Absatz 1 des Grundgesetzes schützt Ehe und Familie, und der Familienbegriff des Bundesverfassungsgerichts ist nicht die Kernfamilie. Geschützt ist zunächst die tatsächliche Lebens- und Erziehungsgemeinschaft von Eltern und Kindern, und die Rechtsprechung hat den Kreis ausgeweitet: 2014 hat das Gericht entschieden, dass auch die Beziehung zwischen Großeltern und Enkeln erfasst ist, und die Ausweitung reicht auf nahe Verwandte der Seitenlinie, wo tatsächlich familiäre Bindungen bestehen. Die Bewegung geht also vom Status zur gelebten Beziehung. Sie hält allerdings an der Verwandtschaft fest, und dort liegt die Grenze: Den Schritt zur gelebten Beziehung *ohne* Verwandtschaft hat kein Gericht getan. Der Titel kann sich deshalb nicht auf Artikel 6 stützen, sondern muss vom einfachen Gesetzgeber geschaffen werden. Das Verfassungsrecht liefert die Analogie, nicht den Grund.
+
+*Die Größe.* Dass die Familie, für die dieser Schutz 1949 formuliert wurde, größer war als die heutige, lässt sich beziffern. Die durchschnittliche Haushaltsgröße sank von 3,0 Personen im Jahr 1950 auf 2,0 im Jahr 2022; der Anteil der Einpersonenhaushalte stieg von 19 auf 41,6 Prozent im Jahr 2024, der Anteil der allein lebenden Bevölkerung von gut 6 auf gut 20 Prozent. Der Schutzgegenstand ist geschrumpft, während die Norm gleich blieb.
+
+*Und die Korrektur, die dieses Papier sich selbst schuldet.* Weiter zurück trägt die Größenthese nicht. Peter Laslett fand für England über Jahrhunderte eine mittlere Haushaltsgröße von 4,75 und keinen Beleg für den ausgedehnten Mehrgenerationenverband; er nannte es einen intellektuellen Schock, kein Anzeichen davon zu finden, und hat Otto Brunners Modell des „ganzen Hauses" ausdrücklich als nicht haltbar kritisiert. Wer die Sippe damit begründet, dass früher alles größer gewesen sei, argumentiert gegen die Daten.
+
+Die Korrektur macht das Argument allerdings besser, nicht schlechter. Denn was den vormodernen Haushalt ausmachte, war nicht die Zahl der Verwandten, sondern dass sein Kreis nicht durch Verwandtschaft bestimmt war: Knechte, Mägde, Gesellen und Lehrlinge gehörten dazu, als Lebens-, Arbeits- und Schutzverband unter einem Dach – auch in Lasletts 4,75 stecken sie. **Historisch neu ist nicht die Sorgegemeinschaft ohne Verwandtschaft, sondern die Gleichsetzung von Sorgekreis und Verwandtschaft.** Die Sippe stellt also keine Größe wieder her. Sie hebt eine Gleichsetzung auf, die jünger ist als die Institution, auf die sie sich beruft.
+
 Daraus folgt die Konstruktionsregel, und sie ist dieselbe wie bei der Auslandsbedingung des elften Kapitels: **Das Kriterium ist die Tätigkeit, nicht der Status.** Die Sippe ist als Analyseform brauchbar und als Rechtsform unbrauchbar, weil ihr Kriterium die Abstammung ist. Was gebaut wird, behält ihre Funktion und streicht ihr Kriterium.
 
 Die Rechtsform heißt in diesem Papier deshalb *Sorgegemeinschaft*. Der Vorschlag ist nicht neu, und das ist sein größter Vorzug: Das Bundesjustizministerium hat am 5. Februar 2024 Eckpunkte für eine „Verantwortungsgemeinschaft" vorgelegt – notariell beurkundeter Vertrag, höchstens sechs Vertragspartner, nur Volljährige, Voraussetzung eine tatsächliche persönliche Nähebeziehung, mit Modulen für das Zusammenleben und für Sorge und Zuwendung, einschließlich der Prüfung, ob die Freistellungsansprüche des Pflegezeit- und Familienpflegezeitgesetzes auf sie übertragen werden. Ein Gesetz wurde daraus nicht; nach dem Bruch der Koalition Ende 2024 blieb der angekündigte Referentenentwurf aus.
@@ -84,7 +110,9 @@ Der Grund für das Scheitern ist für diesen Vorschlag lehrreicher als das Vorha
 
 ## IV. Die Konstruktion: vier Bauteile
 
-### 1. Die Sorgegemeinschaft als Rechtsform
+### 1. Der Rechtstitel
+
+Das eigentliche Bauteil, und nach dem zweiten Kopfvermerk das einzige, das nicht zur Ordnung gehört, sondern zum bürgerlichen Recht: **ein Titel, mit dem volljährige Menschen einander Schutz und Sorge zusichern.** Nicht eine Steuerkonstruktion mit familiärem Anstrich, sondern eine Erklärung mit rechtlicher Folge – Vertretung in Gesundheitsangelegenheiten, Auskunfts- und Besuchsrechte, Freistellungsansprüche für die Pflege des anderen, Eintritt in Mietverhältnisse, erbschaftsteuerliche Gleichstellung. Was heute die Verwandtschaft automatisch verleiht, wird erklärbar.
 
 Registriert durch Erklärung, zwischen zwei und sechs volljährigen Personen, ohne Voraussetzung von Abstammung, Ehe, Partnerschaft oder gemeinsamem Wohnsitz. Wer verwandt ist, kann sich registrieren; wer es nicht ist, ebenso. Die bestehende Familie ist ein Anwendungsfall der Form und nicht ihr Maßstab.
 
@@ -281,6 +309,12 @@ Nach Hausregel 3 darf das Verzeichnis nicht stillschweigend schrumpfen, und es m
 *Haushaltsführung und Zugewinn im Bürgerlichen Recht:* § 1360 Satz 2 BGB – wer den Haushalt führt, erfüllt damit in der Regel seine Pflicht, durch Arbeit zum Familienunterhalt beizutragen; § 1378 Absatz 1 BGB – die Hälfte des Überschusses steht dem anderen Ehegatten als Ausgleichsforderung zu. **Bestätigt.** Die Deutung, dass das Recht damit Sorgearbeit bereits in einen Vermögensanspruch übersetzt – aber nur innerhalb der Ehe und nur bei ihrer Beendigung –, ist **Wertung** dieses Papiers.
 
 *Wirkung von Cash-for-care-Leistungen:* Für Finnland ist belegt, dass ein um 100 Euro höheres Betreuungsgeld die häusliche Betreuung um durchschnittlich zwei bis drei Monate verlängert und dass die Wirkung mit steigendem Alter des Kindes verschwindet; Untersuchungen zu Deutschland, Norwegen und Schweden finden negative kurzfristige Effekte auf die Erwerbstätigkeit von Müttern. **Bestätigt dem Grunde nach**, mit der Einschränkung, dass Langfristwirkungen in diesen Arbeiten überwiegend nicht untersucht sind.
+
+*Familienbegriff des Grundgesetzes:* Artikel 6 Absatz 1 GG schützt zunächst die tatsächliche Lebens- und Erziehungsgemeinschaft von Eltern und Kindern; die Rechtsprechung erfasst darüber hinaus spezifisch familiäre Bindungen zwischen nahen Verwandten, insbesondere zwischen Großeltern und Enkeln, sowie in der Seitenlinie, wo solche Bindungen tatsächlich bestehen – BVerfG, Beschluss vom 24. Juni 2014, 1 BvR 2926/13. **Bestätigt.** Die Feststellung, dass der Schritt zur gelebten Beziehung ohne Verwandtschaft von keinem Gericht getan wurde und der Titel deshalb einfachgesetzlich zu schaffen ist, ist **Wertung** dieses Papiers.
+
+*Schrumpfung des Haushalts:* Statistisches Bundesamt – durchschnittliche Haushaltsgröße 3,0 Personen 1950 gegenüber 2,0 im Jahr 2022; Anteil der Einpersonenhaushalte 19 Prozent 1950 (von 16,7 Millionen Haushalten) gegenüber 41 Prozent 2022 und 41,6 Prozent 2024 (Pressemitteilung Nr. 037 vom Juni 2023 und Folgeerhebungen); Anteil der allein lebenden Bevölkerung gut 6 Prozent 1950 gegenüber gut 20 Prozent 2022. **Bestätigt.**
+
+*Historische Haushaltsgröße und das „ganze Haus":* Peter Laslett und die Cambridge Group ermittelten für England eine mittlere Haushaltsgröße von 4,75 über mehrere Jahrhunderte und keinen Beleg für den vorherrschenden ausgedehnten Mehrgenerationenverband; Lasletts Kontinuitätshypothese lautet, dass die Kernfamilie in England und Westeuropa vor, während und nach der Industrialisierung die vorherrschende Form war. Otto Brunners Modell des „ganzen Hauses" (1956) beschreibt den Haushalt als Lebens- und Arbeitsverband, der neben der Familie auch nicht verwandtes Gesinde – Knechte, Mägde, Gesellen, Lehrlinge – unter der Hausherrschaft umfasste; Laslett hat es als weitgehend auf nicht haltbaren Annahmen beruhend kritisiert. **Bestätigt** hinsichtlich beider Positionen und ihres Widerspruchs. Die Folgerung dieses Papiers – nicht die Zahl der Verwandten, sondern die Nichtdefinition des Kreises durch Verwandtschaft sei das historisch Bemerkenswerte – ist **Wertung**, stützt sich aber auf den unstrittigen Teil beider Darstellungen.
 
 *Völkische Vorbelastung des Begriffs „Sippe":* Sippenamt, Sippenforschung, Ahnenpass und Sippenhaft als Institute und Praktiken des Nationalsozialismus – historisch allgemein bekannt, hier nicht einzelbelegt. **Wertung** ist allein die daraus gezogene Folgerung für die Begriffswahl.
 
