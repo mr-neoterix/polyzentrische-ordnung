@@ -4,7 +4,7 @@
 
 **Marcel Richtsteiger**
 
-*Manuskript. Stand: 31. Juli 2026.*
+*Manuskript. Stand: 3. August 2026.*
 
 ---
 
