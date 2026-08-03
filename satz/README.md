@@ -23,6 +23,11 @@ PDF gesetzt wurde, sagt der Text der Veröffentlichung.
 | `build.py` | setzt die Kapitel zusammen und ruft Pandoc |
 | `vorlage.tex` | die Buchgestaltung: Schrift, Satzspiegel, Kapitelköpfe, Belegapparat |
 
+Gesetzt wird auf 14,8 × 21,0 cm, dem üblichen Buchformat, nicht auf A4.
+Papierformat und Satzspiegel stehen im Kopf von `vorlage.tex` beieinander;
+wer das eine ändert, muss das andere mitziehen, sonst steht der Text
+verloren auf der Seite oder läuft aus ihr heraus.
+
 ## Örtlich bauen
 
 ```

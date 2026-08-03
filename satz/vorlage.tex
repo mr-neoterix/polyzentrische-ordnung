@@ -7,7 +7,7 @@
 
 \documentclass[
   fontsize=11pt,
-  paper=a4,
+  paper=148mm:210mm,
   oneside,
   parskip=false,
 ]{scrbook}
@@ -16,10 +16,14 @@
 \usepackage[ngerman]{babel}
 \usepackage{microtype}
 \usepackage{xcolor}
+% Buchformat 14,8 × 21,0 cm. Der Satzspiegel ist gegenüber dem früheren
+% A4-Stand mitgeschrumpft: 108 mm Zeilenbreite tragen bei 11 pt Pagella rund
+% sechsundfünfzig Zeichen und damit eine lesbare Zeile; unten steht mehr Rand
+% als oben, damit die Seite nicht kippt.
 \usepackage[
-  a4paper,
-  top=30mm, bottom=32mm, left=38mm, right=38mm,
-  headsep=9mm, footskip=16mm,
+  paperwidth=148mm, paperheight=210mm,
+  top=18mm, bottom=22mm, left=20mm, right=20mm,
+  headsep=6mm, footskip=12mm,
 ]{geometry}
 
 % --------------------------------------------------------------------------
@@ -120,6 +124,14 @@
 
 \setcounter{secnumdepth}{-\maxdimen}
 \setcounter{tocdepth}{0}
+
+% Auf der schmalen Seite reicht der voreingestellte Platz für die Seitenzahl
+% nicht mehr: Eine dreistellige Zahl füllt ihn ganz aus und stößt an einen
+% Eintrag, der die Zeile ausnutzt. Beide Maße wachsen um dieselbe Strecke,
+% damit der Abstand zwischen Text und Zahl erhalten bleibt.
+\DeclareTOCStyleEntries[pagenumberwidth=2.4em, rightindent=3.4em]{tocline}{%
+  part,chapter%
+}
 
 % KOMA setzt Überschriften und Verzeichniseinträge serifenlos. In einem Buch,
 % dessen Text eine Antiqua ist, wirkt das wie ein Fremdkörper.
@@ -225,7 +237,12 @@
   {\Huge\bfseries $titel$\par}
   $if(untertitel)$
   \vspace{1.6em}
-  {\large\itshape\color{akzent}$untertitel$\par}
+  % Schmaler als der Satzspiegel: Über die volle Breite bliebe auf der
+  % zweiten Zeile ein einzelnes Wort stehen.
+  \begin{minipage}{0.84\textwidth}
+    \centering
+    {\large\itshape\color{akzent}$untertitel$\par}
+  \end{minipage}\par
   $endif$
   $if(autor)$
   \vspace{3.4em}
