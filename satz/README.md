@@ -57,6 +57,14 @@ Kapitelbezeichnung (`# Neuntes Kapitel`) und darunter dem Kapiteltitel
 weiteren Überschriften der Datei, ob mit zwei oder drei Rauten gesetzt,
 werden als Abschnitte des Kapitels behandelt.
 
+Gezählt wird im PDF mit Ziffern: Über dem Titel steht „9. Kapitel“, im
+Inhaltsverzeichnis „9. Kapitel – Fehlertoleranz“. Die Zahl nimmt der Satz
+aus dem Dateinamen, nicht aus der Überschrift – der Dateiname bestimmt
+ohnehin die Reihenfolge, und der Aufbau in `00_inhalt.md` zählt genauso.
+Die ausgeschriebene Bezeichnung erscheint damit nicht mehr im PDF, wird
+aber gegen die Dateinummer geprüft: Wer Dateien umnummeriert und die
+Überschriften stehen lässt, liest es im Lauf als Hinweis.
+
 *Der Belegapparat steht am Schluss* unter einer Überschrift `Belege`. Er
 wird kleiner und mit Abstand statt Einzug gesetzt, damit er als Apparat und
 nicht als Fließtext gelesen wird. Ein Kapitel ohne Belege wird gesetzt, aber
