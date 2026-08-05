@@ -10,7 +10,9 @@ Drei Dinge macht es dabei, die Pandoc allein nicht könnte:
 *Kapitelköpfe:* Jede Kapiteldatei beginnt mit „# Neuntes Kapitel" und
 „## Fehlertoleranz" – zwei Überschriften für einen Kopf. Sie werden zu einem
 Kapitelanfang zusammengezogen; alle übrigen Überschriften der Datei rücken
-auf die Abschnittsebene.
+auf die Abschnittsebene. Gezählt wird im Satz mit Ziffern („9. Kapitel"),
+und die Ziffer kommt aus dem Dateinamen; die ausgeschriebene Bezeichnung der
+Quelle wird dagegen geprüft, damit ein Umnummerieren nicht unbemerkt bleibt.
 
 *Teilseiten:* Welches Kapitel zu welchem der acht Teile gehört, steht nicht
 in den Kapiteldateien, sondern im Aufbau-Abschnitt von 00_inhalt.md. Von
@@ -207,6 +209,75 @@ def kapitelnummer(pfad: Path) -> int:
 
 
 # --------------------------------------------------------------------------
+# Kapitelzählung
+# --------------------------------------------------------------------------
+# Die Quellen benennen ihre Kapitel ausgeschrieben („Siebzehntes Kapitel“),
+# gesetzt wird die Ziffer („17. Kapitel“). Maßgeblich für die Zahl ist der
+# Dateiname, denn er bestimmt auch die Reihenfolge und ist es, worauf sich
+# der Aufbau in 00_inhalt.md bezieht. Die ausgeschriebene Bezeichnung taucht
+# im PDF damit nicht mehr auf – deshalb wird sie wenigstens geprüft: Wer
+# Dateien umnummeriert und die Überschriften stehen lässt, soll es im Lauf
+# lesen und nicht erst Jahre später im Text.
+
+
+EINER = ("", "ein", "zwei", "drei", "vier", "fünf", "sechs", "sieben", "acht", "neun")
+ZEHNER = ("", "zehn", "zwanzig", "dreißig", "vierzig", "fünfzig", "sechzig",
+          "siebzig", "achtzig", "neunzig")
+ZEHN_BIS_NEUNZEHN = ("zehn", "elf", "zwölf", "dreizehn", "vierzehn", "fünfzehn",
+                     "sechzehn", "siebzehn", "achtzehn", "neunzehn")
+ORDNUNGSSTAMM = ("erst", "zweit", "dritt", "viert", "fünft", "sechst", "siebt",
+                 "acht", "neunt", "zehnt", "elft", "zwölft")
+
+
+def grundzahl(nummer: int) -> str:
+    """Schreibt eine Zahl von 1 bis 99 aus („sechsundzwanzig")."""
+    if nummer < 10:
+        return EINER[nummer]
+    if nummer < 20:
+        return ZEHN_BIS_NEUNZEHN[nummer - 10]
+    zehner, einer = divmod(nummer, 10)
+    if einer:
+        return f"{EINER[einer]}und{ZEHNER[zehner]}"
+    return ZEHNER[zehner]
+
+
+def ordnungszahl(nummer: int) -> str:
+    """Bildet die Ordnungszahl, wie eine Kapitelüberschrift sie schreibt.
+
+    Bis zwölf sind die Stämme unregelmäßig, danach hängt das Deutsche ein
+    „t" an (dreizehnt-) und ab zwanzig ein „st" (zwanzigst-). Die Endung
+    ist immer die des sächlichen Nominativs, weil das Wort „Kapitel" folgt.
+
+    Jenseits von neunundneunzig gibt die Funktion auf und liefert nichts:
+    Ein Buch mit dreistelliger Kapitelzahl ist ein anderes Problem.
+    """
+    if not 1 <= nummer <= 99:
+        return ""
+    if nummer <= 12:
+        stamm = ORDNUNGSSTAMM[nummer - 1]
+    elif nummer < 20:
+        stamm = grundzahl(nummer) + "t"
+    else:
+        stamm = grundzahl(nummer) + "st"
+    return stamm.capitalize() + "es"
+
+
+def kapitelbezeichnung(nummer: int) -> str:
+    """Die Zeile über dem Kapiteltitel, so wie sie im Satz erscheint."""
+    return f"{nummer}. Kapitel"
+
+
+def bezeichnung_stimmt(bezeichnung: str, nummer: int) -> bool:
+    """Prüft die ausgeschriebene Bezeichnung der Quelle gegen die Zahl.
+
+    Wo sich keine Ordnungszahl bilden lässt, wird nicht geprüft: Der Satz
+    soll an einer Prüfung nicht mehr Anstoß nehmen als am Text selbst.
+    """
+    erwartet = ordnungszahl(nummer)
+    return not erwartet or bezeichnung.strip() == f"{erwartet} Kapitel"
+
+
+# --------------------------------------------------------------------------
 # Quelltext bauen
 # --------------------------------------------------------------------------
 
@@ -283,6 +354,7 @@ def baue_quelltext(fassung: str, satzdatum: str) -> str:
 
     offener_teil = None
     ohne_teil: list[str] = []
+    schiefe_zaehlung: list[str] = []
     for pfad in dateien:
         nummer = kapitelnummer(pfad)
         kapitel = lies_kapitel(pfad)
@@ -294,8 +366,14 @@ def baue_quelltext(fassung: str, satzdatum: str) -> str:
             zeilen.append(f"\\teil{{{als_latex(teiltitel)}}}")
             zeilen.append("")
 
+        if not bezeichnung_stimmt(kapitel["bezeichnung"], nummer):
+            schiefe_zaehlung.append(
+                f"{pfad.name} nennt sich „{kapitel['bezeichnung']}“, "
+                f"gesetzt wird nach dem Dateinamen als {kapitelbezeichnung(nummer)}"
+            )
+
         zeilen.append(
-            f"\\kapitel{{{als_latex(kapitel['bezeichnung'])}}}"
+            f"\\kapitel{{{als_latex(kapitelbezeichnung(nummer))}}}"
             f"{{{als_latex(kapitel['titel'])}}}"
         )
         zeilen.append("")
@@ -319,6 +397,9 @@ def baue_quelltext(fassung: str, satzdatum: str) -> str:
             f"{INHALT}, deshalb ohne Teilseite gesetzt: {', '.join(ohne_teil)}",
             file=sys.stderr,
         )
+
+    for meldung in schiefe_zaehlung:
+        print(f"  Hinweis: {meldung}.", file=sys.stderr)
 
     print(
         f"  {len(dateien)} Kapitel in {len(teile)} Teilen, "

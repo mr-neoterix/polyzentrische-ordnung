@@ -133,7 +133,7 @@ Eine Datei je Kapitel, `NN_kurzname.md`, plus `00_inhalt.md` mit Übersicht und 
 
 Aus den Kapiteldateien wird bei jeder Änderung an `manuskript/` automatisch ein Buch-PDF gesetzt (GitHub-Action `.github/workflows/manuskript-pdf.yml`, Satzskript und LaTeX-Vorlage in `satz/`, Ergebnis als Artefakt `manuskript-pdf` am jeweiligen Lauf). Das ist Werkzeug, nicht Inhalt – aber es macht drei Formregeln des Manuskripts tragend, die vorher bloß Konvention waren:
 
-*Erstens:* Jede Kapiteldatei beginnt mit der ausgeschriebenen Kapitelbezeichnung als `#` und dem Kapiteltitel als `##`. Beide zusammen ergeben den Kapitelanfang im Satz. Alle weiteren Überschriften der Datei – ob `##` wie in Kapitel 25 oder `###` wie sonst – gelten als Abschnitte des Kapitels.
+*Erstens:* Jede Kapiteldatei beginnt mit der ausgeschriebenen Kapitelbezeichnung als `#` und dem Kapiteltitel als `##`. Beide zusammen ergeben den Kapitelanfang im Satz – gezählt wird dort allerdings mit Ziffern („9. Kapitel“), und die Ziffer nimmt der Satz aus dem Dateinamen; die ausgeschriebene Bezeichnung der Quelle wird nur noch dagegen geprüft und meldet sich als Hinweis, wenn sie nicht passt. Alle weiteren Überschriften der Datei – ob `##` wie in Kapitel 25 oder `###` wie sonst – gelten als Abschnitte des Kapitels.
 
 *Zweitens:* Der Belegapparat steht am Dateiende unter einer Überschrift `Belege` und wird als Apparat gesetzt, kleiner und mit Abstand statt Einzug.
 
