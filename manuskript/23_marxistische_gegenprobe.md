@@ -6,7 +6,7 @@
 
 Eine Ordnung, die Marx' Diagnose übernimmt und seine Therapie verwirft, muss dem marxistischen Einwandkatalog standhalten. Nicht als rhetorische Pflichtübung, sondern weil die stärksten dieser Einwände echte Konstruktionsrisiken benennen – und weil eine These, die ihren stärksten Gegner nicht kennt, keine Architektur ist, sondern eine Hoffnung.
 
-Acht Einwände, ein Zusatzvorwurf und drei Konzessionen.
+Neun Einwände, ein Zusatzvorwurf und drei Konzessionen.
 
 ### 1. Der Reformismus-Einwand (Rosa Luxemburg)
 
@@ -48,7 +48,7 @@ Aber das Geständnis ist begrenzt. Die Ordnung entkommerzialisiert sektorweise �
 
 Und eine Rückfrage bleibt offen. Wer jede Vermittlung als Herrschaft fasst, schuldet die Antwort, welche Koordinationsform stattdessen Millionen Produktionsentscheidungen täglich abstimmt. Genau dort ist die Wertkritik programmatisch stumm. Eine Kritik ohne Koordinationsvorschlag ist ein Maßstab, kein Gegenmodell.
 
-### 4. Der Hegemonie-Einwand (Gramsci)
+### 4. Der Hegemonie-Einwand (Gramsci) – und seine Konsumfassung (Marcuse)
 
 Der Sektorenwettbewerb sei nicht fair, weil kulturelle Vorherrschaft die Präferenzen vorformt. Antonio Gramsci hat in den zwischen 1929 und 1935 in faschistischer Haft entstandenen *Gefängnisheften* gezeigt, dass Herrschaft sich neben Zwang auf organisierten Konsens stützt – auf „intellektuelle und moralische Führung" in der Zivilgesellschaft. Medien, Bildung, Alltagsverstand und Konsumkultur sind kapitalistisch geprägt; also verliert der gemeinwirtschaftliche Sektor den Wettbewerb um Köpfe, bevor er ökonomisch antritt.
 
@@ -57,6 +57,16 @@ Der Einwand ist ernst und wird konzediert – deshalb sind Medienpluralisierung 
 Aber es gibt eine Entgegnung, die ein genuin marxistisches Argument gegen den Marxisten wendet: *Das Sein bestimmt das Bewusstsein.* Wer Mitglied einer Wohnungsgenossenschaft ist, in einem Belegschaftsbetrieb arbeitet und seinen Strom aus einer Energiegemeinschaft bezieht, entwickelt andere Selbstverständlichkeiten als der Mieter, Angestellte und Kunde. Die materiellen Institutionen des Sektors *sind* die Infrastruktur der Gegenhegemonie – so wie die Arbeiterbewegungskultur des neunzehnten Jahrhunderts aus Konsumvereinen, Volkshäusern und Genossenschaftsbanken wuchs und nicht aus Schriften.
 
 Diese Ordnung wartet nicht, bis das Bewusstsein sich ändert, um die Verhältnisse zu ändern. Sie ändert Verhältnisse, damit Bewusstsein sich ändern kann. Hegemonie ist ein Schlachtfeld, kein Verdikt.
+
+Der Einwand hat allerdings eine engere und härtere Fassung, die nicht auf die Köpfe im Sektorenwettbewerb zielt, sondern auf den Einkauf. Herbert Marcuse hat sie 1964 formuliert: Es gebe falsche Bedürfnisse – solche, die partikulare Interessen dem Einzelnen zu seiner eigenen Unterdrückung auferlegen. Daraus folgt der Vorwurf an diesen Entwurf: Er demokratisiert die Produktion und lässt die *Produktion der Bedürfnisse* unangetastet. Eine Belegschaft, der ihr Betrieb gehört, kauft abends dieselben Dinge aus denselben Gründen wie zuvor.
+
+Die Antwort hat drei Teile, und der erste ist ein Zugeständnis in der Sache.
+
+*Erstens* trifft die Diagnose einen realen Befund, und das vierzehnte Kapitel führt ihn aus, statt ihn zu bestreiten: Die Anreizposition hat sich verschoben, weil Werbung heute überwiegend nicht Kostenblock des Verkäufers, sondern Umsatz eines Vermittlers ist, der nicht am Kauf verdient, sondern an der Zeit. Der Nutzen geschonter Aufmerksamkeit ist diffus, der Schaden konzentriert – Olsons Konstellation, an einem weiteren Ort.
+
+*Zweitens* wird die Instanz verweigert, die aus der Diagnose folgen soll, und Marcuse verweigert sie selbst. Er schreibt hinzu, kein Tribunal dürfe sich das Recht anmaßen zu entscheiden, welche Bedürfnisse zu entwickeln und zu befriedigen seien; das könnten nur die Einzelnen – aber erst, wenn sie frei sind, ihre eigene Antwort zu geben. Damit hängt seine Therapie an ihrer eigenen Voraussetzung. Und die einzige Ordnung, die die Instanz tatsächlich besetzt hat, ist Gegenstand des zweiten und dritten Kapitels: Die DDR schaffte die Werbung 1975/76 weitgehend ab, und an die Stelle des Werbenden trat nicht der souveräne Verbraucher, sondern die Bedarfsplanung.
+
+*Drittens* die materialistische Entgegnung, und sie ist dieselbe wie gegen Gramsci, nur genauer. Wo Käufer und Eigentümer zusammenfallen, hat Überredung keinen Ertrag – ein Wasserwerk hat keinen Werbeetat, eine Wohnungsgenossenschaft wirbt um Mitglieder und nicht um den nächsten Kauf. Der werbefinanzierte Anteil der Wirtschaft schrumpft also mit dem Wachstum der beiden anderen Sektoren, ohne dass irgendwo jemand über echte Bedürfnisse befunden hätte. Das ist weniger, als Marcuse verlangt, und mehr, als eine Kritik liefert, die keine Institution benennt. Es ist überdies dieselbe Grenze wie beim Wertform-Einwand: Diese Ordnung verlässt die Marktvermittlung nicht, sie entzieht ihr Bereiche.
 
 ### 5. Der Krisen-Einwand
 
@@ -171,6 +181,10 @@ Die Antwort darauf ist kein Trost, sondern eine Feststellung: Erlösung stand ni
 *Miliband/Poulantzas und die Formel vom „ideellen Gesamtkapitalisten":* Ralph Miliband, *The State in Capitalist Society*, London 1969; Nicos Poulantzas, *Pouvoir politique et classes sociales*, Paris 1968; die Debatte wurde 1969–1976 in der *New Left Review* geführt. **Klarstellung:** Die Formel stammt von Friedrich Engels, *Anti-Dühring* (1878), MEW 20, S. 260 – nicht aus der Staatsdebatte der siebziger Jahre. **Bestätigt.**
 
 *Postone:* Moishe Postone, *Time, Labor, and Social Domination*, Cambridge University Press 1993; deutsch: *Zeit, Arbeit und gesellschaftliche Herrschaft*, Freiburg: ça ira 2003. **Bestätigt.**
+
+*Marcuse:* Herbert Marcuse, *One-Dimensional Man*, Boston: Beacon Press 1964, erstes Kapitel; deutsch *Der eindimensionale Mensch*. Beide Stellen – die Bestimmung der falschen Bedürfnisse und die Verweigerung des Tribunals – sind sinngemäß wiedergegeben und in Kapitel 14 mit Status ausgewiesen. **Bestätigt** im Argumentgehalt.
+
+*Werbung als Umsatz des Vermittlers, das Ende der DDR-Werbung 1975/76 und der werbefinanzierte Anteil der Wirtschaft:* siehe Kapitel 14, dort mit Zahlen und Verifikationsstatus.
 
 *Gramsci:* Antonio Gramsci, *Quaderni del carcere*, kritische Ausgabe hrsg. v. Valentino Gerratana, Turin: Einaudi 1975; deutsch: *Gefängnishefte. Kritische Gesamtausgabe*, 10 Bde., Hamburg: Argument 1991–2002. Entstanden 1929–1935 in faschistischer Haft. **Bestätigt**; der geläufige Terminus „kulturelle Hegemonie" ist Rezeptionsvokabular.
 

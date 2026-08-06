@@ -8,7 +8,7 @@ Die Symmetrieregel verlangt dieselbe Prüfung von der anderen Seite, und sie ist
 
 Eine Ordnung, die nur die linke Flanke prüft, hat sich nicht geprüft, sondern gelobt.
 
-Elf Einwände und drei Konzessionen.
+Zwölf Einwände und drei Konzessionen.
 
 ### 1. Der Heterogenitätseinwand (Hansmann)
 
@@ -90,13 +90,29 @@ Deshalb ist dieses Buch kein Bauplan, sondern eine Rahmensetzung mit Wettbewerb 
 
 Ein Entwurf, der sich selbst falsifizierbar macht, ist die hayekianische Antwort auf Hayeks Einwand: nicht Verzicht auf Gestaltung, sondern Gestaltung, die ihre eigene Widerlegung vorsieht.
 
-### 10. „Enteignungsdrohung schreckt Investoren ab."
+### 10. Der Bedürfnis-Einwand: Wer entscheidet, was echt ist?
+
+Wer Werbung besteuert, Voreinstellungen umdreht und geweckte Bedürfnisse zum volkswirtschaftlichen Problem erklärt, maßt sich an zu wissen, welche Wünsche der Menschen zählen. Das ist der älteste und tiefste liberale Einwand gegen jede Konsumkritik, und er hat eine berühmte Fassung: Hayeks Antwort auf Galbraith von 1961. Angeboren seien allenfalls Hunger, Obdach und Geschlechtstrieb; alles Übrige, was Menschen wollen, ist kulturell entstanden und wurde ihnen von anderen nahegebracht. Wer geweckte Wünsche für minderwertig hält, hält die gesamte kulturelle Leistung der Gattung für minderwertig – und wer daraus institutionelle Folgerungen zieht, braucht jemanden, der die Unterscheidung trifft.
+
+Die praktische Fassung des Einwands wiegt schwerer als die philosophische, und sie hat nichts mit Weltanschauung zu tun. Bekanntheit ist ein Bestand, Werbung ist der Fluss, mit dem ein Neuling ihn aufbaut. Eine Abgabe auf Werbung ist deshalb im Kern eine Abgabe auf Markteintritt: Sie schützt den Etablierten, der seinen Bestand längst hat, vor dem Angreifer, der ihn erst erzeugen muss. Und sie begünstigt ausgerechnet jene Sektoren, die dieses Buch ohnehin bevorzugt – die Genossenschaft mit ihren Mitgliedern statt Kunden, das Stadtwerk mit seinem Anschlusszwang. Eine Ordnung, die ihre eigenen Lieblinge steuerlich vom Wettbewerb um Aufmerksamkeit entlastet, hat kein Ordnungsargument, sondern ein Interesse.
+
+*Antwort:* dreiteilig, und der erste Teil ist ein vollständiges Zugeständnis.
+
+*Erstens* wird das Urteil über echte und unechte Bedürfnisse nicht gefällt, und zwar nicht aus Höflichkeit, sondern weil die Position, die es fällen müsste, die vollkommene monozentrische Stellung wäre: unwiderlegbar, weil jeder Widerspruch als Manipulationssymptom gilt, und unfalsifizierbar, weil ihr die Kennzahl fehlt. Das vierzehnte Kapitel führt das aus und nennt die historische Stelle, an der diese Position tatsächlich besetzt war – die Bedarfsplanung der DDR.
+
+*Zweitens* steht die Abgabe deshalb auf zwei Gründen, die beide ohne Bedürfnisurteil auskommen. Der eine: Werbeaufwand ist heute voll abziehbare Betriebsausgabe, die Allgemeinheit trägt einen Teil davon, und das Ende einer stillen Mitfinanzierung ist keine Lenkung, sondern deren Rücknahme. Der andere: Der kämpferische Teil der Werbung ist ein Wettrüsten, aus dem die Beteiligten allein nicht herauskommen – und das ist kein Verdacht, sondern gemessen. Als 1971 die amerikanische Zigarettenwerbung aus Funk und Fernsehen verschwand, sanken die Ausgaben der Branche, der Absatz blieb, und die Gewinne stiegen. Ein Liberaler, der Verschwendung durch strategische Interdependenz nicht als Effizienzproblem gelten lässt, wendet seine eigene Theorie selektiv an.
+
+*Drittens* der Markteintrittsvorwurf, und er ist der beste Teil des Einwands. Er wird nicht bestritten, sondern konstruktiv beantwortet: Die Abgabe ist nach dem Werbeaufwand des einzelnen Unternehmens *gestaffelt* und nicht linear, weil der kämpferische Anteil oben sitzt und der Neuling gefunden werden muss. Was danach übrigbleibt, ist eine Messfrage und keine Prinzipienfrage – ob die Staffelung scharf genug schneidet, hat niemand je erhoben, und deshalb steht die Abgabe unter derselben Abschaltschwelle wie jede andere Lenkungsentscheidung dieses Buches.
+
+Und der Liberale bekommt eine Selbstbindung in die Hand, auf die er dieses Buch festnageln darf. Wird die Abgabe je damit verteidigt, dass Menschen das Falsche kaufen, hat sie den Boden dieser Ordnung verlassen. Der Satz steht im vierzehnten Kapitel: Diese Ordnung besteuert das Wettrüsten, nicht den Wunsch.
+
+### 11. „Enteignungsdrohung schreckt Investoren ab."
 
 *Antwort:* Die Kernstrategie ist keine Enteignung, sondern Kauf – im Nachfolgefall, bei auslaufenden Konzessionen, über die Erbschaftsteuer. Artikel 15 des Grundgesetzes steht als letzte Möglichkeit dort, wo natürliche Monopole nachweislich Renten extrahieren, gegen Entschädigung und nach Versagen milderer Mittel. Und wie das siebzehnte Kapitel gezeigt hat, begrenzt das Investitionsschutzrecht diesen Weg ohnehin stärker als jede politische Rücksicht.
 
 Zugleich ist die Investorenwarnung selbst ein Machtargument und nach der Symmetrieregel zu behandeln wie jede offizielle Begründung: Sie wird von denen vorgetragen, die von der Nichtanwendung profitieren. Zu prüfen ist ihre empirische Basis, nicht ihre Rhetorik – und die Prüfung ist Fall für Fall zu führen, nicht durch Zitieren des Reflexes.
 
-### 11. Der Beleg-Einwand: Ihr Modell hängt an einem einzigen Fall
+### 12. Der Beleg-Einwand: Ihr Modell hängt an einem einzigen Fall
 
 Dieser Einwand steht in keiner Gegenliteratur, weil ihn niemand außer diesem Buch erhoben hat – und er ist der schärfste von allen.
 
@@ -140,10 +156,12 @@ Was der Liberale allerdings nicht behalten darf, ist die Behauptung, der Status 
 
 *Artikel 15 GG, Investitionsschutz:* siehe Kapitel 17. **Bestätigt.**
 
-*Hayek:* Friedrich August von Hayek, „The Pretence of Knowledge" (Nobelvortrag 1974) und *Law, Legislation and Liberty* (1973–1979) – im Text als Position referiert.
+*Hayek:* Friedrich August von Hayek, „The Pretence of Knowledge" (Nobelvortrag 1974) und *Law, Legislation and Liberty* (1973–1979) – im Text als Position referiert. Für den zehnten Einwand zusätzlich: ders., „The Non Sequitur of the ‚Dependence Effect'", in: *Southern Economic Journal* 27 (1961), H. 4, S. 346–348, gegen John Kenneth Galbraith, *The Affluent Society* (1958). Siehe Kapitel 14.
+
+*Zigarettenwerbeverbot 1971, Abzugsfähigkeit des Werbeaufwands und die gestaffelte Abgabe:* siehe Kapitel 14, dort mit der Einschränkung, dass die Wirkung des Verbots auf den Konsum umstritten und die Staffelung nirgends erprobt ist.
 
 *Ostrom:* siehe Kapitel 5 und 7. **Bestätigt.**
 
 *Olson:* siehe Kapitel 6.
 
-*Der elfte Einwand samt Antwort – Verteilung der Beleglast und Terminierung der Gesamtwette – ist eine Selbstprüfung dieses Buches.* **Wertung.**
+*Der zwölfte Einwand samt Antwort – Verteilung der Beleglast und Terminierung der Gesamtwette – ist eine Selbstprüfung dieses Buches.* **Wertung.**

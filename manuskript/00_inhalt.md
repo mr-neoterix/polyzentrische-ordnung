@@ -4,7 +4,7 @@
 
 **Marcel Richtsteiger**
 
-*Manuskript. Stand: 3. August 2026.*
+*Manuskript. Stand: 6. August 2026.*
 
 ---
 
@@ -56,7 +56,7 @@ Am Ende steht kein Zielzustand. Wer einen sucht, wird enttäuscht werden, und di
 
 *13. Der Privatsektor und die Sterblichkeit des Vermögens.* Erbschaft, Stiftung, Kontroll-Lock – und warum ein halb gebauter Riegel schlimmer ist als keiner.
 
-*14. Die Kreislaufdimension.* Ein Trinkglas aus der Lausitz und die Frage, warum niemand Haltbarkeit verkaufen will.
+*14. Die Kreislaufdimension.* Ein Trinkglas aus der Lausitz und die Frage, warum niemand Haltbarkeit verkaufen will – und die Gegenfrage nach dem Bedarf, den niemand hatte: warum die Werbung ein Wettrüsten ist, warum die Frage nach dem echten Bedürfnis nicht gestellt werden darf, und was sich stattdessen entscheiden lässt.
 
 *15. Arbeit, Sorge, Krise und Weltmarkt.* Wovon Menschen leben, warum die Sorge der letzte monozentrische Bereich ist, und warum die Krise die Ordnung füttert statt sie zu widerlegen.
 
@@ -82,7 +82,7 @@ Am Ende steht kein Zielzustand. Wer einen sucht, wird enttäuscht werden, und di
 
 *23. Die marxistische Gegenprobe.* Neun Einwände, darunter Marx gegen Lassalle – der schärfste, der von innen kommt – und der Staatlichkeits-Einwand: Die Menschheit kam die längste Zeit ihrer Geschichte ohne Staaten aus.
 
-*24. Die liberale Gegenprobe.* Elf Einwände, die mit Kosten argumentieren statt mit Weltanschauung, und deshalb schwerer wiegen.
+*24. Die liberale Gegenprobe.* Zwölf Einwände, die mit Kosten argumentieren statt mit Weltanschauung, und deshalb schwerer wiegen – darunter Hayeks Frage, wer eigentlich entscheidet, welches Bedürfnis echt ist.
 
 **Teil VIII – Der ehrliche Rest**
 
