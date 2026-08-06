@@ -577,6 +577,78 @@ Diese Einträge tragen die Erweiterung vom 31.07.2026 in Manuskript (Kapitel 12,
 
 ---
 
+## I. Anker der Werbe- und Aufmerksamkeitsfrage (Stand 06.08.2026)
+
+Diese Einträge tragen die Erweiterung vom 06.08.2026 in Manuskript (Kapitel 14, 23, 24, 25) und Thesenpapier (Sektionen III, V, VI): die Nachfrageseite der Kreislaufdimension, den Bedürfnis-Einwand in beiden Gegenproben und die beiden Ledger-Einträge, die daraus entstehen. Geprüft am 06.08.2026 per Websuche; zwei direkte Abrufversuche wurden vom Server mit 403 abgewiesen, der Erreichbarkeitsvorbehalt im Kopf dieses Dokuments gilt also unverändert.
+
+### Größenordnung des Werbemarkts
+**Erläuterung:** Die weltweiten Werbeerlöse überschritten 2024 zum ersten Mal die Marke von einer Billion US-Dollar – rund 1,04 Billionen bei 9,5 Prozent Wachstum, ein Jahr früher als zuvor prognostiziert. Für Deutschland weist die Jahresbilanz des Branchenverbands 2024 Nettoerlöse der erfassbaren Werbeträger von 26,8 Milliarden Euro (plus 3,5 Prozent) und Gesamtinvestitionen in Werbung von 49,87 Milliarden Euro (plus 2,2 Prozent) aus; digitale Werbung überschritt dabei erstmals die Hälfte der Erlöse. Die Zahlen tragen den Satz, dass die Bedarfsweckung die Größenordnung eines mittleren Wirtschaftszweigs hat.
+**Quelle(n):** GroupM / WPP Media, *This Year Next Year – Global End-of-Year Forecast*, 9. Dezember 2024; Zentralverband der deutschen Werbewirtschaft (ZAW), Jahresbilanz 2024.
+**URL:** https://zaw.de/jahreszahlen2024_werbewirtschaft-trotzt-rezession/ – indiziert 06.08.2026
+**Verifikation:** bestätigt. **Mit Einschränkung:** Die 49,87-Milliarden-Zahl ist eine Verbandsabgrenzung und schließt Eigenleistungen und Nebenkosten ein; im Text als solche geführt.
+
+### Werbeerlöse der Vermittler
+**Erläuterung:** Alphabet erzielte 2024 rund 350,0 Milliarden US-Dollar Gesamtumsatz, davon rund 265 Milliarden aus Werbung (Google-Websites einschließlich YouTube ca. 234,2 Milliarden plus Google Network). Meta erzielte 164,5 Milliarden Gesamtumsatz, davon 160,633 Milliarden aus Werbung – rund 98 Prozent. Diese Zahlen tragen den Kernsatz der Konstruktion: Werbung ist überwiegend nicht mehr Kostenblock des Verkäufers, sondern Umsatz eines Vermittlers, der nicht am Kauf verdient, sondern an der Zeit.
+**Quelle(n):** Alphabet Inc., Form 10-K für das Geschäftsjahr 2024; Meta Platforms, Inc., Form 10-K für das Geschäftsjahr 2024.
+**URL:** https://www.sec.gov/Archives/edgar/data/1652044/000165204425000014/goog-20241231.htm – indiziert 06.08.2026
+**Verifikation:** bestätigt.
+
+### Kämpferische Werbung und die aggregierte Konsumwirkung
+**Erläuterung:** Die Industrieökonomik unterscheidet *kämpferische* Werbung, die Marktanteile zwischen Anbietern verschiebt, von kategorieerweiternder Werbung; in gesättigten Märkten überwiegt die erste, und mehrere aggregierte Untersuchungen finden die Kausalität umgekehrt – der Konsum treibt die Werbeausgaben, nicht umgekehrt. Die Gegenposition und zugleich beste gesamtwirtschaftliche Schätzung ist Molinari/Turino: In einem geschätzten allgemeinen Gleichgewichtsmodell absorbiert Werbung in den USA rund zwei Prozent der Wirtschaftsleistung und erhöht langfristig Konsum, Investitionen und Arbeitsstunden – stellt die Haushalte aber schlechter, weil der Mehrarbeitseffekt den Mehrkonsum überwiegt („work and spend cycle"). Dieser Widerspruch ist der Grund, warum das Ressourcenargument im Text *nicht* auf die Konsumwirkung gestützt wird, sondern auf die Verschwendung im Wettrüsten.
+**Quelle(n):** Benedetto Molinari / Francesco Turino, „Advertising and Aggregate Consumption: A Bayesian DSGE Assessment", in: *The Economic Journal* 128 (2018), H. 613, S. 2106–2130 (Untersuchungszeitraum USA 1970–2007).
+**URL:** https://academic.oup.com/ej/article-abstract/128/613/2106/5088346 – indiziert 06.08.2026
+**Verifikation:** bestätigt als Wiedergabe des Befundes. **Offen in der Sache:** Die Literatur ist nicht einig; die Schätzung ist ein Modellergebnis für ein Land und einen Zeitraum, und für Deutschland liegt keine entsprechende Rechnung vor. Im Ledger beider Fassungen als offene Frage mit Verfahren geführt.
+
+### Zigarettenwerbeverbot 1971 als Auflösung eines Gefangenendilemmas
+**Erläuterung:** Das US-Verbot der Zigarettenwerbung in Funk und Fernsehen trat zum 2. Januar 1971 in Kraft. Die Werbeausgaben der Branche fielen von rund 315 Millionen Dollar (1970) auf rund 252 Millionen (1971), aggregiert um etwa ein Viertel; der Absatz blieb nahezu unverändert, die Gewinne stiegen, und die Aktien der großen Hersteller verzeichneten unmittelbar nach dem Verbot auffällige Überrenditen. Der Fall ist der Feldbeleg dafür, dass kämpferische Werbung ein Wettrüsten ist, aus dem die Beteiligten allein nicht herauskommen – ein Verbot half den Werbenden, nicht den Beworbenen.
+**Quelle(n):** Standarddarstellung der industrieökonomischen Literatur zu Werbeverboten; Übersicht bei Jon P. Nelson, „Advertising Bans in the United States", EH.Net Encyclopedia. Gegenposition zur Konsumwirkung: der Wegfall der nach der *Fairness Doctrine* erzwungenen Gegenwerbung habe den Konsum eher steigen lassen.
+**URL:** https://eh.net/encyclopedia/nelson-adbans/ – indiziert 06.08.2026 (direkter Abruf mit 403 abgewiesen)
+**Verifikation:** bestätigt hinsichtlich Ausgaben-, Absatz- und Gewinnentwicklung sowie der spieltheoretischen Deutung. **Mit Einschränkung:** Die Wirkung auf den Zigarettenkonsum ist umstritten; im Text werden beide Lesarten geführt und das Argument ausdrücklich nur auf die Kostenwirkung gestützt.
+
+### Galbraith und Hayek – der Abhängigkeitseffekt und sein *non sequitur*
+**Erläuterung:** Galbraith argumentiert 1958, dass die Produktion die Wünsche selbst erzeugt, die sie anschließend befriedigt, weshalb die Dringlichkeit ihrer Erzeugnisse ein Artefakt sei (*dependence effect*). Hayek antwortet 1961, das sei ein Fehlschluss: Angeboren seien allenfalls Nahrung, Obdach und Geschlechtstrieb, alle übrigen Wünsche kulturell erworben und meist von denen geweckt, die sie befriedigen; Werbung *präge* Wünsche, *determiniere* sie aber nicht. Für dieses Projekt trägt der Austausch nicht die Kulturphilosophie, sondern die Institutionenfrage: Wer echte von unechten Bedürfnissen scheidet, besetzt eine unwiderlegbare und unfalsifizierbare Position.
+**Quelle(n):** John Kenneth Galbraith, *The Affluent Society*, Boston 1958, Kapitel „The Dependence Effect"; Friedrich August von Hayek, „The Non Sequitur of the ‚Dependence Effect'", in: *Southern Economic Journal* 27 (1961), H. 4, S. 346–348.
+**URL:** https://mises.org/articles-interest/non-sequitur-dependence-effect – indiziert 06.08.2026
+**Verifikation:** bestätigt hinsichtlich Fundstellen und Argumentgehalt; beide Positionen sind sinngemäß referiert, nicht wörtlich zitiert. Die Folgerung für die Institutionenfrage ist **Wertung** des Projekts.
+
+### Marcuse – wahre und falsche Bedürfnisse und die Verweigerung des Tribunals
+**Erläuterung:** Marcuse bestimmt falsche Bedürfnisse als solche, die partikulare gesellschaftliche Interessen dem Einzelnen zu seiner eigenen Unterdrückung auferlegen. Er fügt jedoch hinzu, kein Tribunal dürfe sich das Recht anmaßen zu entscheiden, welche Bedürfnisse zu entwickeln und zu befriedigen seien; die Frage könnten letztlich nur die Einzelnen selbst beantworten – und auch das erst, wenn sie frei sind, ihre eigene Antwort zu geben. Damit verweigert der schärfste Kritiker der Bedürfnisproduktion die Instanz, die aus seiner Diagnose folgen würde. Im Manuskript (Kapitel 14 und 23) und im Thesenpapier (Sektionen III und V) der Grund, warum die Unterscheidung nicht zum Bauteil wird.
+**Quelle(n):** Herbert Marcuse, *One-Dimensional Man. Studies in the Ideology of Advanced Industrial Society*, Boston: Beacon Press 1964, erstes Kapitel; deutsch *Der eindimensionale Mensch*, Neuwied/Berlin 1967.
+**URL:** https://www.marxists.org/ebooks/marcuse/one-dimensional-man.epub – indiziert 06.08.2026
+**Verifikation:** bestätigt im Argumentgehalt; beide Stellen sinngemäß wiedergegeben. Die Zuspitzung auf den Zirkel – entscheiden dürften nur die Freien, frei sei vor der Entscheidung niemand – ist **Wertung** des Projekts.
+
+### Werbung in der DDR und ihr Ende 1975/76
+**Erläuterung:** Eine Anordnung zur Sparsamkeit von 1975 beschränkte zulässige Werbung auf wenige benannte Zwecke – unter anderem Materialwirtschaft, Gesundheitserziehung, Versicherungsschutz, Kulturpolitik, Lotterie, Produktionspropaganda sowie Messe- und Ausstellungsbeteiligung; die Werbesendung *Tausend Tele-Tips* (seit 1959/60) lief zuletzt am 15. Februar 1976. Der Fall ist im Projekt kein Kuriosum, sondern das härteste Gegenbeispiel gegen die naheliegende Folgerung aus der Werbekritik: An die Stelle des Werbenden trat nicht der souveräne Verbraucher, sondern die Bedarfsplanung.
+**Quelle(n):** Simone Tippach-Schneider, *Tausend Tele-Tips. Das Werbefernsehen in der DDR 1959 bis 1976*, Berlin: Schwarzkopf & Schwarzkopf 1999.
+**URL:** https://de.wikipedia.org/wiki/Tausend_Tele-Tips – indiziert 06.08.2026
+**Verifikation:** bestätigt hinsichtlich Sendungsende und Beschränkung der Werbung. **Mit Einschränkung:** Die verfügbare Sekundärliteratur zur Anordnung von 1975 ist dünn und teilweise nichtwissenschaftlich; die Datierung des Sendungsendes ist dagegen gut dokumentiert. Die Deutung als Ersetzung der Werbung durch die Bedarfsplanung folgt den Kapiteln 2 und 3 und ist **Wertung**.
+
+### Abzugsfähigkeit des Werbeaufwands und erprobte Werbeabgaben
+**Erläuterung:** Werbeaufwand ist Betriebsausgabe nach § 4 Absatz 4 EStG und in voller Höhe abziehbar; die Allgemeinheit trägt damit über den Körperschaft- und Einkommensteuersatz einen Teil des Werbewettrüstens mit. Dass das Steuerrecht Betriebsausgaben abstufen kann, zeigt § 4 Absatz 5 EStG an vergleichbarer Stelle: Bewirtungsaufwendungen sind nur zu 70 Prozent abziehbar, Geschenke an Nichtarbeitnehmer oberhalb der Bagatellgrenze gar nicht. Auf der Abgabenseite ist Österreich der erprobte Fall: fünf Prozent Werbeabgabe auf Werbeleistungen im Inland nach dem Werbeabgabegesetz 2000 (in Kraft seit 1. Juni 2000; Onlinewerbung ausdrücklich ausgenommen) und fünf Prozent Digitalsteuer auf Onlinewerbeleistungen nach dem Digitalsteuergesetz 2020 (seit 1. Januar 2020; Schwellen 750 Millionen Euro weltweiter und 25 Millionen Euro inländischer Umsatz).
+**Quelle(n):** §§ 4 Absatz 4 und 5 EStG; Werbeabgabegesetz 2000 (BGBl. I Nr. 29/2000); Digitalsteuergesetz 2020.
+**URL:** https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20000689 – indiziert 06.08.2026
+**Verifikation:** bestätigt. Die *nach Werbeaufwand des einzelnen Unternehmens gestaffelte* Abgabe ist ein Konstruktionsvorschlag des Projekts und in keiner Rechtsordnung erprobt. **Wertung.**
+
+### Oui Pub – die Umkehr der Voreinstellung im Feldversuch
+**Erläuterung:** Frankreich erprobte ab Mai 2022 in vierzehn Gebieten mit rund 2,6 Millionen Einwohnern die Umkehr der Voreinstellung für unadressierte Werbung: Zustellung nur an Haushalte mit einem Aufkleber *Oui Pub*. Nach der Zwischenauswertung der ADEME (Juni 2023) wollte weniger als jeder dritte Haushalt die Prospekte – Anbringungsquoten von 20 bis 30 Prozent in acht und unter 10 Prozent in fünf Gebieten; in Libourne und der Haute-Gironde fiel das Papieraufkommen von 106 Tonnen vor dem Versuch auf 23 Tonnen im Januar 2023. Der Evaluationsbericht ging Ende 2024 an das Parlament; die Regierung hielt eine Verallgemeinerung angesichts uneinheitlicher Ergebnisse nicht für angezeigt. Im Projekt trägt der Fall beides: die Konstruktion (Voreinstellung statt Bedürfnisurteil) und ihre Grenze (diffuser Nutzen, konzentrierter Schaden).
+**Quelle(n):** ADEME, Pressemitteilung zur Zwischenauswertung des Versuchs „Oui Pub", Juni 2023; *Rapport d'évaluation de l'expérimentation « Oui Pub »*, Ministère de la Transition écologique, dem Parlament übermittelt Ende 2024.
+**URL:** https://www.ademe.fr/presse/communique-national/experimentation-oui-pub-des-premiers-resultats-tangibles/ – indiziert 06.08.2026
+**Verifikation:** bestätigt. Die Deutung des Ausgangs als Rost-These im Einzelfall ist **Wertung** des Projekts.
+
+### Werbevorschriften der Digitaldiensteverordnung und die Bezahlvariante
+**Erläuterung:** Artikel 26 Absatz 3 der Verordnung (EU) 2022/2065 (Gesetz über digitale Dienste) verbietet Anbietern von Online-Plattformen, Werbung auf der Grundlage von Profiling unter Verwendung besonderer Kategorien personenbezogener Daten nach Artikel 9 Absatz 1 DSGVO anzuzeigen – gegenüber Erwachsenen wie Minderjährigen. Artikel 28 Absatz 2 verbietet profilgestützte Werbung, wenn der Anbieter hinreichende Gewissheit hat, dass der Nutzer minderjährig ist, ohne dafür zusätzliche Daten erheben zu müssen. Beides sind Datenfragen und keine Bedürfnisfragen – der Typ von Regel, den das Projekt für konstruierbar hält. Die Bezahlvariante dagegen scheitert: Die Europäische Kommission verhängte am 23. April 2025 als eine der ersten Bußen nach dem Gesetz über digitale Märkte 200 Millionen Euro gegen Meta, weil das Modell „Einwilligung oder Bezahlen" den Nutzern keine echte Wahl einer datensparsameren Variante ließ.
+**Quelle(n):** Art. 26 Abs. 3 und Art. 28 Abs. 2 der Verordnung (EU) 2022/2065; Europäische Kommission, Nichtkonformitätsbeschluss gegen Meta nach der Verordnung (EU) 2022/1925, 23. April 2025.
+**URL:** https://digital-strategy.ec.europa.eu/en/news/commission-finds-apple-and-meta-breach-digital-markets-act – indiziert 06.08.2026
+**Verifikation:** bestätigt.
+
+### Klagebefugnis im Wettbewerbsrecht
+**Erläuterung:** § 8 Absatz 3 UWG gibt die Beseitigungs- und Unterlassungsansprüche jedem Mitbewerber sowie qualifizierten Wirtschafts-, Verbraucher- und Interessenverbänden. Daraus folgt der Befund, der im Projekt zugleich Konstruktion und Ledger-Eintrag ist: Die Irreführung über ein Produkt wird verfolgt, weil sie einem Konkurrenten Umsatz nimmt und dieser klagen kann; die Weckung eines Bedarfs wird nicht verfolgt, weil jeder Konkurrent von ihr lebt. Die operative Fassung von Befund 9, angewandt auf die Werbung.
+**Quelle(n):** § 8 Absatz 3 UWG in der geltenden Fassung.
+**URL:** https://www.gesetze-im-internet.de/uwg_2004/__8.html – indiziert 06.08.2026
+**Verifikation:** bestätigt hinsichtlich der Norm. Die Folgerung ist **Wertung** des Projekts und steht als Ledger-Eintrag in Kapitel 25 und Thesenpapier Sektion VI.
+
+---
+
 ## Aus der Verifikation folgende Präzisierungsaufträge für das Hauptdokument
 
 Die Prüfung hat keine tragende These des Dokuments erschüttert, aber zehn Stellen ergeben, an denen Formulierungen oder Zahlen nachgeschärft werden mussten. Alle zehn wurden am 22.07.2026 in das Hauptdokument eingearbeitet; die Liste bleibt als Änderungsdokumentation erhalten – nach der Hausregel gilt: präzisieren, nicht stillschweigend verschieben.
