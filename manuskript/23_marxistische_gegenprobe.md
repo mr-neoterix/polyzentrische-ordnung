@@ -6,7 +6,7 @@
 
 Eine Ordnung, die Marx' Diagnose übernimmt und seine Therapie verwirft, muss dem marxistischen Einwandkatalog standhalten. Nicht als rhetorische Pflichtübung, sondern weil die stärksten dieser Einwände echte Konstruktionsrisiken benennen – und weil eine These, die ihren stärksten Gegner nicht kennt, keine Architektur ist, sondern eine Hoffnung.
 
-Neun Einwände, ein Zusatzvorwurf und drei Konzessionen.
+Zehn Einwände, ein Zusatzvorwurf und drei Konzessionen.
 
 ### 1. Der Reformismus-Einwand (Rosa Luxemburg)
 
@@ -68,7 +68,55 @@ Die Antwort hat drei Teile, und der erste ist ein Zugeständnis in der Sache.
 
 *Drittens* die materialistische Entgegnung, und sie ist dieselbe wie gegen Gramsci, nur genauer. Wo Käufer und Eigentümer zusammenfallen, hat Überredung keinen Ertrag – ein Wasserwerk hat keinen Werbeetat, eine Wohnungsgenossenschaft wirbt um Mitglieder und nicht um den nächsten Kauf. Der werbefinanzierte Anteil der Wirtschaft schrumpft also mit dem Wachstum der beiden anderen Sektoren, ohne dass irgendwo jemand über echte Bedürfnisse befunden hätte. Das ist weniger, als Marcuse verlangt, und mehr, als eine Kritik liefert, die keine Institution benennt. Es ist überdies dieselbe Grenze wie beim Wertform-Einwand: Diese Ordnung verlässt die Marktvermittlung nicht, sie entzieht ihr Bereiche.
 
-### 5. Der Krisen-Einwand
+### 5. Der Anarchie-Einwand (Engels) – und die achtzig Zahnbürsten
+
+Der nächste Einwand ist der älteste in diesem Kapitel und zugleich der populärste. Er wird an Küchentischen erhoben, an denen niemand Engels gelesen hat, und er trifft nicht eine einzelne Konstruktion dieses Buches, sondern seinen zentralen Satz.
+
+Engels hat ihm 1878 im *Anti-Dühring* die Formel gegeben. In der Warenproduktion, schreibt er, habe niemand mehr die Übersicht über die eigenen gesellschaftlichen Beziehungen; keiner wisse, wie viel von seinem Erzeugnis auf den Markt komme und ob es überhaupt gebraucht werde. Es herrsche Anarchie der gesellschaftlichen Produktion. Aus dieser Planlosigkeit folgt bei Engels zweierlei: die Krise, die der nächste Einwand behandelt – und die Vergeudung.
+
+Die Alltagsfassung ist konkreter und stärker als die theoretische. Es gibt achtzig elektrische Zahnbürsten. Im Grunde sind sie gleich; sie bürsten Zähne, und die Unterschiede zwischen ihnen sind so fein, dass die meisten Käufer sie nicht benennen können. Trotzdem muss jede einzeln entwickelt, konstruiert, mit eigenen Werkzeugformen produziert, eigens verpackt, eigens beworben und über einen eigenen Vertriebsweg verkauft werden. Achtzigmal Entwicklungsabteilung, achtzigmal Marketing, achtzigmal Logistik – für ein Ergebnis, das einmal genügt hätte. Man multipliziere das mit jeder Warengruppe, und man hat einen erheblichen Teil der Wirtschaftsleistung eines Industrielands, der nichts hervorbringt als Wiederholung. Eine Planwirtschaft entwickelt die Zahnbürste einmal, baut sie in einem Werk optimaler Größe und wendet die Differenz für etwas anderes auf.
+
+Und nun die Form, in der der Einwand wirklich wehtut, weil er dieses Buch mit dessen eigenem Werkzeug angreift. Das vierzehnte Kapitel hat die Werbung als *Wettrüsten* beschrieben: Jeder muss sie treiben, weil der Konkurrent sie treibt, keiner kommt allein heraus, und die Summe des Aufwands verändert die Verteilung, nicht die Menge. Wenn dieses Argument dort gilt – warum dann nicht auch für die Entwicklung, die Werkzeugformen und die Vertriebsnetze? Wer das Wettrüsten der Werbeetats besteuert, kann schwer bestreiten, dass es auch ein Wettrüsten der Sortimente gibt.
+
+Die Antwort hat fünf Teile, von denen einer ein Zugeständnis ist – und danach folgt ein zweites, das keiner von ihnen einholt.
+
+*Erstens: Der Satz „im Grunde sind alle gleich" ist ein Urteil von hinten.* Er lässt sich sagen, nachdem die achtzig Versuche gemacht worden sind. Vorher weiß niemand, welcher von ihnen der brauchbare ist – und genau dieses Nichtwissen ist der Grund, warum es achtzig sind. Hayek hat das 1968 in einem Kieler Vortrag auf den Begriff gebracht, den dieses Buch hier braucht: Wettbewerb ist ein *Entdeckungsverfahren*. Sein Nutzen besteht darin, Tatsachen zu ermitteln, die ohne ihn unbekannt oder ungenutzt blieben. Daraus folgt eine unbequeme Konsequenz: Ein Verfahren, dessen Ergebnis man vorher kennt, ist kein Verfahren, sondern eine Bestellung. Die achtzig Versuche sind nicht die Alternative zum Wissen, sie sind der Vorgang, in dem es entsteht.
+
+Das ist nichts anderes als das neunte Kapitel, angewandt auf Produkte statt auf Betriebe. Fehlertoleranz heißt, dass Elemente scheitern können, ohne dass das Ganze scheitert; Parallelität ist die Gestalt, in der eine Ordnung sich Irrtümer leistet. **Wer die Doppelarbeit abschafft, schafft nicht die Verschwendung ab, sondern die Möglichkeit, sich zu irren, ohne dass es alle trifft.**
+
+*Zweitens: Und die Planwirtschaften haben die Doppelarbeit selbst bezahlt.* Das ist der Teil der Antwort, der nicht aus der Theorie kommt, sondern aus dem Haus des Einwands.
+
+Die sowjetische Rüstungs- und Raumfahrtindustrie war nach Konstruktionsbüros geordnet, und zwischen ihnen wurde nicht koordiniert, sondern ausgeschrieben. Für ein neues Erdkampfflugzeug schrieb die Luftwaffe 1969 einen Wettbewerb aus, an dem sich die Büros von Suchoi, Jakowlew, Iljuschin und Mikojan beteiligten; für das Programm, aus dem die Su-27 hervorging, standen ab 1971 Mikojan und Jakowlew gegeneinander. Prototypen wurden parallel gebaut und gegeneinander geflogen. Im Mondprogramm ging es noch weiter: Neben Koroljows N1 entwickelten die Büros Jangels und Tschelomejs mit der R-56 und der UR-700 konkurrierende Schwerlastraketen, und der Streit um ihre Finanzierung – ein Wettbewerb um Mittel innerhalb eines sozialistischen Staates – gilt als eine der Ursachen dafür, dass das Programm nie ans Ziel kam.
+
+Man kann das als Beleg für die Ineffizienz des Sowjetsystems lesen. Interessanter ist die andere Lesart. Die Planbehörden kauften die Parallelität dort ein, wo sie sich einen Irrtum am wenigsten leisten konnten, und sie taten es mit Absicht. **Wo der Plan das Ergebnis wirklich brauchte, hat er die Doppelarbeit selbst gekauft.**
+
+Und der Befund ist nicht auf den Staatssozialismus beschränkt, sonst wäre er ein billiger Punkt. Als die amerikanische Regierung 2020 unter dem Namen *Operation Warp Speed* die Entwicklung von Impfstoffen beschleunigte, verteilte sie über zehn Milliarden Dollar bewusst auf sechs Kandidaten mit vier verschiedenen Technologien – nicht obwohl, sondern weil die meisten scheitern würden. Drei davon, zusammen über 5,3 Milliarden Dollar, erhielten in den Vereinigten Staaten nie eine Zulassung. Das war kein Fehler des Verfahrens, das war das Verfahren. Wer Parallelität für Verschwendung hält, muss erklären, warum ausgerechnet der planende Akteur sie einkauft, sobald ihm am Ergebnis liegt.
+
+Die zweite Regel dieses Buches verlangt allerdings, den Befund auch gegen die eigene Seite zu wenden: Dass Parallelität entdecken *kann*, heißt nicht, dass jede Wiederholung im Regal etwas entdeckt hat. Das führt zum dritten Teil.
+
+*Drittens: Die zweite Hälfte des Einwands ist zugestanden – und dieses Buch hat sie vor ihm ausgesprochen.* Dass ein Teil des Aufwands nichts entdeckt, sondern nur verschiebt, steht im vierzehnten Kapitel mit Zahlen und einem Feldbeleg. Der Einwand hat für diesen Teil vollständig recht.
+
+Nur läuft die Trennlinie nicht dort, wo er sie zieht. Sie läuft nicht zwischen Plan und Markt, sondern mitten durch den Aufwand hindurch: Es gibt Aufwand, der herausfindet, welches Erzeugnis besser ist, und Aufwand, der nur die Anteile daran verschiebt, wer es verkauft. Entwicklung gehört in die erste Klasse, kämpferische Werbung in die zweite. Deshalb steht im vierzehnten Kapitel eine nach Werbeaufwand gestaffelte Abgabe und keine Sortimentsbehörde. **Die Trennlinie läuft nicht zwischen Plan und Markt, sondern zwischen Aufwand, der etwas herausfindet, und Aufwand, der nur verschiebt.**
+
+*Viertens: Die Rechnung, die der Einwand nicht aufmacht.* Er zählt, was im Regal steht. Er zählt nicht, was in eine Einheit Ergebnis hineingeht – und das ist die einzige Größe, in der sich Ressourcenschonung überhaupt ausdrücken lässt.
+
+Das zweite Kapitel hat das Gerät dafür schon benannt. Wo Verluste aufgefangen werden und Nachschub unsicher ist, wird Horten rational: Kornais weiche Budgetbeschränkung erzeugt nicht Sparsamkeit, sondern Materialbunker in jedem Betriebshof. Die Zahlen passen dazu. Die DDR verbrauchte zur Wende rund 7,8 Tonnen Steinkohleeinheiten Primärenergie je Einwohner, etwa ein Fünftel mehr als die Bundesrepublik – bei erheblich geringerer Wirtschaftsleistung und niedrigerem Lebensstandard. Und ihre eigene Devisenkennziffer, die im zweiten Kapitel steht, stieg von 2,40 auf rund 4,40 Mark Aufwand je verdienter Valutamark: Das System, das die Doppelarbeit abgeschafft hatte, brauchte binnen eines Jahrzehnts fast doppelt so viel Inlandsaufwand für dasselbe Ergebnis.
+
+Die Verschwendung des Plans hatte dabei sogar dieselbe Gestalt, die der Einwand dem Markt vorwirft – volle Lager mit Erzeugnissen, die niemand wollte. Nur stand sie nicht im Regal, sondern auf der Halde, und niemandem wurde sie in Rechnung gestellt. **Der Wettbewerb verschwendet sichtbar und auf eigene Rechnung; der Plan verschwendete unsichtbar und auf fremde. Sichtbare Verschwendung hat eine Grenze, weil sie jemandem gehört.**
+
+*Fünftens die Rückfrage, und sie ist die des vierzehnten Kapitels in anderem Gewand: Wer sagt, dass achtzig zu viel sind?* Die Zahl, die stattdessen richtig wäre, muss jemand festsetzen. Wer das tut, besetzt genau die Stellung, die dieses Buch nirgends besetzt sehen will: Er entscheidet, was hergestellt werden darf, er kann nicht widerlegt werden, und er muss sich nie irren, weil ihm die Kennzahl fehlt, an der ein Irrtum sichtbar würde.
+
+Auch diese Stelle war besetzt, und der Ausgang ist dokumentiert. Wo der Plan die Sortimente nach Planwert ordnete, verschwand nicht die überflüssige Variante, sondern die unauffällige. Das Ergebnis war das *Programm der 1000 kleinen Dinge des täglichen Bedarfs*, mit dem sich seit dem sechsten Plenum des Zentralkomitees 1959 und einem Ministerratsbeschluss von 1960 die Führung eines Industriestaats damit befasste, dass es im Land an Dosenöffnern, Wäscheklammern, Schuhanziehern, Eierbechern und Sieben fehlte. **Wer entscheidet, welche Varianten sich lohnen, bekommt nicht die eine gute – er bekommt die, die im Plan gut aussieht.**
+
+Und nun das Zugeständnis, das dieses Buch schuldet, weil es sonst täte, was es Marx' Erben vorwirft: sich die passende Hälfte aussuchen.
+
+Der Einwand hat eine respektable ökonomische Fassung, und sie kommt nicht von links. N. Gregory Mankiw und Michael Whinston haben 1986 gezeigt, dass Markteintritt bei festen Eintrittskosten systematisch zu häufig stattfindet, weil ein Eintretender den Umsatz, den er den Etablierten wegnimmt, für sich zählt und nicht für die Gesellschaft – der *business stealing effect*. Und die Theorie der Produktvielfalt seit Spence sowie Dixit und Stiglitz zeigt, dass der Markt je nach Nachfragebedingungen zu viele *oder* zu wenige Varianten hervorbringt. Es ist also keineswegs ausgemacht, dass achtzig Zahnbürsten die richtige Zahl sind.
+
+Nur ist ebenso wenig ausgemacht, dass drei es wären, und niemand kann die Zahl ausrechnen. Damit steht die Sache dort, wo dieses Buch sie aushalten muss: Der Einwand hat gezeigt, dass ein Optimum existiert und dass niemand es kennt. Wer daraus eine Zuständigkeit ableitet, hat aus einem Nichtwissen ein Amt gemacht. Der Eintrag steht im fünfundzwanzigsten Kapitel.
+
+Was konstruktiv folgt, ist trotzdem nicht nichts, und es steht im vierzehnten Kapitel: die Pflicht zur gemeinsamen Schnittstelle, die gestaffelte Werbeabgabe und das Nutzereigentum. Der gemeinsame Nenner der drei ist eine Verschiebung der Frage. Nicht wie viele Varianten es geben darf, sondern wie viel eigene Welt jede Variante mitbringen muss; nicht ob Menschen zu viel kaufen, sondern wer das Wettrüsten still mitfinanziert; und nicht ob Vielfalt zu teuer ist, sondern wer ihre Kosten trägt. **Wo jemand die Kosten der Vielfalt selbst trägt, wählt er sie ab; wo niemand sie trägt, darf niemand sie abwählen.**
+
+### 6. Der Krisen-Einwand
 
 Der Kapitalismus produziere gesetzmäßig Krisen, und die Mischordnung erbe sie über ihren Privatsektor und den Weltmarkt.
 
@@ -76,7 +124,7 @@ Teilweise zugestanden, wie im fünfzehnten Kapitel ausgeführt. Die Ordnung ist 
 
 Wichtiger ist die Rolle der Krise im Mechanismus. Sie ist das Fenster, in dem sich Anteile verschieben, wenn die Übernahmefinanzierung bereitsteht. Der Marxist erwartet, dass die Krise das System widerlegt; diese Ordnung ist so gebaut, dass die Krise sie füttert – solange jemand in der Krise zahlungsfähig ist.
 
-### 6. Marx als Kronzeuge, vollständig zitiert
+### 7. Marx als Kronzeuge, vollständig zitiert
 
 Der wirksamste Zug in dieser Debatte ist immanent: Marx hat die Genossenschaftsbewegung emphatisch verteidigt.
 
@@ -90,7 +138,7 @@ Ein Kronzeuge, dessen entlastende Aussage abgeschnitten wird, wird zum Belastung
 
 Die ehrliche Differenz bleibt. Marx dachte die Genossenschaft als Durchgangsstufe zur vollen Assoziation nach dem Ende der Warenproduktion; diese Ordnung verweigert den Endzustand grundsätzlich, aus den Gründen des siebten Kapitels. Sie nimmt Marx' Übergangsform und streicht sein Ziel, weil das Ziel das Machtproblem wegdefiniert, statt es zu lösen.
 
-### 7. Marx gegen Lassalle – der schärfste Einwand, und er kommt nicht von Luxemburg
+### 8. Marx gegen Lassalle – der schärfste Einwand, und er kommt nicht von Luxemburg
 
 Das elfte Kapitel hat den deutschen Streit erwähnt, aus dem dieser Einwand stammt: Ferdinand Lassalle forderte 1863 für seinen Allgemeinen Deutschen Arbeiterverein Produktivgenossenschaften mit Staatshilfe; Hermann Schulze-Delitzsch hielt dagegen, die Arbeiter sollten sich selbst helfen. Zwölf Jahre später hat Marx sich zu Wort gemeldet – und zwar gegen Lassalle.
 
@@ -100,13 +148,13 @@ Ein deutsches Marcora-Gesetz mit Steuerhebel und KfW-Bürgschaft ist an diesem M
 
 Die Antwort hat drei Teile, und der dritte ist ein Eingeständnis.
 
-*Erstens* richtet sich Marx' Polemik gegen die *Substitution* – gegen die Vorstellung, staatlich gestiftete Genossenschaften ersetzten die Umwälzung der Produktionsbedingungen und seien eine sozialistische Wunderkur. Diese Ordnung behauptet das Gegenteil: Sie ersetzt nicht den Konflikt, sondern das eine Weltsubjekt, wie der achte Einwand ausführt.
+*Erstens* richtet sich Marx' Polemik gegen die *Substitution* – gegen die Vorstellung, staatlich gestiftete Genossenschaften ersetzten die Umwälzung der Produktionsbedingungen und seien eine sozialistische Wunderkur. Diese Ordnung behauptet das Gegenteil: Sie ersetzt nicht den Konflikt, sondern das eine Weltsubjekt, wie der neunte Einwand ausführt.
 
 *Zweitens* verlangt sie vom Staat nicht die Stiftung von Genossenschaften, sondern die Beseitigung einer Asymmetrie im Kapitalzugang: Kredit auf eigenes Risiko, rückzahlbar, ohne staatliche Trägerschaft, mit Abschaltkriterium und ohne Verlustdeckung. Die Betriebe werden nicht ins Leben gerufen – sie werden gekauft, von ihren Belegschaften, die dafür haften.
 
 *Drittens* die Restdifferenz, die nicht wegzuargumentieren ist. Zwischen Marx' Forderung nach nationalen Mitteln in der Inauguraladresse und seinem Spott über Staatshilfe elf Jahre später liegt eine Spannung, die Marx selbst nicht aufgelöst hat. Wer sich die passende Stelle aussucht, ohne die andere zu zeigen, argumentiert nicht, sondern zitiert.
 
-### 8. Der Subjekt-Einwand
+### 9. Der Subjekt-Einwand
 
 Ohne revolutionäres Subjekt keine Transformation; Institutionendesign ersetze den Klassenkampf durch Sozialtechnologie und unterschätze, dass jede Verschiebung von Eigentum erkämpft werden muss.
 
@@ -116,7 +164,7 @@ Was sie ersetzt, ist nicht der Kampf, sondern das eine Weltsubjekt. An die Stell
 
 Das ist Olsons Logik, die im sechsten Kapitel gegen die Einhegung arbeitete, auf die eigene Seite gezogen: konzentrierte Teilinteressen als Motor der Verschiebung. Man kann das unheroisch finden. Es ist der einzige bekannte Transformationsmodus, der ohne den Engpass maximaler Machtkonzentration auskommt.
 
-### 9. Der Staatlichkeits-Einwand – und er ist der beste in diesem Kapitel
+### 10. Der Staatlichkeits-Einwand – und er ist der beste in diesem Kapitel
 
 Der letzte Einwand stammt eher aus der anarchistischen als aus der marxistischen Tradition, wird aber von links erhoben und gehört deshalb hierher. Er lautet: Die Menschheit ist die längste Zeit ihrer Geschichte ohne Staaten ausgekommen. Warum soll ausgerechnet eine Ordnung, die Macht einhegen will, an dem Instrument festhalten, das Macht am stärksten bündelt – und das diese Ordnung an jeder Stelle benutzt: Steuerrecht, Konzessionen, Gerichte, eine staatliche Förderbank?
 
@@ -187,6 +235,22 @@ Die Antwort darauf ist kein Trost, sondern eine Feststellung: Erlösung stand ni
 *Werbung als Umsatz des Vermittlers, das Ende der DDR-Werbung 1975/76 und der werbefinanzierte Anteil der Wirtschaft:* siehe Kapitel 14, dort mit Zahlen und Verifikationsstatus.
 
 *Gramsci:* Antonio Gramsci, *Quaderni del carcere*, kritische Ausgabe hrsg. v. Valentino Gerratana, Turin: Einaudi 1975; deutsch: *Gefängnishefte. Kritische Gesamtausgabe*, 10 Bde., Hamburg: Argument 1991–2002. Entstanden 1929–1935 in faschistischer Haft. **Bestätigt**; der geläufige Terminus „kulturelle Hegemonie" ist Rezeptionsvokabular.
+
+*Engels, Anarchie der gesellschaftlichen Produktion:* Friedrich Engels, *Herrn Eugen Dührings Umwälzung der Wissenschaft* (*Anti-Dühring*, 1878), dritter Abschnitt („Sozialismus"), MEW 20. Die im Text wiedergegebenen Bestimmungen – der Warenproduzent kennt weder den Absatz noch den Bedarf, es herrsche Anarchie der gesellschaftlichen Produktion, und aus ihr folgen Vergeudung und Krise – sind sinngemäß referiert und nicht als wörtliches Zitat geführt. **Bestätigt** hinsichtlich Werk, Abschnitt und Argumentgehalt; *offen:* die Seitenangabe der MEW-Ausgabe ist wie bei den übrigen MEW-Stellen dieses Buches nicht gegen die Druckfassung geprüft.
+
+*Hayek, Entdeckungsverfahren:* Friedrich August von Hayek, *Der Wettbewerb als Entdeckungsverfahren*, Vortrag vom 5. Juli 1968 im Institut für Weltwirtschaft an der Universität Kiel, erschienen als Kieler Vorträge, Neue Folge 56, Kiel 1968; wieder in: ders., *Freiburger Studien*, Tübingen: Mohr Siebeck 1969, S. 249–265. Die Bestimmung des Wettbewerbs als Verfahren zur Entdeckung von Tatsachen, die ohne es unbekannt oder ungenutzt blieben, ist sinngemäß referiert. **Bestätigt** hinsichtlich Fundstelle und Argumentgehalt. Die Zuspitzung – ein Verfahren mit vorher bekanntem Ergebnis sei eine Bestellung – ist **Wertung** dieses Buches.
+
+*Parallelentwicklung in der sowjetischen Planwirtschaft:* Die sowjetische Luftfahrt vergab Entwicklungsaufträge im Wettbewerb konkurrierender Konstruktionsbüros mit parallel gebauten Prototypen; für das 1969 ausgeschriebene Erdkampfflugzeug traten die Büros Suchoi, Jakowlew, Iljuschin und Mikojan an (Ergebnis Su-25 gegen Il-102), für das ab 1971 laufende Programm des schweren Frontjägers Suchoi gegen Mikojan und Jakowlew (Ergebnis Su-27). Im Mondprogramm entwickelten neben Koroljows N1 die Büros Jangels (R-56) und Tschelomejs (UR-700) konkurrierende Schwerlastraketen; der Streit um ihre Finanzierung gilt in der Literatur als eine Ursache des Scheiterns. **Bestätigt dem Grunde nach** (übereinstimmende luft- und raumfahrthistorische Darstellungen). *Mit Einschränkung:* Die Gewichtung der Ursachen des sowjetischen Mondprogramm-Scheiterns ist in der Forschung umstritten; der Text stützt sich nur auf die Tatsache der parallelen Entwicklung, nicht auf eine Ursachenrangfolge. Die Deutung – der Plan kaufte Doppelarbeit, wo ihm am Ergebnis lag – ist **Wertung** dieses Buches.
+
+*Operation Warp Speed:* Das amerikanische Programm verteilte 2020 über zehn Milliarden Dollar bewusst auf sechs Impfstoffkandidaten mit vier Technologieplattformen, um das Scheitern einzelner Kandidaten aufzufangen; AstraZeneca, Novavax und Sanofi/GSK – zusammen über 5,3 Milliarden Dollar – erhielten für ihre ursprünglichen Kandidaten in den Vereinigten Staaten keine Notfallzulassung. Belege: U.S. Government Accountability Office, *Operation Warp Speed. Accelerated COVID-19 Vaccine Development Status*, GAO-21-319 (2021); Slaoui/Hepburn, „Developing Safe and Effective Covid Vaccines – Operation Warp Speed's Strategy and Approach", in: *New England Journal of Medicine* 383 (2020), S. 1701–1703. **Bestätigt.**
+
+*Ressourcenintensität der DDR:* Die DDR verbrauchte zum Zeitpunkt der Wende rund 7,8 Tonnen Steinkohleeinheiten Primärenergie je Einwohner und damit etwa ein Fünftel mehr als die Bundesrepublik, bei erheblich geringerer Wirtschaftsleistung; als Ursachen gelten veraltete Produktionstechnik, geringe Kraftwerkswirkungsgrade, hohe Netzverluste, fehlende Sparanreize und das Übergewicht der Braunkohle. **Bestätigt**, *mit Einschränkung:* Die Angaben schwanken je nach Quelle zwischen rund zwanzig und rund fünfundzwanzig Prozent, und es handelt sich um einen Pro-Kopf-, nicht um einen Pro-Einheit-Vergleich; der Text führt deshalb die vorsichtigere Zahl und nennt die geringere Wirtschaftsleistung ausdrücklich daneben. *Die Devisenkennziffer* (2,40 auf rund 4,40 Mark je Valutamark) und *Kornais weiche Budgetbeschränkung mit ihrer Hortungsfolge:* siehe Kapitel 2, dort mit Status.
+
+*Programm der 1000 kleinen Dinge:* Das sechste Plenum des Zentralkomitees der SED befasste sich 1959 mit dem „Programm der 1000 kleinen Dinge des täglichen Bedarfs", das der Ministerrat 1960 förmlich beschloss; Anlass war der landesweite Mangel an Gegenständen wie Dosenöffnern, Wäscheklammern, Schuhanziehern, Eierbechern und Sieben, nachdem die Planung sich auf „hochwertige Konsumgüter" konzentriert hatte. **Bestätigt** hinsichtlich Programm, Gremien, Datierung und Mangelgegenständen. Die Deutung – wer Sortimente nach Planwert ordnet, verliert nicht die überflüssige, sondern die unauffällige Variante – ist **Wertung** dieses Buches.
+
+*Übermäßiger Markteintritt und Produktvielfalt:* N. Gregory Mankiw / Michael D. Whinston, „Free Entry and Social Inefficiency", in: *RAND Journal of Economics* 17 (1986), H. 1, S. 48–58 – bei festen Eintrittskosten und homogenen Gütern tendiert freier Marktzutritt zu übermäßigem Eintritt, weil der Eintretende den den Etablierten entzogenen Absatz privat, aber nicht gesellschaftlich zählt (*business stealing effect*). Zur Vielfalt: A. Michael Spence, „Product Selection, Fixed Costs, and Monopolistic Competition", in: *Review of Economic Studies* 43 (1976), H. 2, S. 217–235; Avinash K. Dixit / Joseph E. Stiglitz, „Monopolistic Competition and Optimum Product Diversity", in: *American Economic Review* 67 (1977), H. 3, S. 297–308. **Bestätigt** hinsichtlich Fundstellen und Befunden. Die im Text gezogene Folgerung – ein Optimum existiert, aber niemand kann es ausrechnen, weshalb aus dem Nichtwissen keine Zuständigkeit folgen darf – ist **Wertung** dieses Buches und steht als Ledger-Eintrag in Kapitel 25.
+
+*Die Pflicht zur gemeinsamen Schnittstelle, die gestaffelte Werbeabgabe und das Nutzereigentum als Antwort auf die Doppelung:* siehe Kapitel 14, dort mit Fundstellen und Verifikationsstatus.
 
 *Pérotin und Burdín:* siehe Kapitel 15. **Bestätigt** mit der Design-Einschränkung.
 
