@@ -26,6 +26,6 @@ Das Thesenpapier gliedert sich in sieben Teile:
 2. **Die Befunde** – neun Ergebnisse der Herleitung, vom DDR-Substanzverzehr bis zur Polyzentrik des Eigentums
 3. **Die Ordnung** – drei konkurrierende Eigentumssektoren und die politische Architektur dahinter
 4. **Umsetzungspfad für die Bundesrepublik** – drei Stufen, beginnend im bestehenden Recht
-5. **Die marxistische Gegenprobe** – neun Einwände und ihre Antworten, darunter Marx gegen Lassalle und der Staatlichkeits-Einwand
+5. **Die marxistische Gegenprobe** – zehn Einwände und ihre Antworten, darunter die Anarchie der Produktion, Marx gegen Lassalle und der Staatlichkeits-Einwand
 6. **Offene Flanken** – der ehrliche Rest, von der Kapitalallokation bis zur Externalisierung
 7. **Die Formel** – Fehlertoleranz als Kriterium einer guten Ordnung
