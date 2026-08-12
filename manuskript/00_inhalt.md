@@ -50,7 +50,7 @@ Am Ende steht kein Zielzustand. Wer einen sucht, wird enttäuscht werden, und di
 
 *10. Drei Sektoren, die nebeneinander konkurrieren.* Die Grundfigur, ihre Größenordnungen und die Zumutung der ehrlichen Rechnung.
 
-*11. Die Verfassung des Belegschaftssektors.* Warum der unverkäufliche Betrieb allein in den Ruin führt, und was die andere Hälfte des baskischen Modells ist.
+*11. Die Verfassung des Belegschaftssektors.* Die beiden Traditionslinien, in denen die Konstruktion steht – die deutsche und die, an deren Ende Mondragón steht –, und was sie unterscheidet: warum der unverkäufliche Betrieb allein in den Ruin führt, und was die andere Hälfte des baskischen Modells ist.
 
 *12. Der Allmende-Sektor und sein Sterberecht.* Die gefährlichste Stelle der Ordnung: dort, wo sie sich am sichersten fühlt.
 

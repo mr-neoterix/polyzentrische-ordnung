@@ -817,6 +817,48 @@ Diese Einträge tragen die Erweiterung vom 12.08.2026 in Manuskript (Kapitel 16,
 
 ---
 
+## L. Anker der zweiten Traditionslinie (Stand 12.08.2026)
+
+Diese Einträge tragen die Verortung vom 12.08.2026 in Manuskript (Kapitel 11, 25) und Thesenpapier (Sektionen III, VI): die Herkunft der Bauteile des Belegschaftssektors aus einer zweiten, im deutschen Sprachraum wenig bekannten Linie – und die vier Unterschiede, in denen der Ertrag des Projekts gegenüber dieser Linie steckt. Das Verhältnis wird ausdrücklich als *Konvergenz* geführt und nicht als Abstammung: Zwei Herleitungen mit entgegengesetzter Richtung erreichen dieselbe Konstruktion, und das ist ein Hinweis auf die Sache, kein Beweis. Geprüft am 12.08.2026 per Websuche; der Erreichbarkeitsvorbehalt im Kopf dieses Dokuments gilt unverändert.
+
+### Rerum Novarum und Quadragesimo Anno
+**Erläuterung:** Der Ausgangspunkt der Linie und die Herkunft eines Begriffs, den dieses Projekt an zentraler Stelle verwendet. Leo XIII. hielt 1891 gegen den Sozialismus am Privateigentum fest und verlangte zugleich, es müsse möglichst vielen zukommen. Vierzig Jahre später formulierte Pius XI. in den Nummern 79 und 80 die klassische Fassung des Subsidiaritätsgrundsatzes: Was der Einzelne oder die kleinere Gemeinschaft aus eigener Kraft leisten kann, darf die größere nicht an sich ziehen. Das Projekt übernimmt den Grundsatz, ersetzt aber seine Begründung – nicht Nähe trägt ihn, sondern Klagbarkeit (Kapitel 16).
+**Quelle(n):** Leo XIII., *Rerum Novarum* (15.05.1891); Pius XI., *Quadragesimo Anno* (15.05.1931), Nrn. 79–80.
+**URL:** https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19310515_quadragesimo-anno.html – indiziert 12.08.2026
+**Verifikation:** bestätigt hinsichtlich Datierung, Verfasserschaft und Fundstelle des Subsidiaritätsgrundsatzes.
+
+### Belloc, Chesterton und die Distributist League
+**Erläuterung:** Die politische Gestalt der Linie. Bellocs *The Servile State* (1912) hält den Kapitalismus für instabil und sieht drei Ausgänge – Sozialismus, verteiltes Eigentum oder einen Zustand, in dem die Masse rechtlich gesichert versorgt und ebenso gesichert besitzlos bleibt. Chesterton gründete 1925 seine Wochenschrift *G. K.'s Weekly*, aus der 1926 *The Outline of Sanity* hervorging; am 17.09.1926 entstand die Distributist League, deren Mitgliederzahl 1928 bei etwa 2.000 lag. Für dieses Projekt ist die Schrift von 1936 die wichtigste: *An Essay on the Restoration of Property* verzichtet auf Enteignung und schlägt stattdessen differenzierte Besteuerung vor – ausdrücklich eine gestaffelte Abgabe auf Ladenketten –, dazu Begünstigung kleiner Betriebe, Umbau des Kreditwesens und Zünfte. Die Staffelung nach der Größe des Aufwands ist damit älter als der Vorschlag des vierzehnten Kapitels, und das Projekt weist die Priorität aus.
+**Quelle(n):** Hilaire Belloc, *The Servile State*, London 1912; ders., *An Essay on the Restoration of Property*, London 1936; G. K. Chesterton, *The Outline of Sanity*, London 1926; Gründungsdatum und Mitgliederzahl der Distributist League nach der bewegungsgeschichtlichen Darstellung des Christian History Institute.
+**URL:** https://christianhistoryinstitute.org/magazine/article/economics-after-gods-own-image – indiziert 12.08.2026
+**Verifikation:** bestätigt hinsichtlich Werken, Erscheinungsjahren, Gründungsdatum der Liga und Instrumentenkatalog von 1936. **Mit Einschränkung:** Die Mitgliederzahl von rund 2.000 für 1928 stammt aus einer populärwissenschaftlichen Darstellung und ist nicht gegen die Fachliteratur gesichert; sie wird im Manuskript nicht geführt.
+
+### Die Zunft als Begrenzung von Konkurrenz und Betriebsgröße
+**Erläuterung:** Der Punkt, an dem die Linien auseinandergehen. Die Begrenzung der Beschäftigtenzahl und der Ausdehnung einzelner Werkstätten wird in der distributistischen Literatur ausdrücklich als Zweck des Zunftwesens geführt – niemand soll so groß werden, dass er die anderen aus dem Markt drängt. Das Projekt liest diese Konstruktion als weiche Budgetbeschränkung im Sinne Kornais und den Zunftverband als Olson-Konstellation: ein konzentriertes Interesse, das über die Regeln des eigenen Gewerbes verfügt. Seine Gegenkonstruktion ist die Kette aus Sozialstaat, Insolvenzfähigkeit und Verbund – belegt am Fagor-Fall von 2013 (Kapitel 9).
+**Quelle(n):** Selbstdarstellungen des Zunftgedankens in der distributistischen Publizistik, u. a. *The Distributist Review*, „The Guild System"; Belloc, *An Essay on the Restoration of Property* (1936).
+**URL:** https://distributistreview.com/guild-system/ – indiziert 12.08.2026
+**Verifikation:** bestätigt hinsichtlich der Selbstbeschreibung der Bewegung. Die Einordnung als weiche Budgetbeschränkung und als Olson-Konstellation ist **Wertung** des Projekts.
+
+### Antigonish-Bewegung
+**Erläuterung:** Die praktische Zwischenstufe der Linie. Die Priester Jimmy Tompkins und Moses Coady bauten seit den späten 1920er Jahren in Nova Scotia eine Bewegung aus Erwachsenenbildung, Konsumgenossenschaften nach Rochdaler und Kreditgenossenschaften nach Raiffeisenschem Muster auf, mit dem erklärten Ziel, örtliche Gemeinschaften zu Herren ihrer eigenen Verhältnisse zu machen.
+**Quelle(n):** Race Mathews, *Jobs of Our Own* (1999), Kapitel zur Antigonish-Bewegung; Darstellungen der St. Francis Xavier University zur Bewegungsgeschichte.
+**URL:** https://wiki.p2pfoundation.net/Building_a_Stakeholder_Society_as_an_Alternative_to_the_Market_and_the_State – indiziert 12.08.2026
+**Verifikation:** bestätigt hinsichtlich Personen, Ort, Zeitraum und Bauform.
+
+### Arizmendiarrieta und die Gründung Ulgors
+**Erläuterung:** Die Stelle, an der die Linie den meistzitierten Beleg dieses Projekts hervorbringt. José María Arizmendiarrieta (22.04.1915–29.11.1976) war Priester des Bistums Vitoria, kam im Februar 1941 als Kaplan nach Mondragón/Arrasate und gründete dort zuerst eine Berufsschule; 1956 gründeten fünf ihrer Absolventen den Ofenhersteller Ulgor, aus dem Fagor und der Verbund Mondragón hervorgingen. Eine verbreitete Angabe ist zu berichtigen: Er war **kein** Jesuit, sondern Diözesanpriester; der Fehler findet sich auch in überregionalen Darstellungen.
+**Quelle(n):** Biographische Darstellungen zu Arizmendiarrieta; MONDRAGON Corporation, *All our history* – Gründung Ulgors 1956, Grundsteinlegung am 14.04.1956, Namensbildung aus den Initialen der fünf Gründer.
+**URL:** https://www.mondragon-corporation.com/en/history/ – indiziert 12.08.2026
+**Verifikation:** bestätigt hinsichtlich Lebensdaten, Amt, Ankunftsjahr, Berufsschule und Gründung Ulgors. **Mit Einschränkung:** Die Zuordnung seiner geistigen Prägung zur Linie Leo XIII. – Maritain – Mounier stammt aus Darstellungen der Bewegung und ist nicht quellenkritisch geprüft; das Datum der Grundsteinlegung stammt aus der Selbstdarstellung des Verbunds.
+
+### Race Mathews und der Begriff „evolved distributism"
+**Erläuterung:** Die Genealogie, die die Linie zusammenfasst, und der Grund, warum das Projekt sie ausdrücklich behandelt statt sie zu übergehen. Mathews schloss 1998 an der Monash University eine Dissertation über Mondragón, Antigonish und „evolved distributism" ab und veröffentlichte sie 1999 als *Jobs of Our Own. Building a Stake-Holder Society* (überarbeitete Fassung 2009). Er zieht die Linie von *Rerum Novarum* über Belloc und die Brüder Chesterton und die Antigonish-Bewegung zu Arizmendiarrieta und Mondragón. Für das Projekt bedeutet das: Der eigene meistzitierte Fall wird von einer anderen Tradition beansprucht – und weil dieselbe Konstruktion aus entgegengesetzten Prämissen erreicht wurde, ist das ein Argument für die Konstruktion und nicht gegen sie.
+**Quelle(n):** Race Mathews, *Jobs of Our Own. Building a Stake-Holder Society: Alternatives to the Market and the State*, 1999; ders., *Of Labour and Liberty. Distributism in Victoria 1891–1966*, 2017.
+**URL:** https://en.wikipedia.org/wiki/Race_Mathews – indiziert 12.08.2026
+**Verifikation:** bestätigt hinsichtlich Verfasser, Werk, Erscheinungsjahr, Dissertationsort und Begriffsprägung. **Wertung:** Ob es sich um eine lückenlose Wirkungskette handelt oder nur um eine gemeinsame Wurzel in der katholischen Soziallehre, ist mit den geprüften Quellen nicht zu entscheiden; Manuskript und Thesenpapier führen den Vorbehalt mit.
+
+---
+
 ## Aus der Verifikation folgende Präzisierungsaufträge für das Hauptdokument
 
 Die Prüfung hat keine tragende These des Dokuments erschüttert, aber zehn Stellen ergeben, an denen Formulierungen oder Zahlen nachgeschärft werden mussten. Alle zehn wurden am 22.07.2026 in das Hauptdokument eingearbeitet; die Liste bleibt als Änderungsdokumentation erhalten – nach der Hausregel gilt: präzisieren, nicht stillschweigend verschieben.
