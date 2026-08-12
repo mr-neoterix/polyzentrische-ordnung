@@ -4,7 +4,7 @@
 
 **Marcel Richtsteiger**
 
-*Manuskript. Stand: 6. August 2026.*
+*Manuskript. Stand: 12. August 2026.*
 
 ---
 
@@ -60,7 +60,7 @@ Am Ende steht kein Zielzustand. Wer einen sucht, wird enttäuscht werden, und di
 
 *15. Arbeit, Sorge, Krise und Weltmarkt.* Wovon Menschen leben, warum die Sorge der letzte monozentrische Bereich ist, und warum die Krise die Ordnung füttert statt sie zu widerlegen.
 
-*16. Die politische Architektur und die Bedingung des Exits.* Subsidiarität – nicht als Vorliebe für Nähe, sondern aus dem anthropologischen Befund hergeleitet und mit umgekehrter Beweislast –, Losgremien, Daten und Hirschmans doppelte Lehre.
+*16. Die politische Architektur und die Bedingung des Exits.* Was an die Stelle des Eigentums tritt, wenn eine Zuständigkeit niemandem gehört: Subsidiarität – nicht als Vorliebe für Nähe, sondern aus dem anthropologischen Befund hergeleitet und mit umgekehrter Beweislast –, warum die Gemeinde nicht funktioniert, weil sie klein ist, sondern weil sie klagen kann, ein Sterberecht für Verwaltungen, die Frage, wen man wieder los wird, Losgremien, Daten und Hirschmans doppelte Lehre.
 
 *17. Drei Werktage.* Ein Maschinenbauer ohne Nachfolger, ein Stadtwerk mit Sterberecht, ein Wohnungsbestand und die Wand des Investitionsschutzes.
 
@@ -76,13 +76,13 @@ Am Ende steht kein Zielzustand. Wer einen sucht, wird enttäuscht werden, und di
 
 **Teil VI – Die äußere Ebene**
 
-*22. Die Weltordnungsebene.* Wo der Umsetzungspfad endet und die Ordnung nicht: drei sehr ungleiche Angriffsflächen, die juristische statt der ökonomischen Zermürbung, der Investitionsschutz als Regelwerk, das nicht rostet, die Export- statt Verteidigungsstrategie in Europa – und am Ende der Befund, dass das internationale System polyzentrisch und trotzdem die gewalttätigste Ordnung der Welt ist. Das Kapitel benennt seine eigene Fortsetzung.
+*22. Die Weltordnungsebene.* Wo der Umsetzungspfad endet und die Ordnung nicht: drei sehr ungleiche Angriffsflächen, die juristische statt der ökonomischen Zermürbung, der Investitionsschutz als Regelwerk, das nicht rostet, ein europäischer Rechtsraum, der gebaut und einseitig möbliert ist, die Export- statt Verteidigungsstrategie und ihre Fortsetzung – Marktzugang gegen Gerichtsstand –, warum daraus trotzdem keine Weltregierung folgt, und am Ende der Befund, dass das internationale System polyzentrisch und trotzdem die gewalttätigste Ordnung der Welt ist. Das Kapitel benennt seine eigene Fortsetzung.
 
 **Teil VII – Die Proben**
 
-*23. Die marxistische Gegenprobe.* Zehn Einwände, darunter die Anarchie der Produktion – warum achtzig gleiche Zahnbürsten keine Verschwendung sind und die Planwirtschaften die Doppelarbeit selbst bezahlt haben –, Marx gegen Lassalle als der schärfste, der von innen kommt, und der Staatlichkeits-Einwand: Die Menschheit kam die längste Zeit ihrer Geschichte ohne Staaten aus.
+*23. Die marxistische Gegenprobe.* Elf Einwände, darunter die Anarchie der Produktion – warum achtzig gleiche Zahnbürsten keine Verschwendung sind und die Planwirtschaften die Doppelarbeit selbst bezahlt haben –, Marx gegen Lassalle als der schärfste, der von innen kommt, der Staatlichkeits-Einwand – die Menschheit kam die längste Zeit ihrer Geschichte ohne Staaten aus – und der Verrechtlichungs-Einwand: Klagen kann, wer einen Anwalt bezahlt.
 
-*24. Die liberale Gegenprobe.* Zwölf Einwände, die mit Kosten argumentieren statt mit Weltanschauung, und deshalb schwerer wiegen – darunter Hayeks Frage, wer eigentlich entscheidet, welches Bedürfnis echt ist.
+*24. Die liberale Gegenprobe.* Dreizehn Einwände, die mit Kosten argumentieren statt mit Weltanschauung, und deshalb schwerer wiegen – darunter Hayeks Frage, wer eigentlich entscheidet, welches Bedürfnis echt ist, und der Vorwurf, dieses Buch verletze mit seinen Klagerechten seine eigene Regel über abwählbare Macht.
 
 **Teil VIII – Der ehrliche Rest**
 

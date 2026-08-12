@@ -6,7 +6,7 @@
 
 Eine Ordnung, die Marx' Diagnose übernimmt und seine Therapie verwirft, muss dem marxistischen Einwandkatalog standhalten. Nicht als rhetorische Pflichtübung, sondern weil die stärksten dieser Einwände echte Konstruktionsrisiken benennen – und weil eine These, die ihren stärksten Gegner nicht kennt, keine Architektur ist, sondern eine Hoffnung.
 
-Zehn Einwände, ein Zusatzvorwurf und drei Konzessionen.
+Elf Einwände, ein Zusatzvorwurf und drei Konzessionen.
 
 ### 1. Der Reformismus-Einwand (Rosa Luxemburg)
 
@@ -198,6 +198,18 @@ Was als Dissens bleibt, bleibt, und er steht im fünfundzwanzigsten Kapitel. Wer
 
 Einen konstruktiven Ertrag hat der Einwand außerdem, und er ist erheblich: Der anthropologische Befund verdient nicht eine Abwehr, sondern eine Konstruktionsregel. Sie steht im sechzehnten Kapitel und kehrt die Beweislast der Subsidiarität um.
 
+### 11. Der Verrechtlichungs-Einwand – Klagen kann, wer einen Anwalt bezahlt
+
+Dieser Einwand ist der jüngste in diesem Kapitel, weil er auf die politische Architektur des sechzehnten Kapitels zielt, und er ist von links präzise formuliert. Er lautet: Ihr habt die Einhegung der Macht an Gerichte delegiert. Jede eurer Konstruktionen endet in einem Klagerecht – der Anschlussnehmer gegen den Netzbetreiber, die Gemeinde gegen den Bund, der Betroffene gegen den fernen Konzern. Aber klagen kann, wer Zeit, Geld, Kenntnis und einen Anwalt hat. Ihr habt die Machtfrage in ein Verfahren übersetzt, dessen Eintrittskarte Vermögen ist, und dann behauptet, damit sei sie gestellt. Das ist kein Fortschritt gegenüber der Regulierung, sondern ihre bürgerliche Fassung.
+
+Der erste Teil ist zuzugestehen, und zwar vollständig: Der Zugang zum Recht ist ungleich verteilt, und diese Ungleichheit hat dieselbe Struktur wie die, um die es dem ganzen Buch geht. Ein Klagerecht, das nur derjenige ausübt, der es sich leisten kann, ist ein Vorrecht mit anderem Namen.
+
+Nur folgt daraus nicht, was der Einwand folgern will. Er trifft die Verteilung des Zugangs, nicht die Bauart – und die Verteilung des Zugangs ist selbst eine Konstruktionsfrage. Die Antwort besteht darin, die Klägerstellung dorthin zu legen, wo sie ohnehin materiell interessiert ist, statt sie dem Einzelnen aufzubürden. Das Buch tut das an den meisten Stellen bereits: Beim Kostenvergleich des Allmende-Sektors klagt der Wettbewerber, nicht der Rentner; im Werberecht gibt § 8 Absatz 3 des Gesetzes gegen den unlauteren Wettbewerb dem Mitbewerber und den Verbänden den Anspruch; bei den Schnittstellenpflichten ist es die unabhängige Werkstatt. Wo eine Regel nur einen einzelnen, armen, vereinzelten Kläger hätte, ist sie schlecht gebaut, und das ist ein Prüfkriterium, kein Schicksal.
+
+Und dann die Rückfrage, denn ein Einwand ist nur so gut wie seine Alternative. Sie lautet entweder Behörde oder Bewegung. Die Behörde ist genau das, was Befund 9 verwirft: eine Zuständigkeit, die man aushungern kann, ohne sie abzuschaffen – und wer keinen Anwalt bezahlen kann, kann erst recht keine Behörde beeinflussen; das können die anderen. Die Bewegung ist episodisch; sie erzwingt Aufmerksamkeit und selten Vollzug, und zwischen ihren Episoden liegt das, worüber das achte Kapitel handelt. Der Vergleich läuft also nicht zwischen einem ungleichen Klagerecht und einem gleichen Etwas, sondern zwischen einem ungleichen Klagerecht und einem noch ungleicheren Ermessen.
+
+Was als Konzession bleibt, bleibt und gehört ins Ledger: Prozessdauer, Kostenrisiko und die soziale Zusammensetzung der Richterschaft sind reale Filter, und dieses Buch hat dagegen kein eigenes Mittel, sondern nur die vorhandenen – Verbands- und Kollektivklagen, Prozesskostenhilfe, Beweislastregeln. Es behauptet nicht, dass Recht Macht ausgleicht. Es behauptet, dass eine Regel mit Kläger länger lebt als eine ohne, und das ist eine Aussage über Haltbarkeit, nicht über Gerechtigkeit.
+
 ### Und der Vorwurf, das sei alles nur Sozialdemokratie mit besserer Prosa
 
 Der Unterschied ist präzise benennbar, und er ist der Kern des achten Kapitels: *Sozialdemokratie reguliert Eigentum, diese Ordnung verteilt es um.*
@@ -275,3 +287,5 @@ Die Antwort darauf ist kein Trost, sondern eine Feststellung: Erlösung stand ni
 *Engels, Museum der Altertümer:* Friedrich Engels, *Der Ursprung der Familie, des Privateigentums und des Staats* (1884), neuntes Kapitel „Barbarei und Zivilisation"; MEW 21. Wortlaut sinngemäß wiedergegeben, nicht als wörtliches Zitat geführt. **Bestätigt** hinsichtlich Werk, Kapitel und Bildgehalt; *offen:* die Seitenangabe der MEW-Ausgabe ist nicht gegen die Druckfassung geprüft.
 
 *Ostrom:* siehe Kapitel 5 und 7. **Bestätigt.**
+
+*Verrechtlichungs-Einwand:* Die Klagebefugnis von Mitbewerbern und Verbänden nach § 8 Absatz 3 UWG ist in Kapitel 14 belegt; die übrigen Klagerechtskonstruktionen samt ihren Trägern in den Kapiteln 12, 13, 14 und 16. Der Einwand und seine Beantwortung – Klägerstellung dort ansetzen, wo materielles Interesse ohnehin besteht; Vergleich mit Behörde und Bewegung statt mit einem gleichen Zugang – sind **Wertung** dieses Buches. Die Konzession zu Prozessdauer, Kostenrisiko und Zusammensetzung der Richterschaft steht ohne eigene Erhebung da und ist als Einräumung geführt, nicht als Befund.
