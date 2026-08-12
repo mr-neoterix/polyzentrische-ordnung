@@ -8,6 +8,18 @@ Eine Eigentumsordnung ohne politische Architektur ist ein Motor ohne Fahrgestell
 
 Dieses Kapitel beschreibt sie – und deflationiert dabei zwei Versprechen, die in der Debatte über Demokratieerneuerung regelmäßig zu groß ausfallen.
 
+Vorher aber eine Frage an das eigene Verfahren, denn dieses Buch hat sie lange nur halb gestellt. Es hegt wirtschaftliche Macht *direkt* ein, durch verteiltes Eigentum. Politische Macht hegt es bisher nur *mittelbar* ein, über die Übersetzungsrate von Geld in Einfluss. Lässt sich die zweite ebenso direkt einhegen wie die erste?
+
+### Was an die Stelle des Eigentums tritt
+
+Die naheliegende Antwort lautet nein, und sie hat ein Argument. Der zentrale Satz dieses Buches heißt: Eigentum verteidigt sich, Regeln muss man verteidigen. Wer daraus eine Ordnung baut, baut Eigentum und traut Regeln nicht. Politische Zuständigkeit aber *ist* eine Regel. Sie gehört niemandem, sie lässt sich nicht vererben, nicht verkaufen und mit keinem Asset Lock versehen. Also, so die stillschweigende Folgerung, bleibt an dieser Stelle nur, die Regeln möglichst gut zu machen und zu wissen, dass sie rosten.
+
+Die Folgerung ist zu schnell. Es gibt eine politische Entsprechung des Eigentums; sie ist schwächer als Eigentum und erheblich stärker als eine Regel, und sie hat drei Stücke. *Eine Zuständigkeit,* die eine Ebene hat und nicht bloß im Auftrag ausführt. *Eine eigene Einnahme,* die ihr zusteht und die niemand jährlich zuteilen muss. *Und ein Klagerecht,* mit dem sich beides vor Gericht verteidigen lässt.
+
+Wo alle drei Stücke beisammen sind, verteidigt sich eine Ebene aus eigenem Interesse und ohne fremde Gesinnung. Wo eines fehlt, wird sie verwaltet – und zwar unauffällig, im Einzelfall, jede Verschiebung für sich plausibel begründet. Das ist Befund 9, angewandt nicht auf Kartellrecht und Konzessionen, sondern auf die Kompetenzordnung selbst.
+
+Ein Vorbehalt gehört sofort dazu, weil er das ganze Kapitel begrenzt und am Ende noch einmal wiederkehrt: Damit lässt sich die politische Ebene nicht *eigentumsgesichert* machen. Sie lässt sich bestenfalls *anspruchsgesichert* machen – dieselbe Zwischenstufe, die das zwölfte Kapitel für den Allmende-Sektor erreicht, und aus demselben Grund: Es gibt niemanden, dem sie gehört. Wer mehr verspricht, verkauft eine Regel als Struktur.
+
 ### Die Grundelemente
 
 *Radikale Subsidiarität mit verschachtelten Ebenen.* Entscheidungen fallen auf der kleinsten Ebene, die sie tragen kann; höhere Ebenen bekommen nur, was tiefere nicht leisten können. Das ist Ostroms Prinzip verschachtelter Einheiten, angewandt auf den Staat, und es ist in Deutschland als Föderalismus und kommunale Selbstverwaltung bereits vorhanden – wenn auch mit einer starken Zentralisierungstendenz, die aus derselben Logik stammt wie überall: Wer oben sitzt, hält Vereinheitlichung für Effizienz. Warum dieses Prinzip mehr ist als eine Vorliebe für Nähe, steht gleich im Anschluss.
@@ -33,6 +45,68 @@ Und daraus folgt eine Verfahrensregel, die in keinem deutschen Kommunalrecht ste
 Das ist mehr als eine Formulierung. Zentralisierung geschieht fast nie durch Beschluss. Sie geschieht durch Zuständigkeitsverschiebung im Einzelfall, jede für sich plausibel begründet, jede für sich zu klein für öffentliche Aufmerksamkeit – dieselbe Mechanik, mit der Regeln rosten, nur in die andere Richtung. Eine Beweislastregel greift genau dort an: Sie macht aus tausend unauffälligen Verschiebungen tausend begründungspflichtige Vorgänge. Sie verhindert die Zentralisierung nicht, aber sie verteuert sie und macht sie sichtbar, und mehr kann eine Verfahrensregel nicht.
 
 Zwei Grenzen gehören dazu. Die Regel sagt nicht, wo im Einzelfall die Grenze des Tragfähigen liegt; das bleibt eine Abwägung, sie ist nur nicht mehr voraussetzungslos. Und sie gilt nicht nach oben ohne Ende: Das zweiundzwanzigste Kapitel zeigt, dass Polyzentrik ohne gemeinsamen Rechtsraum keine Einhegung erzeugt, sondern Krieg. Subsidiarität ist ein Prinzip innerhalb einer Rechtsordnung, nicht ein Argument gegen sie.
+
+### Warum die Gemeinde funktioniert – und woran sie scheitert
+
+Es liegt nahe, aus dem Skalenargument zu schließen, die kommunale Ebene funktioniere, *weil* sie klein ist, und sie sei deshalb das Vorbild für alles Höhere. Der Schluss ist falsch, und der Grund seines Scheiterns ist die brauchbarste Einsicht dieses Kapitels.
+
+Er ist falsch, weil eine deutsche Stadt mit sechzigtausend Einwohnern keine Bewässerungsgemeinschaft mit dreihundert Nutzern ist. Die Mechanismen, die staatenlose Ordnungen trugen – Reputation, Ächtung, wechselseitige Beobachtung –, setzen voraus, dass jeder jeden kennt, und diese Voraussetzung ist auf der untersten Ebene eines Industriestaats längst nicht mehr erfüllt. Wer trotzdem behauptet, das Kommunale funktioniere wegen seiner Nähe, hat eine Sympathie beschrieben und keinen Mechanismus.
+
+Die tragfähige Begründung ist eine andere und lässt sich übertragen: **Die Gemeinde funktioniert, soweit sie funktioniert, weil sie klagen kann.** Die kommunale Selbstverwaltung steht im Grundgesetz nicht als Programmsatz, sondern als Rechtsposition mit eigenem Rechtsbehelf – Artikel 28 Absatz 2 verbürgt sie, Artikel 93 Absatz 1 Nummer 4b eröffnet der Gemeinde die Verfassungsbeschwerde gegen ein Gesetz, das sie verletzt. Und seit der Föderalismusreform von 2006 steht daneben eine Schranke, die die Beweislastumkehr dieses Kapitels vorwegnimmt, ohne sie so zu nennen: Nach Artikel 84 Absatz 1 Satz 7 darf der Bund den Gemeinden keine Aufgaben mehr übertragen. Das Bundesverfassungsgericht hat sie 2020 am Bildungs- und Teilhabepaket durchgesetzt und dabei ausdrücklich die kommunale Finanzausstattung geschützt.
+
+Nicht die Größe trägt also, sondern die Klagbarkeit. Und das ist eine gute Nachricht, weil Größe sich nicht herstellen lässt und Klagbarkeit sich herstellen lässt.
+
+Jetzt die andere Hälfte, und sie ist unschön, denn an zwei der eigenen Prüffragen fällt die kommunale Ebene durch – an den beiden, die dieses Buch sonst am schärfsten stellt.
+
+*Die Einheit ist nicht sterblich.* Über das Vermögen einer Gemeinde findet kein Insolvenzverfahren statt; § 12 der Insolvenzordnung erlaubt den Ländern, die Insolvenzunfähigkeit anzuordnen, und alle haben davon Gebrauch gemacht. Der Grund ist ehrenwert und derselbe wie im Allmende-Sektor: Ein Wasserwerk darf nicht abgeschaltet werden, weil ein Haushalt nicht aufgeht.
+
+*Und niemand kann verlieren.* Das ist die eigentliche Diagnose, und sie ist Kornai in Reinform. Wer einer deutschen Gemeinde Geld leiht, trägt kein Ausfallrisiko, weil der Ausfall rechtlich nicht vorgesehen ist. Also ist der Kredit billig, also wächst er, und also ist aus dem Kassenkredit – gedacht als Überbrückung innerhalb des Haushaltsjahres – die Dauerfinanzierung struktureller Defizite geworden. Das ist keine Unterstellung von außen, sondern die Feststellung der Bundesregierung in der Begründung ihrer eigenen Altschuldenlösung: Der weitaus größte Teil dieser Kredite habe entgegen der Zweckbestimmung nicht der unterjährigen Liquiditätssicherung gedient. Rund 31 Milliarden Euro solcher übermäßiger Liquiditätskredite sollen abgetragen werden, zur Hälfte vom Bund, wenn das jeweilige Land seine Kommunen vollständig entschuldet.
+
+Man muss diesen Vorgang nicht kritisieren, um zu sehen, was er ist. **Die Altschuldenlösung ist der empirische Beweis genau der weichen Budgetbeschränkung, die sie beseitigen soll.** Sie kommt, weil sie kommen musste – und dass sie kommen musste, ist der Grund, warum die Schulden entstehen konnten.
+
+Der Preis dieser Konstellation ist bezifferbar und wird nicht in Insolvenzen sichtbar, sondern in Verfall: Der von den Kommunen selbst berichtete Investitionsrückstand liegt nach dem Kommunalpanel der Kreditanstalt für Wiederaufbau bei 231,2 Milliarden Euro, ein Höchstwert, davon rund 68 Milliarden allein bei Schulen.
+
+Und ein Drittes gehört dazu, weil es das Bild vervollständigt: Ein erheblicher Teil dessen, was unten reibungslos läuft, läuft reibungslos, weil dort wenig entschieden wird. Die großen Posten kommunaler Haushalte sind anderswo beschlossene Sozialleistungen; die Selbstverwaltung erschöpft sich dann in der Frage, welches Schwimmbad geschlossen wird. Für die Einnahmenseite lässt sich das an einer nie benutzten Ermächtigung ablesen: Artikel 106 Absatz 5 Satz 3 des Grundgesetzes erlaubt es dem Bundesgesetzgeber, den Gemeinden einen eigenen Hebesatz auf ihren Anteil an der Einkommensteuer zu geben. Davon ist bis heute kein Gebrauch gemacht worden.
+
+*Zuspitzung:* Die Gemeinde hat einen Gerichtsstand und kein Preisschild.
+
+### Die Beweislastumkehr braucht einen Kläger und eine Folge
+
+Damit lässt sich die Verfahrensregel von oben schärfen, und zwar an zwei Fassungen, die es beide schon gibt und von denen nur eine wirkt.
+
+Die eine ist das Durchgriffsverbot: eine Schranke, über die ein Gericht entscheidet und vor das eine Gemeinde ziehen kann. Sie wirkt. Die andere ist das europäische Frühwarnsystem: Nach dem Protokoll Nr. 2 zum Vertrag von Lissabon können die nationalen Parlamente binnen acht Wochen begründete Stellungnahmen abgeben; erreicht ein Drittel der Stimmen das Quorum, spricht man von einer gelben Karte. Dreimal ist das geschehen – und in allen drei Fällen kam die Kommission zu dem Ergebnis, das Subsidiaritätsprinzip sei nicht verletzt.
+
+Der Unterschied liegt nicht im Prinzip, sondern in der Adresse. **Eine Rüge an denjenigen, über den man sich beschwert, ist kein Rechtsbehelf, sondern ein Brief.**
+
+Also gehören zur Beweislastumkehr zwei Bestimmungen, ohne die sie Dekoration bleibt. *Ein Kläger:* Die überstimmte Ebene kann die Verlagerung angreifen, nicht nur beanstanden. *Und eine Folge:* Gegenstand der Prüfung ist die Begründung, nicht die Zweckmäßigkeit – nachprüfbar ist nicht, ob die Aufgabe oben besser aufgehoben ist, sondern ob die Behauptung, sie sei es, an Tatsachen anschließt. Wer diesen Nachweis nicht führt, verliert den Kompetenztitel.
+
+Die Beschränkung auf die Begründung ist zugleich die Antwort auf den Einwand, das verrechtliche die Politik – und sie ist zugegebenermaßen dünn, weil die Grenze zwischen Begründung und Sache unscharf ist und Gerichte sie verschieben. Das ist ein Preis, kein Einwand, und er steht im fünfundzwanzigsten Kapitel.
+
+### Ein Sterberecht für Verwaltungen
+
+Wenn die weiche Budgetbeschränkung der Gemeinden das Problem ist, dann steht die Antwort bereits im zwölften Kapitel und muss nur eine Ebene höher gehoben werden. Dort trennt die Konstruktion Netzeigentum von Betriebsführung, damit der Betreiber sterben kann, während das Netz weiterläuft. Hier trennt sie die Gebietskörperschaft von der Haushalts- und Verwaltungsführung.
+
+Die Gemeinde wird nicht aufgelöst. Ihre Zahlungsunfähigkeit löst ein *gerichtliches* Verfahren aus statt eines Aufsichtsermessens, und in diesem Verfahren gelten vier Bestimmungen. *Erstens können die Gläubiger verlieren,* und das ist nicht die Nebenwirkung, sondern der Zweck: Ohne Ausfallmöglichkeit gibt es keine harte Budgetbeschränkung, sondern nur eine Erwartung. *Zweitens sind die Pflichtaufgaben und eine gesetzlich bestimmte Mindestausstattung unantastbare Masse;* was daran gekürzt wird, ist nicht gespart, sondern verschoben – in die Haushalte, wie das fünfzehnte Kapitel es für die Sorgearbeit zeigt. *Drittens ist eine Fremdverwaltung befristet* und fällt ohne weiteren Beschluss in die Selbstverwaltung zurück. *Und viertens läuft die Rangfolge der Kürzung von den Gläubigern zu den Leistungsempfängern* und nicht umgekehrt.
+
+Dass so etwas möglich ist, zeigt ein Fall, den man nicht als Vorbild empfehlen kann, ohne seinen Preis mitzunennen. Detroit stellte am 18. Juli 2013 den Antrag nach Chapter 9 des amerikanischen Insolvenzrechts – bei rund 18,5 Milliarden Dollar Schulden das größte kommunale Insolvenzverfahren der amerikanischen Geschichte – und verließ das Verfahren am 10. Dezember 2014, siebzehn Monate später, mit einer Kürzung ungesicherter Verbindlichkeiten von über sieben Milliarden Dollar und 1,4 Milliarden Dollar für die Wiederherstellung der Grundversorgung.
+
+Und der Preis: Es wurden Renten gekürzt, und die Selbstverwaltung war zeitweise durch einen eingesetzten Notverwalter ersetzt. Der sogenannte Grand Bargain, mit dem Stiftungen, Spender und der Bundesstaat 816 Millionen Dollar aufbrachten, um die Rentenkürzungen abzumildern, war eine Rettung *außerhalb* des Verfahrens – also genau das, was ein gutes Verfahren nicht nötig haben dürfte. Beides ist der Grund für die zweite und dritte Bestimmung oben.
+
+*Zuspitzung:* Die Gemeinde darf nicht sterben. Ihre Gläubiger schon.
+
+### Keine bindende Kompetenz ohne abwählbaren Träger
+
+Bleibt die Sterblichkeit der Leitung, und für sie gibt es eine alte Formulierung. Karl Popper hat die klassische Frage – wer soll herrschen? – für unbeantwortbar erklärt und durch eine andere ersetzt: wie richtet man Institutionen ein, die schlechte Herrscher ohne Gewalt wieder loswerden? Das ist, in der Sprache dieses Buches, eine Sterblichkeitsregel, und es ist dieselbe Bewegung wie überall: von der unentscheidbaren Frage zur entscheidbaren.
+
+Daraus folgt eine Konstruktionsregel, die kürzer ist als ihre Begründung. **Jede Ebene, die verbindlich entscheidet, muss eine Instanz haben, die sich von den Gebundenen ohne Gewalt entfernen lässt.**
+
+Nun gibt es gute Gründe, an manchen Stellen darauf zu verzichten – Gerichte, Zentralbanken, Rechnungshöfe, Prüfstellen und die Datenstelle des zwölften Kapitels sollen gerade nicht abwählbar sein, weil ihr Wert an ihrer Unabhängigkeit hängt. Für sie gilt deshalb die Ausweichregel, und sie ist die eigentliche Konstruktion: **Wer nicht abgewählt werden kann, darf Regeln anwenden, aber nicht setzen.** Unabhängigkeit ist der Preis für die Bindung an fremdes Recht. Wer Recht setzt, muss abwählbar sein; wer unabwählbar ist, wendet an, was andere gesetzt haben.
+
+Das ist eine Regel mit Verfallsdatum an einer bekannten Stelle, und sie gehört genannt: Unkonventionelle Geldpolitik und Rechtsfortbildung sind Regelsetzung im Gewand der Anwendung. Wo genau die Grenze läuft, entscheidet dieses Buch nicht; der Eintrag steht im Ledger.
+
+Wie ernst die Regel ist, zeigt sich dort, wo beide Hälften zugleich fehlen. Die Europäische Kommission hat das Initiativmonopol – das Parlament kann sie nach Artikel 225 des Arbeitsweisevertrags lediglich auffordern, einen Vorschlag vorzulegen – und ist zugleich praktisch nicht abwählbar: Der Misstrauensantrag nach Artikel 234 verlangt zwei Drittel der abgegebenen Stimmen *und* die Mehrheit aller Mitglieder; von sieben je gestellten Anträgen ist keiner angenommen worden. Die Santer-Kommission trat 1999 zurück, bevor abgestimmt wurde – der einzige Fall, in dem das Instrument gewirkt hat, ist der, in dem es nicht angewandt wurde.
+
+Das ist kein Argument gegen die Union, sondern eines für eine Reihenfolge: Entweder wird die Abwählbarkeit gebaut, oder die Rechtsetzungsmacht wird zurückgenommen. Beides zugleich zu behalten, ist die Konstellation, die diese Regel verbietet.
 
 ### Geloste Bürgerräte, ohne Übertreibung
 
@@ -60,6 +134,20 @@ Also gelten die Sterblichkeitsregeln auch für sie, und zwar ausdrücklich. *Amt
 
 Das sind Regeln. Sie rosten. Sie sind trotzdem billiger als die Alternative.
 
+### Und ein Verfahren für die Trennung
+
+Neben der Sterblichkeit der Leitung steht die der Einheit selbst, und für sie fehlt fast überall nicht der Wille, sondern das Verfahren. Gebietskörperschaften werden geteilt, verschmolzen oder abgetrennt; geregelt ist meist nur, dass es geschehen kann, nicht, wie darüber verhandelt wird.
+
+Artikel 29 des Grundgesetzes sieht für die Neugliederung des Bundesgebiets einen Volksentscheid vor. Der eine ernsthaft betriebene Versuch scheiterte: Am 5. Mai 1996 stimmten in Berlin 53,4 Prozent für die Fusion mit Brandenburg, in Brandenburg 62,7 Prozent dagegen. Was der Regel fehlt, ist die Verpflichtung der anderen Seite: Ohne sie ist ein Ja folgenlos und ein Nein endgültig.
+
+Das vollständigste Verfahren, das es dafür gibt, stammt aus Kanada. Der Oberste Gerichtshof entschied 1998 in der Sache über die Abspaltung Quebecs, dass eine einseitige Sezession unzulässig ist – dass aber eine klare Mehrheit auf eine klare Frage eine Verhandlungspflicht *aller* Beteiligten auslöst, auch des Bundes; was als klare Mehrheit und klare Frage zu gelten hat, überließ das Gericht ausdrücklich den politischen Akteuren. Der Clarity Act von 2000 hat das ausgeführt.
+
+Als Bauteil: klare Frage, vorab bestimmte Mehrheitsschwelle, beiderseitige Verhandlungspflicht, vorher festgelegte Regeln für die Teilung von Schulden, Vermögen und Verträgen, und eine gerichtliche Kontrolle der Klarheit, nicht des Ergebnisses.
+
+Der Einwand dagegen ist von beiden Flanken derselbe und ernst: Ein ausgeschriebenes Trennungsverfahren lade zur Trennung ein und belohne die Erpressung durch reiche Regionen. Die Antwort ist nur zur Hälfte gut – ein Verfahren mit hohen Klarheitsanforderungen und beidseitiger Verhandlungspflicht ist teurer als eine Drohung und billiger als ein Bruch. Ob das im Einzelfall stimmt, weiß niemand; Kanada ist ein Fall und kein Beleg. Warum diese Konstruktion trotzdem festgehalten wird, zeigt das zweiundzwanzigste Kapitel, wo sie als einziges vorhandenes Muster für das fehlende vierte Bauteil der internationalen Ebene wiederkehrt.
+
+*Zuspitzung:* Wo es kein Verfahren für die Trennung gibt, gibt es trotzdem eines.
+
 ### Exit, und warum er nach zwei Seiten schneidet
 
 Bleibt der Mechanismus, auf den sich diese Ordnung am meisten verlässt, und er ist zweischneidiger, als seine Verwender meist wissen.
@@ -80,6 +168,30 @@ Für den Wettbewerb zwischen Kommunen und Trägerschaften, auf den diese Ordnung
 
 Der Satz, der beides zusammenfasst: Wettbewerb zwischen Ungleichen misst die Ungleichheit.
 
+### Die zweite Form des Exits
+
+Beide Bedingungen sind nötig, weil dieses Kapitel Exit bisher nur in einer Gestalt kennt: als Abwanderung. Und Abwanderung ist teuer, selektiv und für die meisten Menschen keine Option – wer den Wohnort wechseln muss, um einen Träger zu bestrafen, bestraft ihn nicht.
+
+Es gibt eine zweite Gestalt, und sie hat diesen Nachteil nicht: **den Wechsel der Zugehörigkeit ohne Wechsel des Wohnorts.** Bruno Frey und Reiner Eichenberger haben sie 1996 als funktionale, überlappende, konkurrierende Gebietskörperschaften beschrieben – Körperschaften für je eine Aufgabe, mit sich überschneidenden Grenzen, zwischen denen Gemeinden und Bürger wählen können. Wer aus dem einen Schulverband in den anderen wechselt, zieht nicht um; er nimmt nur seinen Beitrag mit. Damit wird aus Exit statt einer Lebensentscheidung eine Verwaltungsentscheidung, und der Vergleich, auf den diese Ordnung angewiesen ist, wird billig statt teuer.
+
+Die Bausteine dafür sind vorhanden und heißen Zweckverband, Wasser- und Bodenverband, Verkehrsverbund, gemeinsame Beschaffung. Was ihnen fehlt, ist meist der Austritt: geregelte Fristen, Bewertungsregeln für das Anlagevermögen, veröffentlichter Kostenvergleich. Ein Verband, aus dem niemand austreten kann, ist kein Wettbewerber, sondern eine Behörde mit mehreren Trägern.
+
+Und die Grenze ist scharf und muss es sein, weil funktionaler Exit die Umverteilung zerstört: Zuerst geht, wer am meisten einzahlt und am wenigsten braucht. Also gilt er **nur für Aufgaben mit messbarem Ergebnis und ohne Umverteilungskern.** Netze, Entsorgung, Verkehr, Beschaffung, Trägerschaften ja; Grundsicherung, Sozialleistungen und Gesundheitsversorgung nein – deren Träger bleibt territorial und exit-fest. Das ist dieselbe Reihenfolge wie oben, nur an der Aufgabe statt am Gebiet angesetzt: Ausgleich vor Wettbewerb.
+
+*Zuspitzung:* Wettbewerb um die Aufgabe, nicht um den Einwohner.
+
+### Was sich davon in Stufen bauen lässt
+
+Der Umsetzungspfad des fünften Teils gilt für die Eigentumsordnung. Für die politische Architektur läuft ein zweiter, kleinerer Pfad daneben, und er ist an denselben sechs Tests zu messen.
+
+*Ohne Verfassungsänderung, teils ohne Gesetz.* Eine Subsidiaritätsbegründung als Pflichtbestandteil jedes Gesetzentwurfs, die angibt, welche Ebene die Aufgabe heute wahrnimmt, welcher Mechanismus dort versagt hat und woran man das erkennt – eine Zeile in der Geschäftsordnung der Bundesregierung. Der veröffentlichte kommunale Vergleich, gebaut wie die Datenstelle des zwölften Kapitels, mit eigenem Erhebungsrecht statt Meldepflicht. Der geregelte Austritt aus Zweckverbänden. Und die Losgremien mit Begründungszwang, wie oben beschrieben. Dem Belastungstest hält davon wenig stand: Eine Begründungspflicht ohne Kläger fällt, sobald eine Regierung sie streicht. Sie ist Vorbereitung, keine Struktur, und so gehört sie geführt.
+
+*Mit einfachen Gesetzen, und hier liegt das Zeitfenster.* Die Kopplung von Entschuldung und Insolvenzfähigkeit ist der eine Moment, in dem sich eine harte Budgetbeschränkung einführen lässt, ohne rückwirkend jemanden zu treffen: **Wer einmal entschuldet, kann die Bedingung stellen.** Dazu die strikte Konnexität mit Klagerecht in allen Landesverfassungen – wer bestellt, bezahlt – und das Ausfüllen des Hebesatzrechts, wofür ein einfaches Bundesgesetz genügt. Der Föderalismustest ist hier die schwierigste Stelle: Bundesrecht für das Verfahren, Landesrecht für die Aufsicht, die Länder tragen die Entschuldungshälfte, der Bundesrat muss zustimmen. Der Widerstand kommt von den Gläubigern und den Kämmerern zugleich, und er ist berechtigt: Kommunalkredite werden teurer. Das ist die Wirkung, nicht die Nebenwirkung, und sie ist gegen den heutigen Investitionsrückstand zu rechnen und nicht gegen null.
+
+*Mit Verfassungsänderung* wären es drei: eine Ablauffrist für neu in Anspruch genommene Bundeszuständigkeiten, die Verhandlungspflicht in Artikel 29 und der Verfassungsrang der kommunalen Mindestausstattung. Der Mehrheitstest fällt hier negativ aus, und das gehört gesagt statt umschrieben.
+
+Bemerkenswert ist die Reihenfolge: Der schwerste Schritt dieses Pfades ist nicht die Verfassungsänderung, sondern das einfache Gesetz, das jemanden Geld kosten kann.
+
 ### Wer die Ordnung fortschreibt
 
 Zum Schluss eine Frage, auf die dieses Buch keine gute Antwort hat und die deshalb offen benannt gehört.
@@ -89,6 +201,12 @@ Diese Ordnung verspricht permanente Reparatur. Damit setzt sie eine Instanz vora
 Die einzige Antwort, die nicht auf Gesinnung setzt, lautet: die Reparaturfähigkeit an *Datenpflichten und Klagerechte* binden statt an Überzeugung. Veröffentlichte Kennzahlen, die man nicht abschaffen kann, ohne es zu beschließen – und ein Beschluss ist sichtbar, während ein Unterlassen es nicht ist. Und Betroffene, die klagen können, wenn Schwellen gerissen werden, statt Behörden, die es dürften, wenn sie wollten.
 
 Eine Ordnung, deren Fortbestand von der Überzeugung ihrer Verwalter abhängt, hat aus der Diagnose nichts gelernt.
+
+Und damit steht der Einwand gegen dieses Kapitel selbst da, der schwerste, weshalb er hierher gehört und nicht ins Ledger allein. Ein Klagerecht ist selbst eine Regel. Man kann es abschaffen, verkürzen, mit Fristen und Zulässigkeitshürden aushöhlen – das zweiundzwanzigste Kapitel führt den Beweis an einem europäischen Beispiel vor, an dem eine Rechtsordnung genau das über Jahrzehnte getan hat, ohne je einen Beschluss darüber zu fassen. Der Unterschied zwischen einem Klagerecht und einem Eigentumsrecht ist also gradueller Art und nicht kategorialer.
+
+Die Antwort darauf ist die von eben, und sie ist der ganze Vorsprung: Eine Regel mit Kläger stirbt durch sichtbaren Beschluss, eine Regel ohne Kläger durch Unterlassen. Er ist real, und er ist kleiner, als die Analogie zum Eigentum nahelegt.
+
+Deshalb noch einmal der Satz vom Anfang dieses Kapitels, jetzt als Ergebnis: **Die politische Ebene lässt sich nicht eigentumssichern. Sie lässt sich anspruchssichern – dieselbe Zwischenstufe wie der Allmende-Sektor, und aus demselben Grund: Es gibt niemanden, dem sie gehört.**
 
 ---
 
@@ -102,8 +220,32 @@ Eine Ordnung, deren Fortbestand von der Überzeugung ihrer Verwalter abhängt, h
 
 *Anthropologische Grundlage der Subsidiarität:* Alter der Gattung, Staatsentstehung und die Debatte um Graeber/Wengrow sind in Kapitel 23 belegt. **Bestätigt** hinsichtlich der Tatsachengrundlage. Die Ableitung einer Konstruktionsregel und der Beweislastumkehr daraus ist **Wertung** dieses Buches.
 
-*Ostrom:* siehe Kapitel 5 und 7. **Bestätigt.**
+*Ostrom:* siehe Kapitel 5 und 7. **Bestätigt.** Der Begriff der Polyzentrik selbst stammt aus der Untersuchung *politischer* Zuständigkeiten: Vincent Ostrom, Charles M. Tiebout und Robert Warren, „The Organization of Government in Metropolitan Areas. A Theoretical Inquiry", in: *The American Political Science Review* 55 (1961), H. 4, S. 831–842; Vincent Ostrom hat später ausgewiesen, dass er ihn Michael Polanyi (*The Logic of Liberty*, 1951) verdankt. **Bestätigt.**
+
+*Kommunale Selbstverwaltung als Rechtsposition:* Art. 28 Abs. 2 GG; kommunale Verfassungsbeschwerde nach Art. 93 Abs. 1 Nr. 4b GG. Aufgabenübertragungsverbot des Art. 84 Abs. 1 Satz 7 GG (wortgleich Art. 85 Abs. 1 Satz 2 GG), eingefügt mit der Föderalismusreform 2006; durchgesetzt durch BVerfG, Beschluss vom 07.07.2020 – 2 BvR 696/12 (Bildungs- und Teilhabepaket), mit ausdrücklichem Schutz der kommunalen Finanzausstattung. **Bestätigt.** Die Folgerung, nicht die Größe, sondern die Klagbarkeit trage die kommunale Ebene, ist **Wertung** dieses Buches.
+
+*Insolvenzunfähigkeit der Kommunen:* § 12 InsO in Verbindung mit dem jeweiligen Landesrecht; alle Länder haben die Insolvenzunfähigkeit angeordnet. **Bestätigt.**
+
+*Kommunale Liquiditätskredite und Altschuldenlösung:* Kabinettbeschluss vom 24.01.2025 über eine Grundgesetzänderung zur einmaligen hälftigen Beteiligung des Bundes, wenn das Land seine Kommunen vollständig von übermäßigen Liquiditätskrediten befreit; Stichtag 31.12.2023, bezifferter Umfang rund 31 Mrd. Euro; die Begründung stellt ausdrücklich fest, dass der weitaus größte Teil dieser Kredite entgegen der Zweckbestimmung der Dauerfinanzierung von Haushaltsdefiziten diente. **Bestätigt** hinsichtlich Entwurf, Konstruktion und Größenordnung; **mit Einschränkung** hinsichtlich des Verfahrensstands, der zum Zeitpunkt der Niederschrift nicht abgeschlossen war. Die Deutung als Beweis der weichen Budgetbeschränkung ist **Wertung.** Kommunales Defizit 31,9 Mrd. Euro für 2025: siehe Kapitel 12.
+
+*Investitionsrückstand:* KfW-Kommunalpanel 2026, Erhebung im ersten Quartal 2026 unter 2.900 Kommunen bei 37 Prozent Rücklauf – wahrgenommener Investitionsrückstand 231,2 Mrd. Euro, gegenüber dem Vorjahr 15,5 Mrd. Euro oder 7,2 Prozent mehr, davon rund 68 Mrd. Euro Schulen und rund 53 Mrd. Euro Straßen. **Bestätigt** als Erhebung, **mit Einschränkung:** Es handelt sich um einen von den Kommunen berichteten, nicht um einen gemessenen Rückstand.
+
+*Hebesatzrecht:* Art. 106 Abs. 5 Satz 3 GG ermächtigt den Bundesgesetzgeber, den Gemeinden einen Hebesatz auf ihren Anteil an der Einkommensteuer einzuräumen; von der Ermächtigung ist bis heute kein Gebrauch gemacht worden. **Bestätigt** (Wissenschaftliche Dienste des Deutschen Bundestages).
+
+*Europäische Subsidiaritätskontrolle:* Protokoll Nr. 2 zum Vertrag von Lissabon, begründete Stellungnahmen binnen acht Wochen, gelbe Karte bei einem Drittel der Stimmen; drei Verfahren sind bisher zustande gekommen, in allen dreien kam die Kommission zu dem Ergebnis, das Subsidiaritätsprinzip sei nicht verletzt. **Bestätigt** hinsichtlich Zahl und Ergebnis; die Zuordnung der drei Vorhaben (Monti II 2012, Europäische Staatsanwaltschaft 2013, Entsenderichtlinie 2016) stammt aus der Sekundärliteratur und ist **mit Einschränkung** zu führen.
+
+*Kommunales Insolvenzverfahren als Vorbild:* Detroit, Antrag nach Chapter 9 am 18.07.2013; Zulassungsentscheidung vom 03.12.2013 bei 18,5 Mrd. Dollar Schulden (Angaben zur Gesamthöhe schwanken zwischen 18 und 20 Mrd.); größtes kommunales Insolvenzverfahren der amerikanischen Geschichte; Planbestätigung und Austritt am 10.12.2014, siebzehn Monate nach Antragstellung, mit Kürzung ungesicherter Verbindlichkeiten von über 7 Mrd. Dollar und 1,4 Mrd. Dollar für die Grundversorgung; Grand Bargain mit 816 Mio. Dollar von Stiftungen, Spendern und dem Bundesstaat zur Abmilderung der Rentenkürzungen; Ende der Finanzaufsicht 2018. **Bestätigt.**
+
+*Popper:* Karl R. Popper, *Die offene Gesellschaft und ihre Feinde*, Band I, Kapitel 7 – die Ersetzung der Frage nach dem rechtmäßigen Herrscher durch die Frage nach Institutionen, die schlechte Herrscher ohne Gewalt entfernen können. **Bestätigt** hinsichtlich der Position; **mit Einschränkung** hinsichtlich der Seitenangabe, die nicht gegen eine Druckausgabe geprüft ist.
+
+*Misstrauensantrag und Initiativrecht in der Union:* Art. 234 AEUV – Zweidrittelmehrheit der abgegebenen Stimmen und Mehrheit der Mitglieder; von sieben gestellten Anträgen wurde keiner angenommen; die Santer-Kommission trat 1999 vor der Abstimmung zurück. Art. 225 AEUV gibt dem Parlament nur ein Aufforderungsrecht. **Bestätigt.**
+
+*Neugliederung und Trennungsverfahren:* Art. 29 GG; Volksentscheid vom 05.05.1996 über die Fusion von Berlin und Brandenburg – Zustimmung in Berlin mit 53,4 Prozent, Ablehnung in Brandenburg mit 62,7 Prozent. Supreme Court of Canada, *Reference re Secession of Quebec*, [1998] 2 S.C.R. 217, Urteil vom 20.08.1998: keine einseitige Sezession, aber Verhandlungspflicht aller Beteiligten bei klarer Mehrheit auf klare Frage, deren Bestimmung ausdrücklich den politischen Akteuren überlassen bleibt; Clarity Act (Bill C-20), 2000. **Bestätigt.**
+
+*Funktionale, überlappende, konkurrierende Gebietskörperschaften:* Bruno S. Frey und Reiner Eichenberger, „FOCJ: Competitive Governments for Europe", in: *International Review of Law and Economics* 16 (1996), H. 3, S. 315–327; dies., *The New Democratic Federalism for Europe. Functional, Overlapping and Competing Jurisdictions*, Cheltenham 1999. **Bestätigt** hinsichtlich Fundstelle und Konzept; die Beschränkung auf Aufgaben ohne Umverteilungskern ist **Wertung** dieses Buches.
 
 *Verfahrensdesign für Losgremien, Sterblichkeitsregeln für Funktionäre, Operationalisierung der beiden Exit-Bedingungen, die Beweislastumkehr bei der Subsidiarität und die Bindung der Reparaturfähigkeit an Datenpflichten und Klagerechte* sind Konstruktionsvorschläge dieses Buches. **Wertung.**
+
+*Ebenso Wertung und Vorschlag:* die drei Stücke politischen Eigentums (Zuständigkeit, Ertragshoheit, Klagebefugnis); die Ergänzung der Beweislastumkehr um Kläger und Folge; das Sterberecht für Verwaltungen mit seinen vier Bestimmungen; die Popper-Regel in ihrer Zweiteilung von Anwendung und Setzung; das Trennungsverfahren nach kanadischem Muster; der begrenzte funktionale Exit; die Kopplung von Entschuldung und Insolvenzfähigkeit; und die Einordnung der politischen Ebene als anspruchs- und nicht eigentumsgesichert.
 
 *Ostdeutsche Abwanderung nach 1990:* im Text als Verlaufsmuster referiert; die demografisch-fiskalische Abwärtsspirale ist in der Regionalforschung breit belegt. **Wertung** mit anerkannter Tatsachengrundlage.

@@ -8,7 +8,7 @@ Die Symmetrieregel verlangt dieselbe Prüfung von der anderen Seite, und sie ist
 
 Eine Ordnung, die nur die linke Flanke prüft, hat sich nicht geprüft, sondern gelobt.
 
-Zwölf Einwände und drei Konzessionen.
+Dreizehn Einwände und drei Konzessionen.
 
 ### 1. Der Heterogenitätseinwand (Hansmann)
 
@@ -128,6 +128,22 @@ Zweitens wird die Gesamtaussage auf das reduziert, was sie ist: eine begründete
 
 Die Verbundlösung ist an einem Fall erprobt und an vielen behauptet. Das ist der ehrlichste Satz, den dieses Buch über seine eigene Beleglage sagen kann.
 
+### 13. Der Juristokratie-Einwand: Sie verletzen Ihre eigene Regel
+
+Der letzte Einwand zielt auf die politische Architektur des sechzehnten Kapitels, und er hat die unangenehme Eigenschaft, dieses Buch mit seinem eigenen Satz zu schlagen.
+
+Er lautet: Sie enden überall im Gericht. Die Gemeinde klagt gegen den Bund, die überstimmte Ebene gegen die Verlagerung ihrer Zuständigkeit, der Anschlussnehmer gegen den Betreiber, der Betroffene gegen den fernen Staat. Damit verlagern Sie politische Entscheidungen zu Richtern, die niemand gewählt hat – und nach Ihrer eigenen Regel darf, wer nicht abwählbar ist, Regeln anwenden, aber nicht setzen. Ein Gericht, das über die Verteilung von Zuständigkeiten entscheidet, setzt Regeln. Sie haben eine Konstruktionsregel formuliert und sie im selben Kapitel gebrochen.
+
+*Antwort:* Die Spannung ist echt, und sie wird nicht wegdefiniert. Drei Entgegnungen und eine Konzession.
+
+*Erstens die Beschränkung des Prüfungsgegenstands.* Gegenstand der Subsidiaritätsklage ist nicht die Zweckmäßigkeit, sondern die Begründung: nicht, ob eine Aufgabe oben besser aufgehoben ist, sondern ob die Behauptung, sie sei es, an nachprüfbare Tatsachen anschließt. Das ist die Bauart, in der Verwaltungsrecht seit je funktioniert, und sie hält den Richter davon ab, die Abwägung selbst vorzunehmen. Ob sie ihn dauerhaft davon abhält, ist eine andere Frage – siehe die Konzession.
+
+*Zweitens die Frage nach der Alternative,* und sie ist hier entscheidend. Der Einwand stellt Gericht gegen Demokratie. Tatsächlich steht die Wahl zwischen dem Gericht und der oberen Ebene selbst – denn wenn niemand die Verlagerung überprüfen kann, entscheidet über die Zuständigkeit derjenige, der sie an sich zieht. Das ist der Richter in eigener Sache, und ihn hätte der Liberale sonst als Erster benannt.
+
+*Drittens die Symmetriefrage.* Der wirksamste Bestandteil des europäischen Rechts ist die Justiziabilität der Marktfreiheiten durch private Kläger, und sie ist deutlich weitreichender als alles, was das sechzehnte Kapitel vorschlägt. Wer sie schätzt und die Justiziabilität der Kompetenzordnung als Juristokratie bekämpft, hat keine Position, sondern eine Präferenz für ein Ergebnis. Das entkräftet den Einwand nicht – es verpflichtet ihn auf Konsistenz.
+
+*Und die Konzession:* Die Grenze zwischen Begründungskontrolle und Sachkontrolle ist unscharf, Gerichte verschieben sie, und dieses Buch hat dagegen kein eigenes Mittel. Es hat dieselbe Lücke an einer zweiten Stelle bereits eingeräumt, nämlich bei den unabwählbaren Instanzen, die faktisch Regeln setzen – unkonventionelle Geldpolitik und Rechtsfortbildung. Beide Einträge stehen im fünfundzwanzigsten Kapitel, und sie stehen dort zu Recht.
+
 ### Was dem Liberalen bleibt
 
 Drei Konzessionen, symmetrisch zu denen des vorigen Kapitels.
@@ -165,3 +181,5 @@ Was der Liberale allerdings nicht behalten darf, ist die Behauptung, der Status 
 *Olson:* siehe Kapitel 6.
 
 *Der zwölfte Einwand samt Antwort – Verteilung der Beleglast und Terminierung der Gesamtwette – ist eine Selbstprüfung dieses Buches.* **Wertung.**
+
+*Der dreizehnte Einwand:* Die Konstruktionsregel zur Abwählbarkeit, die Subsidiaritätsklage und die Beschränkung auf die Begründungskontrolle stehen mit ihren Belegen in Kapitel 16; die Justiziabilität der Marktfreiheiten durch private Kläger und die Grenzen der Nichtigkeitsklage in Kapitel 22. Einwand, Entgegnungen und Konzession sind **Wertung** und Selbstprüfung dieses Buches.
