@@ -56,7 +56,7 @@ Eucken war der bedeutendste deutsche liberale Ökonom des zwanzigsten Jahrhunder
 
 Euckens zentrale Einsicht ist für dieses Buch von erheblichem Wert, weil sie von der anderen Seite kommt und dasselbe sagt. Sie lautet: Eine Wettbewerbsordnung entsteht nicht von selbst. Der Markt tendiert nicht automatisch zur Konkurrenz, sondern erzeugt aus sich heraus Konzentration, Kartelle und private Machtpositionen – und private Wirtschaftsmacht ist für die Freiheit des Einzelnen genauso gefährlich wie staatliche. Deshalb unterschied die Freiburger Schule zwischen *Ordnungspolitik*, die den Rahmen setzt und setzen muss, und *Prozesspolitik*, die in einzelne Marktergebnisse eingreift und es besser lassen sollte. Der Rahmen ist gemacht, nicht gewachsen. Ein Wirtschaftssystem ruht auf zwei Säulen: den spontanen Ordnungskräften des Marktes und einem wirtschaftspolitisch gestalteten Regelwerk.
 
-Wer das ernst nimmt, hat die halbe Argumentation dieses Buches schon akzeptiert. Der Streit beginnt erst bei der Frage, welches Instrument den Rahmen hält – und ob Regeln dafür ausreichen. Das ist der Gegenstand des achten Kapitels, und dort wird sich zeigen, dass Eucken zu optimistisch war.
+Euckens Einsicht deckt die halbe Argumentation dieses Buches. Der Streit beginnt erst bei der Frage, welches Instrument den Rahmen hält – und ob Regeln dafür ausreichen. Das ist der Gegenstand des achten Kapitels, und dort wird sich zeigen, dass Eucken zu optimistisch war.
 
 ### Warum das Buch trotzdem nicht bei „mehr Wettbewerb" endet
 

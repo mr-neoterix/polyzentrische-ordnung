@@ -10,7 +10,7 @@ Die Nachfolgewelle im deutschen Mittelstand kulminiert in der zweiten Hälfte de
 
 ### Der Nachfolgekanal, erstens: der Steuerhebel
 
-Er ist der Kern, und dieses Buch schuldet an dieser Stelle mehr als eine Richtungsangabe, denn eine Forderung, die nicht sagt, welche Norm sie ändert, ist eine Absichtserklärung.
+Er ist der Kern, und hier braucht es mehr als eine Richtungsangabe, denn eine Forderung, die nicht sagt, welche Norm sie ändert, ist eine Absichtserklärung.
 
 Das geltende deutsche Recht kennt bereits eine Begünstigung der Betriebsveräußerung, und sie ist bescheiden. Nach § 16 Absatz 4 des Einkommensteuergesetzes gibt es einen Freibetrag von 45.000 Euro, der ab einem Veräußerungsgewinn von 136.000 Euro abschmilzt und bei 181.000 Euro vollständig entfällt; er steht einmal im Leben zu, ab dem 55. Lebensjahr oder bei dauernder Berufsunfähigkeit. Nach § 34 Absatz 3 des Einkommensteuergesetzes kann auf Antrag – ebenfalls einmal im Leben und ab 55 – ein ermäßigter Steuersatz von 56 Prozent des durchschnittlichen Steuersatzes gewährt werden, mindestens jedoch 14 Prozent.
 
@@ -42,11 +42,11 @@ Der Nachfolgefall ist ein anderes Geschäft. Die Betriebe sind gesünder, was di
 
 Also braucht Stufe eins *zwei* Instrumente und nicht eines.
 
-Für *Rettungsfälle* eine Marcora-artige Kofinanzierung – beihilferechtlich auf dem Niveau, auf das die CFI nach einer Beanstandung durch die Europäische Kommission im Jahr 2001 umstellen musste, nämlich eins zu eins: Auf jeden Euro, den die Belegschaft aufbringt, kommt höchstens ein Euro öffentlicher Kofinanzierung.
+Für *Rettungsfälle* eine Marcora-artige Kofinanzierung – beihilferechtlich, also im Rahmen dessen, was das EU-Recht an staatlicher Kofinanzierung überhaupt erlaubt, auf dem Niveau, auf das die CFI nach einer Beanstandung durch die Europäische Kommission im Jahr 2001 umstellen musste, nämlich eins zu eins: Auf jeden Euro, den die Belegschaft aufbringt, kommt höchstens ein Euro öffentlicher Kofinanzierung.
 
-Für *Nachfolgefälle* das Paket aus dem siebzehnten Kapitel: Steuerstundung beim Verkäufer, Verkäuferdarlehen, langfristige Fremdfinanzierung gegen Cashflow und eine ablösbare stimmrechtsarme Beteiligung – flankiert von Bürgschaften und Haftungsfreistellungen der KfW, damit die Hausbank das Risiko tragen kann.
+Für *Nachfolgefälle* das Finanzierungspaket aus dem siebzehnten Kapitel, flankiert von Bürgschaften und Haftungsfreistellungen der KfW, damit die Hausbank das Risiko tragen kann.
 
-Der Satz dazu: **Die Nachfolgewelle ist ein Zeitfenster nur dann, wenn die Finanzierung Übernahmen zu vollen Preisen trägt.**
+**Die Nachfolgewelle ist ein Zeitfenster nur dann, wenn die Finanzierung Übernahmen zu vollen Preisen trägt.**
 
 ### Drittens: das Andienungsrecht statt des Zwangs
 
@@ -88,7 +88,7 @@ Er hat Zeit, ist aber nicht optional.
 
 Eine ehrliche Frage, denn sie ist wahrscheinlich. Vier Jahre Gesetzgebung sind optimistisch, und die Welle wartet nicht.
 
-Frühere Fassungen dieses Projekts hatten für diesen Fall keinen Ersatzplan, sondern nur langsamere Instrumente. Es gibt einen, und er besteht aus drei Teilen.
+Dann greift ein Ersatzweg aus drei Teilen.
 
 *Erstens: die Reihenfolge umdrehen.* Beratungsinfrastruktur, Musterverträge, Standardsatzungen und Bankprodukte brauchen kein Gesetz. Sie können sofort beginnen, aus Verbandsmitteln, während die Steuernorm noch im parlamentarischen Verfahren ist. Wenn das Gesetz kommt, steht der Apparat schon.
 

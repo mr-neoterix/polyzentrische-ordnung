@@ -8,7 +8,7 @@ Die Symmetrieregel verlangt dieselbe Prüfung von der anderen Seite, und sie ist
 
 Eine Ordnung, die nur die linke Flanke prüft, hat sich nicht geprüft, sondern gelobt.
 
-Dreizehn Einwände und drei Konzessionen.
+Dreizehn Einwände und drei Konzessionen – elf davon aus dieser Gegenliteratur, die letzten beiden von diesem Buch gegen sich selbst gerichtet, weil bisher kein Gegner sie erhoben hat.
 
 ### 1. Der Heterogenitätseinwand (Hansmann)
 
@@ -40,7 +40,7 @@ Was der Einwand nicht zeigt, ist eine Notwendigkeit. Dass ein Sektor eine bestim
 
 Radikale Innovation braucht Wetten gegen den Konsens; kollektive Entscheidung tendiert zum Konsens.
 
-*Antwort:* Deshalb behält diese Ordnung den privaten Marktsektor – nicht als Zugeständnis an die Verhältnisse, sondern als Organ. Das ist die härteste Lektion der Planwirtschaftsanalyse und wird hier nirgends relativiert.
+*Antwort:* Deshalb behält diese Ordnung den privaten Marktsektor – nicht als Zugeständnis an die Verhältnisse, sondern als Organ. Das ist eine zentrale Lektion der Planwirtschaftsanalyse und wird hier nirgends relativiert.
 
 Die Kreislaufdimension zeigt allerdings die andere Hälfte: Es gibt Innovationsklassen, die der Privatsektor systematisch nicht hervorbringt, weil sie seinen Ersatzumsatz vernichten. Beide Sektoren haben blinde Flecken, und genau deshalb müssen beide existieren.
 
@@ -48,7 +48,7 @@ Die Kreislaufdimension zeigt allerdings die andere Hälfte: Es gibt Innovationsk
 
 *Antwort:* Jugoslawien hatte kein Belegschaftseigentum, sondern gesellschaftliches Eigentum – niemandes Eigentum, verwaltet von Belegschaften ohne mitnehmbaren Anspruch. Es hatte keine harte Budgetbeschränkung, keinen Kapitalmarkt für die Betriebe und eine monozentrische Politik ohne Gegenmacht.
 
-Das sind vier Unterschiede zu dieser Ordnung, von denen drei Designvariablen sind: individuelle Kapitalkonten gegen das Horizontproblem, Insolvenz gegen die weiche Budgetgrenze, Polyzentrik gegen die Monozentrik. Der vierte – der Ward-Effekt, empirisch von Estrin für Jugoslawien bestätigt – bleibt als echtes Risiko, wird im elften Kapitel mit der offenen Mitgliedschaft und der Tätigkeitsquote adressiert und im Ledger ausgewiesen.
+Das sind vier Unterschiede zu dieser Ordnung, von denen drei Designvariablen sind: individuelle Kapitalkonten gegen das Horizontproblem, Insolvenz gegen die weiche Budgetgrenze, Polyzentrik gegen die Monozentrik. Der vierte – der Ward-Effekt, die Neigung selbstverwalteter Betriebe, bei steigenden Preisen eher Beschäftigung abzubauen als aufzubauen, empirisch von Estrin für Jugoslawien bestätigt – bleibt als echtes Risiko, wird im elften Kapitel mit der offenen Mitgliedschaft und der Tätigkeitsquote adressiert und im Ledger ausgewiesen.
 
 Die Gegenfrage an den Einwand: Wenn das Etikett entschiede, müsste Mondragón dieselben Ergebnisse zeigen wie Jugoslawien.
 
@@ -92,17 +92,17 @@ Ein Entwurf, der sich selbst falsifizierbar macht, ist die hayekianische Antwort
 
 ### 10. Der Bedürfnis-Einwand: Wer entscheidet, was echt ist?
 
-Wer Werbung besteuert, Voreinstellungen umdreht und geweckte Bedürfnisse zum volkswirtschaftlichen Problem erklärt, maßt sich an zu wissen, welche Wünsche der Menschen zählen. Das ist der älteste und tiefste liberale Einwand gegen jede Konsumkritik, und er hat eine berühmte Fassung: Hayeks Antwort auf Galbraith von 1961. Angeboren seien allenfalls Hunger, Obdach und Geschlechtstrieb; alles Übrige, was Menschen wollen, ist kulturell entstanden und wurde ihnen von anderen nahegebracht. Wer geweckte Wünsche für minderwertig hält, hält die gesamte kulturelle Leistung der Gattung für minderwertig – und wer daraus institutionelle Folgerungen zieht, braucht jemanden, der die Unterscheidung trifft.
+Wer Werbung besteuert, Voreinstellungen umdreht und geweckte Bedürfnisse zum volkswirtschaftlichen Problem erklärt, maßt sich an zu wissen, welche Wünsche der Menschen zählen. Das ist der klassische liberale Einwand gegen jede Konsumkritik, und er hat eine berühmte Fassung: Hayeks Antwort auf Galbraith von 1961. Angeboren seien allenfalls Hunger, Obdach und Geschlechtstrieb; alles Übrige, was Menschen wollen, ist kulturell entstanden und wurde ihnen von anderen nahegebracht. Wer geweckte Wünsche für minderwertig hält, hält die gesamte kulturelle Leistung der Gattung für minderwertig – und wer daraus institutionelle Folgerungen zieht, braucht jemanden, der die Unterscheidung trifft.
 
-Die praktische Fassung des Einwands wiegt schwerer als die philosophische, und sie hat nichts mit Weltanschauung zu tun. Bekanntheit ist ein Bestand, Werbung ist der Fluss, mit dem ein Neuling ihn aufbaut. Eine Abgabe auf Werbung ist deshalb im Kern eine Abgabe auf Markteintritt: Sie schützt den Etablierten, der seinen Bestand längst hat, vor dem Angreifer, der ihn erst erzeugen muss. Und sie begünstigt ausgerechnet jene Sektoren, die dieses Buch ohnehin bevorzugt – die Genossenschaft mit ihren Mitgliedern statt Kunden, das Stadtwerk mit seinem Anschlusszwang. Eine Ordnung, die ihre eigenen Lieblinge steuerlich vom Wettbewerb um Aufmerksamkeit entlastet, hat kein Ordnungsargument, sondern ein Interesse.
+Die praktische Fassung des Einwands wiegt schwerer als die philosophische, und sie hat nichts mit Weltanschauung zu tun. Bekanntheit ist ein Bestand, Werbung ist der Fluss, mit dem ein Neuling ihn aufbaut. Eine Abgabe auf Werbung ist deshalb im Kern eine Abgabe auf Markteintritt: Sie schützt den Etablierten, der seinen Bestand längst hat, vor dem Angreifer, der ihn erst erzeugen muss. Und sie begünstigt ausgerechnet jene Sektoren, die dieses Buch ohnehin bevorzugt – die Genossenschaft mit ihren Mitgliedern statt Kunden, das Stadtwerk mit seinem Anschlusszwang. Diese Entlastung ist kein Ordnungsargument, sondern ein Interesse.
 
 *Antwort:* dreiteilig, und der erste Teil ist ein vollständiges Zugeständnis.
 
 *Erstens* wird das Urteil über echte und unechte Bedürfnisse nicht gefällt, und zwar nicht aus Höflichkeit, sondern weil die Position, die es fällen müsste, die vollkommene monozentrische Stellung wäre: unwiderlegbar, weil jeder Widerspruch als Manipulationssymptom gilt, und unfalsifizierbar, weil ihr die Kennzahl fehlt. Das vierzehnte Kapitel führt das aus und nennt die historische Stelle, an der diese Position tatsächlich besetzt war – die Bedarfsplanung der DDR.
 
-*Zweitens* steht die Abgabe deshalb auf zwei Gründen, die beide ohne Bedürfnisurteil auskommen. Der eine: Werbeaufwand ist heute voll abziehbare Betriebsausgabe, die Allgemeinheit trägt einen Teil davon, und das Ende einer stillen Mitfinanzierung ist keine Lenkung, sondern deren Rücknahme. Der andere: Der kämpferische Teil der Werbung ist ein Wettrüsten, aus dem die Beteiligten allein nicht herauskommen – und das ist kein Verdacht, sondern gemessen. Als 1971 die amerikanische Zigarettenwerbung aus Funk und Fernsehen verschwand, sanken die Ausgaben der Branche, der Absatz blieb, und die Gewinne stiegen. Ein Liberaler, der Verschwendung durch strategische Interdependenz nicht als Effizienzproblem gelten lässt, wendet seine eigene Theorie selektiv an.
+*Zweitens* steht die Abgabe deshalb auf zwei Gründen, die beide ohne Bedürfnisurteil auskommen. Der eine: Werbeaufwand ist heute voll abziehbare Betriebsausgabe, die Allgemeinheit trägt einen Teil davon, und das Ende einer stillen Mitfinanzierung ist keine Lenkung, sondern deren Rücknahme. Der andere: Der kämpferische Teil der Werbung ist ein Wettrüsten, aus dem die Beteiligten allein nicht herauskommen – und das ist kein Verdacht, sondern gemessen. Das vierzehnte Kapitel führt es am Verschwinden der amerikanischen Zigarettenwerbung aus Funk und Fernsehen 1971 vor: Die Ausgaben der Branche sanken, der Absatz blieb, die Gewinne stiegen. Ein Liberaler, der Verschwendung durch strategische Interdependenz nicht als Effizienzproblem gelten lässt, misst mit zweierlei Maß.
 
-*Drittens* der Markteintrittsvorwurf, und er ist der beste Teil des Einwands. Er wird nicht bestritten, sondern konstruktiv beantwortet: Die Abgabe ist nach dem Werbeaufwand des einzelnen Unternehmens *gestaffelt* und nicht linear, weil der kämpferische Anteil oben sitzt und der Neuling gefunden werden muss. Was danach übrigbleibt, ist eine Messfrage und keine Prinzipienfrage – ob die Staffelung scharf genug schneidet, hat niemand je erhoben, und deshalb steht die Abgabe unter derselben Abschaltschwelle wie jede andere Lenkungsentscheidung dieses Buches.
+*Drittens* der Markteintrittsvorwurf, und er ist ein gewichtiger Teil des Einwands. Er wird nicht bestritten, sondern konstruktiv beantwortet: Die Abgabe ist nach dem Werbeaufwand des einzelnen Unternehmens *gestaffelt* und nicht linear, weil der kämpferische Anteil oben sitzt und der Neuling gefunden werden muss. Was danach übrigbleibt, ist eine Messfrage und keine Prinzipienfrage – ob die Staffelung scharf genug schneidet, hat niemand je erhoben, und deshalb steht die Abgabe unter derselben Abschaltschwelle wie jede andere Lenkungsentscheidung dieses Buches.
 
 Und der Liberale bekommt eine Selbstbindung in die Hand, auf die er dieses Buch festnageln darf. Wird die Abgabe je damit verteidigt, dass Menschen das Falsche kaufen, hat sie den Boden dieser Ordnung verlassen. Der Satz steht im vierzehnten Kapitel: Diese Ordnung besteuert das Wettrüsten, nicht den Wunsch.
 
@@ -114,7 +114,7 @@ Zugleich ist die Investorenwarnung selbst ein Machtargument und nach der Symmetr
 
 ### 12. Der Beleg-Einwand: Ihr Modell hängt an einem einzigen Fall
 
-Dieser Einwand steht in keiner Gegenliteratur, weil ihn niemand außer diesem Buch erhoben hat – und er ist der schärfste von allen.
+Er zielt nicht auf eine einzelne Konstruktion, sondern auf die Beleglage des ganzen Entwurfs.
 
 Fast jede Designantwort der Kapitel zehn bis siebzehn hat ihren empirischen Beleg in einem einzigen Verbund einer einzigen Region eines einzigen Landes: Sekundärgenossenschaften, Föderation, Solidarfonds, Kapitalkonten, eigene Bank, eigene Sozialversicherung, Umsetzung von Mitgliedern, harte Budgetgrenze im Fagor-Fall, offene Mitgliedschaft – Mondragón, entstanden aus einer besonderen baskischen Geschichte. Ein Fall ist kein Muster, und die eigene Methodenregel dieses Buches verlangt Muster über Fälle.
 
@@ -138,7 +138,7 @@ Er lautet: Sie enden überall im Gericht. Die Gemeinde klagt gegen den Bund, die
 
 *Erstens die Beschränkung des Prüfungsgegenstands.* Gegenstand der Subsidiaritätsklage ist nicht die Zweckmäßigkeit, sondern die Begründung: nicht, ob eine Aufgabe oben besser aufgehoben ist, sondern ob die Behauptung, sie sei es, an nachprüfbare Tatsachen anschließt. Das ist die Bauart, in der Verwaltungsrecht seit je funktioniert, und sie hält den Richter davon ab, die Abwägung selbst vorzunehmen. Ob sie ihn dauerhaft davon abhält, ist eine andere Frage – siehe die Konzession.
 
-*Zweitens die Frage nach der Alternative,* und sie ist hier entscheidend. Der Einwand stellt Gericht gegen Demokratie. Tatsächlich steht die Wahl zwischen dem Gericht und der oberen Ebene selbst – denn wenn niemand die Verlagerung überprüfen kann, entscheidet über die Zuständigkeit derjenige, der sie an sich zieht. Das ist der Richter in eigener Sache, und ihn hätte der Liberale sonst als Erster benannt.
+*Zweitens die Frage nach der Alternative,* und sie ist hier entscheidend. Der Einwand stellt Gericht gegen Demokratie. Tatsächlich steht die Wahl zwischen dem Gericht und der oberen Ebene selbst – denn wenn niemand die Verlagerung überprüfen kann, entscheidet über die Zuständigkeit derjenige, der sie an sich zieht. Das ist der Richter in eigener Sache.
 
 *Drittens die Symmetriefrage.* Der wirksamste Bestandteil des europäischen Rechts ist die Justiziabilität der Marktfreiheiten durch private Kläger, und sie ist deutlich weitreichender als alles, was das sechzehnte Kapitel vorschlägt. Wer sie schätzt und die Justiziabilität der Kompetenzordnung als Juristokratie bekämpft, hat keine Position, sondern eine Präferenz für ein Ergebnis. Das entkräftet den Einwand nicht – es verpflichtet ihn auf Konsistenz.
 

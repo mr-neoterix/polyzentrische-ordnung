@@ -4,13 +4,13 @@
 
 ---
 
-Was aus der Diagnose folgt, ist weder Sozialismus als Zustand noch gefesselter Kapitalismus. Es ist ein Eigentums-Mischsystem unter Konkurrenzbedingungen – Vergesellschaftung als Prozess statt als Bruch, mit Madison und Ostrom als Baumeistern und Marx als Diagnostiker.
+Was aus der Diagnose folgt, ist weder Sozialismus als Zustand noch gefesselter Kapitalismus. Es ist ein Eigentums-Mischsystem unter Konkurrenzbedingungen – Vergesellschaftung als Prozess statt als Bruch. Als Baumeister stehen dahinter James Madison, der die Macht auf konkurrierende Zentren verteilte, und Elinor Ostrom, die erforschte, wie Gemeinschaften geteilte Ressourcen ohne zentrale Instanz selbst verwalten; als Diagnostiker Karl Marx, der die Krisen des Kapitalismus beschrieb.
 
 Die Grundfigur besteht aus drei Sektoren, die nebeneinander bestehen und miteinander konkurrieren. Keiner soll die anderen ablösen. Das ist keine Kompromissformel, sondern die Konsequenz aus dem neunten Kapitel: Ein System, in dem nur eine Eigentumsform existiert, hat keine Vergleichsmöglichkeit, keine Ausweichoption und keine Instanz, die den Fehler des Ganzen sichtbar machen könnte. Monokulturen sind anfällig, gleichgültig aus welcher Pflanze sie bestehen.
 
 ### Der genossenschaftlich-belegschaftsgeführte Sektor
 
-Er umfasst Betriebe im Eigentum ihrer Belegschaften, die auf normalen Märkten operieren, mit normalen Kunden, normalen Wettbewerbern und normalem Insolvenzrisiko. Die harte Budgetbeschränkung bleibt unangetastet – nur die innere Verfassung ändert sich.
+Er umfasst Betriebe im Eigentum ihrer Belegschaften, die auf normalen Märkten operieren, mit normalen Kunden, normalen Wettbewerbern und normalem Insolvenzrisiko. Die harte Budgetbeschränkung bleibt unangetastet – wer sich dauerhaft verrechnet, geht pleite, anders als der Staatsbetrieb, den niemand fallen lässt; nur die innere Verfassung ändert sich.
 
 Der Kern der Änderung lässt sich in einem Satz sagen, und der Satz stammt aus der genossenschaftlichen Tradition: *Arbeit mietet Kapital, nicht umgekehrt.* In der üblichen Kapitalgesellschaft stellen Eigentümer Kapital bereit, erwerben damit die Verfügungsgewalt und stellen Arbeitskräfte ein; die Beschäftigten erhalten einen vertraglich fixierten Lohn und tragen kein Restrisiko, haben dafür aber auch kein Mitspracherecht über die Verwendung des Überschusses. In der Belegschaftsgenossenschaft ist es umgekehrt: Die Mitglieder sind die Träger des Unternehmens, sie leihen sich Kapital gegen eine vertraglich fixierte Verzinsung, und ihnen gehört, was übrigbleibt.
 
@@ -60,9 +60,9 @@ Also als Band. Nimmt man die konservativere Zahl und rechnet über ein Jahrzehnt
 
 Welche Quote realistisch ist, weiß niemand, und deshalb gehört der einzige verfügbare Erfahrungswert daneben: Das Vereinigte Königreich erreichte mit einer *vollständigen* Steuerbefreiung rund 2.470 Übertragungen in elf Jahren. Das ist der untere Anker, und er ist ernüchternd. Wer zehn Prozent unterstellt, unterstellt eine Wirkung, die deutlich über der bisher irgendwo gemessenen liegt.
 
-Die Botschaft dieser Rechnung ist eine Zumutung für jeden, der eine schnelle Transformation erwartet, und sie sei deshalb unverklausuliert gesagt. Der genossenschaftliche Sektor wird in zwei Jahrzehnten eine relevante Minderheit sein, kein Mehrheitssektor. Der private Marktsektor bleibt für eine Generation der größte Arbeitgeber des Landes. Wer das enttäuschend findet, hat den Unterschied zwischen einem Umsetzungspfad und einem Wunsch verstanden.
+Die Botschaft dieser Rechnung ist eine Zumutung für jeden, der eine schnelle Transformation erwartet, und sie sei deshalb unverklausuliert gesagt. Der genossenschaftliche Sektor wird in zwei Jahrzehnten eine relevante Minderheit sein, kein Mehrheitssektor. Der private Marktsektor bleibt für eine Generation der größte Arbeitgeber des Landes. Das mag enttäuschen; aber es ist der Unterschied zwischen einem Umsetzungspfad und einem Wunsch.
 
-Und weil eine Rechnung, deren Annahme man nicht sieht, eine Prognose mit Ausrede ist, gehört ein Messpunkt in den Umsetzungspfad: Nach drei Jahren wird die tatsächlich erreichte Quote erhoben und diese Rechnung öffentlich korrigiert. Auch nach unten.
+Und weil eine Rechnung nur trägt, wenn ihre Annahmen offenliegen, gehört ein Messpunkt in den Umsetzungspfad: Nach drei Jahren wird die tatsächlich erreichte Quote erhoben und diese Rechnung öffentlich korrigiert. Auch nach unten.
 
 ### Die Designprinzipien hinter allem
 

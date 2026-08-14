@@ -10,17 +10,17 @@ Was in den ersten beiden Stufen nicht erreicht wird, erreichen auch schärfere I
 
 Wo natürliche Monopole in Privatbesitz nachweislich Renten extrahieren und die Instrumente der Stufen eins und zwei versagen, steht Artikel 15 des Grundgesetzes als geordnete letzte Möglichkeit bereit – Überführung in Gemeineigentum durch Gesetz, gegen Entschädigung. Schon als glaubwürdige Rückfalloption diszipliniert er, ohne angewendet zu werden: Ein Eigentümer, der weiß, dass es diesen Weg gibt, verhandelt anders über einen Verkauf.
 
-Dass diese Möglichkeit am Ende steht und nicht am Anfang, ist allerdings nicht Zaghaftigkeit, sondern die Konsequenz aus dem siebzehnten Kapitel. Kauf im Nachfolgefall und Konzessionsrückfall bei Auslaufen sind schiedsfest; Vergesellschaftung ist es bis in die vierziger Jahre nur eingeschränkt, weil neben dem Grundgesetz ein Parallelrechtsweg für ausländische Eigentümer steht.
+Dass diese Möglichkeit am Ende steht und nicht am Anfang, ist allerdings nicht Zaghaftigkeit, sondern die Konsequenz aus dem siebzehnten Kapitel. Kauf im Nachfolgefall und Konzessionsrückfall bei Auslaufen sind schiedsfest – gegen sie lässt sich kein internationales Schiedsgericht anrufen; Vergesellschaftung ist es bis in die 2040er Jahre nur eingeschränkt, weil neben dem Grundgesetz ein Parallelrechtsweg für ausländische Eigentümer steht.
 
-Damit steht Stufe drei mit einem Bein außerhalb dieses Buches. Was aus dem Investitionsschutz für die Rechtspolitik folgt – Beendigung der bilateralen Abkommen mit veröffentlichtem Sunset-Kalender, keine neuen Abkommen ohne Ausnahme für die Daseinsvorsorge, Vorrang der Vertragsgestaltung –, was das Beihilfe-, Vergabe- und Binnenmarktrecht dem Pfad an Grenzen setzt, und warum die europäische Antwort keine Verteidigungs-, sondern eine Exportstrategie sein muss, ist Gegenstand des folgenden Kapitels. Es steht dort und nicht hier, weil es kein Anhängsel des Umsetzungspfades ist, sondern eine eigene Ebene mit eigenen Regeln.
+Damit steht Stufe drei mit einem Bein außerhalb dieses Buches. Was aus dem Investitionsschutz für die Rechtspolitik folgt – Beendigung der bilateralen Abkommen mit veröffentlichtem Sunset-Kalender, keine neuen Abkommen ohne Ausnahme für die Daseinsvorsorge, Vorrang der Vertragsgestaltung –, was das Beihilfe-, Vergabe- und Binnenmarktrecht dem Pfad an Grenzen setzt, und warum die europäische Antwort keine Verteidigungs-, sondern eine Exportstrategie sein muss, ist Gegenstand des folgenden Kapitels.
 
-Zur Stufe drei gehört daneben ein Vorhaben, das dieses Buch benennt und nicht ausarbeitet: die Prüfung einer zweiten Kammer aus Losgremien für Generationen- und Verfassungsfragen.
+Zur Stufe drei gehört daneben die Prüfung einer zweiten Kammer aus Losgremien für Generationen- und Verfassungsfragen.
 
 ### Falsifizierbarkeit: der Einwand, den dieses Buch sich selbst machen muss
 
 Hier ist eine Selbstanzeige fällig, weil der Einwand stimmt.
 
-Das Erfolgskriterium dieser Ordnung lautet, kein Sektor werde dekretiert, alle wüchsen oder schrumpften im Wettbewerb. Zugleich richten die Stufen eins und zwei Steuervorteile, Kreditprogramme, Beschaffungspraxis und geduldiges Kapital auf genau *einen* der drei Sektoren. Wächst dieser Sektor, ist unklar, ob er sich bewährt oder ob er subventioniert wird. Und ein politisch bevorzugter Sektor mit privilegiertem Kapitalzugang ist der Anfangszustand einer weichen Budgetbeschränkung – nach allem hier Entwickelten wäre es grotesk, das zu übersehen.
+Das Erfolgskriterium dieser Ordnung lautet, kein Sektor werde dekretiert, alle wüchsen oder schrumpften im Wettbewerb. Zugleich richten die Stufen eins und zwei Steuervorteile, Kreditprogramme, Beschaffungspraxis und geduldiges Kapital auf genau *einen* der drei Sektoren. Wächst dieser Sektor, ist unklar, ob er sich bewährt oder ob er subventioniert wird. Und ein politisch bevorzugter Sektor mit privilegiertem Kapitalzugang ist der Anfangszustand einer weichen Budgetbeschränkung – jener Lage, in der ein Betrieb nicht mehr scheitern kann, weil ein Geldgeber die Verluste deckt.
 
 Die Antwort ist nicht, auf die Instrumente zu verzichten. Ein Kapitalmarkt, der belegschaftsgeführte Übernahmen strukturell nicht finanziert, ist keine neutrale Ausgangslage, und die Beseitigung einer Marktunvollkommenheit ist keine Subvention. Aber die Grenze muss gezogen, gemessen und mit einer Entscheidungsregel versehen sein.
 
@@ -48,13 +48,13 @@ Die Erbschaftsteuerreform bringt Einnahmen in Anteilen statt in Geld. Sie belast
 
 Der Allmende-Sektor braucht kein neues Geld, sondern offene Bücher. Die 31,9 Milliarden Euro kommunales Defizit des Jahres 2025 sind ein Argument *für* Kostenvergleiche, nicht gegen sie.
 
-Was wirklich knapp ist, sind Verwaltungs- und Beratungskapazität sowie die Aufmerksamkeit einer Regierung, die gleichzeitig zwanzig andere Dinge tut. Wer diesen Pfad als billig verkauft, lügt an der falschen Stelle: **Er ist fiskalisch unspektakulär und administrativ teuer.**
+Was wirklich knapp ist, sind Verwaltungs- und Beratungskapazität sowie die Aufmerksamkeit einer Regierung, die gleichzeitig zwanzig andere Dinge tut. Wer diesen Pfad als billig verkauft, täuscht: **Er ist fiskalisch unspektakulär und administrativ teuer.**
 
 ### Wer verliert, und was er tun kann
 
-Der stärkste Einwand gegen jeden Reformpfad ist die strukturelle Macht des Kapitals: Investitionsstreik, Kapitalflucht, Kreditentzug. Die Belege sind ernst zu nehmen und stehen in diesem Buch. Chile 1973 – ein Verstaatlichungsprogramm in makroökonomisch verwundbarer Lage, das in einem Militärputsch endete. Frankreich 1983 – die Regierung Mitterrand vollzog nach drei Franc-Abwertungen und massiver Kapitalflucht im März 1983 die Abkehr von ihrem keynesianischen Expansionsprogramm; die neuere Forschung relativiert allerdings die Deutung dieses *tournant de la rigueur* als bewussten Bruch. Und der Meidner-Plan, dessen Begräbnis das zwanzigste Kapitel beschrieben hat.
+Der stärkste Einwand gegen jeden Reformpfad ist die strukturelle Macht des Kapitals: Investitionsstreik, Kapitalflucht, Kreditentzug. Die Belege sind ernst zu nehmen und stehen im fünften Kapitel. Chile 1973 – ein Verstaatlichungsprogramm in makroökonomisch verwundbarer Lage, das in einem Militärputsch endete. Frankreich 1983 – die Regierung Mitterrand vollzog nach drei Franc-Abwertungen und massiver Kapitalflucht im März 1983 die Abkehr von ihrem keynesianischen Expansionsprogramm; die neuere Forschung relativiert allerdings die Deutung dieses *tournant de la rigueur* – der Wende zur Sparpolitik – als bewussten Bruch. Und der Meidner-Plan, dessen Begräbnis das zwanzigste Kapitel beschrieben hat.
 
-Genau deshalb ist die Sequenzierung dieses Pfades taktisches Design und nicht Ängstlichkeit. Er vermeidet die frontale Enteignung, die den Investitionsstreik auslöst, und setzt dort an, wo das Kapital ohnehin abtreten will. Niemand organisiert Kapitalflucht gegen den Verkauf von Betrieben, für die es keine Erben und keine Käufer gibt. Die Nachfolgelücke ist die Stelle, an der Übernahme kein Angriff, sondern Rettung ist – die Transformation marschiert dort, wo der Gegner nicht steht.
+Genau deshalb ist die Sequenzierung dieses Pfades taktisches Design und nicht Ängstlichkeit. Er vermeidet die frontale Enteignung, die den Investitionsstreik auslöst, und setzt dort an, wo das Kapital ohnehin abtreten will. Niemand organisiert Kapitalflucht gegen den Verkauf von Betrieben, für die es keine Erben und keine Käufer gibt. Die Nachfolgelücke ist die Stelle, an der Übernahme kein Angriff, sondern Rettung ist.
 
 Verlierer gibt es dennoch, und sie sind benennbar. *Beteiligungsgesellschaften,* die Nachfolgefälle heute günstig einsammeln und mit Fremdkapital belasten. *Die Beratungsindustrie um die Doppelstiftung,* deren Geschäftsmodell der Kontroll-Lock beschneidet. *Eigentümer von Netzen und Wohnungsbeständen,* deren Renten der Konzessionsrückfall beendet. Und *Verbandsfunktionäre,* deren Einfluss auf verteilbare Programme mit deren Rückzahlbarkeit sinkt.
 
@@ -64,7 +64,7 @@ Für die Verlierer im Ausland gilt dasselbe in verschärfter Form, und die Grün
 
 ### Die Gewinnerkoalition
 
-Und nun der stärkste Umsetzbarkeitsbefund dieses Buches, der zugleich sein unpathetischster ist.
+Der wichtigste Umsetzbarkeitsbefund ist zugleich der unpathetischste.
 
 Die Gewinnerkoalition ist ungewöhnlich breit. *Verkäufer* bekommen einen Käufer und einen Steuervorteil, wo sie heute oft keinen Käufer und keinen Vorteil haben. *Belegschaften* bekommen Eigentum. *Kommunen* behalten Betriebe, Arbeitsplätze und Gewerbesteuer in der Region, statt sie an Konsolidierer zu verlieren. *Sparkassen und Genossenschaftsbanken* bekommen ein Geschäftsfeld, das ihnen sonst wegstirbt. *Landwirtschaftliche, Wohnungs- und Energiegenossenschaften* bekommen Rechtssicherheit und Zugang zu Kapital.
 
