@@ -14,7 +14,7 @@ Sie hat heute drei realistische Ausgänge. *Verkauf an einen Wettbewerber,* meis
 
 In der hier beschriebenen Ordnung gibt es einen vierten Ausgang.
 
-Die Belegschaft wird spätestens sechs Monate vor einem Verkauf informiert und erhält ein *Andienungsrecht*: Sie darf zum gleichen Preis erwerben wie ein Dritter. Die Inhaberin ist nicht gezwungen, an sie zu verkaufen – es ist kein Kontrahierungszwang, sondern ein Gleichpreisrecht mit Finanzierungsgarantie. Warum diese Konstruktion und nicht das schärfere Vorkaufsrecht, steht im neunzehnten Kapitel; die kurze Antwort ist, dass Frankreich das schärfere Instrument versucht hat und dass es verfassungsrechtlich gestutzt wurde.
+Die Belegschaft wird spätestens sechs Monate vor einem Verkauf informiert und erhält ein *Andienungsrecht*: Sie darf zum gleichen Preis erwerben wie ein Dritter. Die Inhaberin ist nicht gezwungen, an sie zu verkaufen – es ist kein Kontrahierungszwang, sondern ein Gleichpreisrecht mit Finanzierungsgarantie. Warum diese Konstruktion und nicht das schärfere Vorkaufsrecht – das die Inhaberin zum Verkauf an die Belegschaft zwingen würde –, steht im neunzehnten Kapitel; die kurze Antwort ist, dass Frankreich das schärfere Instrument versucht hat und dass es verfassungsrechtlich gestutzt wurde.
 
 Die Finanzierung besteht aus vier Teilen. *Ein Verkäuferdarlehen* über einen Teil des Kaufpreises, verzinst und aus dem Cashflow bedient – die Inhaberin bekommt ihr Geld über Jahre statt sofort, dafür einen Zins und einen Steuervorteil. *Ein langfristiger Bankkredit* der Genossenschaftsbank gegen Cashflow und Sicherheiten. *Eine stimmrechtsarme Beteiligung* mit gedeckelter Rendite und definierter Ablösung aus der Fondsfamilie. Und *die Kapitalkonten der Mitglieder*, in die über die folgenden Jahre einbehaltene Überschüsse fließen – sie tragen anfangs wenig und werden mit der Zeit die tragende Säule.
 
@@ -44,13 +44,13 @@ Der Preis dieser Konstruktion ist, dass jemand die Zahlung verantworten muss, st
 
 ### Ein Wohnungsbestand und die Wand
 
-Der dritte Fall geht nicht gut aus, und er steht in diesem Buch, weil er nicht gut ausgeht.
+Der dritte Fall geht nicht gut aus – und gerade deshalb steht er in diesem Buch.
 
 Ein Bestand von 2.000 Wohnungen, gehalten von einer börsennotierten Gesellschaft mit ausländischen Ankerinvestoren. Die Mieten liegen am oberen Rand des Zulässigen, die Instandhaltung am unteren. Die Stadt möchte den Bestand in gemeinwohlorientierte Hand bringen.
 
 *Der bevorzugte Weg ist der Kauf.* Kommunale Vorkaufsrechte, eine Wohnungsgenossenschaft als Erwerberin – in der die Mieter Mitglieder werden, also Eigentümer statt Kunden –, geduldiges Kapital aus der Fondsfamilie, und eine Bindung des Bestands durch Vermögensbindung, damit der Weiterverkauf ausgeschlossen ist. Das ist unspektakulär, teuer und in vielen Fällen machbar.
 
-*Der zweite Weg,* wenn der erste versperrt ist und nachweislich Renten extrahiert werden, ist Artikel 15 des Grundgesetzes. Diese Norm erlaubt, Grund und Boden, Naturschätze und Produktionsmittel „zum Zwecke der Vergesellschaftung" durch Gesetz in Gemeineigentum oder andere Formen der Gemeinwirtschaft zu überführen, gegen Entschädigung, deren Höhe nach Artikel 14 Absatz 3 einer Abwägung zwischen den Interessen der Allgemeinheit und der Beteiligten unterliegt. Die Norm steht seit 1949 im Grundgesetz und wurde nie angewendet. Die Berliner Expertenkommission zur Vergesellschaftung großer Wohnungsunternehmen hielt in ihrem Abschlussbericht vom 28. Juni 2023 mehrheitlich eine verfassungskonforme Ausgestaltung für möglich und die Landesgesetzgebungskompetenz für gegeben; strittig blieb und Gegenstand der Sondervoten war gerade die Frage, ob die Entschädigung unterhalb des Verkehrswerts liegen darf.
+*Der zweite Weg,* wenn der erste versperrt ist und nachweislich Renten extrahiert werden – leistungslose Übergewinne aus der Marktstellung –, ist Artikel 15 des Grundgesetzes. Diese Norm erlaubt, Grund und Boden, Naturschätze und Produktionsmittel „zum Zwecke der Vergesellschaftung" durch Gesetz in Gemeineigentum oder andere Formen der Gemeinwirtschaft zu überführen, gegen Entschädigung, deren Höhe nach Artikel 14 Absatz 3 einer Abwägung zwischen den Interessen der Allgemeinheit und der Beteiligten unterliegt. Die Norm steht seit 1949 im Grundgesetz und wurde nie angewendet. Die Berliner Expertenkommission zur Vergesellschaftung großer Wohnungsunternehmen hielt in ihrem Abschlussbericht vom 28. Juni 2023 mehrheitlich eine verfassungskonforme Ausgestaltung für möglich und die Landesgesetzgebungskompetenz für gegeben; strittig blieb und Gegenstand der Sondervoten war gerade die Frage, ob die Entschädigung unterhalb des Verkehrswerts liegen darf.
 
 Und hier stößt der Werktag an eine Wand, die kein Ordnungsentwurf umgehen kann.
 
@@ -64,7 +64,7 @@ Das ist keine Widerlegung dieser Ordnung. Es ist eine Bestätigung ihres achten 
 
 Daraus folgt eine Reihenfolge der Instrumente, und über sie entscheidet nicht die Entschlossenheit einer Regierung, sondern die Frage, welches Instrument ein Schiedsverfahren übersteht: **Kauf im Nachfolgefall und Konzessionsrückfall bei Auslaufen sind schiedsfest. Vergesellschaftung ist es nicht.**
 
-Wer trotzdem vergesellschaften will, sollte den Preis kennen, ihn ausrechnen und die Entscheidung dann treffen. Was er nicht tun sollte, ist, die Wand zu übersehen und sich anschließend über die Rechnung zu wundern.
+Wer trotzdem vergesellschaften will, sollte den Preis kennen, ihn ausrechnen und die Entscheidung dann treffen.
 
 ---
 

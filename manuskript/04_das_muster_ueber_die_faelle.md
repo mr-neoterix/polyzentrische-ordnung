@@ -76,7 +76,7 @@ Der Preis des ersten Fehlens ist besichtigt. Im Januar 2017 räumte der Gouverne
 
 Der Preis des zweiten und dritten Fehlens zeigt sich langsamer. Die Forschung dokumentiert für die Ära unter Xi Jinping nicht das Ende des lokalen Experimentierens, aber seine Drosselung und Deformation: Experimente finden weiter statt, nun unter Druck und mit ausgeprägter Risikoaversion. Wo die Zentrale das „Design von oben" betont und eine Antikorruptionskampagne jeden Fehlschlag zum Karriererisiko macht, experimentiert niemand mehr ergebnisoffen. Man führt Modellversuche durch, deren Ergebnis vorher feststeht.
 
-Das ist die Lehre des chinesischen Falls, und sie ist für dieses Buch die wichtigste des ganzen Kapitels: Halbe Polyzentrik in monozentrischer Hülle ist nicht stabil. Sie kann jahrzehntelang spektakulär funktionieren, weil die dezentralen Elemente Leistung erzeugen und die zentrale Klammer sie bündelt. Aber die Hülle hat keinen Gegner. Sie kann sich jederzeit die dezentralen Elemente wieder einverleiben, und irgendwann tut sie es, weil sie es kann.
+Das ist die Lehre des chinesischen Falls, und sie ist für dieses Buch die wichtigste des ganzen Kapitels: Halbe Polyzentrik – viele konkurrierende Machtzentren statt eines – in monozentrischer Hülle ist nicht stabil. Sie kann jahrzehntelang spektakulär funktionieren, weil die dezentralen Elemente Leistung erzeugen und die zentrale Klammer sie bündelt. Aber die Hülle hat keinen Gegner. Sie kann sich jederzeit die dezentralen Elemente wieder einverleiben, und irgendwann tut sie es, weil sie es kann.
 
 Die Hülle frisst den Kern.
 

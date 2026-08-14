@@ -18,11 +18,11 @@ Hinzu kommt eine dritte, umstrittene Größe. Der französische Ökonom Thomas P
 
 **Die Übersetzung von Geld in politische Macht.** Der zweite tragende Teil der marxschen Diagnose ist die Behauptung, ökonomische Macht setze sich in politische um. Auch das ist messbar geworden. Die Politikwissenschaftler Martin Gilens und Benjamin Page haben 2014 eine Untersuchung vorgelegt, in der sie 1.779 amerikanische Politikentscheidungen aus den Jahren 1981 bis 2002 auswerteten und prüften, wessen Präferenzen sich in den Ergebnissen wiederfinden. Ihr Befund: Ökonomische Eliten und organisierte Wirtschaftsinteressen haben substanziellen unabhängigen Einfluss auf politische Ergebnisse; Durchschnittsbürger haben nahezu keinen. Es hat 2015 und 2016 eine methodische Replikationsdebatte gegeben, und sie ist ernst zu nehmen; am Kern des Befundes hat sie nichts geändert.
 
-Wer diese beiden Punkte bestreitet, argumentiert gegen die Datenlage. Marx' Diagnose steht.
+Marx' Diagnose steht.
 
 ### Was fällt
 
-Und nun die Therapie. Sie lautet, verkürzt aber nicht unfair: Die Vergesellschaftung der Produktionsmittel im Staat beendet die Klassenherrschaft, weil sie ihre materielle Grundlage beseitigt.
+Und nun die Therapie. Sie lautet, verkürzt aber nicht unfair: Die Vergesellschaftung der Produktionsmittel im Staat – die Überführung von Fabriken, Boden und Kapital in Gemein- beziehungsweise Staatseigentum – beendet die Klassenherrschaft, weil sie ihre materielle Grundlage beseitigt.
 
 Die Prüfung dieser Therapie ist der Inhalt der Kapitel zwei bis fünf, und ihr Ergebnis lässt sich in einem Satz sagen: *Sie maximiert das diagnostizierte Problem, statt es zu lösen.* Wenn das Problem darin besteht, dass ökonomische Macht sich in politische übersetzt, dann ist die Vereinigung beider in einer Hand nicht die Lösung, sondern die Vollendung. Der Übersetzungsvorgang wird nicht unterbrochen, sondern abgeschafft, weil es nichts mehr zu übersetzen gibt: Es ist bereits dasselbe.
 
@@ -36,11 +36,9 @@ Denn wenn Marx' Diagnose stimmt und seine Therapie nicht, dann steht die Frage i
 
 Sie ist es. Das ist der entscheidende Punkt, an dem dieses Buch vom Marxismus abweicht: Die Übersetzungsrate ist eine *institutionelle Variable*, keine Naturkonstante. Sie hängt davon ab, wie Parteien finanziert werden, wie Medien besessen werden, wie Lobbyismus geregelt ist, wie Gerichte bestellt werden, wie stark Gewerkschaften sind, wie transparent Verwaltungen arbeiten. Diese Größen sind gestaltbar, sie waren historisch verschieden, und sie sind heute zwischen Ländern verschieden.
 
-Der Gegenbeleg gegen den Fatalismus ist der Zeitraum zwischen etwa 1930 und 1980. In diesen fünf Jahrzehnten sank die Einkommens- und Vermögensungleichheit in den westlichen Industrieländern deutlich – nicht weil das Kapital seine Natur geändert hätte, sondern weil progressive Besteuerung, Gewerkschaftsmacht, Sozialversicherung, Kartellrecht und Bildungsexpansion die Übersetzungsrate senkten. Der Begriff, der dafür kursiert, ist die „große Kompression", und an dieser Stelle ist eine Präzisierung fällig, weil das Buch sonst gegen seine eigenen Regeln verstieße: Claudia Goldin und Robert Margo haben den Begriff 1992 geprägt, und sie bezeichnen damit präzise die starke Kompression der *amerikanischen Lohnstruktur in den vierziger Jahren*. Die weiter gefasste Verwendung für den Zeitraum 1930 bis 1980 ist Rezeptionsgebrauch, nicht die Originaldefinition. Der Befund einer langen Kompressionsphase ist unabhängig davon gut belegt; nur das Etikett gehört richtig zugeordnet.
+Der Gegenbeleg gegen den Fatalismus ist der Zeitraum zwischen etwa 1930 und 1980. In diesen fünf Jahrzehnten sank die Einkommens- und Vermögensungleichheit in den westlichen Industrieländern deutlich – nicht weil das Kapital seine Natur geändert hätte, sondern weil progressive Besteuerung, Gewerkschaftsmacht, Sozialversicherung, Kartellrecht und Bildungsexpansion die Übersetzungsrate senkten. Der Begriff, der dafür kursiert, ist die „große Kompression", und an dieser Stelle ist eine Präzisierung fällig: Claudia Goldin und Robert Margo haben den Begriff 1992 geprägt, und sie bezeichnen damit präzise die starke Kompression der *amerikanischen Lohnstruktur in den vierziger Jahren*. Die weiter gefasste Verwendung für den Zeitraum 1930 bis 1980 ist Rezeptionsgebrauch, nicht die Originaldefinition. Der Befund einer langen Kompressionsphase ist unabhängig davon gut belegt; nur das Etikett gehört richtig zugeordnet.
 
-Was folgt daraus? Die Konzentrationstendenz ist real, aber nicht schicksalhaft. Sie war schon einmal für ein halbes Jahrhundert gebremst. Das ist die gute Nachricht.
-
-Die schlechte steht im nächsten Absatz.
+Was folgt daraus? Die Konzentrationstendenz ist real, aber nicht schicksalhaft. Sie war schon einmal für ein halbes Jahrhundert gebremst. Sie hat sich danach dennoch fortgesetzt.
 
 ### Warum die Kompression nicht hielt
 
@@ -56,7 +54,7 @@ Ist dieser Verfall unumkehrbar? Nein. Die Kompressionsphase beweist das Gegentei
 
 Zum Schluss eine Notiz, die im dreiundzwanzigsten Kapitel ausgeführt wird und hier nur angekündigt sei, weil sie für den Aufbau des Buches wichtig ist.
 
-Der Streit über Genossenschaften und Belegschaftseigentum wird meist als Streit mit Marx geführt. Er ist es nicht. Marx hat die Genossenschaftsbewegung emphatisch verteidigt: In der Inauguraladresse der Internationalen Arbeiter-Assoziation von 1864 pries er die Kooperativfabriken als Beweis, dass Produktion in großem Maßstab möglich ist ohne „die Existenz einer Klasse von Meistern, die eine Klasse von ‚Händen' anwendet", und forderte, die Kooperativarbeit über vereinzelte Experimente hinaus zu nationalen Dimensionen zu entwickeln.
+Der Streit über Genossenschaften und Belegschaftseigentum wird meist als Streit mit Marx geführt. Er ist es nicht. Marx hat die Genossenschaftsbewegung emphatisch verteidigt: In der Inauguraladresse der Internationalen Arbeiter-Assoziation von 1864 – der Eröffnungsrede der ersten internationalen Arbeiterorganisation, der Ersten Internationale – pries er die Kooperativfabriken als Beweis, dass Produktion in großem Maßstab möglich ist ohne „die Existenz einer Klasse von Meistern, die eine Klasse von ‚Händen' anwendet", und forderte, die Kooperativarbeit über vereinzelte Experimente hinaus zu nationalen Dimensionen zu entwickeln.
 
 Er hat auch das Gegenteil geschrieben, elf Jahre später, und die Spannung zwischen beiden Stellen wird dieses Buch nicht auflösen, sondern ausweisen. Denn wer sich die passende Stelle aussucht, ohne die andere zu zeigen, argumentiert nicht, sondern zitiert.
 

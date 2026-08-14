@@ -6,9 +6,9 @@
 
 Eine Eigentumsordnung ohne politische Architektur ist ein Motor ohne Fahrgestell. Die Sektoren des zehnten bis fünfzehnten Kapitels setzen etwas voraus: Gerichte, die auch gegen Mehrheiten entscheiden; Medien, die Verfehlungen sichtbar machen; Daten, die niemand unterdrücken kann; und Verfahren, in denen Konflikt ausgetragen statt wegverwaltet wird.
 
-Dieses Kapitel beschreibt sie – und deflationiert dabei zwei Versprechen, die in der Debatte über Demokratieerneuerung regelmäßig zu groß ausfallen.
+Dieses Kapitel beschreibt sie – und bringt dabei zwei Versprechen auf ihr wahres Maß, die in der Debatte über Demokratieerneuerung regelmäßig zu groß ausfallen.
 
-Vorher aber eine Frage an das eigene Verfahren, denn dieses Buch hat sie lange nur halb gestellt. Es hegt wirtschaftliche Macht *direkt* ein, durch verteiltes Eigentum. Politische Macht hegt es bisher nur *mittelbar* ein, über die Übersetzungsrate von Geld in Einfluss. Lässt sich die zweite ebenso direkt einhegen wie die erste?
+Vorweg aber eine Frage an das eigene Verfahren. Dieses Buch hegt wirtschaftliche Macht *direkt* ein, durch verteiltes Eigentum; politische Macht bisher nur *mittelbar*, über die Rate, mit der sich Geld in Einfluss übersetzt. Lässt sich die zweite ebenso direkt einhegen wie die erste?
 
 ### Was an die Stelle des Eigentums tritt
 
@@ -22,9 +22,9 @@ Ein Vorbehalt gehört sofort dazu, weil er das ganze Kapitel begrenzt und am End
 
 ### Die Grundelemente
 
-*Radikale Subsidiarität mit verschachtelten Ebenen.* Entscheidungen fallen auf der kleinsten Ebene, die sie tragen kann; höhere Ebenen bekommen nur, was tiefere nicht leisten können. Das ist Ostroms Prinzip verschachtelter Einheiten, angewandt auf den Staat, und es ist in Deutschland als Föderalismus und kommunale Selbstverwaltung bereits vorhanden – wenn auch mit einer starken Zentralisierungstendenz, die aus derselben Logik stammt wie überall: Wer oben sitzt, hält Vereinheitlichung für Effizienz. Warum dieses Prinzip mehr ist als eine Vorliebe für Nähe, steht gleich im Anschluss.
+*Radikale Subsidiarität mit verschachtelten Ebenen.* Entscheidungen fallen auf der kleinsten Ebene, die sie tragen kann; höhere Ebenen bekommen nur, was tiefere nicht leisten können. Das ist Ostroms Prinzip verschachtelter Einheiten, angewandt auf den Staat, und es ist in Deutschland als Föderalismus und kommunale Selbstverwaltung bereits vorhanden – wenn auch mit einer starken Zentralisierungstendenz, die aus derselben Logik stammt wie überall: Wer oben sitzt, hält Vereinheitlichung für Effizienz.
 
-*Unantastbare Grundrechte und unabhängige Gerichte.* Sie schützen die Überstimmten, und zwar gerade gegen Mehrheiten. Dieses Buch schlägt eine Ordnung vor, in der viele Entscheidungen kollektiv fallen – in Mitgliederversammlungen, kommunalen Gremien, gelosten Räten. Genau deshalb braucht es eine Instanz, die sagt: Das dürft ihr nicht, auch nicht einstimmig. Wer Wirtschaftsdemokratie will und den Grundrechtsschutz für zweitrangig hält, hat Kapitel sieben nicht gelesen.
+*Unantastbare Grundrechte und unabhängige Gerichte.* Sie schützen die Überstimmten, und zwar gerade gegen Mehrheiten. Dieses Buch schlägt eine Ordnung vor, in der viele Entscheidungen kollektiv fallen – in Mitgliederversammlungen, kommunalen Gremien, gelosten Räten. Genau deshalb braucht es eine Instanz, die sagt: Das dürft ihr nicht, auch nicht einstimmig. Eine Wirtschaftsdemokratie, die den Grundrechtsschutz für zweitrangig hielte, geriete in genau den Widerspruch, den das siebte Kapitel aufgezeigt hat.
 
 *Pluralisierte Medien mit wirksamem Konzentrationsrecht.* Wenn die Sektoren miteinander konkurrieren sollen, konkurrieren sie zuerst um Aufmerksamkeit und Deutungen. Ein Medienmarkt in wenigen Händen entscheidet diesen Wettbewerb, bevor er beginnt.
 
@@ -42,13 +42,13 @@ Als Konstruktionsregel: Entscheidungen fallen so weit unten, wie der nachgewiese
 
 Und daraus folgt eine Verfahrensregel, die in keinem deutschen Kommunalrecht steht und die den praktischen Unterschied macht: **die Umkehr der Beweislast.** Nicht die kleinere Einheit muss begründen, warum sie zuständig sein soll, sondern die größere, warum sie es sein muss – öffentlich, im Einzelfall, unter Angabe, welcher Mechanismus auf der unteren Ebene versagt hat und woran man das erkennt.
 
-Das ist mehr als eine Formulierung. Zentralisierung geschieht fast nie durch Beschluss. Sie geschieht durch Zuständigkeitsverschiebung im Einzelfall, jede für sich plausibel begründet, jede für sich zu klein für öffentliche Aufmerksamkeit – dieselbe Mechanik, mit der Regeln rosten, nur in die andere Richtung. Eine Beweislastregel greift genau dort an: Sie macht aus tausend unauffälligen Verschiebungen tausend begründungspflichtige Vorgänge. Sie verhindert die Zentralisierung nicht, aber sie verteuert sie und macht sie sichtbar, und mehr kann eine Verfahrensregel nicht.
+Zentralisierung geschieht fast nie durch Beschluss. Sie geschieht durch Zuständigkeitsverschiebung im Einzelfall, jede für sich plausibel begründet, jede für sich zu klein für öffentliche Aufmerksamkeit – dieselbe Mechanik, mit der Regeln rosten, nur in die andere Richtung. Eine Beweislastregel greift genau dort an: Sie macht aus tausend unauffälligen Verschiebungen tausend begründungspflichtige Vorgänge. Sie verhindert die Zentralisierung nicht, aber sie verteuert sie und macht sie sichtbar, und mehr kann eine Verfahrensregel nicht.
 
 Zwei Grenzen gehören dazu. Die Regel sagt nicht, wo im Einzelfall die Grenze des Tragfähigen liegt; das bleibt eine Abwägung, sie ist nur nicht mehr voraussetzungslos. Und sie gilt nicht nach oben ohne Ende: Das zweiundzwanzigste Kapitel zeigt, dass Polyzentrik ohne gemeinsamen Rechtsraum keine Einhegung erzeugt, sondern Krieg. Subsidiarität ist ein Prinzip innerhalb einer Rechtsordnung, nicht ein Argument gegen sie.
 
 ### Warum die Gemeinde funktioniert – und woran sie scheitert
 
-Es liegt nahe, aus dem Skalenargument zu schließen, die kommunale Ebene funktioniere, *weil* sie klein ist, und sie sei deshalb das Vorbild für alles Höhere. Der Schluss ist falsch, und der Grund seines Scheiterns ist die brauchbarste Einsicht dieses Kapitels.
+Es liegt nahe, aus dem Skalenargument zu schließen, die kommunale Ebene funktioniere, *weil* sie klein ist, und sie sei deshalb das Vorbild für alles Höhere. Der Schluss ist falsch, und warum er falsch ist, führt zur eigentlichen Konstruktionsregel dieses Kapitels.
 
 Er ist falsch, weil eine deutsche Stadt mit sechzigtausend Einwohnern keine Bewässerungsgemeinschaft mit dreihundert Nutzern ist. Die Mechanismen, die staatenlose Ordnungen trugen – Reputation, Ächtung, wechselseitige Beobachtung –, setzen voraus, dass jeder jeden kennt, und diese Voraussetzung ist auf der untersten Ebene eines Industriestaats längst nicht mehr erfüllt. Wer trotzdem behauptet, das Kommunale funktioniere wegen seiner Nähe, hat eine Sympathie beschrieben und keinen Mechanismus.
 
@@ -68,7 +68,7 @@ Der Preis dieser Konstellation ist bezifferbar und wird nicht in Insolvenzen sic
 
 Und ein Drittes gehört dazu, weil es das Bild vervollständigt: Ein erheblicher Teil dessen, was unten reibungslos läuft, läuft reibungslos, weil dort wenig entschieden wird. Die großen Posten kommunaler Haushalte sind anderswo beschlossene Sozialleistungen; die Selbstverwaltung erschöpft sich dann in der Frage, welches Schwimmbad geschlossen wird. Für die Einnahmenseite lässt sich das an einer nie benutzten Ermächtigung ablesen: Artikel 106 Absatz 5 Satz 3 des Grundgesetzes erlaubt es dem Bundesgesetzgeber, den Gemeinden einen eigenen Hebesatz auf ihren Anteil an der Einkommensteuer zu geben. Davon ist bis heute kein Gebrauch gemacht worden.
 
-*Zuspitzung:* Die Gemeinde hat einen Gerichtsstand und kein Preisschild.
+Die Gemeinde hat einen Gerichtsstand und kein Preisschild.
 
 ### Die Beweislastumkehr braucht einen Kläger und eine Folge
 
@@ -92,7 +92,7 @@ Dass so etwas möglich ist, zeigt ein Fall, den man nicht als Vorbild empfehlen 
 
 Und der Preis: Es wurden Renten gekürzt, und die Selbstverwaltung war zeitweise durch einen eingesetzten Notverwalter ersetzt. Der sogenannte Grand Bargain, mit dem Stiftungen, Spender und der Bundesstaat 816 Millionen Dollar aufbrachten, um die Rentenkürzungen abzumildern, war eine Rettung *außerhalb* des Verfahrens – also genau das, was ein gutes Verfahren nicht nötig haben dürfte. Beides ist der Grund für die zweite und dritte Bestimmung oben.
 
-*Zuspitzung:* Die Gemeinde darf nicht sterben. Ihre Gläubiger schon.
+Die Gemeinde darf nicht sterben. Ihre Gläubiger schon.
 
 ### Keine bindende Kompetenz ohne abwählbaren Träger
 
@@ -100,7 +100,7 @@ Bleibt die Sterblichkeit der Leitung, und für sie gibt es eine alte Formulierun
 
 Daraus folgt eine Konstruktionsregel, die kürzer ist als ihre Begründung. **Jede Ebene, die verbindlich entscheidet, muss eine Instanz haben, die sich von den Gebundenen ohne Gewalt entfernen lässt.**
 
-Nun gibt es gute Gründe, an manchen Stellen darauf zu verzichten – Gerichte, Zentralbanken, Rechnungshöfe, Prüfstellen und die Datenstelle des zwölften Kapitels sollen gerade nicht abwählbar sein, weil ihr Wert an ihrer Unabhängigkeit hängt. Für sie gilt deshalb die Ausweichregel, und sie ist die eigentliche Konstruktion: **Wer nicht abgewählt werden kann, darf Regeln anwenden, aber nicht setzen.** Unabhängigkeit ist der Preis für die Bindung an fremdes Recht. Wer Recht setzt, muss abwählbar sein; wer unabwählbar ist, wendet an, was andere gesetzt haben.
+Nun gibt es gute Gründe, an manchen Stellen darauf zu verzichten – Gerichte, Zentralbanken, Rechnungshöfe, Prüfstellen und die Datenstelle des zwölften Kapitels sollen gerade nicht abwählbar sein, weil ihr Wert an ihrer Unabhängigkeit hängt. Für sie gilt deshalb die Ausweichregel, und sie ist die eigentliche Konstruktion: **Wer nicht abgewählt werden kann, darf Regeln anwenden, aber nicht setzen.** Unabhängigkeit ist der Preis für die Bindung an fremdes Recht.
 
 Das ist eine Regel mit Verfallsdatum an einer bekannten Stelle, und sie gehört genannt: Unkonventionelle Geldpolitik und Rechtsfortbildung sind Regelsetzung im Gewand der Anwendung. Wo genau die Grenze läuft, entscheidet dieses Buch nicht; der Eintrag steht im Ledger.
 
@@ -112,7 +112,7 @@ Das ist kein Argument gegen die Union, sondern eines für eine Reihenfolge: Entw
 
 Und nun zu dem Element, über das leicht zu viel behauptet wird.
 
-Geloste Bürgerräte sind Gremien, deren Mitglieder nicht gewählt, sondern nach dem Zufallsprinzip aus der Bevölkerung gezogen werden – meist geschichtet nach Alter, Geschlecht, Bildung und Wohnort, damit das Gremium der Gesellschaft ähnelt. Sie beraten über eine Frage, hören Sachverständige, diskutieren moderiert und geben eine Empfehlung ab. Das Instrument ist international erprobt: Die irische Citizens' Assembly arbeitet seit 2016 und leistete unter anderem die Vorarbeit zum Abtreibungsreferendum von 2018; die Deutschsprachige Gemeinschaft Belgiens hat 2019 per Dekret einen permanenten Bürgerdialog eingerichtet; die OECD hat die „deliberative Welle" mit fast dreihundert Fallstudien dokumentiert. In Deutschland setzte der Bundestag im Mai 2023 erstmals offiziell einen Bürgerrat ein – 160 geloste Bürgerinnen und Bürger zum Thema Ernährung –, der im Februar 2024 neun Empfehlungen übergab.
+Geloste Bürgerräte sind Gremien, deren Mitglieder nicht gewählt, sondern nach dem Zufallsprinzip aus der Bevölkerung gezogen werden – meist geschichtet nach Alter, Geschlecht, Bildung und Wohnort, damit das Gremium der Gesellschaft ähnelt. Sie beraten über eine Frage, hören Sachverständige, diskutieren moderiert und geben eine Empfehlung ab. Das Instrument ist international erprobt: Die irische Citizens' Assembly arbeitet seit 2016 und leistete unter anderem die Vorarbeit zum Abtreibungsreferendum von 2018; die Deutschsprachige Gemeinschaft Belgiens hat 2019 per Dekret einen permanenten Bürgerdialog eingerichtet; die OECD hat diese weltweite Ausbreitung beratender Bürgergremien – die „deliberative Welle" – mit fast dreihundert Fallstudien dokumentiert. In Deutschland setzte der Bundestag im Mai 2023 erstmals offiziell einen Bürgerrat ein – 160 geloste Bürgerinnen und Bürger zum Thema Ernährung –, der im Februar 2024 neun Empfehlungen übergab.
 
 In der Debatte kursiert über solche Gremien die Behauptung, sie seien „unkooptierbar", weil ein Parteiapparat sie nicht durchdringen könne. Das stimmt – für die *Mitglieder*, und nur für sie. Man kann keine Karriere in einem Gremium machen, in dem man durch Los sitzt und nach vier Monaten wieder geht.
 
@@ -146,7 +146,7 @@ Als Bauteil: klare Frage, vorab bestimmte Mehrheitsschwelle, beiderseitige Verha
 
 Der Einwand dagegen ist von beiden Flanken derselbe und ernst: Ein ausgeschriebenes Trennungsverfahren lade zur Trennung ein und belohne die Erpressung durch reiche Regionen. Die Antwort ist nur zur Hälfte gut – ein Verfahren mit hohen Klarheitsanforderungen und beidseitiger Verhandlungspflicht ist teurer als eine Drohung und billiger als ein Bruch. Ob das im Einzelfall stimmt, weiß niemand; Kanada ist ein Fall und kein Beleg. Warum diese Konstruktion trotzdem festgehalten wird, zeigt das zweiundzwanzigste Kapitel, wo sie als einziges vorhandenes Muster für das fehlende vierte Bauteil der internationalen Ebene wiederkehrt.
 
-*Zuspitzung:* Wo es kein Verfahren für die Trennung gibt, gibt es trotzdem eines.
+Wo es kein Verfahren für die Trennung gibt, gibt es trotzdem eines.
 
 ### Exit, und warum er nach zwei Seiten schneidet
 
@@ -166,7 +166,7 @@ Für den Wettbewerb zwischen Kommunen und Trägerschaften, auf den diese Ordnung
 
 *Zweitens: starke Voice-Kanäle.* Bleiben muss eine Option mit Wirkung sein. Operationalisiert heißt das: Bevor eine Kommune oder ein Träger einem Vergleich mit Folgen unterworfen wird, müssen Antragsrecht, Datenzugang und Begründungszwang dort tatsächlich eingerichtet sein.
 
-Der Satz, der beides zusammenfasst: Wettbewerb zwischen Ungleichen misst die Ungleichheit.
+Wettbewerb zwischen Ungleichen misst die Ungleichheit.
 
 ### Die zweite Form des Exits
 
@@ -178,17 +178,17 @@ Die Bausteine dafür sind vorhanden und heißen Zweckverband, Wasser- und Bodenv
 
 Und die Grenze ist scharf und muss es sein, weil funktionaler Exit die Umverteilung zerstört: Zuerst geht, wer am meisten einzahlt und am wenigsten braucht. Also gilt er **nur für Aufgaben mit messbarem Ergebnis und ohne Umverteilungskern.** Netze, Entsorgung, Verkehr, Beschaffung, Trägerschaften ja; Grundsicherung, Sozialleistungen und Gesundheitsversorgung nein – deren Träger bleibt territorial und exit-fest. Das ist dieselbe Reihenfolge wie oben, nur an der Aufgabe statt am Gebiet angesetzt: Ausgleich vor Wettbewerb.
 
-*Zuspitzung:* Wettbewerb um die Aufgabe, nicht um den Einwohner.
+Wettbewerb um die Aufgabe, nicht um den Einwohner.
 
 ### Was sich davon in Stufen bauen lässt
 
-Der Umsetzungspfad des fünften Teils gilt für die Eigentumsordnung. Für die politische Architektur läuft ein zweiter, kleinerer Pfad daneben, und er ist an denselben sechs Tests zu messen.
+Der Umsetzungspfad des fünften Teils gilt für die Eigentumsordnung. Für die politische Architektur läuft ein zweiter, kleinerer Pfad daneben, und er ist an denselben sechs Umsetzbarkeitstests zu messen, die der fünfte Teil an jeden Vorschlag anlegt.
 
-*Ohne Verfassungsänderung, teils ohne Gesetz.* Eine Subsidiaritätsbegründung als Pflichtbestandteil jedes Gesetzentwurfs, die angibt, welche Ebene die Aufgabe heute wahrnimmt, welcher Mechanismus dort versagt hat und woran man das erkennt – eine Zeile in der Geschäftsordnung der Bundesregierung. Der veröffentlichte kommunale Vergleich, gebaut wie die Datenstelle des zwölften Kapitels, mit eigenem Erhebungsrecht statt Meldepflicht. Der geregelte Austritt aus Zweckverbänden. Und die Losgremien mit Begründungszwang, wie oben beschrieben. Dem Belastungstest hält davon wenig stand: Eine Begründungspflicht ohne Kläger fällt, sobald eine Regierung sie streicht. Sie ist Vorbereitung, keine Struktur, und so gehört sie geführt.
+*Ohne Verfassungsänderung, teils ohne Gesetz.* Eine Subsidiaritätsbegründung als Pflichtbestandteil jedes Gesetzentwurfs, die angibt, welche Ebene die Aufgabe heute wahrnimmt, welcher Mechanismus dort versagt hat und woran man das erkennt – eine Zeile in der Geschäftsordnung der Bundesregierung. Der veröffentlichte kommunale Vergleich, gebaut wie die Datenstelle des zwölften Kapitels, mit eigenem Erhebungsrecht statt Meldepflicht. Der geregelte Austritt aus Zweckverbänden. Und die Losgremien mit Begründungszwang, wie oben beschrieben. Dem Belastungstest – was bliebe von einem Bauteil, wenn Förderung eingestellt, das Gesetz geändert und die Verwaltung umgebaut würde? – hält davon wenig stand: Eine Begründungspflicht ohne Kläger fällt, sobald eine Regierung sie streicht. Sie ist Vorbereitung, keine Struktur.
 
 *Mit einfachen Gesetzen, und hier liegt das Zeitfenster.* Die Kopplung von Entschuldung und Insolvenzfähigkeit ist der eine Moment, in dem sich eine harte Budgetbeschränkung einführen lässt, ohne rückwirkend jemanden zu treffen: **Wer einmal entschuldet, kann die Bedingung stellen.** Dazu die strikte Konnexität mit Klagerecht in allen Landesverfassungen – wer bestellt, bezahlt – und das Ausfüllen des Hebesatzrechts, wofür ein einfaches Bundesgesetz genügt. Der Föderalismustest ist hier die schwierigste Stelle: Bundesrecht für das Verfahren, Landesrecht für die Aufsicht, die Länder tragen die Entschuldungshälfte, der Bundesrat muss zustimmen. Der Widerstand kommt von den Gläubigern und den Kämmerern zugleich, und er ist berechtigt: Kommunalkredite werden teurer. Das ist die Wirkung, nicht die Nebenwirkung, und sie ist gegen den heutigen Investitionsrückstand zu rechnen und nicht gegen null.
 
-*Mit Verfassungsänderung* wären es drei: eine Ablauffrist für neu in Anspruch genommene Bundeszuständigkeiten, die Verhandlungspflicht in Artikel 29 und der Verfassungsrang der kommunalen Mindestausstattung. Der Mehrheitstest fällt hier negativ aus, und das gehört gesagt statt umschrieben.
+*Mit Verfassungsänderung* wären es drei: eine Ablauffrist für neu in Anspruch genommene Bundeszuständigkeiten, die Verhandlungspflicht in Artikel 29 und der Verfassungsrang der kommunalen Mindestausstattung. Der Mehrheitstest fällt hier negativ aus.
 
 Bemerkenswert ist die Reihenfolge: Der schwerste Schritt dieses Pfades ist nicht die Verfassungsänderung, sondern das einfache Gesetz, das jemanden Geld kosten kann.
 
@@ -202,11 +202,11 @@ Die einzige Antwort, die nicht auf Gesinnung setzt, lautet: die Reparaturfähigk
 
 Eine Ordnung, deren Fortbestand von der Überzeugung ihrer Verwalter abhängt, hat aus der Diagnose nichts gelernt.
 
-Und damit steht der Einwand gegen dieses Kapitel selbst da, der schwerste, weshalb er hierher gehört und nicht ins Ledger allein. Ein Klagerecht ist selbst eine Regel. Man kann es abschaffen, verkürzen, mit Fristen und Zulässigkeitshürden aushöhlen – das zweiundzwanzigste Kapitel führt den Beweis an einem europäischen Beispiel vor, an dem eine Rechtsordnung genau das über Jahrzehnte getan hat, ohne je einen Beschluss darüber zu fassen. Der Unterschied zwischen einem Klagerecht und einem Eigentumsrecht ist also gradueller Art und nicht kategorialer.
+Und damit steht der schwerste Einwand gegen dieses Kapitel da – einer, der sich gegen seine eigene Konstruktion richtet: Ein Klagerecht ist selbst eine Regel. Man kann es abschaffen, verkürzen, mit Fristen und Zulässigkeitshürden aushöhlen – das zweiundzwanzigste Kapitel führt den Beweis an einem europäischen Beispiel vor, an dem eine Rechtsordnung genau das über Jahrzehnte getan hat, ohne je einen Beschluss darüber zu fassen. Der Unterschied zwischen einem Klagerecht und einem Eigentumsrecht ist also gradueller Art und nicht kategorialer.
 
 Die Antwort darauf ist die von eben, und sie ist der ganze Vorsprung: Eine Regel mit Kläger stirbt durch sichtbaren Beschluss, eine Regel ohne Kläger durch Unterlassen. Er ist real, und er ist kleiner, als die Analogie zum Eigentum nahelegt.
 
-Deshalb noch einmal der Satz vom Anfang dieses Kapitels, jetzt als Ergebnis: **Die politische Ebene lässt sich nicht eigentumssichern. Sie lässt sich anspruchssichern – dieselbe Zwischenstufe wie der Allmende-Sektor, und aus demselben Grund: Es gibt niemanden, dem sie gehört.**
+Damit steht als Ergebnis, was am Anfang dieses Kapitels als Frage stand: **Die politische Ebene lässt sich nicht eigentumssichern. Sie lässt sich anspruchssichern – dieselbe Zwischenstufe wie der Allmende-Sektor, und aus demselben Grund: Es gibt niemanden, dem sie gehört.**
 
 ---
 

@@ -16,13 +16,13 @@ Die Rückschau auf die Kapitel zwei bis vier lässt sich unter diesem Kriterium 
 
 Die DDR hatte keine Fehlertoleranz, weil sie kein partielles Scheitern zuließ. Ein Betrieb konnte nicht untergehen, denn sein Untergang wäre ein Urteil über den Plan gewesen, und der Plan war ein Urteil über die Partei. Ein Bezirk konnte nicht sichtbar schlechter dastehen als ein anderer, denn die Ursache wäre eine Führungsfrage gewesen. Ein Reformversuch konnte nicht als Experiment mit offenem Ausgang laufen, denn ein Experiment kann misslingen, und die Partei irrte nicht.
 
-Das ist der Grund, warum in der DDR alles mit allem zusammenhing – und warum am Ende alles auf einmal fiel. In einem monozentrischen System ist jeder Einzelfehler ein Systemfehler, weil es keine Instanz gibt, die ihn absorbieren könnte. Deshalb muss ein solches System jeden Fehler leugnen; deshalb sammeln sich die geleugneten Fehler; deshalb kommt der Zusammenbruch spät und auf einmal.
+Das ist der Grund, warum in der DDR alles mit allem zusammenhing – und warum am Ende alles auf einmal fiel. In einem monozentrischen System – einem System mit nur einem Zentrum, das über alles entscheidet – ist jeder Einzelfehler ein Systemfehler, weil es keine Instanz gibt, die ihn absorbieren könnte. Deshalb muss ein solches System jeden Fehler leugnen; deshalb sammeln sich die geleugneten Fehler; deshalb kommt der Zusammenbruch spät und auf einmal.
 
 Die Gegenkonstruktion ist eine Ordnung, in der Fehler lokal bleiben. Und die Frage lautet: Gibt es dafür einen Beleg, oder ist das nur eine schöne Idee?
 
 ### Mondragón
 
-Es gibt einen, und er ist unangenehm. Genau deshalb gehört er hierher.
+Es gibt einen, und er ist unangenehm.
 
 Im spanischen Baskenland, in der Kleinstadt Arrasate-Mondragón, gründete der Priester José María Arizmendiarrieta 1956 mit fünf ehemaligen Schülern eine kleine Werkstatt für Petroleumöfen. Aus ihr entstand über die folgenden Jahrzehnte der größte Arbeitergenossenschaftsverbund der Welt. Der Verbund – heute Mondragón Corporation – umfasst Industrie, Handel, Finanzdienstleistung und Bildung; nach dem Jahresbericht für 2024 beschäftigt er 70.085 Menschen und setzt 11,2 Milliarden Euro um. Er hat eine eigene Bank, die Caja Laboral, heute Laboral Kutxa; ein eigenes Sozialversicherungssystem; eine eigene Universität; und eine Struktur aus vielen einzelnen Genossenschaften, die unter einem Dachverband kooperieren, ohne ihre Selbständigkeit zu verlieren.
 
@@ -40,7 +40,7 @@ Ein Element scheiterte. Die Föderation hielt die Budgetbeschränkung hart – g
 
 Man vergleiche das mit dem, was in der DDR geschehen wäre – und mit dem, was bei den Landesbanken geschehen ist. Dort wurde gestützt, weil das Scheitern politisch teurer war als das Auffangen. Hier wurde nicht gestützt, obwohl das Scheitern symbolisch teurer war als das Auffangen. Das ist der Unterschied zwischen einer weichen und einer harten Budgetbeschränkung, vorgeführt an einem Fall, in dem die weiche Variante alle Sympathien auf ihrer Seite hatte.
 
-Und jetzt die andere Hälfte des Falls, die ein ehrlicher Text nicht weglassen darf. Die Aufnahmekapazität des Verbunds war endlich – es konnten nicht alle untergebracht werden. Und die Beschäftigten der ausländischen Tochtergesellschaften waren gar nicht geschützt, weil sie keine Mitglieder waren, sondern Lohnarbeiter in Betrieben, die einer Genossenschaft gehörten. Als Fagor fiel, traf es genau sie am härtesten.
+Und jetzt die andere Hälfte des Falls. Die Aufnahmekapazität des Verbunds war endlich – es konnten nicht alle untergebracht werden. Und die Beschäftigten der ausländischen Tochtergesellschaften waren gar nicht geschützt, weil sie keine Mitglieder waren, sondern Lohnarbeiter in Betrieben, die einer Genossenschaft gehörten. Als Fagor fiel, traf es genau sie am härtesten.
 
 Der Fall trägt also beide Lehren, und beide werden in diesem Buch verwertet: die Fehlertoleranz als Konstruktionserfolg und die Insider-Outsider-Grenze als die größte offene Flanke der ganzen Architektur. Sie steht im fünfundzwanzigsten Kapitel und wird dort nicht wegargumentiert.
 
@@ -58,7 +58,7 @@ Damit ist der diagnostische Teil abgeschlossen. Bevor der konstruktive beginnt, 
 
 *Viertens:* Die eigentliche Systemvariable ist nicht Kapitalismus gegen Sozialismus, sondern Polyzentrik gegen Monozentrik. Der historische Kapitalismus hegte Macht ein, aber durch Institutionen, mit denen er nur kontingent verheiratet war; wo sie fehlen, hegt er nichts ein.
 
-*Fünftens:* Der kommunistische Endzustand löst das Machtproblem nicht, er definiert es weg – und wer das Verschwinden von Macht erwartet, baut keine Käfige für sie.
+*Fünftens:* Der kommunistische Endzustand löst das Machtproblem nicht, er definiert es weg – und wer mit dem Verschwinden von Macht rechnet, sorgt nicht dafür vor, sie einzuhegen.
 
 *Sechstens:* Der Fallvergleich bestätigt das Muster. Kuba lebt von externen Renten und kappt jede Dynamik, die politisches Eigengewicht entwickelt. Vietnam zeigt, dass Binnenreform vor Marktzugang wirkt. China zeigt, dass halbe Polyzentrik in monozentrischer Hülle spektakulär funktioniert und dann verfällt.
 
@@ -66,7 +66,7 @@ Damit ist der diagnostische Teil abgeschlossen. Bevor der konstruktive beginnt, 
 
 *Achtens:* Das entscheidende Konstruktionskriterium ist Fehlertoleranz. Gute Ordnungen vermeiden Fehler nicht, sie überleben sie.
 
-*Neuntens:* Fesseln allein genügen nicht. Regulierung lässt die Machtquelle intakt und rostet; Eigentumsstrukturen schaffen Träger mit Eigeninteresse an ihrem Bestand. Eigentum verteidigt sich; Regeln muss man verteidigen.
+*Neuntens:* Fesseln allein genügen nicht. Regulierung lässt die Machtquelle intakt und rostet; Eigentumsstrukturen schaffen Träger mit Eigeninteresse an ihrem Bestand. Ein Eigentümer verteidigt seinen Bestand von selbst; eine Regel steht nur, solange jemand für sie einsteht.
 
 Neun Sätze, und keiner von ihnen ist ein Wert, aus dem sich eine Ordnung ableiten ließe. Es sind Beobachtungen über Fälle, die schiefgingen. Was daraus folgt, ist keine gerechte Gesellschaft, sondern eine haltbarere – und der Unterschied ist wichtig genug, um ihn beim Namen zu nennen.
 
