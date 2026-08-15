@@ -4,7 +4,7 @@
 
 **Marcel Richtsteiger**
 
-*Manuskript. Stand: 12. August 2026.*
+*Manuskript. Stand: 15. August 2026.*
 
 ---
 
@@ -76,7 +76,7 @@ Am Ende steht kein Zielzustand. Wer einen sucht, wird enttäuscht werden, und di
 
 **Teil VI – Die äußere Ebene**
 
-*22. Die Weltordnungsebene.* Wo der Umsetzungspfad endet und die Ordnung nicht: drei sehr ungleiche Angriffsflächen, die juristische statt der ökonomischen Zermürbung, der Investitionsschutz als Regelwerk, das nicht rostet, ein europäischer Rechtsraum, der gebaut und einseitig möbliert ist, die Export- statt Verteidigungsstrategie und ihre Fortsetzung – Marktzugang gegen Gerichtsstand –, warum daraus trotzdem keine Weltregierung folgt, und am Ende der Befund, dass das internationale System polyzentrisch und trotzdem die gewalttätigste Ordnung der Welt ist. Das Kapitel benennt seine eigene Fortsetzung.
+*22. Die Weltordnungsebene.* Wo der Umsetzungspfad endet und die Ordnung nicht: drei sehr ungleiche Angriffsflächen, die juristische statt der ökonomischen Zermürbung, der Investitionsschutz als Regelwerk, das nicht rostet, ein europäischer Rechtsraum, der gebaut und einseitig möbliert ist, die Export- statt Verteidigungsstrategie und ihre Fortsetzung – Marktzugang gegen Gerichtsstand –, warum daraus trotzdem keine Weltregierung folgt, der Befund, dass das internationale System polyzentrisch und trotzdem die gewalttätigste Ordnung der Welt ist, und die Prüfung des naheliegendsten Trostes: ob eine Ordnung mit verteilter Macht nach außen friedlicher aufträte und ihr Beispiel Nachbarn nach sich zöge. Das Kapitel benennt seine eigene Fortsetzung.
 
 **Teil VII – Die Proben**
 
