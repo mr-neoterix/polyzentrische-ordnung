@@ -49,7 +49,7 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           STANDARDZWEIG: ${{ github.event.repository.default_branch }}
         run: |
-          set -uo pipefail
+          set -euo pipefail
           marken=$(
             {
               gh release list --repo "$GITHUB_REPOSITORY" --limit 200 \
@@ -58,12 +58,15 @@ jobs:
                 | sed 's#.*refs/tags/##' || true
             }
           )
+          # Keine Marke zu finden ist der Regelfall des ersten Laufs und darf
+          # den Schritt nicht abbrechen – die Suche wird deshalb ausdrücklich
+          # aufgefangen. (Der Lauf startet die Schale mit -e.)
           hoechste=$(printf '%s\n' "$marken" \
             | grep -E '^v1\.[0-9]+$' \
             | cut -d. -f2 \
             | sort -n \
-            | tail -1)
-          if [ -z "${hoechste:-}" ]; then
+            | tail -1) || hoechste=""
+          if [ -z "$hoechste" ]; then
             naechste=0
           else
             naechste=$((hoechste + 1))
@@ -75,15 +78,17 @@ jobs:
           if [ "$GITHUB_EVENT_NAME" != "pull_request" ] \
              && [ "$GITHUB_REF_NAME" = "$STANDARDZWEIG" ]; then
             kennung="1.${naechste}"
+            marke="v${kennung}"
             veroeffentlichen=ja
           else
             kennung="entwurf-${GITHUB_SHA:0:7}"
+            marke=""
             veroeffentlichen=nein
           fi
 
           {
             echo "kennung=${kennung}"
-            echo "marke=v${kennung}"
+            echo "marke=${marke}"
             echo "veroeffentlichen=${veroeffentlichen}"
             echo "datei=build/polyzentrische-ordnung-manuskript-${kennung}.pdf"
           } >> "$GITHUB_OUTPUT"
