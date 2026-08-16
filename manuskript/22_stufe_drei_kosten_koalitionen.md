@@ -48,6 +48,8 @@ Die Erbschaftsteuerreform bringt Einnahmen in Anteilen statt in Geld. Sie belast
 
 Der Allmende-Sektor braucht kein neues Geld, sondern offene Bücher. Die 31,9 Milliarden Euro kommunales Defizit des Jahres 2025 sind ein Argument *für* Kostenvergleiche, nicht gegen sie.
 
+Die Bauteile des siebzehnten Kapitels kosten in der Anschaffung fast nichts – eine Berechnungsvorschrift, eine Veröffentlichungspflicht, ein Klagerecht, geänderte Wahlvorschriften – und sie sind trotzdem der fiskalisch heikelste Teil dieses Pfades. Der Grund ist keine Ausgabe, sondern eine Sichtbarkeit: Wer den Bundeszuschuss zur Rentenversicherung an einer ausgewiesenen Vergleichsgröße misst, erzeugt an einem dreistelligen Milliardenposten einen dauerhaften Rechtfertigungsdruck, der sich in beide Richtungen auflösen lässt. Das ist gewollt, und es ist teurer als alles andere in diesem Kapitel – nicht im Haushalt, sondern in der Auseinandersetzung.
+
 Was wirklich knapp ist, sind Verwaltungs- und Beratungskapazität sowie die Aufmerksamkeit einer Regierung, die gleichzeitig zwanzig andere Dinge tut. Wer diesen Pfad als billig verkauft, täuscht: **Er ist fiskalisch unspektakulär und administrativ teuer.**
 
 ### Wer verliert, und was er tun kann
@@ -66,7 +68,7 @@ Für die Verlierer im Ausland gilt dasselbe in verschärfter Form, und die Grün
 
 Der wichtigste Umsetzbarkeitsbefund ist zugleich der unpathetischste.
 
-Die Gewinnerkoalition ist ungewöhnlich breit. *Verkäufer* bekommen einen Käufer und einen Steuervorteil, wo sie heute oft keinen Käufer und keinen Vorteil haben. *Belegschaften* bekommen Eigentum. *Kommunen* behalten Betriebe, Arbeitsplätze und Gewerbesteuer in der Region, statt sie an Konsolidierer zu verlieren. *Sparkassen und Genossenschaftsbanken* bekommen ein Geschäftsfeld, das ihnen sonst wegstirbt. *Landwirtschaftliche, Wohnungs- und Energiegenossenschaften* bekommen Rechtssicherheit und Zugang zu Kapital.
+Die Gewinnerkoalition ist ungewöhnlich breit. *Verkäufer* bekommen einen Käufer und einen Steuervorteil, wo sie heute oft keinen Käufer und keinen Vorteil haben. *Belegschaften* bekommen Eigentum. *Kommunen* behalten Betriebe, Arbeitsplätze und Gewerbesteuer in der Region, statt sie an Konsolidierer zu verlieren – und sie bekommen mit der erweiterten Konnexität des siebzehnten Kapitels ein Mittel gegen die Lasten, die ihnen aus den vorgelagerten Systemen zugeschoben werden. Das ist der Punkt, an dem sie aufhören, bloß Begünstigte dieses Pfades zu sein, und zu seinem Träger werden. *Sparkassen und Genossenschaftsbanken* bekommen ein Geschäftsfeld, das ihnen sonst wegstirbt. *Landwirtschaftliche, Wohnungs- und Energiegenossenschaften* bekommen Rechtssicherheit und Zugang zu Kapital.
 
 Wichtiger noch als die Breite ist, dass dieselbe Politik aus drei verschiedenen Weltbildern heraus begründbar ist. Ein wirtschaftsnaher Regionalkonservatismus kann sie mit dem Argument des Standorterhalts unterschreiben: Betriebe bleiben, wo sie sind, in den Händen derer, die dort wohnen. Eine linke Partei kann sie mit dem Argument der Eigentumsverteilung unterschreiben. Eine liberale kann sie mit dem Argument der Marktunvollkommenheit im Nachfolgemarkt unterschreiben – dort werden funktionsfähige Unternehmen stillgelegt, weil der Kapitalmarkt einen bestimmten Käufertypus nicht finanziert, und das ist ein Marktversagen wie jedes andere.
 

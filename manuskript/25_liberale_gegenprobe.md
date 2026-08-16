@@ -144,6 +144,8 @@ Er lautet: Sie enden überall im Gericht. Die Gemeinde klagt gegen den Bund, die
 
 *Und die Konzession:* Die Grenze zwischen Begründungskontrolle und Sachkontrolle ist unscharf, Gerichte verschieben sie, und dieses Buch hat dagegen kein eigenes Mittel. Es hat dieselbe Lücke an einer zweiten Stelle bereits eingeräumt, nämlich bei den unabwählbaren Instanzen, die faktisch Regeln setzen – unkonventionelle Geldpolitik und Rechtsfortbildung. Beide Einträge stehen im sechsundzwanzigsten Kapitel, und sie stehen dort zu Recht.
 
+Der Einwand kehrt im siebzehnten Kapitel an seiner teuersten Stelle wieder, weil dort eine Bemessungsvorschrift für den größten Zuschuss des Bundeshaushalts klagbar gemacht wird. Dort steht auch das einzige Stück Erfahrung, das es zu dieser Frage gibt: Eine Begründungskontrolle dieser Bauart existiert im deutschen Sozialrecht seit 2010, sie hat einmal eine Neuberechnung erzwungen und sich seither zurückgehalten. Wer den Einwand für durchschlagend hält, muss erklären, warum aus diesem Verlauf eine Juristokratie geworden sein soll; wer ihn für erledigt hält, muss erklären, warum aus ihr eine wirksame Kontrolle geworden sein soll. Beides steht nicht fest.
+
 ### Was dem Liberalen bleibt
 
 Drei Konzessionen, symmetrisch zu denen des vorigen Kapitels.

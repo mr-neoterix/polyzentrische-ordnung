@@ -14,13 +14,15 @@ Niemand wird in dieser Ordnung zum Eigentümer gezwungen. Wer Lohn und Vertrag d
 
 Innerhalb des genossenschaftlichen Sektors entscheidet die Mitgliederversammlung über die Lohnspreizung – über das Verhältnis zwischen dem, was oben, und dem, was unten verdient wird. Die Erfahrung des baskischen Verbundmodells ist, dass sie es begrenzt, und das hat Vorteile und Kosten, die beide genannt gehören: geringere Abwanderung unten, schwierigere Rekrutierung oben. Ein Betrieb, der einen Spitzenspezialisten braucht und ihm nicht das Marktgehalt zahlen kann, hat ein Problem. Ein Betrieb, in dem die Führung das Achtfache und nicht das Achtzigfache der Belegschaft verdient, hat ein anderes Problem weniger.
 
-### Der Sozialstaat ist die Bedingung, nicht der Gegenstand
+### Der Sozialstaat ist die Bedingung – und deshalb selbst ein Bauteil
 
 Der Sozialstaat bleibt in dieser Ordnung vollständig erhalten, und das ist keine Nebenbemerkung, sondern eine Konstruktionsbedingung.
 
 Der Grund ergibt sich aus dem neunten Kapitel. Eine Wirtschaft mit harter Budgetbeschränkung produziert Betriebssterben – nicht als Fehler, sondern als Funktion. Das ist der Mechanismus, mit dem falsche Entscheidungen aus der Welt geschafft werden. Aber jedes gestorbene Unternehmen ist eine Zahl von Menschen ohne Einkommen, und eine Gesellschaft, die diese Menschen nicht auffängt, wird das Betriebssterben politisch nicht durchhalten. Sie wird stützen, wie sie bei den Landesbanken gestützt hat, und dann hat sie die weiche Budgetbeschränkung wieder.
 
 Der Zusammenhang ist also nicht sozialpolitisch, sondern ordnungspolitisch: **Wer Betriebe sterben lassen will, muss Menschen auffangen können.** Arbeitslosenversicherung, Grundsicherung, Qualifizierung und Gesundheitsversorgung sind in dieser Ordnung nicht das Gute, das man sich zusätzlich leistet, sondern die Voraussetzung dafür, dass ihr härtester Mechanismus überhaupt zugelassen wird.
+
+Daraus folgt allerdings mehr, als hier hineinpasst, und es folgt zwingend: Eine Voraussetzung, von der so viel abhängt, darf nicht ungeprüft bleiben, nur weil sie bequem dasteht. Was geschieht, wenn diese Einrichtung selbst rostet? Wer verteidigt sie, wenn es eng wird? Das siebzehnte Kapitel legt deshalb dieselben vier Fragen an sie an, die dieses Buch an jeden anderen Bereich stellt – und kommt zu einem Ergebnis, das die Reihenfolge dieses Absatzes umkehrt: Der Sozialstaat ist nicht nur die Bedingung dieser Ordnung, er ist auch eines ihrer Bauteile, und zwar das am schwächsten gesicherte.
 
 ### Die Sphäre, die eine Eigentumsordnung nur halb erreicht
 

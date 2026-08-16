@@ -34,7 +34,7 @@ Der entscheidende Vorzug dieses Pfades ist, dass er kaum etwas erfinden muss. Fa
 
 *Kommunale Stadtwerke* mit einer Neugründungswelle im laufenden Jahrhundert. Der Allmende-Sektor muss nicht geschaffen, sondern umgebaut werden.
 
-*Selbstverwaltung in der Sozialversicherung.* Deutschland hat seit über hundert Jahren Institutionen, die von Vertretern der Versicherten und der Arbeitgeber getragen werden – eine polyzentrische Struktur, die den meisten Bürgern gar nicht bewusst ist.
+*Selbstverwaltung in der Sozialversicherung.* Deutschland hat seit über hundert Jahren Institutionen, die von Vertretern der Versicherten und der Arbeitgeber getragen werden, und in der Krankenversicherung dazu konkurrierende Träger, ein Wechselrecht und ein tatsächlich angewandtes Insolvenzrecht – die polyzentrischste Struktur, die dieser Staat besitzt. Sie ist zugleich der Baustein in der schlechtesten Verfassung, denn ihr Selbstverwaltungsorgan wird von gut einem Fünftel der Berechtigten bestellt, und ein großer Teil der Sitze wird gar nicht erst umkämpft. Das siebzehnte Kapitel behandelt beides, weil dieser Baustein anders als die übrigen nicht nur benutzt, sondern zuerst instand gesetzt werden muss.
 
 *Föderalismus.* Er wird in Deutschland meist als Bremse beklagt. In diesem Entwurf ist er ein Konstruktionsvorteil: Er liefert die regionale Gliederung, die die Fondsfamilie des einundzwanzigsten Kapitels – mehrere regional zugeschnittene Bürgerfonds statt eines einzigen – ohnehin braucht.
 
@@ -59,6 +59,8 @@ Die Ergebnisse dieses Tests sind unterschiedlich, und sie zu kennen ist wichtige
 *Ein Kostenvergleich im Allmende-Sektor ist eine Regel.* Er kann von einer Regierung, die ihn unbequem findet, methodisch entschärft, personell ausgehungert oder in der Veröffentlichungsfrist verzögert werden, bis er nichts mehr aussagt.
 
 *Eine Fondsanwartschaft ist – vermutlich – ein Programm.* Das ist der unangenehmste Befund dieses Buches über sich selbst, und das einundzwanzigste Kapitel führt ihn aus.
+
+*Und der Sozialstaat ist beides zugleich.* Die Rentenanwartschaft ist eine Struktur, weil sie Eigentum ist; das Existenzminimum ist dem Grunde nach eine Struktur, weil es in der Verfassung steht; die Höhe jeder Leistung dagegen ist ein Programm. Ausgerechnet der Teil, auf den sich diese Ordnung stützt – die Sicherung derer, die ein gestorbener Betrieb freigesetzt hat –, liegt überwiegend im Programmteil. Das siebzehnte Kapitel zieht daraus die Konsequenzen.
 
 Die Regel, die daraus folgt, ist streng: **Was den Belastungstest nicht besteht, ist ein Programm und darf nicht als Struktur geführt werden.** Ein Reformpfad, der Programme für Strukturen ausgibt, verspricht Dauerhaftigkeit, die er nicht liefern kann – und liefert seinen Gegnern das Argument, mit dem sie ihn beim ersten Regierungswechsel erledigen.
 
