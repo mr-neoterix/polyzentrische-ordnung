@@ -1,4 +1,4 @@
-# Neunzehntes Kapitel
+# Zwanzigstes Kapitel
 
 ## Stufe eins: das Zeitfenster
 
@@ -44,7 +44,7 @@ Also braucht Stufe eins *zwei* Instrumente und nicht eines.
 
 Für *Rettungsfälle* eine Marcora-artige Kofinanzierung – beihilferechtlich, also im Rahmen dessen, was das EU-Recht an staatlicher Kofinanzierung überhaupt erlaubt, auf dem Niveau, auf das die CFI nach einer Beanstandung durch die Europäische Kommission im Jahr 2001 umstellen musste, nämlich eins zu eins: Auf jeden Euro, den die Belegschaft aufbringt, kommt höchstens ein Euro öffentlicher Kofinanzierung.
 
-Für *Nachfolgefälle* das Finanzierungspaket aus dem siebzehnten Kapitel, flankiert von Bürgschaften und Haftungsfreistellungen der KfW, damit die Hausbank das Risiko tragen kann.
+Für *Nachfolgefälle* das Finanzierungspaket aus dem achtzehnten Kapitel, flankiert von Bürgschaften und Haftungsfreistellungen der KfW, damit die Hausbank das Risiko tragen kann.
 
 **Die Nachfolgewelle ist ein Zeitfenster nur dann, wenn die Finanzierung Übernahmen zu vollen Preisen trägt.**
 

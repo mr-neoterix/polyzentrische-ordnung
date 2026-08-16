@@ -40,7 +40,7 @@ Vier Konsequenzen daraus sind konkret und werden hier gezogen.
 
 *Drittens:* Partizipationskosten sind nach Sorgeverpflichtungen ungleich verteilt. Eine Genossenschaftsversammlung am Dienstagabend, ein gelostes Bürgergremium mit sechs Wochenendterminen, ein Aufsichtsratssitz mit monatlichen Sitzungen – all das setzt voraus, dass jemand die Zeit hat. Wer um achtzehn Uhr ein Kind abholen oder einen Angehörigen versorgen muss, hat sie nicht. Geloste Gremien und Mitgliederversammlungen selektieren deshalb systematisch, wer teilnehmen kann, und die übliche Antwort „Delegation und Los" trifft das nur halb: Losverfahren brauchen *materielle Teilnahmebedingungen* – Lohnersatz für Gremienarbeit, Betreuungsangebote als Teil der Veranstaltung, Termine in der Arbeitszeit statt am Abend. Sonst lost man aus einer verzerrten Grundgesamtheit und nennt das Zufall. Für den genossenschaftlichen Sektor steht das als Satzungsstandard im elften Kapitel; für die politischen Losgremien folgt es im sechzehnten. Was hier zählt, ist der Grund dahinter: Es ist keine Freundlichkeit gegenüber Sorgeverpflichteten, sondern die Bedingung dafür, dass ein Losverfahren überhaupt misst, was es zu messen vorgibt.
 
-*Viertens:* Genossenschaftsbewegungen haben historisch männliche Insiderstrukturen reproduziert. Das ist dieselbe Insider-Outsider-Logik, die im fünfundzwanzigsten Kapitel an der Staatsgrenze verhandelt wird, angewandt auf die Grenze im Inneren.
+*Viertens:* Genossenschaftsbewegungen haben historisch männliche Insiderstrukturen reproduziert. Das ist dieselbe Insider-Outsider-Logik, die im sechsundzwanzigsten Kapitel an der Staatsgrenze verhandelt wird, angewandt auf die Grenze im Inneren.
 
 Was darüber hinaus in der Reichweite einer Eigentumsordnung liegt, sei benannt. Arbeitszeitmodelle und Vertretungsregelungen sind Gegenstand der Mitgliederversammlung, also entscheidbar – ein Betrieb, der seinen Mitgliedern gehört, kann über Vier-Tage-Wochen und Pflegezeiten anders befinden als einer, der Renditeziele erfüllen muss. Die Beschaffungs- und Investitionsentscheidungen des Allmende-Sektors bestimmen über Betreuungsinfrastruktur, und der Auftrag, Betreuung als Infrastruktur zu behandeln, gehört ausdrücklich in seinen Katalog. Und die Zusammensetzung von Versammlungen und Gremien nach Sorgeverpflichtung lässt sich messen und veröffentlichen, was der erste Schritt zu jeder Veränderung ist.
 
@@ -82,7 +82,7 @@ Krisen sind die Fenster, in denen sich Eigentumsanteile verschieben. Das italien
 
 Daraus folgt eine Umkehrung des klassischen Krisenarguments. Der Marxist erwartet, dass die Krise das System widerlegt; diese Ordnung ist so gebaut, dass die Krise sie füttert. Eine Krise des Privatsektors vergrößert die anderen Sektoren, statt das Ganze zu stürzen.
 
-Sie darf sich davon allerdings nichts versprechen, was sie nicht selbst finanziert, und dieser Satz ist die Bedingung des ganzen Mechanismus: **Ohne bereitstehende Übernahmefinanzierung ist ein Krisenfenster nur eine Insolvenz.** Deshalb ist die unspektakuläre Vorarbeit des neunzehnten Kapitels – Kreditprogramme, Musterverträge, ausgebildete Berater – kein Verwaltungsdetail, sondern die Bedingung dafür, dass die Krise überhaupt ein Fenster ist.
+Sie darf sich davon allerdings nichts versprechen, was sie nicht selbst finanziert, und dieser Satz ist die Bedingung des ganzen Mechanismus: **Ohne bereitstehende Übernahmefinanzierung ist ein Krisenfenster nur eine Insolvenz.** Deshalb ist die unspektakuläre Vorarbeit des zwanzigsten Kapitels – Kreditprogramme, Musterverträge, ausgebildete Berater – kein Verwaltungsdetail, sondern die Bedingung dafür, dass die Krise überhaupt ein Fenster ist.
 
 ---
 
@@ -92,7 +92,7 @@ Sie darf sich davon allerdings nichts versprechen, was sie nicht selbst finanzie
 
 *Fagor:* siehe Kapitel 9.
 
-*Marcora-Gesetz:* Legge 49/1985, benannt nach Industrieminister Giovanni Marcora, entstanden aus der italienischen Industriekrise der frühen 1980er Jahre; institutionell getragen von der Finanzgesellschaft CFI (gegründet 1986). Marcelo Vieta, *The Italian Road to Recuperating Enterprises and the Legge Marcora Framework*, Euricse Working Paper Nr. 78|15 (2015). **Bestätigt.** Die Zahlen zu Überlebensraten und geretteten Betrieben stehen in Kapitel 19.
+*Marcora-Gesetz:* Legge 49/1985, benannt nach Industrieminister Giovanni Marcora, entstanden aus der italienischen Industriekrise der frühen 1980er Jahre; institutionell getragen von der Finanzgesellschaft CFI (gegründet 1986). Marcelo Vieta, *The Italian Road to Recuperating Enterprises and the Legge Marcora Framework*, Euricse Working Paper Nr. 78|15 (2015). **Bestätigt.** Die Zahlen zu Überlebensraten und geretteten Betrieben stehen in Kapitel 20.
 
 *Rekommunalisierungswelle:* Berlo / Wagner, *Stadtwerke-Neugründungen und Rekommunalisierungen*, Sondierungsstudie, Wuppertal Institut 2013 – 72 Stadtwerke-Neugründungen 2005–2012. **Bestätigt.**
 

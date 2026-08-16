@@ -42,7 +42,7 @@ Man vergleiche das mit dem, was in der DDR geschehen wäre – und mit dem, was 
 
 Und jetzt die andere Hälfte des Falls. Die Aufnahmekapazität des Verbunds war endlich – es konnten nicht alle untergebracht werden. Und die Beschäftigten der ausländischen Tochtergesellschaften waren gar nicht geschützt, weil sie keine Mitglieder waren, sondern Lohnarbeiter in Betrieben, die einer Genossenschaft gehörten. Als Fagor fiel, traf es genau sie am härtesten.
 
-Der Fall trägt also beide Lehren, und beide werden in diesem Buch verwertet: die Fehlertoleranz als Konstruktionserfolg und die Insider-Outsider-Grenze als die größte offene Flanke der ganzen Architektur. Sie steht im fünfundzwanzigsten Kapitel und wird dort nicht wegargumentiert.
+Der Fall trägt also beide Lehren, und beide werden in diesem Buch verwertet: die Fehlertoleranz als Konstruktionserfolg und die Insider-Outsider-Grenze als die größte offene Flanke der ganzen Architektur. Sie steht im sechsundzwanzigsten Kapitel und wird dort nicht wegargumentiert.
 
 Was bleibt, ist ein Satz, der als Formel für dieses ganze Buch taugt: **Scheitert ein Modell, stirbt das Modell – nicht das Land.**
 

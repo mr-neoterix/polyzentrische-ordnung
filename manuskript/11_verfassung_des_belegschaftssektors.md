@@ -18,7 +18,7 @@ Friedrich Wilhelm Raiffeisen, tiefreligiöser Sozialreformer im Rheinland, tat f
 
 Aus Schulze-Delitzschs Arbeit entstand 1867 ein preußisches Genossenschaftsgesetz, das er selbst entworfen hatte, und aus diesem wiederum das Reichsgesetz, das am 1. Oktober 1889 in Kraft trat und – vielfach novelliert – bis heute gilt.
 
-Diese Vorgeschichte ist kein Schmuck. Sie enthält bereits den Streit, den das dreiundzwanzigste Kapitel führen wird. Denn Schulze-Delitzschs großer Gegenspieler war Ferdinand Lassalle, der 1863 in Leipzig den Allgemeinen Deutschen Arbeiterverein gründete – die erste moderne deutsche Arbeiterpartei – und dessen zentrale Forderung lautete: Produktivgenossenschaften *mit Staatshilfe*. Selbsthilfe gegen Staatshilfe, so hieß der Streit, und er ist bis heute nicht entschieden. Karl Marx hat sich 1875 in dieser Sache zu Wort gemeldet, und zwar gegen Lassalle. Das wird noch wichtig.
+Diese Vorgeschichte ist kein Schmuck. Sie enthält bereits den Streit, den das vierundzwanzigste Kapitel führen wird. Denn Schulze-Delitzschs großer Gegenspieler war Ferdinand Lassalle, der 1863 in Leipzig den Allgemeinen Deutschen Arbeiterverein gründete – die erste moderne deutsche Arbeiterpartei – und dessen zentrale Forderung lautete: Produktivgenossenschaften *mit Staatshilfe*. Selbsthilfe gegen Staatshilfe, so hieß der Streit, und er ist bis heute nicht entschieden. Karl Marx hat sich 1875 in dieser Sache zu Wort gemeldet, und zwar gegen Lassalle. Das wird noch wichtig.
 
 ### Die zweite Linie – und wo sie sich trennt
 
@@ -46,7 +46,7 @@ Bellocs Diagnose spricht an dieser Stelle gegen seine eigene Konstruktion. Er hi
 
 *Der dritte betrifft die Kleinheit.* Die ältere Linie liebt das Kleine und begründet damit die Subsidiarität. Das sechzehnte Kapitel prüft diese Begründung und ersetzt sie: Die Gemeinde funktioniert nicht, weil sie klein ist, sondern weil sie klagen kann. Der Unterschied ist praktisch, denn Größe lässt sich nicht herstellen und Klagbarkeit schon. Und er erlaubt es, weiter unten einzuräumen, was eine Bewegung mit Zuneigung zur Werkstatt nicht einräumen muss: dass die Belegschaftsstruktur für kapitalintensive Großindustrie vermutlich nicht trägt und dort Konsortialformen an ihre Stelle treten.
 
-Bleibt ein vierter Unterschied, der nicht die Ordnung betrifft, sondern den Text. Wer aus einer Lehre vom Menschen ableitet, kann durch keine Zahl widerlegt werden. Wer aus Scheiternsursachen ableitet, kann es – und schuldet deshalb die Angabe, wann. Daher die Bandrechnung mit Korrekturtermin im zehnten Kapitel, die Abschaltschwelle hinter jeder Förderung und das Datum, das die zentrale Wette im vierundzwanzigsten Kapitel bekommt. Das ist kein Vorwurf an die ältere Linie, sondern die Beschreibung eines anderen Gegenstands.
+Bleibt ein vierter Unterschied, der nicht die Ordnung betrifft, sondern den Text. Wer aus einer Lehre vom Menschen ableitet, kann durch keine Zahl widerlegt werden. Wer aus Scheiternsursachen ableitet, kann es – und schuldet deshalb die Angabe, wann. Daher die Bandrechnung mit Korrekturtermin im zehnten Kapitel, die Abschaltschwelle hinter jeder Förderung und das Datum, das die zentrale Wette im fünfundzwanzigsten Kapitel bekommt. Das ist kein Vorwurf an die ältere Linie, sondern die Beschreibung eines anderen Gegenstands.
 
 Was die zweite Linie richtig gesehen hat, übernimmt dieses Buch, und es nennt die Herkunft. Was ihr fehlte, baut es dazu, und das lässt sich in einem Satz sagen: **Wer viele Eigentümer will und sie vor dem Scheitern schützt, bekommt eine Zunft. Wer viele Eigentümer will und sie scheitern lässt, bekommt einen Sektor.**
 
@@ -122,7 +122,7 @@ Diese fünf Bestimmungen lösen das Problem nicht auf; Beteiligung bleibt aufwen
 
 ### Der Zuschnitt der Einheiten
 
-Das dritte Konstruktionselement beantwortet den stärksten unideologischen Einwand gegen Belegschaftseigentum überhaupt, und er wird im vierundzwanzigsten Kapitel ausführlich behandelt: Der amerikanische Rechtswissenschaftler Henry Hansmann hat 1996 die Seltenheit von Arbeitergenossenschaften nicht mit Unterdrückung erklärt, sondern mit Kosten. Je heterogener die Interessen der Eigentümer, desto teurer wird kollektive Entscheidung. Deshalb überleben Arbeitereigentumsformen dort, wo Belegschaften homogen sind – Kanzleien, Praxen, Ingenieurbüros –, und scheitern, wo sie es nicht sind.
+Das dritte Konstruktionselement beantwortet den stärksten unideologischen Einwand gegen Belegschaftseigentum überhaupt, und er wird im fünfundzwanzigsten Kapitel ausführlich behandelt: Der amerikanische Rechtswissenschaftler Henry Hansmann hat 1996 die Seltenheit von Arbeitergenossenschaften nicht mit Unterdrückung erklärt, sondern mit Kosten. Je heterogener die Interessen der Eigentümer, desto teurer wird kollektive Entscheidung. Deshalb überleben Arbeitereigentumsformen dort, wo Belegschaften homogen sind – Kanzleien, Praxen, Ingenieurbüros –, und scheitern, wo sie es nicht sind.
 
 Die Antwort darauf ist keine Widerlegung, sondern eine Konstruktionsvariable: Homogenität ist herstellbar durch Zuschnitt. Kleine, autonome Einheiten mit klaren Grenzen statt Großbelegschaften; gestufte Entscheidungsrechte nach Betroffenheit, so dass nicht jede Frage alle angeht; Delegation statt Dauerversammlung; und Verbindung der Einheiten zu Sekundärgenossenschaften – Genossenschaften, deren Mitglieder selbst Genossenschaften sind – und weiter zu einer Föderation. Das sind exakt Ostroms verschachtelte Einheiten, angewandt auf Betriebe, und Mondragóns Aufbau aus vielen einzelnen Genossenschaften unter einem Verbund ist ihre empirische Form.
 
@@ -136,7 +136,7 @@ Die Ordnung braucht deshalb vier Quellen, und sie hat sie alle.
 
 *Zweitens genossenschaftliche Banken.* Mondragóns Aufstieg ist ohne die Caja Laboral nicht zu erklären; Deutschland hat 697 solcher Institute, die Nachfolgefinanzierung als Geschäftsfeld begreifen können und schon aus Eigeninteresse sollten, weil ihnen sonst die mittelständischen Firmenkunden wegsterben.
 
-*Drittens stimmrechtsarme Beteiligungen* mit gedeckelter Rendite, definierter Kündigungsmöglichkeit und ohne Kontrollrechte – geduldiges Kapital aus der Fondsfamilie des zwanzigsten Kapitels, aus Versicherungen mit langen Verbindlichkeiten und aus kommunalen Trägern.
+*Drittens stimmrechtsarme Beteiligungen* mit gedeckelter Rendite, definierter Kündigungsmöglichkeit und ohne Kontrollrechte – geduldiges Kapital aus der Fondsfamilie des einundzwanzigsten Kapitels, aus Versicherungen mit langen Verbindlichkeiten und aus kommunalen Trägern.
 
 *Viertens Verkäuferdarlehen und Ertragsbeteiligungen* im Nachfolgefall: Der bisherige Eigentümer lässt einen Teil des Kaufpreises als verzinstes Darlehen im Betrieb stehen, das aus dem laufenden Cashflow bedient wird. Das ist im Mittelstand ein übliches Instrument und im Belegschaftsfall das wichtigste, weil es den Finanzierungsbedarf zum Zeitpunkt der Übernahme dramatisch senkt.
 
@@ -150,7 +150,7 @@ Ein Belegschaftseigentümer legt Arbeitsplatz, Vermögen und häufig einen Teil 
 
 Die Designantwort mildert das Problem und beseitigt es nicht. In die Mustersatzung gehört eine *Obergrenze*: höchstens ein definierter Anteil des Privatvermögens darf im eigenen Betrieb gebunden sein. Beträge oberhalb dieser Grenze fließen automatisch in einen breit gestreuten Anteil der Fondsfamilie. Und die Alterssicherung darf grundsätzlich nicht am Kapitalkonto hängen – wer beides koppelt, macht aus einer Betriebsinsolvenz eine Altersarmut. Dazu kommt, was der Verbund leistet: Solidarfonds, Umsetzungsrechte in andere Betriebe, gemeinsame Sozialversicherung.
 
-Was bleibt, bleibt: Der Arbeitsplatz liegt weiterhin im selben Betrieb wie das Vermögen. Die Risikokonzentration ist ein Argument für die Föderation, nicht gegen die Genossenschaft – aber sie bleibt ein Argument, und sie steht deshalb auch im fünfundzwanzigsten Kapitel.
+Was bleibt, bleibt: Der Arbeitsplatz liegt weiterhin im selben Betrieb wie das Vermögen. Die Risikokonzentration ist ein Argument für die Föderation, nicht gegen die Genossenschaft – aber sie bleibt ein Argument, und sie steht deshalb auch im sechsundzwanzigsten Kapitel.
 
 ---
 
@@ -158,7 +158,7 @@ Was bleibt, bleibt: Der Arbeitsplatz liegt weiterhin im selben Betrieb wie das V
 
 *Schulze-Delitzsch und Raiffeisen:* Erste Genossenschaftsgründung Schulze-Delitzschs 1849 in Delitzsch (Schuhmacher); Musterstatuten für Kreditvereine in den 1850er Jahren; preußisches Genossenschaftsgesetz 1867 nach seinem Entwurf. Raiffeisen als Begründer der ländlichen Kreditgenossenschaft. **Bestätigt** über die einschlägige Genossenschaftsgeschichtsschreibung; belegt u. a. bei [genostory.de](https://genostory.de/systemstreit-zwischen-raiffeisen-und-schulze-delitzsch-724) und der Kurzbiographie bei [demokratie-geschichte.de](https://www.demokratie-geschichte.de/koepfe/2254).
 
-*Lassalle und der ADAV:* Gründung des Allgemeinen Deutschen Arbeitervereins am 23. Mai 1863 in Leipzig; Kernforderungen: staatlich finanzierte Produktivgenossenschaften und allgemeines gleiches Wahlrecht; Gegenposition Schulze-Delitzschs: Selbsthilfe statt Staatshilfe. **Bestätigt**; siehe [Erinnerungsorte der Sozialdemokratie, Friedrich-Ebert-Stiftung](https://erinnerungsorte.fes.de/ferdinand-lassalle/). Marx' Stellungnahme von 1875 wird in Kapitel 23 behandelt.
+*Lassalle und der ADAV:* Gründung des Allgemeinen Deutschen Arbeitervereins am 23. Mai 1863 in Leipzig; Kernforderungen: staatlich finanzierte Produktivgenossenschaften und allgemeines gleiches Wahlrecht; Gegenposition Schulze-Delitzschs: Selbsthilfe statt Staatshilfe. **Bestätigt**; siehe [Erinnerungsorte der Sozialdemokratie, Friedrich-Ebert-Stiftung](https://erinnerungsorte.fes.de/ferdinand-lassalle/). Marx' Stellungnahme von 1875 wird in Kapitel 24 behandelt.
 
 *Genossenschaftsgesetz:* Genossenschaftsgesetz in Kraft seit 1. Oktober 1889, Neufassung der Bekanntmachung vom 16.10.2006 (BGBl. I S. 2230); Novelle 2006 als größte Reform seit 1973. **Bestätigt.**
 

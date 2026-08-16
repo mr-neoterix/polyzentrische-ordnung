@@ -1,4 +1,4 @@
-# Vierundzwanzigstes Kapitel
+# Fünfundzwanzigstes Kapitel
 
 ## Die liberale Gegenprobe
 
@@ -82,7 +82,7 @@ Und deshalb bleibt der Privatsektor groß: Er ist nicht nur Innovationsorgan, so
 
 ### 9. Der Hayek-Einwand gegen diesen Text selbst
 
-Wer Ordnungen entwirft, betreibt Anmaßung von Wissen. Institutionen sind gewachsen, nicht gemacht; jeder Entwurf unterschätzt, was er nicht weiß; und die Ergebnisse großer Gestaltungsprojekte waren im zwanzigsten Jahrhundert regelmäßig andere als die geplanten.
+Wer Ordnungen entwirft, betreibt Anmaßung von Wissen. Institutionen sind gewachsen, nicht gemacht; jeder Entwurf unterschätzt, was er nicht weiß; und die Ergebnisse großer Gestaltungsprojekte waren im einundzwanzigsten Jahrhundert regelmäßig andere als die geplanten.
 
 *Antwort:* Der Einwand trifft jeden Entwurf, auch diesen, und die einzige seriöse Reaktion ist eine Bauweise, die ihn einkalkuliert.
 
@@ -108,7 +108,7 @@ Und der Liberale bekommt eine Selbstbindung in die Hand, auf die er dieses Buch 
 
 ### 11. „Enteignungsdrohung schreckt Investoren ab."
 
-*Antwort:* Die Kernstrategie ist keine Enteignung, sondern Kauf – im Nachfolgefall, bei auslaufenden Konzessionen, über die Erbschaftsteuer. Artikel 15 des Grundgesetzes steht als letzte Möglichkeit dort, wo natürliche Monopole nachweislich Renten extrahieren, gegen Entschädigung und nach Versagen milderer Mittel. Und wie das siebzehnte Kapitel gezeigt hat, begrenzt das Investitionsschutzrecht diesen Weg ohnehin stärker als jede politische Rücksicht.
+*Antwort:* Die Kernstrategie ist keine Enteignung, sondern Kauf – im Nachfolgefall, bei auslaufenden Konzessionen, über die Erbschaftsteuer. Artikel 15 des Grundgesetzes steht als letzte Möglichkeit dort, wo natürliche Monopole nachweislich Renten extrahieren, gegen Entschädigung und nach Versagen milderer Mittel. Und wie das achtzehnte Kapitel gezeigt hat, begrenzt das Investitionsschutzrecht diesen Weg ohnehin stärker als jede politische Rücksicht.
 
 Zugleich ist die Investorenwarnung selbst ein Machtargument und nach der Symmetrieregel zu behandeln wie jede offizielle Begründung: Sie wird von denen vorgetragen, die von der Nichtanwendung profitieren. Zu prüfen ist ihre empirische Basis, nicht ihre Rhetorik – und die Prüfung ist Fall für Fall zu führen, nicht durch Zitieren des Reflexes.
 
@@ -142,7 +142,7 @@ Er lautet: Sie enden überall im Gericht. Die Gemeinde klagt gegen den Bund, die
 
 *Drittens die Symmetriefrage.* Der wirksamste Bestandteil des europäischen Rechts ist die Justiziabilität der Marktfreiheiten durch private Kläger, und sie ist deutlich weitreichender als alles, was das sechzehnte Kapitel vorschlägt. Wer sie schätzt und die Justiziabilität der Kompetenzordnung als Juristokratie bekämpft, hat keine Position, sondern eine Präferenz für ein Ergebnis. Das entkräftet den Einwand nicht – es verpflichtet ihn auf Konsistenz.
 
-*Und die Konzession:* Die Grenze zwischen Begründungskontrolle und Sachkontrolle ist unscharf, Gerichte verschieben sie, und dieses Buch hat dagegen kein eigenes Mittel. Es hat dieselbe Lücke an einer zweiten Stelle bereits eingeräumt, nämlich bei den unabwählbaren Instanzen, die faktisch Regeln setzen – unkonventionelle Geldpolitik und Rechtsfortbildung. Beide Einträge stehen im fünfundzwanzigsten Kapitel, und sie stehen dort zu Recht.
+*Und die Konzession:* Die Grenze zwischen Begründungskontrolle und Sachkontrolle ist unscharf, Gerichte verschieben sie, und dieses Buch hat dagegen kein eigenes Mittel. Es hat dieselbe Lücke an einer zweiten Stelle bereits eingeräumt, nämlich bei den unabwählbaren Instanzen, die faktisch Regeln setzen – unkonventionelle Geldpolitik und Rechtsfortbildung. Beide Einträge stehen im sechsundzwanzigsten Kapitel, und sie stehen dort zu Recht.
 
 ### Was dem Liberalen bleibt
 
@@ -168,9 +168,9 @@ Was der Liberale allerdings nicht behalten darf, ist die Behauptung, der Status 
 
 *Mondragón, Fagor:* siehe Kapitel 9. **Bestätigt.**
 
-*Employee Ownership Trusts, Marcora/CFI:* siehe Kapitel 8 und 19. **Bestätigt.**
+*Employee Ownership Trusts, Marcora/CFI:* siehe Kapitel 8 und 20. **Bestätigt.**
 
-*Artikel 15 GG, Investitionsschutz:* siehe Kapitel 17. **Bestätigt.**
+*Artikel 15 GG, Investitionsschutz:* siehe Kapitel 18. **Bestätigt.**
 
 *Hayek:* Friedrich August von Hayek, „The Pretence of Knowledge" (Nobelvortrag 1974) und *Law, Legislation and Liberty* (1973–1979) – im Text als Position referiert. Für den zehnten Einwand zusätzlich: ders., „The Non Sequitur of the ‚Dependence Effect'", in: *Southern Economic Journal* 27 (1961), H. 4, S. 346–348, gegen John Kenneth Galbraith, *The Affluent Society* (1958). Siehe Kapitel 14.
 
@@ -182,4 +182,4 @@ Was der Liberale allerdings nicht behalten darf, ist die Behauptung, der Status 
 
 *Der zwölfte Einwand samt Antwort – Verteilung der Beleglast und Terminierung der Gesamtwette – ist eine Selbstprüfung dieses Buches.* **Wertung.**
 
-*Der dreizehnte Einwand:* Die Konstruktionsregel zur Abwählbarkeit, die Subsidiaritätsklage und die Beschränkung auf die Begründungskontrolle stehen mit ihren Belegen in Kapitel 16; die Justiziabilität der Marktfreiheiten durch private Kläger und die Grenzen der Nichtigkeitsklage in Kapitel 22. Einwand, Entgegnungen und Konzession sind **Wertung** und Selbstprüfung dieses Buches.
+*Der dreizehnte Einwand:* Die Konstruktionsregel zur Abwählbarkeit, die Subsidiaritätsklage und die Beschränkung auf die Begründungskontrolle stehen mit ihren Belegen in Kapitel 16; die Justiziabilität der Marktfreiheiten durch private Kläger und die Grenzen der Nichtigkeitsklage in Kapitel 23. Einwand, Entgegnungen und Konzession sind **Wertung** und Selbstprüfung dieses Buches.

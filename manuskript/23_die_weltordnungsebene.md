@@ -1,4 +1,4 @@
-# Zweiundzwanzigstes Kapitel
+# Dreiundzwanzigstes Kapitel
 
 ## Die Weltordnungsebene
 
@@ -16,7 +16,7 @@ Die übliche Frage lautet, ob das Kapital im Ausland eine solche Konstruktion ni
 
 *Der genossenschaftliche Sektor ist der am wenigsten angreifbare Teil der ganzen Ordnung.* Ein Maschinenbauer in Ostwestfalen, der seiner Belegschaft gehört, hat keine börsennotierten Anteile, keine Übernahmefläche, keinen Schiedsgegner und kein Rating. Er konkurriert auf Produktmärkten wie jeder andere Mittelständler, und wer ihm schaden will, muss ihn unterbieten. Der Asset Lock ist, nüchtern betrachtet, auch eine Übernahmeabwehrvorrichtung – das ist nicht sein Zweck, aber seine Wirkung. Ein Land mit einem großen vermögensgebundenen Sektor hat schlicht weniger von sich selbst zu verkaufen.
 
-*Der Allmende-Sektor ist die exponierteste Stelle,* und zwar genau dort, wo das siebzehnte Kapitel es gezeigt hat: Konzessionen, Netzübernahmen, Vergaberecht, Schiedsverfahren. Wo ein ausländischer Eigentümer beteiligt ist, wird jede Verschiebung von Eigentumsrechten zu einem völkerrechtlichen Vorgang.
+*Der Allmende-Sektor ist die exponierteste Stelle,* und zwar genau dort, wo das achtzehnte Kapitel es gezeigt hat: Konzessionen, Netzübernahmen, Vergaberecht, Schiedsverfahren. Wo ein ausländischer Eigentümer beteiligt ist, wird jede Verschiebung von Eigentumsrechten zu einem völkerrechtlichen Vorgang.
 
 *Die Fondsfamilie liegt dazwischen* – angreifbar über Kapitalmarkt-, Beihilfe- und Binnenmarktrecht, nicht über Kapitalflucht, weil sie keine Kredite aufnimmt und keine Garantien gibt.
 
@@ -30,7 +30,7 @@ Der erste ist die Währung. Mitterrands Zwang war der Franc im Europäischen Wä
 
 Und der ist der zweite Grund. Zinsaufschläge disziplinieren nur ein Programm, das Schulden braucht. Dieses braucht kaum welche: Der Steuerhebel kostet verschobene Einnahmen statt Ausgaben, der Nachfolgekanal ist revolvierender Kredit, die Erbschaftsteuerreform bringt Anteile statt Geld und belastet gar keinen Haushalt. Ein Reformpfad, der fiskalisch unspektakulär ist, bietet dem Anleihemarkt wenig Angriffsfläche. Das war nicht der Zweck der Konstruktion – es ist ihre Nebenwirkung, und sie ist erheblich.
 
-Dazu kommt der taktische Befund aus dem einundzwanzigsten Kapitel: Die Sequenzierung erzeugt kein Enteignungsereignis, gegen das sich international mobilisieren ließe. Niemand organisiert eine Kampagne gegen den Verkauf von Betrieben, für die es keine Käufer gibt.
+Dazu kommt der taktische Befund aus dem zweiundzwanzigsten Kapitel: Die Sequenzierung erzeugt kein Enteignungsereignis, gegen das sich international mobilisieren ließe. Niemand organisiert eine Kampagne gegen den Verkauf von Betrieben, für die es keine Käufer gibt.
 
 Und die Symmetrieregel verlangt die Gegenfrage, sonst ist die Prüfung schief: *exponiert im Vergleich wozu?* Der Status quo ist demonstrativ verwundbar durch ausländische Kapitalmacht, und zwar nicht hypothetisch. Wohnungsbestände in der Hand börsennotierter Gesellschaften mit ausländischen Ankerinvestoren; fremdfinanzierte Übernahmen im Mittelstand, bei denen der Kaufpreis dem gekauften Unternehmen als Schuld aufgebürdet wird; die Erosion der Mitbestimmung über europäische und ausländische Rechtsformen. Die Frage lautet also nicht, ob die polyzentrische Ordnung angreifbar ist, sondern ob sie es *mehr* ist als das Bestehende. Auf mindestens einer Dimension ist die Antwort eindeutig nein.
 
@@ -60,7 +60,7 @@ Bemerkenswert ist dabei, dass ein Kläger für die Zuständigkeitsordnung bereit
 
 ### Der Investitionsschutz: die Wand, die nicht rostet
 
-Die härteste Grenze ist zugleich besonders lehrreich, und der dritte Werktag des siebzehnten Kapitels ist ihr bereits begegnet.
+Die härteste Grenze ist zugleich besonders lehrreich, und der dritte Werktag des achtzehnten Kapitels ist ihr bereits begegnet.
 
 Neben dem Grundgesetz steht ein Parallelrechtsweg. Völkerrechtliche Verträge erlauben ausländischen Investoren, einen Staat vor einem internationalen Schiedsgericht zu verklagen, wenn dessen Maßnahmen ihre Investition entwerten – und diese Schiedsgerichte messen nicht an der Entschädigungsabwägung des Artikels 14 des Grundgesetzes, sondern am vollen Marktwert. Vattenfall verlangte im ICSID-Verfahren wegen des Atomausstiegs rund 4,7 Milliarden Euro; der Vergleich vom März 2021 kostete den Bund 1,425 Milliarden an Vattenfall und 880 Millionen an RWE. Deutschland ist aus dem Energiecharta-Vertrag ausgetreten, wirksam im Juni 2025, aber dessen Sunset-Klausel schützt Altinvestitionen weitere zwanzig Jahre, und bilaterale Investitionsschutzabkommen kommen hinzu.
 
@@ -100,7 +100,7 @@ Die Antwort ist unheroisch und liegt in geltendem Recht. Man macht die Unterwerf
 
 *Und der CO2-Grenzausgleich,* seit dem 1. Januar 2026 in der Zahlungsphase, tut etwas, das sich in der Sprache dieses Buches sehr genau beschreiben lässt: **Er erzeugt im Ausland einen Interessenten für die eigene Regel.** Wer nach Europa exportiert, hat plötzlich Grund, einen heimischen CO2-Preis zu wollen, weil der ihm angerechnet wird. Das ist dieselbe Logik über die Grenze getragen, und es ist derselbe Zug wie beim Export der Rechtsformen, nur mit dem Zollsatz statt mit der Mustersatzung.
 
-Der Einwand dagegen ist besonders scharf und wird nicht kleingeredet: Das ist Druck der Starken auf die Schwachen, ökologischer Protektionismus mit moralischem Vorzeichen, und er trifft die, die am wenigsten verursacht haben. Der Einwand trifft, und er ist nicht auflösbar, sondern nur begrenzbar – Rückerstattung des Aufkommens an die betroffenen Länder, Übergangsfristen nach Leistungsfähigkeit, und die Beschränkung des Hebels auf Regeln, die im eigenen Rechtsraum gleichermaßen gelten. Wer ihn darüber hinaus benutzt, betreibt Handelspolitik und nennt sie Ordnung. Dass die Grenze zwischen beidem unscharf ist, ist eine Eigenschaft des Instruments; der Eintrag steht im fünfundzwanzigsten Kapitel.
+Der Einwand dagegen ist besonders scharf und wird nicht kleingeredet: Das ist Druck der Starken auf die Schwachen, ökologischer Protektionismus mit moralischem Vorzeichen, und er trifft die, die am wenigsten verursacht haben. Der Einwand trifft, und er ist nicht auflösbar, sondern nur begrenzbar – Rückerstattung des Aufkommens an die betroffenen Länder, Übergangsfristen nach Leistungsfähigkeit, und die Beschränkung des Hebels auf Regeln, die im eigenen Rechtsraum gleichermaßen gelten. Wer ihn darüber hinaus benutzt, betreibt Handelspolitik und nennt sie Ordnung. Dass die Grenze zwischen beidem unscharf ist, ist eine Eigenschaft des Instruments; der Eintrag steht im sechsundzwanzigsten Kapitel.
 
 Das ist mehr als eine Absichtserklärung, weil es an vorhandene Träger anknüpft statt an zu gründende. Aber all das beantwortet nur die Frage, was hält – nicht die, woran auch das Halten nichts ändert: die Konkurrenz der Staaten untereinander.
 
@@ -112,7 +112,7 @@ Der zweite Teil stimmt. Der erste verdient eine genauere Behandlung, denn die Th
 
 *Die leninistische Fassung,* nach Lenins Lehre vom Imperialismus als höchstem Stadium des Kapitalismus – Monopolkapital, Zwang zum Kapitalexport, Aufteilung der Welt, daraus zwangsläufig Krieg –, scheitert an ihrem eigenen Testfall. Wenn Staaten kriegerisch wären, *weil* sie kapitalistisch sind, dürften sozialistische Staaten einander nicht bekriegen. Sie haben es getan, mehrfach und in kurzer Folge: an der sowjetisch-chinesischen Grenze 1969, in Indochina 1978 und 1979. Das ist strukturell derselbe Befund wie im ganzen Buch – die Eigentumsform war nicht die Variable. In dieser Fassung bestätigt der Einwand die Methode, statt die Ordnung zu treffen.
 
-*Die anarchistische Fassung* – der Staat als solcher ist das Problem, unabhängig von seinem Klassencharakter – trifft härter und wird in diesem Buch nicht widerlegt, sondern als Dissens ausgewiesen. Sie ist in der Einleitung angesprochen und steht im Ledger des fünfundzwanzigsten Kapitels. Wer den Staat für die Quelle des Problems hält, hat gegen diesen Entwurf kein Argument verloren, sondern eine andere Ausgangsannahme.
+*Die anarchistische Fassung* – der Staat als solcher ist das Problem, unabhängig von seinem Klassencharakter – trifft härter und wird in diesem Buch nicht widerlegt, sondern als Dissens ausgewiesen. Sie ist in der Einleitung angesprochen und steht im Ledger des sechsundzwanzigsten Kapitels. Wer den Staat für die Quelle des Problems hält, hat gegen diesen Entwurf kein Argument verloren, sondern eine andere Ausgangsannahme.
 
 *Die strukturelle Fassung* aber ist die, auf die dieses Buch keine Antwort hat. Sie lautet: Zwischen Staaten herrscht Anarchie im technischen Sinn – es gibt keine übergeordnete Instanz –, daraus folgt das Sicherheitsdilemma, in dem die Verteidigungsmaßnahme des einen die Bedrohung des anderen ist, und daraus folgen Rüstung und Krieg.
 
@@ -158,7 +158,7 @@ Die Gegenprobe gehört dazu, und sie ist ernst zu nehmen. Der stärkste Einwand 
 
 Die Antwort ist eine Konzession und keine Widerlegung. Dieses Buch löst das Sicherheitsdilemma nicht und behauptet es nicht. Es bestreitet nur, dass die Konzentrationslösung eine Lösung ist, die diese Ordnung sich leisten könnte – aus demselben Grund, aus dem sie den revolutionären Weg ablehnt. Was bleibt, ist bescheidener und lautet: **gemeinsamer Rechtsraum ja, gemeinsamer Souverän nein.** Nicht eine Weltregierung, sondern sachlich begrenzte Rechtsräume mit verbindlicher Gerichtsbarkeit, in die man hineinkommt, weil der Zugang zu etwas anderem daran hängt – also die Bauart des vorigen Abschnitts.
 
-Ob das gegen eine Großmacht trägt, ist die offene Frage, und sie steht im fünfundzwanzigsten Kapitel und nicht hier.
+Ob das gegen eine Großmacht trägt, ist die offene Frage, und sie steht im sechsundzwanzigsten Kapitel und nicht hier.
 
 ### Der naheliegende Trost
 
@@ -174,7 +174,7 @@ Der ernsthafte Einwand dagegen lautet, hier werde das Falsche gemessen. Die Skal
 
 Nur kostet diese Korrektur mehr, als sie einbringt. Denn wenn kriegführende Demokratien als konzentriert gelten, weil in ihnen Vermögen konzentriert ist, und die Kriege zwischen sozialistischen Staaten als konzentriert, weil dort der Engpass herrschte, dann ist kein Krieg der Geschichte mehr ein Gegenbeleg. Eine These, die jeden Fall als Bestätigung verbucht, weil sich jeder kriegführende Staat im Nachhinein als konzentriert beschreiben lässt, hat keinen Gegner mehr. Das ist dieselbe Stellung, die das vierzehnte Kapitel dem Bedürfnistribunal verweigert, nur mit anderem Gegenstand: Wer nach dem Krieg entscheidet, ob ein Staat konzentriert genug war, hat kein Kriterium, sondern ein Urteil.
 
-Prüfbar wird die These erst, wenn sie innerhalb der Gruppe misst – wenn also die weniger konzentrierten unter den gewählten Regierungen zurückhaltender sein müssten als die stärker konzentrierten. Diese Prüfung ist möglich, und die verfügbaren Fälle sprechen nicht für sie. In der Luftkampagne über Libyen 2011 stellten Kanada, Norwegen und Dänemark zusammen etwa zwölf Prozent der Flugzeuge und flogen rund ein Drittel der Angriffe; auf Norwegen entfielen etwa zehn Prozent aller Angriffsflüge, auf Dänemark elf. Norwegen ist dabei kein beliebiger Fall, sondern der nächste lebende Verwandte der Fondsfamilie des zwanzigsten Kapitels: eine der egalitärsten Vermögensverteilungen der entwickelten Welt und ein staatlicher Fonds, der den Ölertrag für alle hält. Wenn verteilte Macht zurückhaltend machte, hätte dieses Land am wenigsten bombardieren müssen. Es hat überproportional bombardiert.
+Prüfbar wird die These erst, wenn sie innerhalb der Gruppe misst – wenn also die weniger konzentrierten unter den gewählten Regierungen zurückhaltender sein müssten als die stärker konzentrierten. Diese Prüfung ist möglich, und die verfügbaren Fälle sprechen nicht für sie. In der Luftkampagne über Libyen 2011 stellten Kanada, Norwegen und Dänemark zusammen etwa zwölf Prozent der Flugzeuge und flogen rund ein Drittel der Angriffe; auf Norwegen entfielen etwa zehn Prozent aller Angriffsflüge, auf Dänemark elf. Norwegen ist dabei kein beliebiger Fall, sondern der nächste lebende Verwandte der Fondsfamilie des einundzwanzigsten Kapitels: eine der egalitärsten Vermögensverteilungen der entwickelten Welt und ein staatlicher Fonds, der den Ölertrag für alle hält. Wenn verteilte Macht zurückhaltend machte, hätte dieses Land am wenigsten bombardieren müssen. Es hat überproportional bombardiert.
 
 Auch die Zeitreihe stützt die These nicht. Die amerikanische Einkommens- und Vermögenskonzentration war in den fünfziger und sechziger Jahren geringer als vorher und nachher – und in dieses Fenster fällt der Schwerpunkt der siebzig Regimewechselversuche, die für die Zeit von 1947 bis 1989 gezählt sind. Was die Beteiligung an solchen Einsätzen besser erklärt als die innere Machtverteilung, sind Bündniszugehörigkeit, Stellung im Staatensystem und Gelegenheit.
 
@@ -190,7 +190,7 @@ Das lässt sich rechnen, und für dieses Buch ist es gerechnet worden. Die Verte
 
 Die Entscheidungsregel stand vor der Rechnung fest, weil eine Kennzahl ohne Schwelle nichts falsifiziert – auch nicht die eigene Hoffnung –, und sie lautet: nicht gestützt. Sie lautet nicht: widerlegt. Der Unterschied ist der ganze Ertrag dieser Rechnung, und er ist bescheiden. **Das Vorzeichen stimmt in jeder Fassung, und in keiner trägt es.**
 
-Zwei Auswege gäbe es noch, und beide werden nicht genommen. Der eine: Die Verteilungsgröße hängt eng am Wohlstand, und ohne die Kontrollen ist der Zusammenhang deutlich – nur hieße das, den kapitalistischen Frieden als eigenen Befund zu verbuchen, und das ist eine andere These als diese. Der andere: Diese Daten sehen nur den sichtbaren Teil, verdeckte Eingriffe stehen nicht darin, und die Wirkung könnte gerade dort liegen. Das ist zulässig und stand vor der Rechnung geschrieben; ein Vorbehalt, der erst nach einem unerwünschten Ergebnis wächst, ist kein Vorbehalt, sondern eine Ausrede. Der Eintrag bleibt deshalb, wo er steht – im fünfundzwanzigsten Kapitel, unter den Fragen, über die niemand etwas weiß –, jetzt mit einem Ergebnis statt bloß mit einem Verfahren.
+Zwei Auswege gäbe es noch, und beide werden nicht genommen. Der eine: Die Verteilungsgröße hängt eng am Wohlstand, und ohne die Kontrollen ist der Zusammenhang deutlich – nur hieße das, den kapitalistischen Frieden als eigenen Befund zu verbuchen, und das ist eine andere These als diese. Der andere: Diese Daten sehen nur den sichtbaren Teil, verdeckte Eingriffe stehen nicht darin, und die Wirkung könnte gerade dort liegen. Das ist zulässig und stand vor der Rechnung geschrieben; ein Vorbehalt, der erst nach einem unerwünschten Ergebnis wächst, ist kein Vorbehalt, sondern eine Ausrede. Der Eintrag bleibt deshalb, wo er steht – im sechsundzwanzigsten Kapitel, unter den Fragen, über die niemand etwas weiß –, jetzt mit einem Ergebnis statt bloß mit einem Verfahren.
 
 ### Was diese Ordnung beiträgt, und was nicht
 
@@ -236,7 +236,7 @@ Das ist keine Entschuldigung, sondern die einzige verfügbare Form von Redlichke
 
 *Kapitalverkehrsfreiheit:* Artikel 63 AEUV gilt nicht nur im Verhältnis zwischen Mitgliedstaaten, sondern auch gegenüber Drittstaaten. **Bestätigt** als geltende Vertragslage.
 
-*Beihilfe- und Vergaberecht:* CFI-Kofinanzierung nach der Beanstandung von 2001 auf eins zu eins umgestellt (Belege in Kapitel 19); Lebenszykluskosten und Trägerpräferenz im Vergaberecht (Belege in den Kapiteln 14 und 19). **Bestätigt.**
+*Beihilfe- und Vergaberecht:* CFI-Kofinanzierung nach der Beanstandung von 2001 auf eins zu eins umgestellt (Belege in Kapitel 20); Lebenszykluskosten und Trägerpräferenz im Vergaberecht (Belege in den Kapiteln 14 und 19). **Bestätigt.**
 
 *Erosion der Mitbestimmung über europäische und ausländische Rechtsformen:* Sebastian Sick, *Erosion der Unternehmensmitbestimmung*, Mitbestimmungsreport Nr. 81, Hans-Böckler-Stiftung, Juni 2024 – 2022 mindestens 2,45 Mio. Beschäftigte ohne paritätische Mitbestimmung, 256 Unternehmen mit legalen Umgehungskonstruktionen. **Bestätigt.**
 

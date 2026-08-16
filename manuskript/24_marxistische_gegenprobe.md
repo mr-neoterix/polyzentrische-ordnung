@@ -1,4 +1,4 @@
-# Dreiundzwanzigstes Kapitel
+# Vierundzwanzigstes Kapitel
 
 ## Die marxistische Gegenprobe
 
@@ -32,11 +32,11 @@ Die Antwort ist dreiteilig.
 
 *Das Varianz-Argument:* Ein Staat, der nur Ausschuss der Kapitalistenklasse wäre, hätte niemals progressive Einkommensteuer, Kartellrecht, Sozialversicherung und Mitbestimmung eingeführt – lauter Kämpfe, die Kapitalfraktionen erbittert geführt und verloren haben. Die These gilt als Tendenz, nicht als Identität, und Tendenzen haben Spielräume. Das sechste Kapitel hat dafür den Begriff geliefert: Die Übersetzungsrate von Geld in Macht ist eine institutionelle Variable.
 
-*Die Sequenzierung,* die im einundzwanzigsten Kapitel ausbuchstabiert ist: Chile und Mitterrand scheiterten an frontalen Verstaatlichungsprogrammen in makroökonomisch verwundbarer Lage. Der Nachfolgeweg ist deren strukturelle Umkehrung – er beginnt dort, wo das Kapital ohnehin verkaufen will.
+*Die Sequenzierung,* die im zweiundzwanzigsten Kapitel ausbuchstabiert ist: Chile und Mitterrand scheiterten an frontalen Verstaatlichungsprogrammen in makroökonomisch verwundbarer Lage. Der Nachfolgeweg ist deren strukturelle Umkehrung – er beginnt dort, wo das Kapital ohnehin verkaufen will.
 
-*Und die Meidner-Lektion in ihrer doppelten Form:* individuelle Berechtigung nicht nur als Legitimation, sondern als Bestandsschutz gegen die nächste Mehrheit. Wobei das zwanzigste Kapitel gezeigt hat, dass dieser Schutz schwächer ist als behauptet und Eigenleistung braucht, um zu tragen.
+*Und die Meidner-Lektion in ihrer doppelten Form:* individuelle Berechtigung nicht nur als Legitimation, sondern als Bestandsschutz gegen die nächste Mehrheit. Wobei das einundzwanzigste Kapitel gezeigt hat, dass dieser Schutz schwächer ist als behauptet und Eigenleistung braucht, um zu tragen.
 
-Die härtere Fassung dieses Einwands zielt allerdings nicht auf den einzelnen Staat, sondern auf das Staatensystem: dass dessen Konkurrenzstellung unweigerlich Kriege erzeuge und eine Eigentumsordnung daran nichts ändere. Sie wird hier nicht abgewiesen, sondern hat ein eigenes Kapitel bekommen – das zweiundzwanzigste –, und sie geht dort besonders schwer für dieses Buch aus.
+Die härtere Fassung dieses Einwands zielt allerdings nicht auf den einzelnen Staat, sondern auf das Staatensystem: dass dessen Konkurrenzstellung unweigerlich Kriege erzeuge und eine Eigentumsordnung daran nichts ändere. Sie wird hier nicht abgewiesen, sondern hat ein eigenes Kapitel bekommen – das dreiundzwanzigste –, und sie geht dort besonders schwer für dieses Buch aus.
 
 ### 3. Der Wertform-Einwand (Wertkritik, Postone)
 
@@ -54,7 +54,7 @@ Der Sektorenwettbewerb sei nicht fair, weil kulturelle Vorherrschaft die Präfer
 
 Der Einwand ist ernst und wird konzediert – deshalb sind Medienpluralisierung und Konzentrationsrecht in dieser Ordnung tragendes Element und nicht Dekoration.
 
-Aber es gibt eine Entgegnung, die ein genuin marxistisches Argument gegen den Marxisten wendet: *Das Sein bestimmt das Bewusstsein.* Wer Mitglied einer Wohnungsgenossenschaft ist, in einem Belegschaftsbetrieb arbeitet und seinen Strom aus einer Energiegemeinschaft bezieht, entwickelt andere Selbstverständlichkeiten als der Mieter, Angestellte und Kunde. Die materiellen Institutionen des Sektors *sind* die Infrastruktur der Gegenhegemonie – so wie die Arbeiterbewegungskultur des neunzehnten Jahrhunderts aus Konsumvereinen, Volkshäusern und Genossenschaftsbanken wuchs und nicht aus Schriften.
+Aber es gibt eine Entgegnung, die ein genuin marxistisches Argument gegen den Marxisten wendet: *Das Sein bestimmt das Bewusstsein.* Wer Mitglied einer Wohnungsgenossenschaft ist, in einem Belegschaftsbetrieb arbeitet und seinen Strom aus einer Energiegemeinschaft bezieht, entwickelt andere Selbstverständlichkeiten als der Mieter, Angestellte und Kunde. Die materiellen Institutionen des Sektors *sind* die Infrastruktur der Gegenhegemonie – so wie die Arbeiterbewegungskultur des zwanzigsten Jahrhunderts aus Konsumvereinen, Volkshäusern und Genossenschaftsbanken wuchs und nicht aus Schriften.
 
 Diese Ordnung wartet nicht, bis das Bewusstsein sich ändert, um die Verhältnisse zu ändern. Sie ändert Verhältnisse, damit Bewusstsein sich ändern kann. Hegemonie ist ein Schlachtfeld, kein Verdikt.
 
@@ -112,7 +112,7 @@ Und nun ein fälliges Zugeständnis – ohne es geriete dieses Kapitel in genau 
 
 Der Einwand hat eine respektable ökonomische Fassung, und sie kommt nicht von links. N. Gregory Mankiw und Michael Whinston haben 1986 gezeigt, dass Markteintritt bei festen Eintrittskosten systematisch zu häufig stattfindet, weil ein Eintretender den Umsatz, den er den Etablierten wegnimmt, für sich zählt und nicht für die Gesellschaft – der *business stealing effect*. Und die Theorie der Produktvielfalt seit Spence sowie Dixit und Stiglitz zeigt, dass der Markt je nach Nachfragebedingungen zu viele *oder* zu wenige Varianten hervorbringt. Es ist also keineswegs ausgemacht, dass achtzig Zahnbürsten die richtige Zahl sind.
 
-Nur ist ebenso wenig ausgemacht, dass drei es wären, und niemand kann die Zahl ausrechnen. Damit steht die Sache dort, wo dieses Buch sie aushalten muss: Der Einwand hat gezeigt, dass ein Optimum existiert und dass niemand es kennt. Wer daraus eine Zuständigkeit ableitet, hat aus einem Nichtwissen ein Amt gemacht. Der Eintrag steht im fünfundzwanzigsten Kapitel.
+Nur ist ebenso wenig ausgemacht, dass drei es wären, und niemand kann die Zahl ausrechnen. Damit steht die Sache dort, wo dieses Buch sie aushalten muss: Der Einwand hat gezeigt, dass ein Optimum existiert und dass niemand es kennt. Wer daraus eine Zuständigkeit ableitet, hat aus einem Nichtwissen ein Amt gemacht. Der Eintrag steht im sechsundzwanzigsten Kapitel.
 
 Was konstruktiv folgt, ist trotzdem nicht nichts, und es steht im vierzehnten Kapitel: die Pflicht zur gemeinsamen Schnittstelle, die gestaffelte Werbeabgabe und das Nutzereigentum. Der gemeinsame Nenner der drei ist eine Verschiebung der Frage. Nicht wie viele Varianten es geben darf, sondern wie viel eigene Welt jede Variante mitbringen muss; nicht ob Menschen zu viel kaufen, sondern wer das Wettrüsten still mitfinanziert; und nicht ob Vielfalt zu teuer ist, sondern wer ihre Kosten trägt. **Wo jemand die Kosten der Vielfalt selbst trägt, wählt er sie ab; wo niemand sie trägt, darf niemand sie abwählen.**
 
@@ -194,7 +194,7 @@ Der Anarchist hat diese Blöße nicht. Er hat eine andere: Er hat keine Übergan
 
 Und damit die ehrliche Form dessen, was dieses Buch behauptet – sie ist schwächer, als sie bisher klang, und dadurch haltbarer. **Es muss nicht beweisen, dass Staaten notwendig sind. Es muss nur feststellen, dass niemand einen Weg hat.** Das ist dieselbe Zurückhaltung, mit der es gegen Marx argumentiert: nicht „euer Ziel ist falsch", sondern „euer Weg ist besichtigt".
 
-Was als Dissens bleibt, bleibt, und er steht im fünfundzwanzigsten Kapitel. Wer den Staat für die Quelle des Problems hält, hat gegen dieses Buch kein Argument verloren, sondern eine andere Ausgangsannahme – und er behält die bessere Anthropologie. Dieser Text behält nur die Frage nach dem Weg – und die hat der Anarchismus bisher nicht beantwortet.
+Was als Dissens bleibt, bleibt, und er steht im sechsundzwanzigsten Kapitel. Wer den Staat für die Quelle des Problems hält, hat gegen dieses Buch kein Argument verloren, sondern eine andere Ausgangsannahme – und er behält die bessere Anthropologie. Dieser Text behält nur die Frage nach dem Weg – und die hat der Anarchismus bisher nicht beantwortet.
 
 Einen konstruktiven Ertrag hat der Einwand außerdem, und er ist erheblich: Der anthropologische Befund verdient nicht eine Abwehr, sondern eine Konstruktionsregel. Sie steht im sechzehnten Kapitel und kehrt die Beweislast der Subsidiarität um.
 
@@ -260,7 +260,7 @@ Die Antwort darauf ist kein Trost, sondern eine Feststellung: Erlösung stand ni
 
 *Programm der 1000 kleinen Dinge:* Das sechste Plenum des Zentralkomitees der SED befasste sich 1959 mit dem „Programm der 1000 kleinen Dinge des täglichen Bedarfs", das der Ministerrat 1960 förmlich beschloss; Anlass war der landesweite Mangel an Gegenständen wie Dosenöffnern, Wäscheklammern, Schuhanziehern, Eierbechern und Sieben, nachdem die Planung sich auf „hochwertige Konsumgüter" konzentriert hatte. **Bestätigt** hinsichtlich Programm, Gremien, Datierung und Mangelgegenständen. Die Deutung – wer Sortimente nach Planwert ordnet, verliert nicht die überflüssige, sondern die unauffällige Variante – ist **Wertung** dieses Buches.
 
-*Übermäßiger Markteintritt und Produktvielfalt:* N. Gregory Mankiw / Michael D. Whinston, „Free Entry and Social Inefficiency", in: *RAND Journal of Economics* 17 (1986), H. 1, S. 48–58 – bei festen Eintrittskosten und homogenen Gütern tendiert freier Marktzutritt zu übermäßigem Eintritt, weil der Eintretende den den Etablierten entzogenen Absatz privat, aber nicht gesellschaftlich zählt (*business stealing effect*). Zur Vielfalt: A. Michael Spence, „Product Selection, Fixed Costs, and Monopolistic Competition", in: *Review of Economic Studies* 43 (1976), H. 2, S. 217–235; Avinash K. Dixit / Joseph E. Stiglitz, „Monopolistic Competition and Optimum Product Diversity", in: *American Economic Review* 67 (1977), H. 3, S. 297–308. **Bestätigt** hinsichtlich Fundstellen und Befunden. Die im Text gezogene Folgerung – ein Optimum existiert, aber niemand kann es ausrechnen, weshalb aus dem Nichtwissen keine Zuständigkeit folgen darf – ist **Wertung** dieses Buches und steht als Ledger-Eintrag in Kapitel 25.
+*Übermäßiger Markteintritt und Produktvielfalt:* N. Gregory Mankiw / Michael D. Whinston, „Free Entry and Social Inefficiency", in: *RAND Journal of Economics* 17 (1986), H. 1, S. 48–58 – bei festen Eintrittskosten und homogenen Gütern tendiert freier Marktzutritt zu übermäßigem Eintritt, weil der Eintretende den den Etablierten entzogenen Absatz privat, aber nicht gesellschaftlich zählt (*business stealing effect*). Zur Vielfalt: A. Michael Spence, „Product Selection, Fixed Costs, and Monopolistic Competition", in: *Review of Economic Studies* 43 (1976), H. 2, S. 217–235; Avinash K. Dixit / Joseph E. Stiglitz, „Monopolistic Competition and Optimum Product Diversity", in: *American Economic Review* 67 (1977), H. 3, S. 297–308. **Bestätigt** hinsichtlich Fundstellen und Befunden. Die im Text gezogene Folgerung – ein Optimum existiert, aber niemand kann es ausrechnen, weshalb aus dem Nichtwissen keine Zuständigkeit folgen darf – ist **Wertung** dieses Buches und steht als Ledger-Eintrag in Kapitel 26.
 
 *Die Pflicht zur gemeinsamen Schnittstelle, die gestaffelte Werbeabgabe und das Nutzereigentum als Antwort auf die Doppelung:* siehe Kapitel 14, dort mit Fundstellen und Verifikationsstatus.
 

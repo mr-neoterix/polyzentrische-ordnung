@@ -26,7 +26,7 @@ Der Unterschied ist grundsätzlich, und er folgt aus dem achten Kapitel. Eine Fe
 
 Drei Sterblichkeitsregeln trägt diese Ordnung.
 
-*Progressive Erbschaftsbesteuerung oberhalb hoher Freibeträge,* wahlweise zahlbar in Unternehmensanteilen. Die Konstruktion und ihre erheblichen rechtlichen Probleme sind Gegenstand des zwanzigsten Kapitels. Der Grundgedanke ist einfach: Reichtum darf entstehen und muss beim Generationenwechsel wenigstens teilweise wieder in Bewegung geraten.
+*Progressive Erbschaftsbesteuerung oberhalb hoher Freibeträge,* wahlweise zahlbar in Unternehmensanteilen. Die Konstruktion und ihre erheblichen rechtlichen Probleme sind Gegenstand des einundzwanzigsten Kapitels. Der Grundgedanke ist einfach: Reichtum darf entstehen und muss beim Generationenwechsel wenigstens teilweise wieder in Bewegung geraten.
 
 Dazu gehört allerdings eine zweite Frage, die in der deutschen Debatte fast nie gestellt wird, obwohl sie über die Wirkung der ersten entscheidet: nicht *wie viel* der Staat nimmt, sondern *wem gegenüber er darauf verzichtet*. Das Erbschaftsteuerrecht teilt die Erwerber in drei Steuerklassen, und das Kriterium ist die Abstammung. Der Ehegatte hat einen Freibetrag von 500.000 Euro, das Kind von 400.000, der Enkel von 200.000; wer nicht verwandt ist, hat 20.000 und den höchsten Tarif. Wer jahrelang gepflegt hat, ohne verwandt zu sein, bleibt Erwerber dritter Klasse; wer nie da war, aber Kind ist, ist Erwerber erster Klasse. Daneben steht, fast wie ein Eingeständnis, ein eigener Freibetrag für Pflegeleistungen von 20.000 Euro – ein Zwanzigstel dessen, was die Abstammung wert ist, und er muss eigens beantragt werden.
 
@@ -36,7 +36,7 @@ Die naheliegende Korrektur wäre, das Anknüpfungsmerkmal auszutauschen: Steuerk
 
 Also wird nicht ersetzt, sondern erweitert. **Die Sorge tritt neben die Abstammung, statt sie abzulösen.** Wer einen Menschen über Jahre gepflegt hat, wird erbschaftsteuerlich wie ein Angehöriger behandelt, gleichgültig ob er einer ist. Der Nachweis läuft über Feststellungen, die es ohnehin gibt – Pflegegrad und Begutachtung durch den Medizinischen Dienst –, und er wird einmal geführt, im Erbfall, gegenüber einer Behörde, die ohnehin prüft. Das Bauteil ist damit von der billigen Sorte: eine Regel, die einmal wirkt und danach von selbst, ohne Register, ohne neue Institution, ohne laufende Aufsicht.
 
-Zwei Grenzen gehören dazu. *Die erste ist fiskalisch:* Eine Erweiterung kostet Aufkommen, sie bringt keines. Dieses Bauteil ist keine Einnahmequelle, sondern eine Gleichstellung – was Aufkommen bringt, ist der Wegfall der pauschalen Verschonung oberhalb hoher Freibeträge, und der steht im zwanzigsten Kapitel. *Die zweite ist grundsätzlicher:* Die Regel wirkt nur dort, wo etwas zu erben ist. Wer einen Menschen ohne Vermögen pflegt, hat von ihr nichts. Sie beseitigt eine Ungleichbehandlung, sie schließt die Sorgefrage nicht – was offenbleibt, sagt das fünfzehnte Kapitel.
+Zwei Grenzen gehören dazu. *Die erste ist fiskalisch:* Eine Erweiterung kostet Aufkommen, sie bringt keines. Dieses Bauteil ist keine Einnahmequelle, sondern eine Gleichstellung – was Aufkommen bringt, ist der Wegfall der pauschalen Verschonung oberhalb hoher Freibeträge, und der steht im einundzwanzigsten Kapitel. *Die zweite ist grundsätzlicher:* Die Regel wirkt nur dort, wo etwas zu erben ist. Wer einen Menschen ohne Vermögen pflegt, hat von ihr nichts. Sie beseitigt eine Ungleichbehandlung, sie schließt die Sorgefrage nicht – was offenbleibt, sagt das fünfzehnte Kapitel.
 
 *Vermögensbindung als attraktiver Ausgang.* Wer sein Lebenswerk nicht an einen Finanzinvestor verkaufen will, soll eine Rechtsform vorfinden, die es dauerhaft bindet. Genau hier liegt allerdings die Falle, um die es gleich gehen wird.
 
@@ -58,7 +58,7 @@ Der Unterschied ist der ganze Mechanismus, wie schon beim Sterberecht des Allmen
 
 *Bei den ökologischen Budgetpreisen* – Preisen, die die ökologischen Folgekosten eines Produkts von vornherein einrechnen – stehen die Träger im vierzehnten Kapitel: Versicherer, Recycler, Poolbetreiber und klagebefugte Betroffene haben ein konzentriertes eigenes Interesse an ihrem Bestand.
 
-Und dann die Stelle, an der die Anweisung *nicht* eingelöst werden kann, weil sich kein Träger findet: das Medienkonzentrationsrecht. An der Vielfalt von Medieneigentum hat niemand ein konzentriertes materielles Interesse – die Nutznießer sind alle, die Betroffenen sind wenige und wohlhabend. Es bleibt eine Regel ohne Kläger, und damit die klassisch rostanfällige. Das ist keine Nachlässigkeit dieses Entwurfs, sondern eine Eigenschaft des Gegenstands; sie steht im fünfundzwanzigsten Kapitel.
+Und dann die Stelle, an der die Anweisung *nicht* eingelöst werden kann, weil sich kein Träger findet: das Medienkonzentrationsrecht. An der Vielfalt von Medieneigentum hat niemand ein konzentriertes materielles Interesse – die Nutznießer sind alle, die Betroffenen sind wenige und wohlhabend. Es bleibt eine Regel ohne Kläger, und damit die klassisch rostanfällige. Das ist keine Nachlässigkeit dieses Entwurfs, sondern eine Eigenschaft des Gegenstands; sie steht im sechsundzwanzigsten Kapitel.
 
 ### Die Falle: ein halb gebauter Riegel
 

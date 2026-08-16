@@ -34,7 +34,7 @@ Ein Vorbehalt gehört sofort dazu, weil er das ganze Kapitel begrenzt und am End
 
 In Ordnungsentwürfen wird Subsidiarität gewöhnlich als Wertentscheidung geführt: Nähe sei gut, Ferne schlecht, kleine Einheiten menschlicher. Das ist zu wenig, denn eine Wertentscheidung lässt sich mit einer anderen beantworten – etwa mit der ebenso plausiblen, dass Gleichheit der Lebensverhältnisse einheitliche Regeln verlangt. So geführt endet der Streit dort, wo er anfängt.
 
-Es gibt eine bessere Begründung, und sie ist empirisch. Das dreiundzwanzigste Kapitel behandelt den Einwand, die Menschheit sei die längste Zeit ihrer Geschichte ohne Staaten ausgekommen – ein Einwand, der zutrifft: Staatlichkeit bedeckt weniger als zwei Prozent der Geschichte der Gattung. Was diese staatenlosen Ordnungen trugen, waren Reputation, Ächtung, Verwandtschaftspflicht, abgestufte Sanktion und Konfliktverfahren, und sie trugen zuverlässig – bei kleiner Zahl. Ostroms Fälle zeigen dasselbe für die Gegenwart: Allmenden, die seit Jahrhunderten ohne staatliche Aufsicht bestehen, umfassen Dutzende bis Hunderte von Nutzern.
+Es gibt eine bessere Begründung, und sie ist empirisch. Das vierundzwanzigste Kapitel behandelt den Einwand, die Menschheit sei die längste Zeit ihrer Geschichte ohne Staaten ausgekommen – ein Einwand, der zutrifft: Staatlichkeit bedeckt weniger als zwei Prozent der Geschichte der Gattung. Was diese staatenlosen Ordnungen trugen, waren Reputation, Ächtung, Verwandtschaftspflicht, abgestufte Sanktion und Konfliktverfahren, und sie trugen zuverlässig – bei kleiner Zahl. Ostroms Fälle zeigen dasselbe für die Gegenwart: Allmenden, die seit Jahrhunderten ohne staatliche Aufsicht bestehen, umfassen Dutzende bis Hunderte von Nutzern.
 
 Daraus folgt eine Asymmetrie im Wissensstand, und sie ist die eigentliche Begründung der Subsidiarität. **Selbstverwaltung ohne formale Autorität ist bei kleiner Zahl über Jahrtausende demonstriert und bei großer Zahl undemonstriert.** Das ist keine Präferenz, sondern ein Befund über die Beweislage – und wer eine Ordnung unter Unsicherheit baut, sollte den Mechanismus dort einsetzen, wo er nachweislich funktioniert, und nur dort etwas anderes verlangen, wo er nachweislich nicht reicht.
 
@@ -44,7 +44,7 @@ Und daraus folgt eine Verfahrensregel, die in keinem deutschen Kommunalrecht ste
 
 Zentralisierung geschieht fast nie durch Beschluss. Sie geschieht durch Zuständigkeitsverschiebung im Einzelfall, jede für sich plausibel begründet, jede für sich zu klein für öffentliche Aufmerksamkeit – dieselbe Mechanik, mit der Regeln rosten, nur in die andere Richtung. Eine Beweislastregel greift genau dort an: Sie macht aus tausend unauffälligen Verschiebungen tausend begründungspflichtige Vorgänge. Sie verhindert die Zentralisierung nicht, aber sie verteuert sie und macht sie sichtbar, und mehr kann eine Verfahrensregel nicht.
 
-Zwei Grenzen gehören dazu. Die Regel sagt nicht, wo im Einzelfall die Grenze des Tragfähigen liegt; das bleibt eine Abwägung, sie ist nur nicht mehr voraussetzungslos. Und sie gilt nicht nach oben ohne Ende: Das zweiundzwanzigste Kapitel zeigt, dass Polyzentrik ohne gemeinsamen Rechtsraum keine Einhegung erzeugt, sondern Krieg. Subsidiarität ist ein Prinzip innerhalb einer Rechtsordnung, nicht ein Argument gegen sie.
+Zwei Grenzen gehören dazu. Die Regel sagt nicht, wo im Einzelfall die Grenze des Tragfähigen liegt; das bleibt eine Abwägung, sie ist nur nicht mehr voraussetzungslos. Und sie gilt nicht nach oben ohne Ende: Das dreiundzwanzigste Kapitel zeigt, dass Polyzentrik ohne gemeinsamen Rechtsraum keine Einhegung erzeugt, sondern Krieg. Subsidiarität ist ein Prinzip innerhalb einer Rechtsordnung, nicht ein Argument gegen sie.
 
 ### Warum die Gemeinde funktioniert – und woran sie scheitert
 
@@ -80,7 +80,7 @@ Der Unterschied liegt nicht im Prinzip, sondern in der Adresse. **Eine Rüge an 
 
 Also gehören zur Beweislastumkehr zwei Bestimmungen, ohne die sie Dekoration bleibt. *Ein Kläger:* Die überstimmte Ebene kann die Verlagerung angreifen, nicht nur beanstanden. *Und eine Folge:* Gegenstand der Prüfung ist die Begründung, nicht die Zweckmäßigkeit – nachprüfbar ist nicht, ob die Aufgabe oben besser aufgehoben ist, sondern ob die Behauptung, sie sei es, an Tatsachen anschließt. Wer diesen Nachweis nicht führt, verliert den Kompetenztitel.
 
-Die Beschränkung auf die Begründung ist zugleich die Antwort auf den Einwand, das verrechtliche die Politik – und sie ist zugegebenermaßen dünn, weil die Grenze zwischen Begründung und Sache unscharf ist und Gerichte sie verschieben. Das ist ein Preis, kein Einwand, und er steht im fünfundzwanzigsten Kapitel.
+Die Beschränkung auf die Begründung ist zugleich die Antwort auf den Einwand, das verrechtliche die Politik – und sie ist zugegebenermaßen dünn, weil die Grenze zwischen Begründung und Sache unscharf ist und Gerichte sie verschieben. Das ist ein Preis, kein Einwand, und er steht im sechsundzwanzigsten Kapitel.
 
 ### Ein Sterberecht für Verwaltungen
 
@@ -144,7 +144,7 @@ Das vollständigste Verfahren, das es dafür gibt, stammt aus Kanada. Der Oberst
 
 Als Bauteil: klare Frage, vorab bestimmte Mehrheitsschwelle, beiderseitige Verhandlungspflicht, vorher festgelegte Regeln für die Teilung von Schulden, Vermögen und Verträgen, und eine gerichtliche Kontrolle der Klarheit, nicht des Ergebnisses.
 
-Der Einwand dagegen ist von beiden Flanken derselbe und ernst: Ein ausgeschriebenes Trennungsverfahren lade zur Trennung ein und belohne die Erpressung durch reiche Regionen. Die Antwort ist nur zur Hälfte gut – ein Verfahren mit hohen Klarheitsanforderungen und beidseitiger Verhandlungspflicht ist teurer als eine Drohung und billiger als ein Bruch. Ob das im Einzelfall stimmt, weiß niemand; Kanada ist ein Fall und kein Beleg. Warum diese Konstruktion trotzdem festgehalten wird, zeigt das zweiundzwanzigste Kapitel, wo sie als einziges vorhandenes Muster für das fehlende vierte Bauteil der internationalen Ebene wiederkehrt.
+Der Einwand dagegen ist von beiden Flanken derselbe und ernst: Ein ausgeschriebenes Trennungsverfahren lade zur Trennung ein und belohne die Erpressung durch reiche Regionen. Die Antwort ist nur zur Hälfte gut – ein Verfahren mit hohen Klarheitsanforderungen und beidseitiger Verhandlungspflicht ist teurer als eine Drohung und billiger als ein Bruch. Ob das im Einzelfall stimmt, weiß niemand; Kanada ist ein Fall und kein Beleg. Warum diese Konstruktion trotzdem festgehalten wird, zeigt das dreiundzwanzigste Kapitel, wo sie als einziges vorhandenes Muster für das fehlende vierte Bauteil der internationalen Ebene wiederkehrt.
 
 Wo es kein Verfahren für die Trennung gibt, gibt es trotzdem eines.
 
@@ -202,7 +202,7 @@ Die einzige Antwort, die nicht auf Gesinnung setzt, lautet: die Reparaturfähigk
 
 Eine Ordnung, deren Fortbestand von der Überzeugung ihrer Verwalter abhängt, hat aus der Diagnose nichts gelernt.
 
-Und damit steht der schwerste Einwand gegen dieses Kapitel da – einer, der sich gegen seine eigene Konstruktion richtet: Ein Klagerecht ist selbst eine Regel. Man kann es abschaffen, verkürzen, mit Fristen und Zulässigkeitshürden aushöhlen – das zweiundzwanzigste Kapitel führt den Beweis an einem europäischen Beispiel vor, an dem eine Rechtsordnung genau das über Jahrzehnte getan hat, ohne je einen Beschluss darüber zu fassen. Der Unterschied zwischen einem Klagerecht und einem Eigentumsrecht ist also gradueller Art und nicht kategorialer.
+Und damit steht der schwerste Einwand gegen dieses Kapitel da – einer, der sich gegen seine eigene Konstruktion richtet: Ein Klagerecht ist selbst eine Regel. Man kann es abschaffen, verkürzen, mit Fristen und Zulässigkeitshürden aushöhlen – das dreiundzwanzigste Kapitel führt den Beweis an einem europäischen Beispiel vor, an dem eine Rechtsordnung genau das über Jahrzehnte getan hat, ohne je einen Beschluss darüber zu fassen. Der Unterschied zwischen einem Klagerecht und einem Eigentumsrecht ist also gradueller Art und nicht kategorialer.
 
 Die Antwort darauf ist die von eben, und sie ist der ganze Vorsprung: Eine Regel mit Kläger stirbt durch sichtbaren Beschluss, eine Regel ohne Kläger durch Unterlassen. Er ist real, und er ist kleiner, als die Analogie zum Eigentum nahelegt.
 
@@ -218,7 +218,7 @@ Damit steht als Ergebnis, was am Anfang dieses Kapitels als Frage stand: **Die p
 
 *Schürer-Papier:* siehe Kapitel 2.
 
-*Anthropologische Grundlage der Subsidiarität:* Alter der Gattung, Staatsentstehung und die Debatte um Graeber/Wengrow sind in Kapitel 23 belegt. **Bestätigt** hinsichtlich der Tatsachengrundlage. Die Ableitung einer Konstruktionsregel und der Beweislastumkehr daraus ist **Wertung** dieses Buches.
+*Anthropologische Grundlage der Subsidiarität:* Alter der Gattung, Staatsentstehung und die Debatte um Graeber/Wengrow sind in Kapitel 24 belegt. **Bestätigt** hinsichtlich der Tatsachengrundlage. Die Ableitung einer Konstruktionsregel und der Beweislastumkehr daraus ist **Wertung** dieses Buches.
 
 *Ostrom:* siehe Kapitel 5 und 7. **Bestätigt.** Der Begriff der Polyzentrik selbst stammt aus der Untersuchung *politischer* Zuständigkeiten: Vincent Ostrom, Charles M. Tiebout und Robert Warren, „The Organization of Government in Metropolitan Areas. A Theoretical Inquiry", in: *The American Political Science Review* 55 (1961), H. 4, S. 831–842; Vincent Ostrom hat später ausgewiesen, dass er ihn Michael Polanyi (*The Logic of Liberty*, 1951) verdankt. **Bestätigt.**
 
