@@ -37,6 +37,58 @@ jobs:
       - name: Quellen holen
         uses: actions/checkout@v4
 
+      # Jeder Satz auf dem Hauptzweig bekommt eine eigene Nummer, und die
+      # Nummer steht im Dateinamen wie in der Marke. Gezählt wird an den
+      # vorhandenen Marken selbst, nicht an einer Datei im Baum: So braucht
+      # der Lauf keinen Schritt, der ins Verzeichnis zurückschreibt, und eine
+      # gelöschte Veröffentlichung gibt ihre Nummer nicht wieder frei,
+      # solange ihre Marke steht.
+      - name: Ausgabenummer bestimmen
+        id: nummer
+        env:
+          GH_TOKEN: ${{ github.token }}
+          STANDARDZWEIG: ${{ github.event.repository.default_branch }}
+        run: |
+          set -uo pipefail
+          marken=$(
+            {
+              gh release list --repo "$GITHUB_REPOSITORY" --limit 200 \
+                --json tagName --jq '.[].tagName' 2>/dev/null || true
+              git ls-remote --tags --refs origin 'v1.*' 2>/dev/null \
+                | sed 's#.*refs/tags/##' || true
+            }
+          )
+          hoechste=$(printf '%s\n' "$marken" \
+            | grep -E '^v1\.[0-9]+$' \
+            | cut -d. -f2 \
+            | sort -n \
+            | tail -1)
+          if [ -z "${hoechste:-}" ]; then
+            naechste=0
+          else
+            naechste=$((hoechste + 1))
+          fi
+
+          # Veröffentlicht – und damit gezählt – wird nur der Hauptzweig.
+          # Alles andere ist ein Entwurf und trägt statt der Nummer den
+          # Quellstand, damit auch diese Dateien auseinanderzuhalten sind.
+          if [ "$GITHUB_EVENT_NAME" != "pull_request" ] \
+             && [ "$GITHUB_REF_NAME" = "$STANDARDZWEIG" ]; then
+            kennung="1.${naechste}"
+            veroeffentlichen=ja
+          else
+            kennung="entwurf-${GITHUB_SHA:0:7}"
+            veroeffentlichen=nein
+          fi
+
+          {
+            echo "kennung=${kennung}"
+            echo "marke=v${kennung}"
+            echo "veroeffentlichen=${veroeffentlichen}"
+            echo "datei=build/polyzentrische-ordnung-manuskript-${kennung}.pdf"
+          } >> "$GITHUB_OUTPUT"
+          echo "Diese Ausgabe: ${kennung}"
+
       - name: Satzwerkzeuge einrichten
         run: |
           sudo apt-get update -qq
@@ -51,62 +103,80 @@ jobs:
             poppler-utils
 
       - name: Buch setzen
-        run: python3 satz/build.py
+        run: python3 satz/build.py --ausgabe '${{ steps.nummer.outputs.datei }}'
 
       - name: Ergebnis vermerken
+        env:
+          PDF: ${{ steps.nummer.outputs.datei }}
+          KENNUNG: ${{ steps.nummer.outputs.kennung }}
         run: |
-          pdf=build/polyzentrische-ordnung-manuskript.pdf
-          seiten=$(pdfinfo "$pdf" | awk '/^Pages:/ {print $2}')
-          groesse=$(du -h "$pdf" | cut -f1)
+          seiten=$(pdfinfo "$PDF" | awk '/^Pages:/ {print $2}')
+          groesse=$(du -h "$PDF" | cut -f1)
           {
             echo "### Manuskript gesetzt"
             echo
             echo "| | |"
             echo "|---|---|"
+            echo "| Ausgabe | ${KENNUNG} |"
             echo "| Seiten | ${seiten} |"
             echo "| Umfang | ${groesse} |"
             echo "| Quellstand | \`${GITHUB_SHA:0:7}\` |"
             echo
-            echo "Das PDF hängt als Artefakt **manuskript-pdf** an diesem Lauf."
+            echo "Das PDF hängt als Artefakt **manuskript-pdf-${KENNUNG}** an diesem Lauf."
           } >> "$GITHUB_STEP_SUMMARY"
 
       - name: PDF als Artefakt ablegen
         uses: actions/upload-artifact@v4
         with:
-          name: manuskript-pdf
-          path: build/polyzentrische-ordnung-manuskript.pdf
+          name: manuskript-pdf-${{ steps.nummer.outputs.kennung }}
+          path: ${{ steps.nummer.outputs.datei }}
           if-no-files-found: error
 
       # Ein Artefakt ist nur mit Anmeldung erreichbar und verfällt. Damit das
-      # Buch von außen sichtbar bleibt, hängt es zusätzlich an einer rollenden
-      # Veröffentlichung des Hauptzweigs: Die Marke bleibt stehen, der Anhang
-      # wird bei jedem Satz ersetzt. Der Verweis darauf ist deshalb dauerhaft.
-      - name: Veröffentlichung aktualisieren
-        if: github.event_name != 'pull_request' && github.ref_name == github.event.repository.default_branch
+      # Buch von außen sichtbar bleibt, bekommt jeder Satz des Hauptzweigs
+      # eine eigene Veröffentlichung unter der Marke seiner Nummer. Die
+      # jüngste ist zugleich die „latest"; der Dauerverweis führt also
+      # weiterhin auf den letzten Stand, sagt aber jetzt, welcher es ist.
+      - name: Veröffentlichung anlegen
+        if: steps.nummer.outputs.veroeffentlichen == 'ja'
         env:
           GH_TOKEN: ${{ github.token }}
-          MARKE: manuskript-aktuell
+          PDF: ${{ steps.nummer.outputs.datei }}
+          KENNUNG: ${{ steps.nummer.outputs.kennung }}
+          MARKE: ${{ steps.nummer.outputs.marke }}
         run: |
-          pdf=build/polyzentrische-ordnung-manuskript.pdf
+          set -eu
           stand=$(sed -n 's/^\*Manuskript\. \(Stand: .*\)\.\*$/\1/p' manuskript/00_inhalt.md | head -1)
-          seiten=$(pdfinfo "$pdf" | awk '/^Pages:/ {print $2}')
+          seiten=$(pdfinfo "$PDF" | awk '/^Pages:/ {print $2}')
+
+          # Derselbe Satz noch einmal unter festem Namen: Der Verweis auf
+          # „latest/download/polyzentrische-ordnung-manuskript.pdf" bleibt
+          # damit gültig, obwohl die eigentliche Datei ihre Nummer trägt.
+          fester_name=build/polyzentrische-ordnung-manuskript.pdf
+          cp "$PDF" "$fester_name"
+
+          titel="Manuskript ${KENNUNG}"
+          if [ -n "$stand" ]; then
+            titel="${titel} (${stand})"
+          fi
           notiz=$(printf '%s\n' \
-            "Das Manuskript als Buch-PDF – ${stand:-ohne Standangabe}, ${seiten} Seiten." \
+            "Das Manuskript als Buch-PDF – Ausgabe ${KENNUNG}, ${stand:-ohne Standangabe}, ${seiten} Seiten." \
             "" \
-            "Gesetzt aus \`${GITHUB_SHA:0:7}\`. Diese Veröffentlichung rollt: Ihr Anhang ist" \
-            "immer der zuletzt gesetzte Stand des Hauptzweigs, die Marke selbst bleibt stehen." \
+            "Gesetzt aus \`${GITHUB_SHA:0:7}\`. Jeder Satz des Hauptzweigs bekommt eine eigene" \
+            "Veröffentlichung; die Nummer zählt um eins hoch und steht im Dateinamen." \
+            "" \
+            "Derselbe Satz liegt zusätzlich unter dem festen Namen" \
+            "\`polyzentrische-ordnung-manuskript.pdf\` bei, damit der Dauerverweis auf die" \
+            "jeweils letzte Ausgabe gültig bleibt." \
             "" \
             "Geändert wird im Markdown unter \`manuskript/\`, nicht im PDF.")
-          if gh release view "$MARKE" > /dev/null 2>&1; then
-            gh release upload "$MARKE" "$pdf" --clobber
-            gh release edit "$MARKE" --title "Manuskript – aktueller Stand" --notes "$notiz" --latest
-          else
-            gh release create "$MARKE" "$pdf" \
-              --target "$GITHUB_SHA" \
-              --title "Manuskript – aktueller Stand" \
-              --notes "$notiz" \
-              --latest
-          fi
+
+          gh release create "$MARKE" "$PDF" "$fester_name" \
+            --repo "$GITHUB_REPOSITORY" \
+            --target "$GITHUB_SHA" \
+            --title "$titel" \
+            --notes "$notiz" \
+            --latest
 
       # Scheitert der Satz, ist der zusammengesetzte Quelltext das, woran man
       # den Fehler sieht – deshalb wird er dann mitgegeben.

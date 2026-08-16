@@ -4,19 +4,48 @@ Hier liegt, was aus den Kapiteldateien in `manuskript/` ein Buch-PDF macht.
 Der Satz läuft bei jeder Änderung am Manuskript automatisch
 (`.github/workflows/manuskript-pdf.yml`).
 
-Das Ergebnis geht zwei Wege. Jeder Lauf hängt es als Artefakt
-`manuskript-pdf` unter *Actions* an – auch für Zweige und Pull Requests,
-aber nur mit Anmeldung erreichbar und nach neunzig Tagen verfallen. Läuft
-der Satz auf dem Hauptzweig, wandert es zusätzlich an die Veröffentlichung
-unter der Marke `manuskript-aktuell`, und die ist ohne Anmeldung offen. Ihr
-Verweis bleibt derselbe, während sich der Anhang ändert:
+Das Ergebnis geht zwei Wege. Jeder Lauf hängt es als Artefakt unter
+*Actions* an – auch für Zweige und Pull Requests, aber nur mit Anmeldung
+erreichbar und nach neunzig Tagen verfallen. Läuft der Satz auf dem
+Hauptzweig, bekommt er zusätzlich eine Veröffentlichung, und die ist ohne
+Anmeldung offen.
+
+## Die Ausgabenummer
+
+Jeder Satz des Hauptzweigs zählt eine Nummer der Form `1.x` hoch: `1.0`,
+`1.1`, `1.2`. Sie steht an drei Stellen, damit sich zwei heruntergeladene
+Dateien unterscheiden lassen, ohne sie zu öffnen – im Dateinamen
+(`polyzentrische-ordnung-manuskript-1.3.pdf`), in der Marke (`v1.3`) und im
+Titel der Veröffentlichung (`Manuskript 1.3 (Stand: …)`).
+
+Gezählt wird nicht in einer Datei des Verzeichnisses, sondern an den
+vorhandenen Marken: Der Lauf sucht die höchste Marke der Form `v1.x` und
+nimmt die nächste. Das erspart einen Schritt, der in den Baum
+zurückschreibt, und eine gelöschte Veröffentlichung gibt ihre Nummer nicht
+wieder frei, solange ihre Marke steht. Wer eine Nummer überspringen will,
+legt von Hand eine Marke an; wer sie zurücksetzen will, muss die höheren
+Marken löschen.
+
+Was nicht auf dem Hauptzweig läuft – Zweige und Pull Requests –, bekommt
+keine Nummer, sondern den Quellstand: `…-entwurf-a1b2c3d.pdf`. Nur
+Veröffentlichtes wird gezählt.
+
+Der Verweis auf die jeweils letzte Ausgabe bleibt trotzdem derselbe, denn
+jede neue Veröffentlichung wird zur „latest":
+
+```
+https://github.com/mr-neoterix/polyzentrische-ordnung/releases/latest
+```
+
+Dazu liegt jeder Veröffentlichung derselbe Satz ein zweites Mal unter dem
+festen Namen `polyzentrische-ordnung-manuskript.pdf` bei, damit auch der
+Verweis unmittelbar auf die Datei gültig bleibt:
 
 ```
 https://github.com/mr-neoterix/polyzentrische-ordnung/releases/latest/download/polyzentrische-ordnung-manuskript.pdf
 ```
 
-Die Marke bleibt dabei stehen, wo sie angelegt wurde; aus welchem Stand das
-PDF gesetzt wurde, sagt der Text der Veröffentlichung.
+Wer die Nummer lesen will, nimmt die andere der beiden Dateien.
 
 | Datei | Aufgabe |
 |---|---|
