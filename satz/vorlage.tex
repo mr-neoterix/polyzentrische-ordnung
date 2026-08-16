@@ -5,10 +5,18 @@
 % Tabellen, Bilder und Listen, deshalb kommt der Satz mit wenigen Paketen
 % aus – das hält die Installation klein und den Lauf schnell.
 
+% Gesetzt wird zweiseitig: Die erste Seite ist eine rechte, danach wechseln
+% sich linke und rechte Seiten ab. Daran hängen drei Dinge – der Bundsteg
+% (innen mehr Rand als außen), die Seite des Kolumnentitels und der
+% Seitenzahl (beide wechseln mit) und die Regel, dass Teile und Kapitel auf
+% einer rechten Seite anfangen. Eingeschobene Leerseiten bleiben ganz leer,
+% ohne Kolumnentitel und ohne Zahl.
 \documentclass[
   fontsize=11pt,
   paper=148mm:210mm,
-  oneside,
+  twoside,
+  open=right,
+  cleardoublepage=empty,
   parskip=false,
 ]{scrbook}
 
@@ -20,9 +28,17 @@
 % A4-Stand mitgeschrumpft: 108 mm Zeilenbreite tragen bei 11 pt Pagella rund
 % sechsundfünfzig Zeichen und damit eine lesbare Zeile; unten steht mehr Rand
 % als oben, damit die Seite nicht kippt.
+%
+% Seit dem zweiseitigen Satz heißen die seitlichen Ränder nicht mehr links
+% und rechts, sondern innen und außen, und sie sind ungleich: Der Bund
+% schluckt einen Teil des inneren Randes, also bekommt er ihn zugelegt.
+% Zusammen bleiben es dieselben 40 mm, die Zeilenbreite also dieselben
+% 108 mm; nur der Textblock rückt auf jeder Seite ein Stück von der Mitte
+% des Bogens weg.
 \usepackage[
   paperwidth=148mm, paperheight=210mm,
-  top=18mm, bottom=22mm, left=20mm, right=20mm,
+  twoside=true,
+  top=18mm, bottom=22mm, inner=22mm, outer=18mm,
   headsep=6mm, footskip=12mm,
 ]{geometry}
 
@@ -80,6 +96,18 @@
 % Kolumnentitel
 % --------------------------------------------------------------------------
 
+% Der Kolumnentitel steht innen, die Seitenzahl außen – und beide wechseln
+% mit der Seite: Auf der linken Seite liegt außen links, auf der rechten
+% außen rechts. Das besorgen \ihead und \ohead von selbst, sobald zweiseitig
+% gesetzt wird; sie meinen innen und außen, nicht links und rechts.
+%
+% Der Kolumnentitel sagt dabei auf jeder Seite etwas anderes, und das ist
+% der eigentliche Gewinn des zweiseitigen Satzes: Links steht das Kapitel,
+% rechts der Abschnitt – vom Allgemeinen zum Besonderen, wie das
+% aufgeschlagene Buch gelesen wird. Zwei Marken tragen das. \kapitel setzt
+% beide auf den Kapiteltitel, jeder Abschnitt überschreibt danach die
+% rechte; die linke bleibt bis zum nächsten Kapitel stehen.
+
 \usepackage{scrlayer-scrpage}
 \clearpairofpagestyles
 \setkomafont{pagehead}{\normalfont\footnotesize\itshape\color{leise}}
@@ -88,7 +116,8 @@
 \ohead{\pagemark}
 % Das eckige Argument gilt für den Seitenstil „plain“: Auf Kapitelanfängen
 % steht kein Kolumnentitel, die Seitenzahl aber sehr wohl – sonst verliert
-% man beim Blättern die Orientierung.
+% man beim Blättern die Orientierung. Sie steht dort mittig und braucht
+% deshalb als einzige nicht mit der Seite zu wechseln.
 \cfoot[\pagemark]{}
 \pagestyle{scrheadings}
 \renewcommand*{\chapterpagestyle}{plain}
@@ -146,9 +175,11 @@
 
 \makeatletter
 
-% Ein Kapitelanfang: Bezeichnung als Zeile darüber, Titel darunter.
+% Ein Kapitelanfang: Bezeichnung als Zeile darüber, Titel darunter. Kapitel
+% fangen auf einer rechten Seite an; wo eine linke frei bleibt, bleibt sie
+% ganz frei.
 \newcommand{\kapitel}[2]{%
-  \clearpage
+  \cleardoublepage
   \phantomsection
   \thispagestyle{plain}%
   \vspace*{0.08\textheight}%
@@ -164,9 +195,11 @@
   \@afterindentfalse\@afterheading
 }
 
-% Eine Teilseite: allein auf der Seite, ohne Kolumnentitel.
+% Eine Teilseite: allein auf einer rechten Seite, ohne Kolumnentitel; die
+% linke Seite dahinter bleibt frei, damit das erste Kapitel des Teils wieder
+% rechts anfängt.
 \newcommand{\teil}[1]{%
-  \clearpage
+  \cleardoublepage
   \phantomsection
   \thispagestyle{empty}%
   \null\vspace*{0.24\textheight}%
@@ -181,7 +214,7 @@
 
 % Ein Vorspannabschnitt: wie ein Kapitel, aber schlichter.
 \newcommand{\vorspann}[1]{%
-  \clearpage
+  \cleardoublepage
   \phantomsection
   \thispagestyle{plain}%
   \vspace*{0.04\textheight}%
@@ -255,6 +288,7 @@
   $endif$
 \end{titlepage}
 
+% Die Rückseite des Titelblatts – die erste linke Seite des Buches.
 \thispagestyle{empty}
 \null\vfill
 {\footnotesize\color{leise}\raggedright
@@ -264,7 +298,7 @@
   \vspace{0.7em}
   $if(fassung)$Quellstand: \texttt{$fassung$}$if(satzdatum)$, $satzdatum$$endif$.\par$endif$
 }
-\clearpage
+\cleardoublepage
 
 \pagestyle{scrheadings}
 \pdfbookmark[0]{Inhalt}{inhalt}

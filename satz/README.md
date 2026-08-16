@@ -28,6 +28,32 @@ Papierformat und Satzspiegel stehen im Kopf von `vorlage.tex` beieinander;
 wer das eine ändert, muss das andere mitziehen, sonst steht der Text
 verloren auf der Seite oder läuft aus ihr heraus.
 
+## Linke und rechte Seiten
+
+Gesetzt wird zweiseitig. Die erste Seite ist eine rechte; danach wechseln
+sich linke und rechte ab, und was am Rand steht, wechselt mit. Die
+Seitenzahl steht außen, also auf der linken Seite links und auf der rechten
+Seite rechts; der Kolumnentitel steht innen, zum Bund hin. Nur die Zahl auf
+den Kapitelanfängen bleibt, wo sie ist: Sie steht unten in der Mitte und
+kennt deshalb keine Seite.
+
+Der Kolumnentitel sagt links und rechts Verschiedenes – links das Kapitel,
+rechts der Abschnitt. Das ist der eigentliche Gewinn des zweiseitigen
+Satzes: Vorher stand auf jeder Seite dasselbe, nämlich der Abschnitt.
+
+Die Ränder sind nicht mehr gleich. Innen stehen 22 mm, außen 18 mm, weil
+der Bund einen Teil des inneren Randes verschluckt; zusammen bleiben es
+dieselben 40 mm wie vorher, die Zeile also gleich lang.
+
+Teile und Kapitel fangen auf einer rechten Seite an. Trifft es sich nicht,
+bleibt die linke Seite davor frei – ganz frei, ohne Kolumnentitel und ohne
+Zahl. Das kostet Papier: Aus 346 Seiten werden 369, dreiundzwanzig davon
+leer. Wer das nicht will, tauscht in `vorlage.tex` die Klassenoption
+`open=right` gegen `open=any` und in den Befehlen `\kapitel`, `\teil` und
+`\vorspann` das `\cleardoublepage` gegen `\clearpage` – dann fangen Kapitel
+an, wo das vorige aufhört, und die Zählung der Seiten bleibt trotzdem
+zweiseitig.
+
 ## Örtlich bauen
 
 ```
