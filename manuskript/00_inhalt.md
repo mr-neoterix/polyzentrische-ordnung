@@ -4,7 +4,7 @@
 
 **Marcel Richtsteiger**
 
-*Manuskript. Stand: 12. August 2026.*
+*Manuskript. Stand: 15. August 2026.*
 
 ---
 
@@ -50,7 +50,7 @@ Am Ende steht kein Zielzustand. Wer einen sucht, wird enttäuscht werden, und di
 
 *10. Drei Sektoren, die nebeneinander konkurrieren.* Die Grundfigur, ihre Größenordnungen und die Zumutung der ehrlichen Rechnung.
 
-*11. Die Verfassung des Belegschaftssektors.* Warum der unverkäufliche Betrieb allein in den Ruin führt, und was die andere Hälfte des baskischen Modells ist.
+*11. Die Verfassung des Belegschaftssektors.* Die beiden Traditionslinien, in denen die Konstruktion steht – die deutsche und die, an deren Ende Mondragón steht –, und was sie unterscheidet: warum der unverkäufliche Betrieb allein in den Ruin führt, und was die andere Hälfte des baskischen Modells ist.
 
 *12. Der Allmende-Sektor und sein Sterberecht.* Die gefährlichste Stelle der Ordnung: dort, wo sie sich am sichersten fühlt.
 
@@ -62,33 +62,35 @@ Am Ende steht kein Zielzustand. Wer einen sucht, wird enttäuscht werden, und di
 
 *16. Die politische Architektur und die Bedingung des Exits.* Was an die Stelle des Eigentums tritt, wenn eine Zuständigkeit niemandem gehört: Subsidiarität – nicht als Vorliebe für Nähe, sondern aus dem anthropologischen Befund hergeleitet und mit umgekehrter Beweislast –, warum die Gemeinde nicht funktioniert, weil sie klein ist, sondern weil sie klagen kann, ein Sterberecht für Verwaltungen, die Frage, wen man wieder los wird, Losgremien, Daten und Hirschmans doppelte Lehre.
 
-*17. Drei Werktage.* Ein Maschinenbauer ohne Nachfolger, ein Stadtwerk mit Sterberecht, ein Wohnungsbestand und die Wand des Investitionsschutzes.
+*17. Der Sozialstaat als Bauteil.* Warum die Voraussetzung des härtesten Mechanismus dieser Ordnung als einzige nie geprüft wurde – die Krankenkassen als der polyzentrischste Teil des deutschen Staates und die Rentenversicherung als sein weichster, eine Selbstverwaltung, der 2009 die eigene Einnahme genommen wurde, drei Stufen der Sicherung statt einer, und die Frage, wer eine Einrichtung verteidigt, auf die alles Übrige gebaut ist.
+
+*18. Drei Werktage.* Ein Maschinenbauer ohne Nachfolger, ein Stadtwerk mit Sterberecht, ein Wohnungsbestand und die Wand des Investitionsschutzes.
 
 **Teil V – Der Weg**
 
-*18. Sechs Tests und die Bausteine, die schon da sind.* Woran man einen Weg von einem Wunsch unterscheidet.
+*19. Sechs Tests und die Bausteine, die schon da sind.* Woran man einen Weg von einem Wunsch unterscheidet.
 
-*19. Stufe eins: das Zeitfenster.* Der Nachfolgekanal aus Steuerhebel, Finanzierung, Andienungsrecht und ein paar hundert ausgebildeten Menschen.
+*20. Stufe eins: das Zeitfenster.* Der Nachfolgekanal aus Steuerhebel, Finanzierung, Andienungsrecht und ein paar hundert ausgebildeten Menschen.
 
-*20. Stufe zwei: Erbschaftsteuer, Belegschaftstreuhand, Fondsfamilie.* Die schwierigste Konstruktionsfrage des Buches und die Rechtsordnung, die sie begrenzt.
+*21. Stufe zwei: Erbschaftsteuer, Belegschaftstreuhand, Fondsfamilie.* Die schwierigste Konstruktionsfrage des Buches und die Rechtsordnung, die sie begrenzt.
 
-*21. Stufe drei, die Kosten und die Koalitionen.* Was der Weg wirklich kostet, wer verliert, und woran man erkennt, dass er gescheitert ist.
+*22. Stufe drei, die Kosten und die Koalitionen.* Was der Weg wirklich kostet, wer verliert, und woran man erkennt, dass er gescheitert ist.
 
 **Teil VI – Die äußere Ebene**
 
-*22. Die Weltordnungsebene.* Wo der Umsetzungspfad endet und die Ordnung nicht: drei sehr ungleiche Angriffsflächen, die juristische statt der ökonomischen Zermürbung, der Investitionsschutz als Regelwerk, das nicht rostet, ein europäischer Rechtsraum, der gebaut und einseitig möbliert ist, die Export- statt Verteidigungsstrategie und ihre Fortsetzung – Marktzugang gegen Gerichtsstand –, warum daraus trotzdem keine Weltregierung folgt, und am Ende der Befund, dass das internationale System polyzentrisch und trotzdem die gewalttätigste Ordnung der Welt ist. Das Kapitel benennt seine eigene Fortsetzung.
+*23. Die Weltordnungsebene.* Wo der Umsetzungspfad endet und die Ordnung nicht: drei sehr ungleiche Angriffsflächen, die juristische statt der ökonomischen Zermürbung, der Investitionsschutz als Regelwerk, das nicht rostet, ein europäischer Rechtsraum, der gebaut und einseitig möbliert ist, die Export- statt Verteidigungsstrategie und ihre Fortsetzung – Marktzugang gegen Gerichtsstand –, warum daraus trotzdem keine Weltregierung folgt, der Befund, dass das internationale System polyzentrisch und trotzdem die gewalttätigste Ordnung der Welt ist, und die Prüfung des naheliegendsten Trostes: ob eine Ordnung mit verteilter Macht nach außen friedlicher aufträte und ihr Beispiel Nachbarn nach sich zöge. Das Kapitel benennt seine eigene Fortsetzung.
 
 **Teil VII – Die Proben**
 
-*23. Die marxistische Gegenprobe.* Elf Einwände, darunter die Anarchie der Produktion – warum achtzig gleiche Zahnbürsten keine Verschwendung sind und die Planwirtschaften die Doppelarbeit selbst bezahlt haben –, Marx gegen Lassalle als der schärfste, der von innen kommt, der Staatlichkeits-Einwand – die Menschheit kam die längste Zeit ihrer Geschichte ohne Staaten aus – und der Verrechtlichungs-Einwand: Klagen kann, wer einen Anwalt bezahlt.
+*24. Die marxistische Gegenprobe.* Elf Einwände, darunter die Anarchie der Produktion – warum achtzig gleiche Zahnbürsten keine Verschwendung sind und die Planwirtschaften die Doppelarbeit selbst bezahlt haben –, Marx gegen Lassalle als der schärfste, der von innen kommt, der Staatlichkeits-Einwand – die Menschheit kam die längste Zeit ihrer Geschichte ohne Staaten aus – und der Verrechtlichungs-Einwand: Klagen kann, wer einen Anwalt bezahlt.
 
-*24. Die liberale Gegenprobe.* Dreizehn Einwände, die mit Kosten argumentieren statt mit Weltanschauung, und deshalb schwerer wiegen – darunter Hayeks Frage, wer eigentlich entscheidet, welches Bedürfnis echt ist, und der Vorwurf, dieses Buch verletze mit seinen Klagerechten seine eigene Regel über abwählbare Macht.
+*25. Die liberale Gegenprobe.* Dreizehn Einwände, die mit Kosten argumentieren statt mit Weltanschauung, und deshalb schwerer wiegen – darunter Hayeks Frage, wer eigentlich entscheidet, welches Bedürfnis echt ist, und der Vorwurf, dieses Buch verletze mit seinen Klagerechten seine eigene Regel über abwählbare Macht.
 
 **Teil VIII – Der ehrliche Rest**
 
-*25. Offene Flanken.* Das Ehrlichkeits-Ledger, in Klassen getrennt: Grenzen der Reichweite, Stellen ohne Träger, unentschiedene Fragen – mit ausdrücklichem Nachweis, welche frühere Flanke durch welche Änderung der Ordnung geschlossen wurde.
+*26. Offene Flanken.* Das Ehrlichkeits-Ledger, in Klassen getrennt: Grenzen der Reichweite, Stellen ohne Träger, unentschiedene Fragen – mit ausdrücklichem Nachweis, welche frühere Flanke durch welche Änderung der Ordnung geschlossen wurde.
 
-*26. Die Formel.* Verdichtung – und warum am Ende nicht ein Versprechen steht, sondern ein Kriterium.
+*27. Die Formel.* Verdichtung – und warum am Ende nicht ein Versprechen steht, sondern ein Kriterium.
 
 ---
 

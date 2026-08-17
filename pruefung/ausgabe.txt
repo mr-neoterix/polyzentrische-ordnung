@@ -1,0 +1,31 @@
+======================================================================================================================
+PRÜFUNG DER FRIEDENSVERMUTUNG – Ergebnisse nach der Vorregistrierung vom 15.08.2026
+======================================================================================================================
+Panel gesamt 1946-2010: 8843 Staat-Jahre, 180 Staaten
+Hauptgrundgesamtheit (v2x_regime 2/3): 3141 Staat-Jahre, 111 Staaten
+Alternative (v2x_polyarchy >= 0,5):    3148 Staat-Jahre, 111 Staaten
+Verteilungsgröße v2pepwrses in der Hauptgrundgesamtheit: M=1.181  SD=0.756
+
+HAUPTMODELL
+  HAUPTMODELL  Initiierung (GML), t+1          N= 3029  Ereign.= 299  b=-0.3473  SE=0.2194  p=0.113     Effekt=-23.7%
+
+ROBUSTHEIT
+  R1 andere Gruppenabgrenzung (polyarchy)      N= 3036  Ereign.= 300  b=-0.3460  SE=0.2182  p=0.113     Effekt=-23.6%
+  R2a jede Beteiligung statt Initiierung       N= 3045  Ereign.= 708  b=-0.2788  SE=0.1689  p=0.099*    Effekt=-15.4%
+  R2b nur Gewaltanwendung/Krieg                N= 3008  Ereign.= 200  b=-0.3622  SE=0.2474  p=0.143     Effekt=-26.0%
+  R3 COW MID statt GML                         N= 3122  Ereign.= 359  b=-0.2929  SE=0.2310  p=0.205     Effekt=-19.6%
+  R4 Machtanteil statt Großmachtstatus         N= 3029  Ereign.= 299  b=-0.3448  SE=0.2050  p=0.093*    Effekt=-23.0%
+
+ZUSATZ (nicht vorregistriert, nur zur Einordnung)
+  Z1 Jahrestrend statt Jahres-Fixeffekte       N= 3138  Ereign.= 299  b=-0.3407  SE=0.2007  p=0.090*    Effekt=-24.2%
+  Z2 ohne Kontrollen                           N= 3029  Ereign.= 299  b=-0.3079  SE=0.1291  p=0.017**   Effekt=-23.9%
+
+======================================================================================================================
+ENTSCHEIDUNG NACH DER VORREGISTRIERTEN REGEL
+======================================================================================================================
+  (1) Hauptmodell negativ und p < 0,05                : NEIN   (b=-0.3473, p=0.113)
+  (2) mindestens 3 von 4 Robustheitsvarianten desgl.  : NEIN   (0 von 5)
+  (3) Effekt mindestens -10 Prozent relativ           : JA   (-23.7 %)
+
+  ERGEBNIS: NICHT GESTÜTZT
+======================================================================================================================

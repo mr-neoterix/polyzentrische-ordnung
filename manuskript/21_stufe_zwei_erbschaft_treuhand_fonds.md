@@ -1,4 +1,4 @@
-# Zwanzigstes Kapitel
+# Einundzwanzigstes Kapitel
 
 ## Stufe zwei: Erbschaftsteuer, Belegschaftstreuhand, Fondsfamilie
 
@@ -16,7 +16,7 @@ Im Jahr 2024 setzten die deutschen Finanzverwaltungen Erbschaft- und Schenkungst
 
 Diese Zahlen werden in der politischen Debatte regelmäßig falsch benutzt, und deshalb sofort die Einschränkung: Die 17,1 Milliarden sind *kein Steuerausfall in gleicher Höhe*. Sie bezeichnen verschontes Vermögen, nicht entgangene Steuer; wie viel Steuer ohne die Verschonung angefallen wäre, hängt von Freibeträgen, Steuerklassen und Gestaltungsreaktionen ab und ist deutlich weniger. Was die Zahl aber zeigt, ist das Verhältnis: Der Ausnahmebereich ist neben der Regel sehr groß geworden.
 
-Die Privilegierung des Betriebsvermögens hat einen legitimen Kern, und wer ihn bestreitet, argumentiert an der Sache vorbei. Wer ein Unternehmen erbt, hat Vermögen, aber keine Liquidität. Eine Steuer, die in Geld zu zahlen ist, zwingt ihn, Geld aus dem Betrieb zu ziehen oder Anteile zu verkaufen – und eine Steuer, die Betriebe zur Substanzentnahme zwingt, zerstört Arbeitsplätze.
+Die Privilegierung des Betriebsvermögens hat einen legitimen Kern. Wer ein Unternehmen erbt, hat Vermögen, aber keine Liquidität. Eine Steuer, die in Geld zu zahlen ist, zwingt ihn, Geld aus dem Betrieb zu ziehen oder Anteile zu verkaufen – und eine Steuer, die Betriebe zur Substanzentnahme zwingt, zerstört Arbeitsplätze.
 
 Der Reformgedanke dieser Ordnung nimmt diesen Kern ernst und dreht ihn um. *Die Steuer wird nicht in Geld erhoben, das dem Betrieb fehlt, sondern wahlweise in Anteilen, die er ohnehin hat.* Oberhalb hoher Freibeträge entfällt die pauschale Verschonung; stattdessen kann in Unternehmensanteilen gezahlt werden. Kein Euro verlässt den Betrieb.
 
@@ -38,7 +38,7 @@ Wer diesen Weg wählt, baut den Zentralstaat des dritten Kapitels mit anderem Br
 
 ### Zweite Wand: Das Gesellschaftsrecht erlaubt diese Operation nicht
 
-So weit der Gedanke, und an dieser Stelle muss dieses Buch eine eigene frühere Fassung korrigieren, weil sie auf einer Rechtsannahme stand, die das geltende Recht nicht hergibt.
+So weit der Gedanke. An dieser Stelle steht eine Rechtsannahme im Weg, die das geltende Recht nicht hergibt.
 
 Ertragsanspruch und Stimmrecht an *denselben Anteilen* zu trennen – der Fonds bekommt den Ertrag, die Belegschaft die Stimme – verbietet das deutsche Gesellschaftsrecht im Grundsatz. Der Grundsatz heißt *Abspaltungsverbot*: Verwaltungsrechte, insbesondere das Stimmrecht, sind nicht getrennt vom Mitgliedschaftsrecht übertragbar. Für die Personengesellschaft steht er ausdrücklich in § 717 Satz 1 des Bürgerlichen Gesetzbuchs; abtretbar sind nur reine Vermögensansprüche, was seit der Modernisierung des Personengesellschaftsrechts ebenso ausdrücklich in § 711a Satz 2 BGB steht. Für Kapitalgesellschaften und Genossenschaften gilt das Abspaltungsverbot nach herrschender Lehre entsprechend.
 
@@ -46,19 +46,17 @@ Bei der Aktiengesellschaft kommt eine harte zahlenmäßige Grenze hinzu: Stimmre
 
 Damit ist die naheliegende Fassung erledigt. Die tragfähige lautet: *Die Zuordnung wird umgedreht, statt sie zu spalten.*
 
-Nicht der Fonds hält den Anteil und gibt die Stimme ab. Sondern eine *Belegschaftstreuhand* hält den Anteil – und weil die Stimme dem Anteil folgt, bleibt sie, wo sie hingehört. Der Fonds erhält den Ertrag über ein gesondert bestelltes Recht: einen Nießbrauch am Anteil, ein Genussrecht mit Vorabdividende oder eine Ergebnisbeteiligung mit Insolvenzfestigkeit. Damit ist nichts abgespalten, sondern ein Vermögensanspruch bestellt – und genau das erlaubt das Recht.
+Nicht der Fonds hält den Anteil und gibt die Stimme ab. Sondern eine *Belegschaftstreuhand* hält den Anteil – und weil die Stimme dem Anteil folgt, bleibt sie, wo sie hingehört. Der Fonds erhält den Ertrag über ein gesondert bestelltes Recht: einen Nießbrauch am Anteil – das Recht auf dessen Ertrag, ohne dass ihm der Anteil selbst gehört –, ein Genussrecht mit Vorabdividende – einen schuldrechtlichen Anspruch auf einen vorweg zugeteilten Gewinnanteil – oder eine Ergebnisbeteiligung mit Insolvenzfestigkeit. Damit ist nichts abgespalten, sondern ein Vermögensanspruch bestellt – und genau das erlaubt das Recht.
 
 Für den Erbschaftsteuerfall heißt das: Der Steuerpflichtige überträgt den Anteil an die Belegschaftstreuhand und dem Fonds das Ertragsrecht, in einem Vorgang. Wo weder eine Treuhand noch eine geloste Eigentümerversammlung zustande kommt, *ruht* das Stimmrecht bis zur Bildung eines Trägers, statt an die Fondsverwaltung zu fallen. Ruhende Stimmen sind unschöner als starke Stimmen, aber sie bauen keine Meidner-Konzentration.
 
 Und weil es im Aktienrecht an der Fünfzig-Prozent-Grenze weiterhin klemmen kann, gehört in diese Stufe ein eigener Rechtsformbaustein: *eine gesetzlich geregelte Belegschaftstreuhand mit eigener Kapitalziffer*, so wie das Vereinigte Königreich den Employee Ownership Trust geschaffen hat, statt ihn aus vorhandenen Formen zu improvisieren.
 
-Wer Stimmrechte verlagern will, braucht dafür ein Gefäß, das das Recht kennt.
-
 ### Dritte Wand: Der Ausschüttungskonflikt
 
-Diese Konstruktion erzeugt einen neuen Interessenkonflikt, und er ist echt: *Die Belegschaft entscheidet, der Fonds trägt das Ertragsrisiko.* Über Ausschüttung gegen Lohn, Investition und Dotierung der Kapitalkonten wird gestritten werden – und die Berechtigten des Fonds sind Millionen Bürger mit kleinen Anwartschaften, also das klassische diffuse Interesse aus Olsons Logik. Das Muster der Rost-These wiederholt sich im Inneren der eigenen Institution.
+Diese Konstruktion erzeugt einen neuen Interessenkonflikt, und er ist echt: *Die Belegschaft entscheidet, der Fonds trägt das Ertragsrisiko.* Über Ausschüttung gegen Lohn, Investition und Dotierung der Kapitalkonten wird gestritten werden – und die Berechtigten des Fonds sind Millionen Bürger mit kleinen Anwartschaften, also das klassische diffuse Interesse aus Olsons Logik, das gegen ein konzentriertes stets den Kürzeren zieht. Das Muster der Rost-These – Regeln verfallen, weil konzentriertes Interesse diffuses schlägt – wiederholt sich im Inneren der eigenen Institution.
 
-Frühere Fassungen dieses Projekts haben dem nur die Bemerkung entgegengesetzt, ein Konflikt zwischen sichtbaren Trägern sei besser als ein Anspruch ohne Verteidiger. Das stimmt und ist keine Konstruktion. Die Konstruktion löst den Konflikt nicht auf, sondern macht ihn justiziabel, in drei Stufen.
+Dass ein Konflikt zwischen sichtbaren Trägern besser ist als ein Anspruch ohne Verteidiger, stimmt – aber es ist noch keine Konstruktion. Die Konstruktion löst den Konflikt nicht auf, sondern macht ihn justiziabel, in drei Stufen.
 
 *Eine gesetzliche Mindestausschüttung* nach dem Vorbild der Vorabdividende: Ein definierter Anteil des ausschüttungsfähigen Jahresergebnisses steht dem Ertragsrecht zu, bevor die Versammlung über die Verwendung des Rests entscheidet – kumulativ, also nachzuzahlen, wenn ein Jahr ausfällt.
 
@@ -66,13 +64,13 @@ Frühere Fassungen dieses Projekts haben dem nur die Bemerkung entgegengesetzt, 
 
 *Eine Andienung als Rückfallrecht:* Bleibt die Ausschüttung länger aus, kann der Fonds sein Ertragsrecht dem Unternehmen zum bewerteten Preis andienen, zahlbar aus dem Cashflow über Jahre. Damit endet die Beziehung geordnet statt in einem Streit ohne Ausgang.
 
-Und der Preis dieser Regel gehört ausgewiesen: Sie ist eine Regel, und Regeln rosten.
+Auch das bleibt eine Regel, und Regeln rosten.
 
 ### Vierte Wand: Die Bewertung
 
 „Kein Euro verlässt den Betrieb" klingt nach einer Konstruktion ohne Bewertungsproblem und ist das Gegenteil. Wer eine Steuerschuld in Anteilen begleicht, muss wissen, *wie viele* Anteile eine Schuld tilgen.
 
-Das geltende Verfahren ist das vereinfachte Ertragswertverfahren der §§ 199 bis 203 des Bewertungsgesetzes: Man nimmt den Durchschnittsertrag der letzten drei Jahre, zieht nach § 202 pauschal dreißig Prozent für Ertragsteuern ab und kapitalisiert nach § 203 mit dem festen Faktor 13,75. Dieser Faktor entspricht rund 7,3 Prozent Kapitalisierungszins und ist am Markt nicht beobachtbar. Die Fachkritik weist für kleine und mittlere Unternehmen eine systematische Neigung zur Überbewertung aus, weil Zukunftsaussichten, Einzelrisiken und die begrenzte Übertragbarkeit der Ertragskraft – ein Betrieb, dessen Erfolg an der Inhaberin hängt, ist ohne sie weniger wert – unberücksichtigt bleiben.
+Das geltende Verfahren ist das vereinfachte Ertragswertverfahren der §§ 199 bis 203 des Bewertungsgesetzes: Man nimmt den Durchschnittsertrag der letzten drei Jahre, zieht nach § 202 pauschal dreißig Prozent für Ertragsteuern ab und kapitalisiert nach § 203 mit dem festen Faktor 13,75 – rechnet den durchschnittlichen Jahresertrag also in einen einmaligen Unternehmenswert um. Dieser Faktor entspricht rund 7,3 Prozent Kapitalisierungszins und ist am Markt nicht beobachtbar: Er steht im Gesetz, nicht im Preis, den ein Käufer gerade zahlen würde. Die Fachkritik weist für kleine und mittlere Unternehmen eine systematische Neigung zur Überbewertung aus, weil Zukunftsaussichten, Einzelrisiken und die begrenzte Übertragbarkeit der Ertragskraft – ein Betrieb, dessen Erfolg an der Inhaberin hängt, ist ohne sie weniger wert – unberücksichtigt bleiben.
 
 Für diese Ordnung heißt das doppelt Ärger: Ein überbewerteter Betrieb gibt zu viele Anteile ab, und ein Fonds, dessen Bestände so bewertet sind, weist Vermögen aus, das er nicht hat.
 
@@ -82,7 +80,7 @@ Das ist administrativ teuer und rechnerisch ehrlich – und es ist die Bedingung
 
 ### Fünfte Wand: Die Finanzverfassung
 
-Und nun der Test, der in früheren Fassungen dieses Projekts vollständig fehlte.
+Und nun der Test, den die Finanzverfassung stellt und den keine Steuerreform überspringen darf.
 
 Das Aufkommen der Erbschaft- und Schenkungsteuer steht nach Artikel 106 Absatz 2 des Grundgesetzes den *Ländern* zu. Verwaltet wird sie nach Artikel 108 Absatz 2 ebenfalls von den Ländern. Und ein Bundesgesetz über sie bedarf nach Artikel 105 Absatz 3 der Zustimmung des Bundesrates.
 
@@ -90,7 +88,7 @@ Eine Reform, die die Steuer teilweise in Anteile umwandelt und diese Anteile ein
 
 Die Lösung ist keine Notlösung, sondern die passende Form: *Die Fondsfamilie wird als Länderfamilie gebaut.* Jedes Land führt seinen Fonds oder tritt einem gemeinsamen Fonds mehrerer Länder bei; die Anteile aus der Steuer eines Landes fließen in dessen Fonds; die Berechtigten können über Landesgrenzen hinweg wechseln, was den Wettbewerb zwischen den Häusern erst scharf macht. Der Bund regelt nur das Mandat, die Konsolidierungssperre, die Rechte der Berechtigten und die Bewertung.
 
-Das kostet Einheitlichkeit und gewinnt Mehrheitsfähigkeit. Und es ist ein Beispiel dafür, dass der deutsche Föderalismus, den man gewöhnlich als Bremse beklagt, hier den Zuschnitt frei Haus liefert, den die Ordnung ohnehin braucht.
+Das kostet Einheitlichkeit und gewinnt Mehrheitsfähigkeit. Und es ist ein Beispiel dafür, dass der deutsche Föderalismus hier den Zuschnitt frei Haus liefert, den die Ordnung ohnehin braucht.
 
 ### Warum es mehrere Fonds sein müssen
 
@@ -118,19 +116,19 @@ Exit braucht Information, sonst ist er Zufall.
 
 ### Und wenn ein Fonds schlecht arbeitet?
 
-Diese Ordnung verlangt harte Budgetbeschränkungen überall. Für den genossenschaftlichen Sektor ist das durchgespielt, für den Allmende-Sektor mit dem Sterberecht beantwortet – für die Fonds fehlte es vollständig, und das war eine Lücke an der Stelle, an der am meisten Geld verwaltet wird.
+Diese Ordnung verlangt harte Budgetbeschränkungen überall. Für den genossenschaftlichen Sektor ist das durchgespielt, für den Allmende-Sektor mit dem Sterberecht beantwortet – und für die Fonds gilt es genauso, gerade an der Stelle, an der am meisten Geld verwaltet wird.
 
 Also eine Sterberegel auch hier, nach demselben Bauprinzip. *Kein Hebel:* Die Fonds dürfen keine Kredite aufnehmen und keine Garantien geben, damit ein schlechtes Jahr ein schlechtes Jahr bleibt und keine Ansteckung wird – die Lehre aus den Landesbanken. *Verwahrung und Verwaltung getrennt,* so dass die Bestände einen Verwalterwechsel überleben. *Eine ex ante gesetzlich festgelegte Abwicklungsregel:* Unterschreitet ein Fonds über drei Jahre eine definierte Vergleichsschwelle bei Kosten oder Ertrag, wird sein Bestand auf die anderen Häuser übertragen, die Verwaltung wird abgewickelt, die Anwartschaften laufen weiter. *Keine Staatsgarantie,* dafür ein aus den Verwaltungsgebühren der Familie gespeister Sicherungsfonds.
 
-Der Verwalter stirbt, das Vermögen nicht. Es ist dasselbe Prinzip wie im Allmende-Sektor und verdient denselben Namen: Sterblichkeit ohne Betriebsunterbrechung. Denn ein Fonds, der nicht sterben kann, ist der eine Bürgerfonds mit mehreren Briefköpfen.
+Der Verwalter stirbt, das Vermögen nicht. Es ist dasselbe Prinzip wie im Allmende-Sektor und verdient denselben Namen: Sterblichkeit ohne Betriebsunterbrechung. Denn ein Fonds, der nicht sterben kann, ist der eine Bürgerfonds, nur unter mehreren Namen.
 
-### Sechste Wand: Hält das überhaupt?
+### Hält das überhaupt?
 
 Bleibt die Frage, die jeder Pfad über zwanzig Jahre beantworten muss: Warum löst die nächste Mehrheit das Ganze nicht wieder auf? Schweden liefert dazu die Erfahrung – die verwässerten Lohnempfängerfonds waren in einer einzigen Legislaturperiode verschwunden.
 
-Die klassische Antwort dieses Projekts lautete: Individualisierung. Was dem einzelnen Bürger als individuelle Anwartschaft zusteht, sei eigentumsrechtlich geschützt und von einer Mehrheit nicht folgenlos kassierbar – „Programme kann man abwählen, Eigentümer nicht".
+Die naheliegende Antwort lautet: Individualisierung. Was dem einzelnen Bürger als individuelle Anwartschaft zusteht, sei eigentumsrechtlich geschützt und von einer Mehrheit nicht folgenlos kassierbar – „Programme kann man abwählen, Eigentümer nicht".
 
-Diese Antwort ist schwächer, als sie klingt, und die Schwäche gehört in den Text und nicht in eine Fußnote. Die Rechtsprechung des Bundesverfassungsgerichts schützt sozialrechtliche Ansprüche und Anwartschaften über Artikel 14 Absatz 1 des Grundgesetzes nur, soweit sie auf einer *nicht unerheblichen Eigenleistung* beruhen; genau diese Eigenleistung ist der Grund ihrer Anerkennung als Eigentumsposition. Eine Anwartschaft, die der Staat unentgeltlich zuteilt, weil er Erbschaftsteueranteile in einen Fonds legt, ist gerade keine solche Position. Sie ist eine gesetzliche Zuwendung – und was ein Gesetz gibt, nimmt ein Gesetz.
+Diese Antwort ist schwächer, als sie klingt. Die Rechtsprechung des Bundesverfassungsgerichts schützt sozialrechtliche Ansprüche und Anwartschaften über Artikel 14 Absatz 1 des Grundgesetzes nur, soweit sie auf einer *nicht unerheblichen Eigenleistung* beruhen; genau diese Eigenleistung ist der Grund ihrer Anerkennung als Eigentumsposition. Eine Anwartschaft, die der Staat unentgeltlich zuteilt, weil er Erbschaftsteueranteile in einen Fonds legt, ist gerade keine solche Position. Sie ist eine gesetzliche Zuwendung – und was ein Gesetz gibt, nimmt ein Gesetz.
 
 Die Übertragung dieser Rechtsprechung auf eine Fondsanwartschaft ist eine Schlussfolgerung dieses Buches und keine gerichtliche Entscheidung; niemand hat den Fall bisher entschieden. Aber die Richtung ist deutlich genug, um nicht auf die günstige Auslegung zu wetten.
 
@@ -142,11 +140,11 @@ Was unabhängig davon gilt und den Belastungstest besteht, ist die genossenschaf
 
 ### Der übrige Aufbau der Stufe zwei
 
-Er folgt derselben Logik und sei knapp benannt.
+Er folgt derselben Logik.
 
 *Die Steuerklassen der Erbschaftsteuer,* die neben die Abstammung die geleistete Sorge setzen – begründet im dreizehnten Kapitel. Für diese Stufe ist daran zweierlei wichtig. Die Änderung ist zustimmungsbedürftig und kostet die Länder Aufkommen; sie gehört deshalb in dasselbe Verhandlungspaket wie die Fondsfamilie, in dem die Länder etwas bekommen, statt einzeln in den Bundesrat zu gehen. Und sie besteht den Belastungstest besser als alles andere in dieser Stufe: Eine Steuerklasse ist kein Programm, das man auslaufen lässt, sondern ein Paragraph, dessen Streichung ein sichtbarer Beschluss ist.
 
-*Plattform- und Kartellrecht mit echter Entflechtungskompetenz,* weil Netzwerkeffekte Monopole erzeugen, die kein Verhaltensrecht bändigt. *Medienkonzentrationsrecht mit Zähnen,* weil der Sektorenwettbewerb um Köpfe sonst entschieden ist, bevor er beginnt. *Öffentliche digitale Basisinfrastruktur:* Glasfaser wie Straßen, quelloffene Verwaltungssoftware, föderierte Protokolle als geförderter Standard. *Geloste Beteiligung* auf Landes- und Bundesebene für definierte Fragetypen, mit dem Verfahrensdesign aus dem sechzehnten Kapitel. Und *Transparenzpflichten:* maschinenlesbare Echtzeitdaten aller öffentlichen und gemeinwirtschaftlichen Träger – zugleich das Ersatz-Preissystem des Allmende-Sektors und das Frühwarnsystem gegen dessen weiche Budgetbeschränkung.
+*Plattform- und Kartellrecht mit echter Entflechtungskompetenz,* weil Netzwerkeffekte Monopole erzeugen, die kein Verhaltensrecht bändigt. *Medienkonzentrationsrecht mit Zähnen,* weil der Sektorenwettbewerb um Köpfe sonst entschieden ist, bevor er beginnt. *Öffentliche digitale Basisinfrastruktur,* damit die Grundlagen des Marktes niemandem privat gehören: Glasfaser wie Straßen, quelloffene Verwaltungssoftware, föderierte Protokolle als geförderter Standard – gemeinsame Regeln, nach denen Dienste zusammenarbeiten, ohne einem Anbieter zu gehören. *Geloste Beteiligung* auf Landes- und Bundesebene für definierte Fragetypen, weil ein durch Los besetztes Gremium keine Klientel zu bedienen hat, mit dem Verfahrensdesign aus dem sechzehnten Kapitel. Und *Transparenzpflichten:* maschinenlesbare Echtzeitdaten aller öffentlichen und gemeinwirtschaftlichen Träger – zugleich das Ersatz-Preissystem des Allmende-Sektors und das Frühwarnsystem gegen dessen weiche Budgetbeschränkung.
 
 ---
 

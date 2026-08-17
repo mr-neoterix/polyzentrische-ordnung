@@ -1,4 +1,4 @@
-# Achtzehntes Kapitel
+# Neunzehntes Kapitel
 
 ## Sechs Tests und die Bausteine, die schon da sind
 
@@ -14,19 +14,19 @@ Deshalb wird der Umsetzungspfad in diesem Buch nicht behauptet, sondern geprüft
 
 **Der Mehrheitstest.** Braucht der Weg eine Mehrheit, die er erst herstellen will? Reformprogramme, deren erster Schritt die Überzeugung der Bevölkerung von ihrer Weltanschauung ist, sind zirkulär. Ein tragfähiger Pfad kommt mit den Mehrheiten aus, die es geben kann.
 
-**Der Finanztest.** Ist er aus vorhandenen Mitteln oder revolvierendem Kredit bezahlbar – nicht aus einem erhofften Aufschwung, nicht aus Einnahmen, die die Reform selbst erst erzeugen soll?
+**Der Finanztest.** Ist er aus vorhandenen Mitteln oder revolvierendem Kredit – einem Kreditrahmen, der nach Tilgung wieder in Anspruch genommen werden kann – bezahlbar, nicht aus einem erhofften Aufschwung, nicht aus Einnahmen, die die Reform selbst erst erzeugen soll?
 
 **Der Widerstandstest.** Wer verliert, und was kann der Verlierer tun? Ein Pfad, der seine Gegner nicht benennt, hat sie nicht eingeplant.
 
-**Der Bestandstest.** Überlebt er den Regierungswechsel, der ihn abschaffen will? Das ist der Test, an dem die meisten linken Reformprojekte des zwanzigsten Jahrhunderts gescheitert sind, und er ist im einundzwanzigsten Kapitel noch einmal gesondert durchzuspielen.
+**Der Bestandstest.** Überlebt er den Regierungswechsel, der ihn abschaffen will? Das ist der Test, an dem die meisten linken Reformprojekte des einundzwanzigsten Jahrhunderts gescheitert sind, und er ist im zweiundzwanzigsten Kapitel noch einmal gesondert durchzuspielen.
 
-**Der Föderalismustest.** Und dies ist der sechste, den frühere Fassungen dieses Projekts nicht hatten und dessen Fehlen ein handfester Konstruktionsfehler war: *Wer zahlt, wer verwaltet, wer bekommt das Aufkommen, und wer muss im Bundesrat zustimmen?* In einem Bundesstaat ist die Frage, welche Ebene eine Steuer erhebt und welche ihr Aufkommen behält, keine Verwaltungsfrage, sondern eine Verfassungsfrage – und der zentrale Baustein der zweiten Stufe scheitert an ihr, wenn man sie nicht von Anfang an mitdenkt. Das zwanzigste Kapitel zeigt, wie.
+**Der Föderalismustest.** Der sechste Test gehört dazu, weil er über die Umsetzbarkeit entscheidet: *Wer zahlt, wer verwaltet, wer bekommt das Aufkommen, und wer muss im Bundesrat zustimmen?* In einem Bundesstaat ist die Frage, welche Ebene eine Steuer erhebt und welche ihr Aufkommen behält, keine Verwaltungsfrage, sondern eine Verfassungsfrage – und der zentrale Baustein der zweiten Stufe scheitert an ihr, wenn man sie nicht von Anfang an mitdenkt. Das einundzwanzigste Kapitel zeigt, wie.
 
 ### Was Deutschland bereits besitzt
 
 Der entscheidende Vorzug dieses Pfades ist, dass er kaum etwas erfinden muss. Fast alle Bausteine existieren; sie sind nur nie zusammengesetzt worden.
 
-*Ein Genossenschaftsrecht seit 1889* und rund 7.000 eingetragene Genossenschaften. Die Rechtsform ist erprobt, ihre Verfassung ist geregelt, ihre Prüfung ist organisiert. Es muss nichts erfunden werden – es muss etwas genutzt werden, das im Produktionsbereich brachliegt.
+*Ein Genossenschaftsrecht seit 1889* und rund 7.000 eingetragene Genossenschaften. Die Rechtsform ist erprobt, ihre Verfassung ist geregelt, ihre Prüfung ist organisiert. Es muss nur genutzt werden, was im Produktionsbereich brachliegt.
 
 *697 Genossenschaftsbanken* mit eigenem Prüfungs- und Verbundwesen. Sie sind der institutionelle Unterschied zwischen Deutschland und den meisten Ländern, in denen Belegschaftsübernahmen an der Finanzierung scheitern: Es gibt bereits einen Bankensektor, der regional verankert ist, mittelständische Firmenkunden kennt und selbst genossenschaftlich verfasst ist.
 
@@ -34,11 +34,11 @@ Der entscheidende Vorzug dieses Pfades ist, dass er kaum etwas erfinden muss. Fa
 
 *Kommunale Stadtwerke* mit einer Neugründungswelle im laufenden Jahrhundert. Der Allmende-Sektor muss nicht geschaffen, sondern umgebaut werden.
 
-*Selbstverwaltung in der Sozialversicherung.* Deutschland hat seit über hundert Jahren Institutionen, die von Vertretern der Versicherten und der Arbeitgeber getragen werden – eine polyzentrische Struktur, die den meisten Bürgern gar nicht bewusst ist.
+*Selbstverwaltung in der Sozialversicherung.* Deutschland hat seit über hundert Jahren Institutionen, die von Vertretern der Versicherten und der Arbeitgeber getragen werden, und in der Krankenversicherung dazu konkurrierende Träger, ein Wechselrecht und ein tatsächlich angewandtes Insolvenzrecht – die polyzentrischste Struktur, die dieser Staat besitzt. Sie ist zugleich der Baustein in der schlechtesten Verfassung, denn ihr Selbstverwaltungsorgan wird von gut einem Fünftel der Berechtigten bestellt, und ein großer Teil der Sitze wird gar nicht erst umkämpft. Das siebzehnte Kapitel behandelt beides, weil dieser Baustein anders als die übrigen nicht nur benutzt, sondern zuerst instand gesetzt werden muss.
 
-*Föderalismus.* Er wird in Deutschland meist als Bremse beklagt. In diesem Entwurf ist er ein Konstruktionsvorteil: Er liefert die regionale Gliederung, die die Fondsfamilie des zwanzigsten Kapitels ohnehin braucht.
+*Föderalismus.* Er wird in Deutschland meist als Bremse beklagt. In diesem Entwurf ist er ein Konstruktionsvorteil: Er liefert die regionale Gliederung, die die Fondsfamilie des einundzwanzigsten Kapitels – mehrere regional zugeschnittene Bürgerfonds statt eines einzigen – ohnehin braucht.
 
-*Die KfW mit ihrem Nachfolgeinstrumentarium.* Die staatliche Förderbank fördert Unternehmensnachfolgen aus dem ERP-Sondervermögen, zentral über den ERP-Förderkredit Gründung und Nachfolge: zinsverbilligte Kredite bis 500.000 Euro für Gründung, Übernahme oder Erwerb einer tätigen Beteiligung, beantragt über die Hausbank; für größere Vorhaben schließt der ERP-Förderkredit KMU an. Ein eigenes Programm für genossenschaftliche Übernahmen existiert nicht – und genau das ist die Lücke, die Stufe eins schließt.
+*Die KfW mit ihrem Nachfolgeinstrumentarium.* Die staatliche Förderbank fördert Unternehmensnachfolgen aus dem ERP-Sondervermögen – dem aus Marshallplan-Mitteln gespeisten European Recovery Program –, zentral über den ERP-Förderkredit Gründung und Nachfolge: zinsverbilligte Kredite bis 500.000 Euro für Gründung, Übernahme oder Erwerb einer tätigen Beteiligung, beantragt über die Hausbank; für größere Vorhaben schließt der ERP-Förderkredit KMU an. Ein eigenes Programm für genossenschaftliche Übernahmen existiert nicht – und genau das ist die Lücke, die Stufe eins schließt.
 
 *Und Artikel 15 des Grundgesetzes,* der Vergesellschaftung ausdrücklich vorsieht und nie angewendet wurde. Man muss ihn nicht anwenden wollen, um zu registrieren, dass die deutsche Verfassung diese Möglichkeit kennt – und dass seine bloße Existenz als glaubwürdige Rückfalloption diszipliniert.
 
@@ -58,7 +58,9 @@ Die Ergebnisse dieses Tests sind unterschiedlich, und sie zu kennen ist wichtige
 
 *Ein Kostenvergleich im Allmende-Sektor ist eine Regel.* Er kann von einer Regierung, die ihn unbequem findet, methodisch entschärft, personell ausgehungert oder in der Veröffentlichungsfrist verzögert werden, bis er nichts mehr aussagt.
 
-*Eine Fondsanwartschaft ist – vermutlich – ein Programm.* Das ist der unangenehmste Befund dieses Buches über sich selbst, und das zwanzigste Kapitel führt ihn aus.
+*Eine Fondsanwartschaft ist – vermutlich – ein Programm.* Das ist der unangenehmste Befund dieses Buches über sich selbst, und das einundzwanzigste Kapitel führt ihn aus.
+
+*Und der Sozialstaat ist beides zugleich.* Die Rentenanwartschaft ist eine Struktur, weil sie Eigentum ist; das Existenzminimum ist dem Grunde nach eine Struktur, weil es in der Verfassung steht; die Höhe jeder Leistung dagegen ist ein Programm. Ausgerechnet der Teil, auf den sich diese Ordnung stützt – die Sicherung derer, die ein gestorbener Betrieb freigesetzt hat –, liegt überwiegend im Programmteil. Das siebzehnte Kapitel zieht daraus die Konsequenzen.
 
 Die Regel, die daraus folgt, ist streng: **Was den Belastungstest nicht besteht, ist ein Programm und darf nicht als Struktur geführt werden.** Ein Reformpfad, der Programme für Strukturen ausgibt, verspricht Dauerhaftigkeit, die er nicht liefern kann – und liefert seinen Gegnern das Argument, mit dem sie ihn beim ersten Regierungswechsel erledigen.
 
@@ -68,7 +70,7 @@ Der Pfad hat drei Stufen, und ihre Reihenfolge ist nicht Bequemlichkeit, sondern
 
 *Stufe eins* – sofort, im bestehenden Recht, drei bis vier Jahre – schafft den Kanal, durch den Betriebe in Belegschaftseigentum übergehen können, und nutzt ein Zeitfenster, das sich schließt.
 
-*Stufe zwei* – Jahre drei bis zehn – baut die Strukturen, die den Kanal speisen und die Eigentumsverteilung dauerhaft verändern: die Erbschaftsteuerreform, die Belegschaftstreuhand und die Fondsfamilie. Sie braucht mehr Zeit, weil sie Verfassungsfragen berührt.
+*Stufe zwei* – Jahre drei bis zehn – baut die Strukturen, die den Kanal speisen und die Eigentumsverteilung dauerhaft verändern: die Erbschaftsteuerreform, die Belegschaftstreuhand – der Träger, der die Belegschaftsanteile hält – und die Fondsfamilie. Sie braucht mehr Zeit, weil sie Verfassungsfragen berührt.
 
 *Stufe drei* – Jahre acht bis zwanzig – konsolidiert und behandelt die Fälle, in denen die milderen Instrumente versagen.
 
@@ -86,8 +88,8 @@ Der Rest dieses Teils ist die Anwendung der sechs Tests auf diese drei Stufen.
 
 *KfW-Programme zur Unternehmensnachfolge:* Förderung aus dem ERP-Sondervermögen, zentral über den ERP-Förderkredit Gründung und Nachfolge (Programm 077) – zinsverbilligte Kredite bis 500.000 Euro für Gründung, Übernahme oder Erwerb einer tätigen Beteiligung, beantragt über die Hausbank; für größere Vorhaben ERP-Förderkredit KMU. Ein eigenes Programm „Genossenschaftsfinanzierung" existiert nicht. **Bestätigt.**
 
-*Artikel 15 GG:* siehe Kapitel 17. **Bestätigt.**
+*Artikel 15 GG:* siehe Kapitel 18. **Bestätigt.**
 
-*Ertragshoheit und Verwaltung der Erbschaftsteuer (Grundlage des Föderalismustests):* Artikel 106 Absatz 2, Artikel 108 Absatz 2 und Artikel 105 Absatz 3 GG – ausgeführt und belegt in Kapitel 20. **Bestätigt.**
+*Ertragshoheit und Verwaltung der Erbschaftsteuer (Grundlage des Föderalismustests):* Artikel 106 Absatz 2, Artikel 108 Absatz 2 und Artikel 105 Absatz 3 GG – ausgeführt und belegt in Kapitel 21. **Bestätigt.**
 
 *Die sechs Tests und der Belastungstest* sind Prüfverfahren dieses Buches. **Wertung.**
