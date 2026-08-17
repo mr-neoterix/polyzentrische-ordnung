@@ -42,9 +42,19 @@ Und nun das Entscheidende an diesem Fall: Kein einziger Versicherter verlor dabe
 
 Das zweite Haus ist die gesetzliche Rentenversicherung, und es ist nach den entgegengesetzten Grundsätzen gebaut.
 
-Es gibt sie im Singular. Wer versichert ist, ist es beim zuständigen Träger und bei keinem anderen; es gibt keine Wahl, also keinen Exit, also auch keinen Vergleich, an dem sich ablesen ließe, ob ein Träger gut oder schlecht arbeitet. Und sie kann nicht scheitern: 2024 stammten von 402,0 Milliarden Euro Einnahmen rund 87,8 Milliarden aus Zuschüssen des Bundes, gut ein Fünftel. Was in einem Betrieb die stille Verlustdeckung wäre, ist hier Dauerzustand und Gesetz.
+Auf den ersten Blick ist sie es nicht, und der erste Blick täuscht auf lehrreiche Weise. Auch die Rentenversicherung besteht aus mehreren Trägern – seit der Organisationsreform von 2005 aus sechzehn: der Deutschen Rentenversicherung Bund, der Knappschaft-Bahn-See und vierzehn Regionalträgern. Dem Namen nach also dieselbe Bauart wie drüben, nur mit weniger Häusern.
 
-Die eine Hälfte des deutschen Sozialstaats ist das polyzentrischste Bauwerk des Landes. Die andere ist sein monozentrischstes.
+Der Unterschied liegt darin, was diese Mehrzahl bewirkt, und die Antwort lautet: nichts von dem, worauf es ankommt.
+
+*Niemand wählt.* Wer versichert wird, bekommt seinen Träger zugewiesen – von der Datenstelle der Rentenversicherung, bei Vergabe der Versicherungsnummer, nach einem Schlüssel, der Quoten zwischen den Trägern einhält. Die Zugehörigkeit steht in der Versicherungsnummer und ändert sich nur in Ausnahmefällen. Es gibt also keine Wahl, keinen Exit und damit auch kein Signal, das ein schlecht arbeitender Träger empfangen könnte.
+
+*Und niemand trägt sein eigenes Ergebnis.* Nach § 219 des Sechsten Sozialgesetzbuchs tragen die Träger der allgemeinen Rentenversicherung ihre Ausgaben für Renten und Geldleistungen *gemeinsam*, aufgeteilt nach dem Verhältnis ihrer Beitragseinnahmen; ebenso werden die Zuschüsse des Bundes und die gemeinsame Rücklage zugeordnet. Reichen die Mittel aller Träger nicht aus, beantragen sie gemeinsam Hilfe des Bundes. Damit gibt es sechzehn Verwaltungen und eine Kasse. Kein Träger kann besser oder schlechter dastehen als die anderen, weil sein Ergebnis ihm gar nicht zugerechnet wird – also lässt sich auch nicht vergleichen, und also kann keiner scheitern.
+
+Dazu kommt, was das ganze System trägt: 2024 stammten von 402,0 Milliarden Euro Einnahmen rund 87,8 Milliarden aus Zuschüssen des Bundes, gut ein Fünftel. Was in einem Betrieb die stille Verlustdeckung wäre, ist hier Dauerzustand und Gesetz.
+
+Das ist der genauere Befund, und er ist unangenehmer als der naheliegende. Die Rentenversicherung ist nicht deshalb monozentrisch, weil es nur einen Träger gäbe – es gibt sechzehn. Sie ist es, weil keiner dieser sechzehn gewählt werden kann, keiner sein eigenes Ergebnis trägt und keiner untergehen kann. **Mehrzahl ist nicht Polyzentrik.** Wo die Zugehörigkeit zugeteilt und das Ergebnis vergemeinschaftet wird, ist eine Vielzahl von Häusern eine Verwaltungsgliederung und keine Ordnungsform – und dieser Unterschied ist genau der, den dieses Buch seit dem fünften Kapitel behauptet.
+
+Die eine Hälfte des deutschen Sozialstaats ist das polyzentrischste Bauwerk des Landes. Die andere hat dieselbe Fassade und dahinter das Gegenteil.
 
 ### Der Exit, den dieses Buch für unmöglich erklärt hat
 
@@ -213,6 +223,10 @@ Der Abbau dieser Einrichtung wäre danach ein Beschluss und kein Unterlassen.
 ### Belege
 
 *Sozialbudget:* Bundesministerium für Arbeit und Soziales, *Sozialbudget 2024* – Gesamtsumme 1.345,4 Mrd. Euro, Anstieg gegenüber dem Vorjahr um rund 83 Mrd. Euro oder 6,6 Prozent, Sozialleistungsquote 31,2 Prozent des Bruttoinlandsprodukts nach einem Anstieg um einen Prozentpunkt. **Bestätigt.**
+
+*Trägerstruktur der Rentenversicherung:* Seit der Organisationsreform von 2005 bestehen sechzehn Träger – die Deutsche Rentenversicherung Bund und die Deutsche Rentenversicherung Knappschaft-Bahn-See als Bundesträger sowie vierzehn Regionalträger. Die Zuständigkeit für den einzelnen Versicherten richtet sich nach § 127 SGB VI und wird von der Datenstelle der Rentenversicherung bei Vergabe der Versicherungsnummer bestimmt, nach einem Zuweisungsschlüssel, der Quoten zwischen den Trägern einhält; die Zugehörigkeit ist in der Bereichsnummer der Versicherungsnummer abgebildet und ändert sich nur in Ausnahmefällen. Ein Wahlrecht der Versicherten besteht nicht. **Bestätigt.**
+
+*Finanzverbund:* § 219 SGB VI – die Träger der allgemeinen Rentenversicherung tragen die Ausgaben für Renten, Beitragserstattungen, die von ihnen zu tragenden Krankenversicherungsbeiträge und sonstige Geldleistungen jeweils für ein Kalenderjahr gemeinsam, aufgeteilt nach dem Verhältnis ihrer Beitragseinnahmen; nach demselben Verhältnis werden die Zuschüsse und Erstattungen des Bundes sowie die gemeinsame Nachhaltigkeitsrücklage zugeordnet. Reichen die verfügbaren Mittel aller Träger nicht aus, beantragen sie zusätzliche finanzielle Hilfen des Bundes. **Bestätigt.** Die Folgerung, dass damit kein Träger sein eigenes Ergebnis trägt und deshalb weder Vergleich noch Scheitern möglich sind, ist **Wertung** dieses Buches – ebenso der daraus gezogene Satz, Mehrzahl sei nicht Polyzentrik.
 
 *Einnahmen und Bundeszuschüsse der Rentenversicherung:* Für 2024 Gesamteinnahmen von 402,0 Mrd. Euro, davon 305,8 Mrd. Euro Beitragseinnahmen und 87,8 Mrd. Euro Bundeszuschüsse, mithin gut ein Fünftel. **Bestätigt mit Einschränkung:** In der öffentlichen Debatte kursieren daneben höhere Beträge – der Bundeshaushalt 2025 weist rund 121 Mrd. Euro an Zahlungen des Bundes an die Rentenversicherung aus –, die weitere Posten enthalten und nicht mit den Bundeszuschüssen im engeren Sinn gleichzusetzen sind. Im Text steht die engere Größe.
 
