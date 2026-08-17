@@ -4,13 +4,13 @@
 
 ---
 
-Dieses Buch hat eine Einrichtung in fast jedem Kapitel vorausgesetzt und in keinem geprüft.
+Unter fast jedem Kapitel dieses Buches steht eine Einrichtung.
 
 Sie kam vor, wenn es eng wurde. Der genossenschaftliche Sektor darf auf den Schutz der Zunft verzichten, weil es sie gibt. Der Allmende-Sektor darf ein Sterberecht für Betreiber bekommen, weil es sie gibt. Der Privatsektor darf scheitern, weil es sie gibt. Jedes Mal stand sie als Bedingung da, nie als Gegenstand – und nach den Maßstäben, die dieses Buch sonst anlegt, ist das die eine Auskunft, die es nicht gelten lässt.
 
 Das fünfzehnte Kapitel hat über die Sorgearbeit geschrieben, die bequeme Auskunft sei zur Hälfte richtig und die andere Hälfte verdecke sie. Derselbe Satz gilt hier, und er richtet sich gegen dieses Buch.
 
-### Die Prämisse, die nie geprüft wurde
+### Die tragende Prämisse
 
 Der Zusammenhang ist ordnungspolitisch und nicht sozialpolitisch, und er ist in zwei Sätzen gesagt. Eine Wirtschaft mit harter Budgetbeschränkung produziert Betriebssterben, nicht als Fehler, sondern als Funktion: Das ist der Mechanismus, mit dem falsche Entscheidungen aus der Welt geschafft werden. Aber jeder gestorbene Betrieb ist eine Zahl von Menschen ohne Einkommen, und eine Gesellschaft, die diese Menschen nicht auffängt, wird das Betriebssterben politisch nicht durchhalten. Sie wird stützen, wie sie bei den Landesbanken gestützt hat, und dann hat sie die weiche Budgetbeschränkung wieder – jenen Zustand, in dem ein Betrieb nicht mehr untergehen kann, weil immer jemand die Verluste deckt.
 
@@ -36,7 +36,7 @@ Es gibt sie im Plural. Anfang 2026 bestanden noch 92 bis 93 organisatorisch und 
 
 Denn es gibt einen Fall. Die City BKK, eine Kasse mit alter Versichertenstruktur und überdurchschnittlichen Ausgaben, erhöhte zum 1. Januar 2011 ihren Zusatzbeitrag auf fünfzehn Euro. Daraufhin verließen sie zahlreiche Mitglieder, vor allem junge und gesunde, was ihre Lage weiter verschlechterte. Zum 1. Juli 2011 wurde sie geschlossen – die erste Kasse überhaupt, der das geschah.
 
-Und nun das Entscheidende an diesem Fall: Kein einziger Versicherter verlor dabei seinen Versicherungsschutz. Er wechselte zu einer anderen Kasse, und die Behandlung lief weiter. Das ist Baustein für Baustein die Konstruktion des zwölften Kapitels – Sterblichkeit ohne Betriebsunterbrechung, Trennung des Anspruchs vom Träger –, und sie existiert im deutschen Sozialrecht, seit fünfzehn Jahren, ohne dass dieses Buch sie bemerkt hätte.
+Und nun das Entscheidende an diesem Fall: Kein einziger Versicherter verlor dabei seinen Versicherungsschutz. Er wechselte zu einer anderen Kasse, und die Behandlung lief weiter. Das ist Baustein für Baustein die Konstruktion des zwölften Kapitels – Sterblichkeit ohne Betriebsunterbrechung, Trennung des Anspruchs vom Träger –, und sie existiert im deutschen Sozialrecht seit fünfzehn Jahren.
 
 Das zweite Haus ist die gesetzliche Rentenversicherung, und es ist nach den entgegengesetzten Grundsätzen gebaut.
 
@@ -96,7 +96,7 @@ Damit ist die Prüfung des Bestehenden bei der Frage angekommen, die dieses Buch
 
 *Anspruchsgesichert* ist das Existenzminimum. Am 9. Februar 2010 hat das Bundesverfassungsgericht aus der Menschenwürde in Verbindung mit dem Sozialstaatsgebot ein Grundrecht auf Gewährleistung eines menschenwürdigen Existenzminimums abgeleitet. Es hat zugleich gesagt, dass es selbst keinen Betrag festsetzen darf – wohl aber, dass der Gesetzgeber ein realitäts- und bedarfsgerechtes Verfahren durchführen und dessen Ergebnis als Leistungsanspruch im Gesetz verankern muss. Gesichert ist damit der Grund, nicht die Höhe; nachprüfbar ist das Verfahren, nicht der Betrag.
 
-Das ist genau die Zwischenstufe, die das zwölfte Kapitel für den Allmende-Sektor und das sechzehnte für die politische Ebene erreicht hat – und es ist bemerkenswert genug, um festgehalten zu werden: Die Konstruktion, die dieses Buch für seine Subsidiaritätsklage vorschlägt und im Ledger als unerprobt führt, weil es sie nirgends gibt, existiert im deutschen Sozialrecht seit fünfzehn Jahren. Die Kontrolle der Begründung statt der Zweckmäßigkeit ist keine Erfindung dieses Buches. Sie ist an einer Stelle geübte Praxis.
+Das ist genau die Zwischenstufe, die das zwölfte Kapitel für den Allmende-Sektor und das sechzehnte für die politische Ebene erreicht hat. Die Kontrolle der Begründung statt der Zweckmäßigkeit, die dieses Buch für seine Subsidiaritätsklage vorschlägt, ist keine Erfindung: Sie existiert im deutschen Sozialrecht seit fünfzehn Jahren und ist dort geübte Praxis.
 
 *Verfahrensgesichert*, also bloßes Programm, ist alles Übrige: die Leistungskataloge, die Pflegeleistungen, die Höhe der Grundsicherung. Was eine Mehrheit beschlossen hat, kann eine Mehrheit ändern.
 
@@ -104,7 +104,7 @@ Und nun die Verteilung, und sie ist der unangenehmste Befund dieses Kapitels.
 
 Man betrachte den Menschen, um dessentwillen diese ganze Konstruktion existiert: den Beschäftigten eines Betriebes, der gerade gestorben ist. Er bekommt zunächst Arbeitslosengeld, und dieses beruht auf seinen Beiträgen, ist also die geschützte Sorte. Aber es ist befristet. Danach steht er in der Grundsicherung, und dort beruht nichts mehr auf Eigenleistung – gesichert ist nur noch, *dass* er etwas bekommt, nicht *wie viel*.
 
-**Diese Ordnung stützt ihren härtesten Mechanismus auf ihre am schwächsten gesicherte Stelle** – und sie hat es zwanzig Kapitel lang nicht gemerkt.
+**Diese Ordnung stützt ihren härtesten Mechanismus auf ihre am schwächsten gesicherte Stelle.**
 
 ### Der Träger, den es gibt und der nicht arbeitet
 
