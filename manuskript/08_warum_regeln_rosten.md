@@ -50,7 +50,7 @@ Elf Jahre. Eine Regel, die funktionierte, gemessen, dokumentiert, mit Hunderttau
 
 Die naheliegende Schlussfolgerung wäre, das Instrument fallen zu lassen. Sie wäre falsch, und der Grund dafür steht in der Fortsetzung der britischen Geschichte: Die 2.470 Unternehmen blieben belegschaftseigen. Die Steuerentlastung wurde halbiert; die Eigentumsverhältnisse, die sie erzeugt hatte, blieben bestehen. Das Programm rostete, seine Ergebnisse nicht.
 
-Daraus folgt die Konstruktionsanweisung, die dieses Buch aus dem Fall zieht: Der Steuerhebel ist nicht zu unterlassen, sondern so zu bauen, dass er Eigentümer erzeugt, *bevor* er wieder verschwindet. Ein Hebel ist gut, wenn seine Abschaffung die Ergebnisse nicht rückgängig macht. Wie man ihn konkret so baut – Stundung statt Befreiung, ausdrücklicher Bestandsschutz für abgeschlossene Übertragungen, Evaluationsklausel mit Begründungszwang statt Verfallsklausel und die frühe Erzeugung von Trägern, deren Geschäft an dem Instrument hängt –, steht im zwanzigsten Kapitel.
+Daraus folgt die Konstruktionsanweisung, die dieses Buch aus dem Fall zieht: Der Steuerhebel ist nicht zu unterlassen, sondern so zu bauen, dass er Eigentümer erzeugt, *bevor* er wieder verschwindet. Wie man ihn konkret so baut – Stundung statt Befreiung, ausdrücklicher Bestandsschutz für abgeschlossene Übertragungen, Evaluationsklausel mit Begründungszwang statt Verfallsklausel und die frühe Erzeugung von Trägern, deren Geschäft an dem Instrument hängt –, steht im zwanzigsten Kapitel.
 
 ### Die Regel und ihre Grenze
 

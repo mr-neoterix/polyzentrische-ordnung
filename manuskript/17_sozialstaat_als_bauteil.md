@@ -26,8 +26,6 @@ Dieses Buch hat an jeden Bereich, den es anfasst, vier Fragen gestellt. Wer lebt
 
 Dem größten Gegenstand hat es sie nicht gestellt.
 
-Wer eine Ordnung auf eine Einrichtung baut, ohne sie zu prüfen, hat keine Voraussetzung, sondern eine Hoffnung.
-
 ### Zwei Häuser, gegensätzlich gebaut
 
 Die Prüfung fällt anders aus als erwartet, und zwar deshalb, weil der deutsche Sozialstaat nicht ein Gebäude ist, sondern mehrere – und zwei davon sind nach entgegengesetzten Grundsätzen errichtet.
@@ -38,7 +36,7 @@ Es gibt sie im Plural. Anfang 2026 bestanden noch 92 bis 93 organisatorisch und 
 
 Denn es gibt einen Fall. Die City BKK, eine Kasse mit alter Versichertenstruktur und überdurchschnittlichen Ausgaben, erhöhte zum 1. Januar 2011 ihren Zusatzbeitrag auf fünfzehn Euro. Daraufhin verließen sie zahlreiche Mitglieder, vor allem junge und gesunde, was ihre Lage weiter verschlechterte. Zum 1. Juli 2011 wurde sie geschlossen – die erste Kasse überhaupt, der das geschah.
 
-Und nun das Entscheidende an diesem Fall: Kein einziger Versicherter verlor dabei seinen Versicherungsschutz. Er wechselte zu einer anderen Kasse, und die Behandlung lief weiter. Das ist Baustein für Baustein die Konstruktion des zwölften Kapitels – Sterblichkeit ohne Betriebsunterbrechung, Trennung des Anspruchs vom Träger, der Betreiber stirbt und das Netz läuft weiter –, und sie existiert im deutschen Sozialrecht, seit fünfzehn Jahren, ohne dass dieses Buch sie bemerkt hätte.
+Und nun das Entscheidende an diesem Fall: Kein einziger Versicherter verlor dabei seinen Versicherungsschutz. Er wechselte zu einer anderen Kasse, und die Behandlung lief weiter. Das ist Baustein für Baustein die Konstruktion des zwölften Kapitels – Sterblichkeit ohne Betriebsunterbrechung, Trennung des Anspruchs vom Träger –, und sie existiert im deutschen Sozialrecht, seit fünfzehn Jahren, ohne dass dieses Buch sie bemerkt hätte.
 
 Das zweite Haus ist die gesetzliche Rentenversicherung, und es ist nach den entgegengesetzten Grundsätzen gebaut.
 
@@ -106,7 +104,7 @@ Und nun die Verteilung, und sie ist der unangenehmste Befund dieses Kapitels.
 
 Man betrachte den Menschen, um dessentwillen diese ganze Konstruktion existiert: den Beschäftigten eines Betriebes, der gerade gestorben ist. Er bekommt zunächst Arbeitslosengeld, und dieses beruht auf seinen Beiträgen, ist also die geschützte Sorte. Aber es ist befristet. Danach steht er in der Grundsicherung, und dort beruht nichts mehr auf Eigenleistung – gesichert ist nur noch, *dass* er etwas bekommt, nicht *wie viel*.
 
-Der Eigentumsschutz ist dort am stärksten, wo am meisten eingezahlt wurde, und er ist am schwächsten dort, wo dieses Buch ihn braucht. **Diese Ordnung stützt ihren härtesten Mechanismus auf ihre am schwächsten gesicherte Stelle** – und sie hat es zwanzig Kapitel lang nicht gemerkt.
+**Diese Ordnung stützt ihren härtesten Mechanismus auf ihre am schwächsten gesicherte Stelle** – und sie hat es zwanzig Kapitel lang nicht gemerkt.
 
 ### Der Träger, den es gibt und der nicht arbeitet
 

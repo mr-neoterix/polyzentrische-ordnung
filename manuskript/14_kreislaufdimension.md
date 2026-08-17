@@ -158,8 +158,6 @@ Zwei Vorbehalte bleiben, und der zweite ist keine Grenze, sondern eine Fessel, d
 
 *Und die Begründung wird nicht ausgetauscht.* Die Abgabe steht hier aus zwei Gründen: weil eine stille steuerliche Mitfinanzierung endet und weil ein Wettrüsten gedämpft wird, aus dem die Beteiligten allein nicht herauskommen. Sie steht nicht hier, weil Menschen das Falsche kaufen. Wird sie eines Tages mit diesem dritten, hier ausdrücklich verworfenen Grund verteidigt, hat sie den Boden dieser Ordnung verlassen, und der Einwand des fünfundzwanzigsten Kapitels hat recht behalten. Der Satz steht hier, damit man ihn zitieren kann: **Diese Ordnung besteuert das Wettrüsten, nicht den Wunsch.**
 
-**Das Bedürfnis, das niemand hatte, entsteht nicht im Kopf des Käufers, sondern in der Bilanz dessen, der an seiner Weckung verdient.**
-
 ---
 
 ### Belege

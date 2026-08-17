@@ -60,7 +60,7 @@ Der deutsche Anschauungsfall ist der Atomausstieg. Der schwedische Konzern Vatte
 
 Das bedeutet: Bis in die vierziger Jahre dieses Jahrhunderts steht neben dem Grundgesetz ein Parallelrechtsweg, der für ausländische Eigentümer die Abwägung des Artikels 14 aushebeln kann – und zwar gerade in den Sektoren, um die es hier geht.
 
-Das ist keine Widerlegung dieser Ordnung. Es ist eine Bestätigung ihres achten Kapitels auf der Ebene des Völkerrechts: Das Kapital hat sich Regeln geschaffen, die *nicht* rosten – weil sie einem konzentrierten Interesse dienen und weil ihre Änderung die Zustimmung aller Vertragsparteien erfordert. Man vergleiche das mit der deutschen Mitbestimmung, die niemand abgeschafft hat und die trotzdem verfällt. Der Unterschied liegt nicht in der Qualität der Juristen, sondern in der Frage, wer ein Interesse an der Verteidigung hat.
+Das ist keine Widerlegung dieser Ordnung. Es ist eine Bestätigung ihres achten Kapitels auf der Ebene des Völkerrechts.
 
 Daraus folgt eine Reihenfolge der Instrumente, und über sie entscheidet nicht die Entschlossenheit einer Regierung, sondern die Frage, welches Instrument ein Schiedsverfahren übersteht: **Kauf im Nachfolgefall und Konzessionsrückfall bei Auslaufen sind schiedsfest. Vergesellschaftung ist es nicht.**
 

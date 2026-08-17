@@ -118,7 +118,7 @@ Er wird hier nicht mit gutem Zureden beantwortet, sondern mit Satzungsrecht, und
 
 *Und eine veröffentlichte Kennzahl zur Zusammensetzung* von Versammlungen und Gremien, aufgeschlüsselt unter anderem nach Sorgeverpflichtung. Ohne diese Zahl weiß eine Genossenschaft nicht, wen ihre Verfahren systematisch aussieben.
 
-Diese fünf Bestimmungen lösen das Problem nicht auf; Beteiligung bleibt aufwendig. Sie verwandeln den Aufwand aber von einem Opfer, das die Bereitwilligen erbringen, in einen Kostenposten, den der Betrieb trägt. Das ist der ganze Unterschied zwischen einer Demokratie der Verfügbaren und einer der Mitglieder.
+Diese fünf Bestimmungen lösen das Problem nicht auf; Beteiligung bleibt aufwendig. Sie verwandeln den Aufwand aber von einem Opfer, das die Bereitwilligen erbringen, in einen Kostenposten, den der Betrieb trägt.
 
 ### Der Zuschnitt der Einheiten
 

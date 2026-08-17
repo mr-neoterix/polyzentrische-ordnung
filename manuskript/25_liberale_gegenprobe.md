@@ -126,7 +126,7 @@ Erstens lässt sich die Beleglast verteilen, und dieses Buch tut es, wo es geht:
 
 Zweitens wird die Gesamtaussage auf das reduziert, was sie ist: eine begründete Wette. Und weil eine Wette, die man nicht verlieren kann, keine ist, bekommt sie ein Datum. Nach zehn Jahren wird veröffentlicht, wie groß der genossenschaftliche Sektor tatsächlich ist, wie seine Betriebe im gematchten Vergleich abschneiden und ob sich die Vermögenskonzentration bewegt hat. Bewegt sich in keiner der drei Größen etwas, ist die Wette verloren und gehört als verloren ausgewiesen.
 
-Die Verbundlösung ist an einem Fall erprobt und an vielen behauptet. Das ist der ehrlichste Satz, den dieses Buch über seine eigene Beleglage sagen kann.
+Die Verbundlösung ist an einem Fall erprobt und an vielen behauptet.
 
 ### 13. Der Juristokratie-Einwand: Sie verletzen Ihre eigene Regel
 

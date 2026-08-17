@@ -60,7 +60,7 @@ Genau deshalb ist die Sequenzierung dieses Pfades taktisches Design und nicht Ä
 
 Verlierer gibt es dennoch, und sie sind benennbar. *Beteiligungsgesellschaften,* die Nachfolgefälle heute günstig einsammeln und mit Fremdkapital belasten. *Die Beratungsindustrie um die Doppelstiftung,* deren Geschäftsmodell der Kontroll-Lock beschneidet. *Eigentümer von Netzen und Wohnungsbeständen,* deren Renten der Konzessionsrückfall beendet. Und *Verbandsfunktionäre,* deren Einfluss auf verteilbare Programme mit deren Rückzahlbarkeit sinkt.
 
-Ihre wirksamste Waffe ist nicht der Kapitalstreik. Es ist die Verzögerung im Detail: beihilferechtliche Bedenken, Bewertungsfragen, Prüfungsauflagen, Fristen, Formulare, Zuständigkeitsstreitigkeiten. Deshalb ist die Transaktionsinfrastruktur des zwanzigsten Kapitels so wichtig – **der Widerstand findet in Formularen statt.**
+Ihre wirksamste Waffe ist nicht der Kapitalstreik. Es ist die Verzögerung im Detail: beihilferechtliche Bedenken, Bewertungsfragen, Prüfungsauflagen, Fristen, Formulare, Zuständigkeitsstreitigkeiten. Deshalb ist die Transaktionsinfrastruktur des zwanzigsten Kapitels so wichtig.
 
 Für die Verlierer im Ausland gilt dasselbe in verschärfter Form, und die Gründe – warum der klassische Erzwingungskanal aus Kapitalflucht und Währungsdruck gegen dieses Programm schlecht greift, warum die Angriffsfläche über die drei Sektoren sehr ungleich verteilt ist und warum der reale Angriff juristisch und nicht ökonomisch ausfällt – stehen im folgenden Kapitel.
 

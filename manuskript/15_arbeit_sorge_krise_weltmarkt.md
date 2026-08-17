@@ -18,7 +18,7 @@ Innerhalb des genossenschaftlichen Sektors entscheidet die Mitgliederversammlung
 
 Der Sozialstaat bleibt in dieser Ordnung vollständig erhalten, und das ist keine Nebenbemerkung, sondern eine Konstruktionsbedingung.
 
-Der Grund ergibt sich aus dem neunten Kapitel. Eine Wirtschaft mit harter Budgetbeschränkung produziert Betriebssterben – nicht als Fehler, sondern als Funktion. Das ist der Mechanismus, mit dem falsche Entscheidungen aus der Welt geschafft werden. Aber jedes gestorbene Unternehmen ist eine Zahl von Menschen ohne Einkommen, und eine Gesellschaft, die diese Menschen nicht auffängt, wird das Betriebssterben politisch nicht durchhalten. Sie wird stützen, wie sie bei den Landesbanken gestützt hat, und dann hat sie die weiche Budgetbeschränkung wieder.
+Der Grund ergibt sich aus dem neunten Kapitel: Eine Wirtschaft mit harter Budgetbeschränkung produziert Betriebssterben als Funktion, nicht als Fehler – und eine Gesellschaft, die die Freigesetzten nicht auffängt, hält es politisch nicht durch, sondern stützt, wie sie bei den Landesbanken gestützt hat, und hat die weiche Budgetbeschränkung wieder.
 
 Der Zusammenhang ist also nicht sozialpolitisch, sondern ordnungspolitisch: **Wer Betriebe sterben lassen will, muss Menschen auffangen können.** Arbeitslosenversicherung, Grundsicherung, Qualifizierung und Gesundheitsversorgung sind in dieser Ordnung nicht das Gute, das man sich zusätzlich leistet, sondern die Voraussetzung dafür, dass ihr härtester Mechanismus überhaupt zugelassen wird.
 

@@ -82,7 +82,7 @@ Die Antwort hat fünf Teile, von denen einer ein Zugeständnis ist – und danac
 
 *Erstens: Der Satz „im Grunde sind alle gleich" ist ein Urteil von hinten.* Er lässt sich sagen, nachdem die achtzig Versuche gemacht worden sind. Vorher weiß niemand, welcher von ihnen der brauchbare ist – und genau dieses Nichtwissen ist der Grund, warum es achtzig sind. Hayek hat das 1968 in einem Kieler Vortrag auf den Begriff gebracht, den dieses Buch hier braucht: Wettbewerb ist ein *Entdeckungsverfahren*. Sein Nutzen besteht darin, Tatsachen zu ermitteln, die ohne ihn unbekannt oder ungenutzt blieben. Daraus folgt eine unbequeme Konsequenz: Ein Verfahren, dessen Ergebnis man vorher kennt, ist kein Verfahren, sondern eine Bestellung. Die achtzig Versuche sind nicht die Alternative zum Wissen, sie sind der Vorgang, in dem es entsteht.
 
-Das ist nichts anderes als das neunte Kapitel, angewandt auf Produkte statt auf Betriebe. Fehlertoleranz heißt, dass Elemente scheitern können, ohne dass das Ganze scheitert; Parallelität ist die Gestalt, in der eine Ordnung sich Irrtümer leistet. **Wer die Doppelarbeit abschafft, schafft nicht die Verschwendung ab, sondern die Möglichkeit, sich zu irren, ohne dass es alle trifft.**
+Das ist nichts anderes als das neunte Kapitel, angewandt auf Produkte statt auf Betriebe. Fehlertoleranz heißt, dass Elemente scheitern können, ohne dass das Ganze scheitert; Parallelität ist die Gestalt, in der eine Ordnung sich Irrtümer leistet.
 
 *Zweitens: Und die Planwirtschaften haben die Doppelarbeit selbst bezahlt.* Das ist der Teil der Antwort, der nicht aus der Theorie kommt, sondern aus dem Haus des Einwands.
 
@@ -194,7 +194,7 @@ Der Anarchist hat diese Blöße nicht. Er hat eine andere: Er hat keine Übergan
 
 Und damit die ehrliche Form dessen, was dieses Buch behauptet – sie ist schwächer, als sie bisher klang, und dadurch haltbarer. **Es muss nicht beweisen, dass Staaten notwendig sind. Es muss nur feststellen, dass niemand einen Weg hat.** Das ist dieselbe Zurückhaltung, mit der es gegen Marx argumentiert: nicht „euer Ziel ist falsch", sondern „euer Weg ist besichtigt".
 
-Was als Dissens bleibt, bleibt, und er steht im sechsundzwanzigsten Kapitel. Wer den Staat für die Quelle des Problems hält, hat gegen dieses Buch kein Argument verloren, sondern eine andere Ausgangsannahme – und er behält die bessere Anthropologie. Dieser Text behält nur die Frage nach dem Weg – und die hat der Anarchismus bisher nicht beantwortet.
+Was als Dissens bleibt, bleibt, und er steht im sechsundzwanzigsten Kapitel. Wer den Staat für die Quelle des Problems hält, hat gegen dieses Buch kein Argument verloren, sondern eine andere Ausgangsannahme – und er behält die bessere Anthropologie. Dieser Text behält nur die Frage nach dem Weg.
 
 Einen konstruktiven Ertrag hat der Einwand außerdem, und er ist erheblich: Der anthropologische Befund verdient nicht eine Abwehr, sondern eine Konstruktionsregel. Sie steht im sechzehnten Kapitel und kehrt die Beweislast der Subsidiarität um.
 

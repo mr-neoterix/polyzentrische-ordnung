@@ -64,8 +64,6 @@ Dass ein Konflikt zwischen sichtbaren Trägern besser ist als ein Anspruch ohne 
 
 *Eine Andienung als Rückfallrecht:* Bleibt die Ausschüttung länger aus, kann der Fonds sein Ertragsrecht dem Unternehmen zum bewerteten Preis andienen, zahlbar aus dem Cashflow über Jahre. Damit endet die Beziehung geordnet statt in einem Streit ohne Ausgang.
 
-Auch das bleibt eine Regel, und Regeln rosten.
-
 ### Vierte Wand: Die Bewertung
 
 „Kein Euro verlässt den Betrieb" klingt nach einer Konstruktion ohne Bewertungsproblem und ist das Gegenteil. Wer eine Steuerschuld in Anteilen begleicht, muss wissen, *wie viele* Anteile eine Schuld tilgen.
