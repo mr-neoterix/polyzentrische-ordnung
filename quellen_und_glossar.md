@@ -1029,6 +1029,52 @@ Diese Einträge tragen die Erweiterung vom 17.08.2026 in Manuskript (Kapitel 15,
 **URL:** https://www.online-und-recht.de/urteile/verstoss-gegen-erlaubnispflicht-fuer-arbeitnehmerueberlassung-ist-keine-wettbewerbsverletzung-bundesgerichtshof-20160623/ – indiziert 17.08.2026; https://www.uwg-onlinekommentar.de/kommentierung-3a-uwg/ – direkt abgerufen 17.08.2026
 **Verifikation:** bestätigt hinsichtlich beider Entscheidungen und der herrschenden Meinung. Der Vorschlag, Lohnunterbietung als unlauteren Wettbewerb zu behandeln und dem gesetzestreuen Betrieb ein Klagerecht zu geben, ist ausdrücklich **Konstruktionsvorschlag** des Projekts gegen die geltende Rechtslage, nicht deren Wiedergabe.
 
+## P. Anker des Wohnungsbestands (Stand 18.08.2026)
+
+Diese Einträge tragen die Erweiterung vom 18.08.2026 in Manuskript (Kapitel 12, Abschnitt „Der Sonderfall Wohnen: Allmende ohne Monopol"; präzisierter Ledger-Eintrag zu den Monopolnetzen in Kapitel 26) und Thesenpapier (Sektionen III und VI): den Wohnungsbestand als einzige Kategorie des Allmende-Sektors ohne natürliches Monopol und deshalb als die einzige, die sich vollständig eigentumssichern lässt – Nutzereigentum der Wohnungsgenossenschaft als Regelform, kommunale Bestände als Träger der Versorgungsfunktion, Offenheitskennzahl gegen die Zunft in Wohnform, Weg über Vorkauf, Steuerhebel und Erbschaftsteuer in Beständen statt über Zwang; dazu die Maßpräzisierung, dass der Allmende-Sektor „der größte" nach gebundenem Vermögen wird, nicht nach Beschäftigten. Geprüft per Websuche am 18.08.2026.
+
+### Zensus 2022 – Wohnungsbestand und Eigentümerstruktur
+**Erläuterung:** Die Mengenbasis des Abschnitts: wie groß der Mietbestand ist und wem er gehört. Dass rund zwei Drittel der Mietwohnungen privaten Kleinanbietern gehören, begrenzt zugleich die Reichweite jeder Trägerschaftsregel – der Weg führt über Verkaufsfälle, nicht über den Bestandseingriff.
+**Quelle(n):** Zensus 2022: 43,1 Millionen Wohnungen insgesamt; rund 19,3 Millionen vermietete Wohnungen; 79,4 Prozent aller Wohnungen und rund zwei Drittel der Mietwohnungen im Eigentum von Privatpersonen (Auswertung des Instituts der deutschen Wirtschaft auf Zensus-Basis, Gutachten „Private Vermieter in Deutschland", 2025).
+**URL:** https://ergebnisse.zensus2022.de/datenbank/online/statistic/4000W/details – indiziert 18.08.2026; https://www.iwkoeln.de/fileadmin/user_upload/Studien/Gutachten/PDF/2025/Gutachten-Private-Vermieter-in-Deutschland.pdf – indiziert 18.08.2026
+**Verifikation:** bestätigt.
+
+### Wohnungsgenossenschaften – Bestand und Bewohner
+**Erläuterung:** Der größte eigentumsgesicherte Bestand, den die Ordnung bereits besitzt, und die Bezugsgröße des Befundes, dass der genossenschaftliche Sektor dem Vermögen nach nicht in der Fabrik, sondern im Wohnungsbestand groß wird.
+**Quelle(n):** GdW: rund 2.000 Wohnungsgenossenschaften mit etwa 2,2 Millionen Wohnungen; rund fünf Millionen Menschen leben in Genossenschaftswohnungen.
+**URL:** https://www.gdw.de/der-gdw/unternehmenssparten/genossenschaften/ – indiziert 18.08.2026
+**Verifikation:** bestätigt mit Einschränkung: Verbandsstatistik, im Text als solche gekennzeichnet.
+
+### Nettoanlagevermögen und Wohnbauten
+**Erläuterung:** Die Maßpräzisierung „der größte nach gebundenem Vermögen": Wohnbauten sind die größte Anlageklasse der Volkswirtschaft, weshalb die Sicherungsfrage des Allmende-Sektors dem Vermögen nach vor allem eine Wohnungsfrage ist.
+**Quelle(n):** Statistisches Bundesamt, Vermögensrechnung: gesamtes Nettoanlagevermögen rund 20,8 Billionen Euro; Nettoanlagevermögen der Wohnbauten rund 7,6 Billionen Euro (2022).
+**URL:** https://www.destatis.de/DE/Themen/Wirtschaft/Volkswirtschaftliche-Gesamtrechnungen-Inlandsprodukt/anlagevermoegen-vermoegensrechnung.html – indiziert 18.08.2026
+**Verifikation:** bestätigt mit Einschränkung: Die Jahresstände beider Größen differieren; die im Text geführte Größenordnung „gut ein Drittel" ist davon unberührt.
+
+### Dresden – WOBA-Verkauf 2006 und Neugründung 2017
+**Erläuterung:** Der Feldbeleg für den Unterschied der Sicherungsstufen (Befund 9 im Wohnungsmarkt): Ein verfahrensgesicherter Bestand fiel mit einem einzigen Ratsbeschluss, die Ersatzsicherung war ein befristetes Regelwerk, und der Wiederaufbau ist ein Generationenprojekt.
+**Quelle(n):** Stadtratsbeschluss vom 9. März 2006: Verkauf der WOBA Dresden GmbH mit rund 48.000 Wohnungen für rund 1,7 Milliarden Euro an Fortress; erste deutsche Großstadt, die ihren gesamten kommunalen Wohnungsbestand veräußerte; Sozialcharta mit Vertragsstrafen, städtische Belegrechte für 8.000 Wohnungen bis 2026. März/September 2017: Beschluss und Gründung der „WiD – Wohnen in Dresden", Zielbestand rund 5.000 Wohnungen bis 2030.
+**URL:** https://de.wikipedia.org/wiki/Woba_Dresden – indiziert 18.08.2026; https://www.dresden.de/de/rathaus/aktuelles/pressemitteilungen/archiv/2017/09/pm_078.php – indiziert 18.08.2026
+**Verifikation:** bestätigt.
+
+### Berlin – GSW-Verkauf 2004
+**Erläuterung:** Der zweite Fall derselben Welle; zusammen mit Dresden macht er aus dem Einzelfall ein Muster.
+**Quelle(n):** Verkauf der GSW mit rund 65.700 Wohnungen für 405 Millionen Euro zuzüglich übernommener Verbindlichkeiten von über 1,5 Milliarden Euro an ein Konsortium aus Cerberus und Whitehall (2004).
+**URL:** https://www.bmgev.de/mieterecho/archiv/2019/me-single/article/15-jahre-gsw-verkauf/ – indiziert 18.08.2026
+**Verifikation:** bestätigt.
+
+### Neubauleistung der GdW-Unternehmen
+**Erläuterung:** Die liberale Gegenprobe des Abschnitts: Der gemeinwirtschaftliche Bestandssektor sichert Bestände und baut wenig – der Grund, aus dem die Begünstigung an eine Offenheitskennzahl gebunden wird und der private Neubau als Zutritt offen bleibt.
+**Quelle(n):** GdW-Prognose: rund 16.000 erwartete Fertigstellungen der Mitgliedsunternehmen für 2026 nach rund 24.000 im Jahr 2025; jährlicher Neubaubedarf rund 320.000 Wohnungen. Die rund 3.000 GdW-Unternehmen (kommunale, genossenschaftliche, kirchliche und weitere) bewirtschaften rund sechs Millionen Wohnungen, knapp 30 Prozent der Mietwohnungen.
+**URL:** https://www.gdw.de/pressecenter/pressemeldungen/wohnungswirtschaft-warnt-vor-neubau-kollaps-wohn-investitionen-wandern-immer-staerker-in-den-bestand-statt-in-den-neubau/ – indiziert 18.08.2026
+**Verifikation:** bestätigt mit Einschränkung: Verbandsprognose und verbreitete Bedarfsschätzung, im Text als solche geführt.
+
+### Leerstand und Rückbau Ost
+**Erläuterung:** Der Beleg der Selbstwarnung: Auch eigentumsgesicherter Wohnbestand muss sterben können; Eigentumssicherung schützt vor dem Verkauf gegen die Bewohner, nicht vor fehlender Nachfrage.
+**Quelle(n):** Um die Jahrtausendwende standen in Ostdeutschland über eine Million Wohnungen leer; der Stadtumbau Ost legte den Rückbau von rund 350.000 Wohnungen an; die Altschuldenhilfe zahlte seit 2001 über 280 Millionen Euro Teilentlastung für rund 70.000 abgerissene Wohnungen; getragen wurde der Rückbau von kommunalen Unternehmen und Genossenschaften.
+**URL:** https://www.bpb.de/themen/deutschlandarchiv/286642/stadtumbau-ost-loesung-einer-wohnungsfrage/ – indiziert 18.08.2026
+**Verifikation:** bestätigt hinsichtlich der Größenordnungen.
+
 ## Aus der Verifikation folgende Präzisierungsaufträge für das Hauptdokument
 
 Die Prüfung hat keine tragende These des Dokuments erschüttert, aber zehn Stellen ergeben, an denen Formulierungen oder Zahlen nachgeschärft werden mussten. Alle zehn wurden am 22.07.2026 in das Hauptdokument eingearbeitet; die Liste bleibt als Änderungsdokumentation erhalten – nach der Hausregel gilt: präzisieren, nicht stillschweigend verschieben.
