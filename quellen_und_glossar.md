@@ -1167,6 +1167,27 @@ Diese Einträge tragen die Durchsicht der offenen Fragen vom 20.08.2026, bei der
 **URL:** https://fbaum.unc.edu/teaching/PLSC541_Fall08/mcubbins_schwartz_1984.pdf – indiziert 20.08.2026
 **Verifikation:** bestätigt (Fundstelle, Begriffspaar, Kernthese). Die Übertragung auf die Existenzminimum-Rechtsprechung und die Gleichsetzung mit der Kläger-Regel sind Wertung des Projekts.
 
+## S. Anker der Sektorabgrenzung: Rechtsform und Regime (Stand 20.08.2026)
+
+Anlass war eine Beobachtung am eigenen Text: Das Manuskript zählte die Wohnungsgenossenschaften in den Größenordnungen des genossenschaftlichen Sektors mit und wies die Wohnungsbestände zugleich dem Allmende-Sektor zu, ohne die Zuordnungsfrage je zu stellen. Die Anker dieses Abschnitts stützen die Trennung nach dem Regime statt nach der Rechtsform (Kapitel 10, Ausläufer in 12 und 26).
+
+### Förderzweck und Mitgliedertypus nach § 1 GenG
+**Erläuterung:** Die gesetzliche Grundlage der Unterscheidung von Belegschafts- und Nutzergenossenschaft. Das Gesetz bestimmt den Typus nicht über die Rechtsform, sondern über die Frage, wessen Erwerb, Wirtschaft oder soziale Belange gefördert werden sollen – bei der Belegschaftsgenossenschaft die der Arbeitenden, bei der Wohnungsgenossenschaft die der Wohnenden, bei der Kreditgenossenschaft die der Kunden.
+**Quelle(n):** § 1 Absatz 1 GenG: „Gesellschaften von nicht geschlossener Mitgliederzahl, deren Zweck darauf gerichtet ist, den Erwerb oder die Wirtschaft ihrer Mitglieder oder deren soziale oder kulturelle Belange durch gemeinschaftlichen Geschäftsbetrieb zu fördern (Genossenschaften), erwerben die Rechte einer eingetragenen Genossenschaft nach Maßgabe dieses Gesetzes." Genossenschaftsgesetz in der Fassung der Bekanntmachung vom 16.10.2006 (BGBl. I S. 2230); Reichsgesetz in Kraft seit 01.10.1889.
+**URL:** https://www.gesetze-im-internet.de/geng/__1.html – indiziert 20.08.2026
+**Verifikation:** bestätigt (Wortlaut mehrfach unabhängig geprüft). Die daraus gezogene Typenunterscheidung ist gängige genossenschaftsrechtliche Lehre; ihre Verwendung als Sektorkriterium ist Konstruktionsentscheidung des Projekts.
+
+### Gemeinsame Verbandsstruktur beider Sektoren
+**Erläuterung:** Die Grundlage des erweiterten Ledger-Eintrags in Kapitel 26 (Klasse II): Die Trennung der Sektoren nach dem Sterblichkeitsfall ändert nichts daran, dass Belegschafts- und Wohnungsgenossenschaften dieselbe Rechtsform, dieselbe Pflichtprüfung und dieselben Spitzenverbände haben – die Olson-Konstellation der Förderkulisse ist damit größer als die Sektoreneinteilung.
+**Quelle(n):** § 54 GenG – Pflichtmitgliedschaft jeder eingetragenen Genossenschaft in einem Prüfungsverband; § 53 GenG – Pflichtprüfung. Siehe die Belege des zwanzigsten Kapitels und Abschnitt E.
+**URL:** https://www.gesetze-im-internet.de/geng/__54.html – indiziert 20.08.2026
+**Verifikation:** bestätigt für die Rechtslage. Die Folgerung auf eine gemeinsame Interessenvertretung beider Sektoren ist Wertung des Projekts.
+
+### Abstand zur behaupteten Vermögenskonzentration
+**Erläuterung:** Die Aussage, am Ende halte die genossenschaftliche Rechtsform das meiste gebundene Vermögen, ist ausdrücklich bedingt geführt. Der heutige Abstand gehört dazu und ist Rechnung auf den Ankern des Abschnitts P: rund 2,2 Millionen genossenschaftliche Wohnungen von 43,1 Millionen Wohnungen insgesamt sind rund 5 Prozent (etwa jede zwanzigste), bezogen auf 19,3 Millionen Mietwohnungen rund 11 Prozent (gut jede neunte); gut die Hälfte des Gesamtbestands ist gar nicht vermietet und bleibt privat, und rund zwei Drittel des Mietbestands liegen bei privaten Kleinanbietern, die der Umsetzungspfad nicht angreift.
+**Quelle(n):** Zensus 2022 und GdW-Verbandszahlen – siehe Abschnitt P.
+**Verifikation:** bestätigt für die Ausgangszahlen (Abschnitt P); die Anteilsrechnung ist Rechnung des Projekts, die Bedingtheit der Zielaussage ist im Text ausgewiesen.
+
 ## Aus der Verifikation folgende Präzisierungsaufträge für das Hauptdokument
 
 Die Prüfung hat keine tragende These des Dokuments erschüttert, aber zehn Stellen ergeben, an denen Formulierungen oder Zahlen nachgeschärft werden mussten. Alle zehn wurden am 22.07.2026 in das Hauptdokument eingearbeitet; die Liste bleibt als Änderungsdokumentation erhalten – nach der Hausregel gilt: präzisieren, nicht stillschweigend verschieben.
