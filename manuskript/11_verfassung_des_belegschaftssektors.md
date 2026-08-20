@@ -176,7 +176,7 @@ Was bleibt, bleibt: Der Arbeitsplatz liegt weiterhin im selben Betrieb wie das V
 
 *§ 8a und § 73 GenG:* § 73 GenG – Auszahlung des Auseinandersetzungsguthabens grundsätzlich binnen sechs Monaten nach Ausscheiden, abweichende Satzungsregelungen zu Voraussetzungen, Modalitäten und Frist zulässig; § 8a GenG – die Satzung kann ein Mindestkapital bestimmen, das durch Auszahlungen nicht unterschritten werden darf, die Auszahlung ist dann ausgesetzt; Zweck der Regelung von 2006 war ausdrücklich der Erhalt des Eigenkapitalausweises nach IAS 32. **Bestätigt.**
 
-*Horizontproblem:* Furubotn/Pejovich; Aufarbeitung des Mondragón-Mechanismus bei David Ellerman. **Bestätigt** in Theoriezuschreibung und Mechanismus; *offener Punkt:* bibliographische Fundstellen noch zu vervollständigen, deshalb hier referiert und nicht zitiert.
+*Horizontproblem:* Eirik G. Furubotn und Svetozar Pejovich, „Property Rights and the Behavior of the Firm in a Socialist State: The Example of Yugoslavia", in: *Zeitschrift für Nationalökonomie* 30 (1970), H. 3–4, S. 431–454. Aufarbeitung des Mondragón-Mechanismus der individuellen Kapitalkonten als Lösung des Horizontproblems bei David P. Ellerman, „Horizon Problems and Property Rights in Labor-Managed Firms", in: *Journal of Comparative Economics* 10 (1986), H. 1, S. 62–78; ders., *The Democratic Worker-Owned Firm. A New Model for the East and West*, London 1990. **Bestätigt**; die Fundstellen sind am 20.08.2026 vervollständigt worden, womit der zugehörige Verifikationsauftrag des sechsundzwanzigsten Kapitels erledigt ist.
 
 *Ward-Effekt:* Benjamin Ward (1958); empirische Bestätigung für Jugoslawien bei Saul Estrin (1991) – Belege in Kapitel 4. **Bestätigt.**
 

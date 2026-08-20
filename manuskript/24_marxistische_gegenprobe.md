@@ -268,7 +268,7 @@ Die Antwort darauf ist kein Trost, sondern eine Feststellung: Erlösung stand ni
 
 *Marx, Inauguraladresse:* MEW 16, S. 5–13. **Bestätigt** (Passage im Wortlaut verifiziert).
 
-*Marx, Kapital III:* MEW 25, Kapitel 27 („Die Rolle des Kredits in der kapitalistischen Produktion"), S. 451–457; die Aktiengesellschafts-Stelle auf S. 452, die Genossenschafts-Stelle auf S. 456. Der Wortlaut beider Stellen ist bestätigt. **Bestätigt im Wortlaut**; *offener Punkt:* die Seitenangabe MEW 25, S. 456 ist bisher nur mittelbar geprüft und nicht gegen die Druckausgabe verifiziert.
+*Marx, Kapital III:* MEW 25, Kapitel 27 („Die Rolle des Kredits in der kapitalistischen Produktion"), S. 451–457; die Aktiengesellschafts-Stelle auf S. 452, die Genossenschafts-Stelle auf S. 456. Der Wortlaut beider Stellen ist bestätigt. **Bestätigt im Wortlaut**; die Seitenangabe MEW 25, S. 456 ist am 20.08.2026 über mehrere voneinander unabhängige wissenschaftliche und dokumentarische Fundstellennachweise übereinstimmend bestätigt worden – eine Einsichtnahme in die gedruckte Dietz-Ausgabe steht weiterhin aus und ist der verbleibende Rest dieses Prüfauftrags.
 
 *Marx, Kritik des Gothaer Programms:* Karl Marx, *Randglossen zum Programm der deutschen Arbeiterpartei* (1875), MEW 19. Die drei zitierten Stellen sind im Wortlaut bestätigt. **Bestätigt.**
 
