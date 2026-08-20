@@ -1167,6 +1167,27 @@ Diese Einträge tragen die Durchsicht der offenen Fragen vom 20.08.2026, bei der
 **URL:** https://fbaum.unc.edu/teaching/PLSC541_Fall08/mcubbins_schwartz_1984.pdf – indiziert 20.08.2026
 **Verifikation:** bestätigt (Fundstelle, Begriffspaar, Kernthese). Die Übertragung auf die Existenzminimum-Rechtsprechung und die Gleichsetzung mit der Kläger-Regel sind Wertung des Projekts.
 
+## S. Anker der Sektorabgrenzung: Rechtsform und Regime (Stand 20.08.2026)
+
+Anlass war eine Beobachtung am eigenen Text: Das Manuskript zählte die Wohnungsgenossenschaften in den Größenordnungen des genossenschaftlichen Sektors mit und wies die Wohnungsbestände zugleich dem Allmende-Sektor zu, ohne die Zuordnungsfrage je zu stellen. Die Anker dieses Abschnitts stützen die Trennung nach dem Regime statt nach der Rechtsform (Kapitel 10, Ausläufer in 12 und 26).
+
+### Förderzweck und Mitgliedertypus nach § 1 GenG
+**Erläuterung:** Die gesetzliche Grundlage der Unterscheidung von Belegschafts- und Nutzergenossenschaft. Das Gesetz bestimmt den Typus nicht über die Rechtsform, sondern über die Frage, wessen Erwerb, Wirtschaft oder soziale Belange gefördert werden sollen – bei der Belegschaftsgenossenschaft die der Arbeitenden, bei der Wohnungsgenossenschaft die der Wohnenden, bei der Kreditgenossenschaft die der Kunden.
+**Quelle(n):** § 1 Absatz 1 GenG: „Gesellschaften von nicht geschlossener Mitgliederzahl, deren Zweck darauf gerichtet ist, den Erwerb oder die Wirtschaft ihrer Mitglieder oder deren soziale oder kulturelle Belange durch gemeinschaftlichen Geschäftsbetrieb zu fördern (Genossenschaften), erwerben die Rechte einer eingetragenen Genossenschaft nach Maßgabe dieses Gesetzes." Genossenschaftsgesetz in der Fassung der Bekanntmachung vom 16.10.2006 (BGBl. I S. 2230); Reichsgesetz in Kraft seit 01.10.1889.
+**URL:** https://www.gesetze-im-internet.de/geng/__1.html – indiziert 20.08.2026
+**Verifikation:** bestätigt (Wortlaut mehrfach unabhängig geprüft). Die daraus gezogene Typenunterscheidung ist gängige genossenschaftsrechtliche Lehre; ihre Verwendung als Sektorkriterium ist Konstruktionsentscheidung des Projekts.
+
+### Gemeinsame Verbandsstruktur beider Sektoren
+**Erläuterung:** Die Grundlage des erweiterten Ledger-Eintrags in Kapitel 26 (Klasse II): Die Trennung der Sektoren nach dem Sterblichkeitsfall ändert nichts daran, dass Belegschafts- und Wohnungsgenossenschaften dieselbe Rechtsform, dieselbe Pflichtprüfung und dieselben Spitzenverbände haben – die Olson-Konstellation der Förderkulisse ist damit größer als die Sektoreneinteilung.
+**Quelle(n):** § 54 GenG – Pflichtmitgliedschaft jeder eingetragenen Genossenschaft in einem Prüfungsverband; § 53 GenG – Pflichtprüfung. Siehe die Belege des zwanzigsten Kapitels und Abschnitt E.
+**URL:** https://www.gesetze-im-internet.de/geng/__54.html – indiziert 20.08.2026
+**Verifikation:** bestätigt für die Rechtslage. Die Folgerung auf eine gemeinsame Interessenvertretung beider Sektoren ist Wertung des Projekts.
+
+### Abstand zur behaupteten Vermögenskonzentration
+**Erläuterung:** Die Aussage, am Ende halte die genossenschaftliche Rechtsform das meiste gebundene Vermögen, ist ausdrücklich bedingt geführt. Der heutige Abstand gehört dazu und ist Rechnung auf den Ankern des Abschnitts P: rund 2,2 Millionen genossenschaftliche Wohnungen von 43,1 Millionen Wohnungen insgesamt sind rund 5 Prozent (etwa jede zwanzigste), bezogen auf 19,3 Millionen Mietwohnungen rund 11 Prozent (gut jede neunte); gut die Hälfte des Gesamtbestands ist gar nicht vermietet und bleibt privat, und rund zwei Drittel des Mietbestands liegen bei privaten Kleinanbietern, die der Umsetzungspfad nicht angreift.
+**Quelle(n):** Zensus 2022 und GdW-Verbandszahlen – siehe Abschnitt P.
+**Verifikation:** bestätigt für die Ausgangszahlen (Abschnitt P); die Anteilsrechnung ist Rechnung des Projekts, die Bedingtheit der Zielaussage ist im Text ausgewiesen.
+
 ## Aus der Verifikation folgende Präzisierungsaufträge für das Hauptdokument
 
 Die Prüfung hat keine tragende These des Dokuments erschüttert, aber zehn Stellen ergeben, an denen Formulierungen oder Zahlen nachgeschärft werden mussten. Alle zehn wurden am 22.07.2026 in das Hauptdokument eingearbeitet; die Liste bleibt als Änderungsdokumentation erhalten – nach der Hausregel gilt: präzisieren, nicht stillschweigend verschieben.
@@ -1181,3 +1202,44 @@ Die Prüfung hat keine tragende These des Dokuments erschüttert, aber zehn Stel
 8. *Devisenkennziffer (Befund 1):* Die Verdopplung 2,40 auf 4,40 Mark je Valutamark ist eine DDR-interne Zahl aus dem Schürer-Papier – als solche kennzeichnen.
 9. *„Große Kompression" (Befund 7):* Originalbegriff bezeichnet die US-Lohnkompression der 1940er; die Ausdehnung auf „1930–1980" ist Rezeptionsgebrauch – ggf. Fußnotenhinweis.
 10. *Energy Sharing (Sektion IV, Stufe 1):* Seit der EnWG-Novelle Dezember 2025 (§ 42c) ist die Forderung formal teilerfüllt; die Stufe-1-Formulierung auf den Stand 2026 bringen (praktische Umsetzung weiter unvollständig).
+
+---
+
+## T. Anker des Großvermieter-Mechanismus (Stand 20.08.2026)
+
+Anlass war eine Lücke, die der Wohnen-Abschnitt vom 18.08.2026 selbst gelassen hatte: Seine drei Instrumente – Vorkaufsrecht, Steuerhebel, Erbschaftsteuer in Beständen – warten sämtlich auf ein Ereignis, auf einen Verkauf oder einen Todesfall. Ein börsennotierter Bestandshalter kennt weder das eine noch das andere. Die Anker dieses Abschnitts stützen den vierten Zug (Kapitel 12, Ledger-Eintrag in 26, Thesenpapier Sektionen III und VI).
+
+### Größenordnung der Großbestände
+**Erläuterung:** Beziffert, wie viel Wohnungsbestand in einer Rechtsform liegt, die die drei vorhandenen Instrumente nicht erreichen.
+**Quelle(n):** Vonovia SE, Zwischenmitteilung zum 31.03.2025: 474.571 Wohnungen in Deutschland, 534.566 einschließlich Schweden und Österreich. LEG Immobilien SE, Quartalsberichte: 173.359 Wohn- und Gewerbeeinheiten zum 31.03.2025, 172.701 zum 31.03.2026, darunter rund 28.000 geförderte Einheiten.
+**URL:** https://report.vonovia.com/2025/q1/app/uploads/Vonovia-SE_Zwischenmitteilung_Q1_2025-Informationen.pdf – indiziert 20.08.2026
+**Verifikation:** bestätigt (Unternehmensangaben). Im Text als Größenordnung geführt, nicht als Stichtagswert.
+
+### Das Ende der Berliner Vorkaufsrechtspraxis
+**Erläuterung:** Der tragende Beleg des Abschnitts, und zwar ein doppelter: Die vom Buch vorgeschlagene Konstruktion war bereits gebaut und in Betrieb – und wurde durch ein einziges Urteil beendet, weil sie an einem Ermessen mit Prognose hing. Rost-These in ihrer schnellsten beobachteten Fassung.
+**Quelle(n):** BVerwG, Urteil vom 09.11.2021 – 4 C 1.20, Pressemitteilung Nr. 70/2021. Das Vorkaufsrecht nach § 24 Absatz 1 Satz 1 Nummer 4 in Verbindung mit § 172 BauGB ist ausgeschlossen, wenn das Grundstück im Zeitpunkt der letzten Behördenentscheidung entsprechend den Zielen und Zwecken der Erhaltungssatzung bebaut und genutzt wird; künftige Absichten des Erwerbers bleiben außer Betracht. Aufgehoben: VG Berlin, 17.05.2018; OVG Berlin-Brandenburg, 22.10.2019. Fallzahlen danach: sieben prüffähige Fälle 2023, fünf 2024, berlinweit.
+**URL:** https://www.bverwg.de/de/091121U4C1.20.0 – indiziert 20.08.2026
+**Verifikation:** bestätigt (Urteil, Aktenzeichen und Leitsatz mehrfach unabhängig geprüft). Die Fallzahlen nach dem Urteil: bestätigt mit Einschränkung – Berichterstattung, keine amtliche Statistik.
+
+### Vorkauf zugunsten Dritter
+**Erläuterung:** Die vorhandene Rechtsgrundlage dafür, dass nicht die Gemeinde Eigentümerin wird, sondern eine Genossenschaft. Zugleich die Erklärung, warum die Gemeinde nicht der Finanzier sein kann.
+**Quelle(n):** § 27a BauGB (Ausübung des Vorkaufsrechts zugunsten Dritter); die Berliner Praxis übte zugunsten der landeseigenen Wohnungsbaugesellschaften und zugunsten von Genossenschaften aus. Die Gemeinde haftet für die Verpflichtungen aus dem Kaufvertrag neben dem Begünstigten gesamtschuldnerisch.
+**URL:** https://www.gesetze-im-internet.de/bbaug/__27a.html – indiziert 20.08.2026
+**Verifikation:** bestätigt.
+
+### Kontrollwechsel statt Grundstücksverkauf
+**Erläuterung:** Der Beleg, dass die vorgeschlagene Erstreckung des Vorkaufsrechts auf den Anteilsverkauf kein neuartiger Zug ist, sondern eine Bewegung, die der Gesetzgeber im Steuerrecht und der Bundesgerichtshof im Mietrecht bereits vollzogen haben.
+**Quelle(n):** Grunderwerbsteuergesetz in der Fassung vom 12.05.2021, in Kraft zum 01.07.2021: Absenkung der Beteiligungsschwelle von 95 auf 90 Prozent, Verlängerung der maßgeblichen Fristen von fünf auf zehn Jahre, erstmalige Erfassung des Gesellschafterwechsels bei Kapitalgesellschaften. – BGH, Urteil vom 21.05.2025 – VIII ZR 201/23: Vorkaufsrecht des Mieters nach § 577 Absatz 1 BGB auch bei Begründung von Teileigentum, begründet mit der Verhinderung von Umgehungen.
+**URL:** https://www.bundestag.de/dokumente/textarchiv/2021/kw16-de-grunderwerbsteuergesetz-834810 – indiziert 20.08.2026
+**Verifikation:** GrEStG-Reform bestätigt. BGH-Urteil bestätigt mit Einschränkung – über die Rechtsprechungsberichterstattung, Fundstelle in der amtlichen Sammlung nicht direkt eingesehen. Dass Gestaltungen unterhalb der Schwelle attraktiv bleiben, ist stehender Einwand der Beratungspraxis und im Text nicht bestritten.
+
+### Volksentscheid, Vergesellschaftung und der offene Preis
+**Erläuterung:** Die linke Gegenprobe des Abschnitts in ihrer stärksten Form – als bereits ergangener Mehrheitsbeschluss mit gutachterlicher Rückendeckung. Zugleich der Beleg dafür, dass die Kostenseite des Weges offen ist: Die beiden Schätzungen für denselben Bestand liegen um etwa den Faktor drei auseinander.
+**Quelle(n):** Volksentscheid „Deutsche Wohnen & Co enteignen" vom 26.09.2021, angenommen mit 59,1 Prozent; erfasst wären Unternehmen mit 3.000 und mehr Wohnungen in Berlin. Amtliche Schätzung rund 243.000 Wohnungen bei Entschädigungskosten von 28,8 bis 36 Mrd. Euro; Rechnung der Initiative 7,3 bis 13,7 Mrd. Euro für rund 200.000 Wohnungen. Expertenkommission des Senats, eingesetzt März 2022, Abschlussbericht Juni 2023: mehrheitlich Zulässigkeit einer Vergesellschaftung nach Art. 15 GG und Gesetzgebungskompetenz des Landes, mit Minderheitsvotum. Art. 15 GG ist seit 1949 nicht angewandt worden.
+**URL:** https://www.berlin.de/wahlen/abstimmungen/deutsche-wohnen-und-co-enteignen/ergebnisse/artikel.1130038.php – indiziert 20.08.2026
+**Verifikation:** Abstimmungsergebnis, Schwelle und Kommissionsbefund bestätigt. Kostenschätzungen bestätigt mit Einschränkung – Schätzungen mit erheblicher Spanne, im Text ausdrücklich als offener Streitpunkt und nicht als Rechenbasis geführt. Die amtliche Ergebnisseite war aus dieser Umgebung nicht direkt erreichbar (Ausgangsfilter); Bestätigung über die Indizierung mehrerer unabhängiger Darstellungen.
+
+### Konstruktionsvorschläge dieses Abschnitts
+**Erläuterung:** Was hier nicht Beleg, sondern Entwurf ist.
+**Quelle(n):** Die nach Bestandsgröße im selben Wohnungsmarkt gestaffelte Abgabe samt Umlageverbot und Befreiungstür; die Erstreckung des Vorkaufsrechts auf den Kontrollwechsel; das Klagerecht der Bewohner auf Feststellung des Vorkaufsfalls. Vorbild der Staffelung: Belloc, *An Essay on the Restoration of Property* (1936), mit der ausdrücklich auf Ladenketten gestaffelten Abgabe – siehe Abschnitt L.
+**Verifikation:** Wertung. Keine dieser drei Konstruktionen ist geltendes Recht; die vier offenen Fragen, die sie erzeugen, stehen im Ledger (Kapitel 26, Klasse III).
