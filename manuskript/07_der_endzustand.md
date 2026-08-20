@@ -70,7 +70,7 @@ Warum die starke Antwort so viel besser ist als die schwache und warum sie fast 
 
 ### Belege
 
-*Engels, „Verwaltung von Sachen":* Friedrich Engels, *Herrn Eugen Dührings Umwälzung der Wissenschaft* (*Anti-Dühring*, 1878), dritter Abschnitt; MEW 20. Wortlaut der Passage bestätigt („An die Stelle der Regierung über Personen tritt die Verwaltung von Sachen und die Leitung von Produktionsprozessen"). **Bestätigt** im Wortlaut; *offener Punkt:* die genaue Seitenangabe der MEW-Ausgabe ist hier nicht gegen die Druckfassung geprüft und wird deshalb nicht angegeben.
+*Engels, „Verwaltung von Sachen":* Friedrich Engels, *Herrn Eugen Dührings Umwälzung der Wissenschaft* (*Anti-Dühring*, 1878), dritter Abschnitt; MEW 20, S. 262. Wortlaut der Passage bestätigt („An die Stelle der Regierung über Personen tritt die Verwaltung von Sachen und die Leitung von Produktionsprozessen"). **Bestätigt** im Wortlaut; die Seitenangabe ist am 20.08.2026 über mehrere voneinander unabhängige Fundstellennachweise übereinstimmend bestätigt worden, eine Einsichtnahme in die gedruckte Dietz-Ausgabe steht weiterhin aus.
 
 *Ostrom:* Elinor Ostrom, *Governing the Commons. The Evolution of Institutions for Collective Action*, Cambridge University Press 1990; deutsch: *Die Verfassung der Allmende*, Tübingen: Mohr Siebeck 1999. Acht Gestaltungsprinzipien, darunter klar definierte Grenzen, Überwachung, abgestufte Sanktionen, Konfliktmechanismen und verschachtelte Einheiten. **Bestätigt.**
 
