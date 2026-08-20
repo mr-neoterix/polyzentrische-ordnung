@@ -1075,6 +1075,64 @@ Diese Einträge tragen die Erweiterung vom 18.08.2026 in Manuskript (Kapitel 12,
 **URL:** https://www.bpb.de/themen/deutschlandarchiv/286642/stadtumbau-ost-loesung-einer-wohnungsfrage/ – indiziert 18.08.2026
 **Verifikation:** bestätigt hinsichtlich der Größenordnungen.
 
+## Q. Anker des China-Einwands (Stand 20.08.2026)
+
+Diese Einträge tragen die Erweiterung vom 20.08.2026 in Manuskript (Kapitel 4, präzisierter China-Abschnitt; Kapitel 25, neuer vierzehnter Einwand; Ledger-Eintrag in Kapitel 26; nachgezogene Kurzformeln in den Kapiteln 9 und 27) und Thesenpapier (Befund 6, Sektionen V und VI). Anlass war eine Lücke im eigenen Verfahren: Der wichtigste Fall der Fallreihe schloss mit einer Prognose ohne Frist, und in keiner der beiden Gegenproben stand ein Einwand, der die Kernthese empirisch angreift. Die Einträge zerfallen in zwei Gruppen, und das ist Absicht – die erste stützt den Satz des Buches, die zweite spricht gegen ihn und steht deshalb mit derselben Sorgfalt hier. Geprüft per Websuche am 20.08.2026; die Fundstelle zu Jia konnte direkt abgerufen werden.
+
+### Streichung der Amtszeitbegrenzung des Staatspräsidenten (11.03.2018)
+**Erläuterung:** Der erste der drei datierten Widerrufe. Er trifft genau das Bauteil, das Kapitel 4 als fehlend führt – die austauschbare Spitze –, und er beseitigt eine Regel, die Deng Xiaoping nach der Mao-Erfahrung eingezogen hatte.
+**Quelle(n):** Nationaler Volkskongress, Verfassungsänderung vom 11. März 2018: 2.958 Ja-Stimmen, zwei Gegenstimmen, drei Enthaltungen. Im selben Paket die Aufnahme des „Xi-Jinping-Gedankens" in die Verfassung und die Schaffung der Aufsichtskommissionen. Der Vorschlag war bis zur staatlichen Meldung vom 25. Februar 2018 nicht öffentlich.
+**URL:** https://www.aljazeera.com/news/2018/3/11/china-parliament-scraps-presidential-term-limits – indiziert 20.08.2026
+**Verifikation:** bestätigt hinsichtlich Datum, Abstimmungsergebnis und Paketinhalt.
+
+### Aussetzung des Börsengangs der Ant Group (03.11.2020)
+**Erläuterung:** Der zweite Widerruf, und er betrifft die geschützte Gegenmacht. Kapitel 5 führt denselben Vorgang aus der anderen Perspektive: Wer in China unternehmerisch groß wird, wird nicht Gegenmacht, sondern Aufsichtsgegenstand.
+**Quelle(n):** Aussetzung durch die Börse Shanghai am 3. November 2020, zwei Tage vor dem Termin; angesetztes Volumen rund 34,4 Milliarden US-Dollar, damit der größte Börsengang der Geschichte. Vorausgegangen waren eine öffentliche Kritik des Gründers an der Finanzaufsicht Ende Oktober 2020 und eine Vorladung der Unternehmensspitze durch die Regulierer.
+**URL:** https://www.lawfaremedia.org/article/ant-group-ipo-suspended-five-year-plan-unveiled – indiziert 20.08.2026
+**Verifikation:** bestätigt hinsichtlich Datum, Volumen und Abfolge. Der ursächliche Zusammenhang zwischen Rede und Aussetzung ist die einhellige Darstellung der Berichterstattung, aber keine amtliche Feststellung – im Text als zeitliche Abfolge geführt.
+
+### Umbau der Kaderbewertung und der Beförderungsbefund
+**Erläuterung:** Der dritte und folgenreichste Widerruf, weil er das Bauteil trifft, das die Leistung überhaupt erzeugt hat. Ein Turnier, dessen Preis an messbarer Leistung hängt, ersetzt den Wettbewerb; eines, dessen Preis an der Nähe zur Führung hängt, nicht mehr.
+**Quelle(n):** Xis Vorgabe, das Bruttoinlandsprodukt dürfe nicht länger das Hauptkriterium der Beförderung sein, mit Erweiterung der Bewertung um Sozial- und Umweltgrößen und verschärfter Umsetzungskontrolle. Zum Beförderungsbefund: Linan Jia, „Loyalty and Competence: The Political Selection of Local Cadres in China", in: *The China Quarterly* 251 (September 2022), S. 726–750 – Parteischulausbildung erhöht die Beförderungswahrscheinlichkeit um rund acht Prozent, Hochschulausbildung um rund fünf.
+**URL:** https://www.cambridge.org/core/journals/china-quarterly/article/loyalty-and-competence-the-political-selection-of-local-cadres-in-china/92075F7A7CE682FF7FDCCFA26ED42DEE – direkt abgerufen 20.08.2026; https://asiasociety.org/policy-institute/growth-visibility-bureaucratic-incentives-after-chinas-cadre-evaluation-reforms – indiziert 20.08.2026
+**Verifikation:** bestätigt hinsichtlich der Kriterienänderung und der Studienergebnisse. **Mit Einschränkung:** Jia untersucht die Gemeindeebene, nicht die Provinzebene des Kaderturniers bei Li/Zhou, und die Parteischule ist ein Näherungsmaß für Loyalität, kein Maß dafür; die Studie hält ausdrücklich fest, dass auch loyale Kader Kompetenz brauchen. Der Text führt sie als Beleg für eine Verschiebung der Gewichte, nicht für einen Austausch des Kriteriums. Dass die Neuausrichtung insgesamt zugunsten politischer Übereinstimmung wirkt, ist **Wertung** der Beobachterliteratur.
+
+### Gerschenkron und die Vorteile der Rückständigkeit
+**Erläuterung:** Die theoretische Grundlage der Unterscheidung, auf der die Antwort des vierzehnten Einwands ruht: Aufholen ist eine andere Aufgabe als Innovation an der Grenze, und für sie zahlt sich Fehlertoleranz wenig aus.
+**Quelle(n):** Alexander Gerschenkron, *Economic Backwardness in Historical Perspective. A Book of Essays*, Cambridge (Mass.): Belknap Press of Harvard University Press 1962. Kern: Rückständigkeit ist ein relativer Begriff und setzt fortgeschrittenere Länder voraus; spät industrialisierende Länder ersetzen fehlende Institutionen durch andere (Banken, Staat) und wachsen im Schub.
+**URL:** https://www.hup.harvard.edu/books/9780674226005 – indiziert 20.08.2026
+**Verifikation:** bestätigt hinsichtlich Werk, Datierung und Kernthese. Die Anwendung auf China ist **Wertung** dieses Projekts.
+
+### Gesamtfaktorproduktivität Chinas
+**Erläuterung:** Der Zahlenbefund neben der Unterscheidung – und die Stelle, an der das Projekt sich selbst bremst. Er stützt die These, er trägt sie nicht.
+**Quelle(n):** Harry X. Wu: jährliches Wachstum der Gesamtfaktorproduktivität von 1,63 Prozent über 1992–2001, 1,19 Prozent über 2002–07 und −2,06 Prozent über 2008–12. The Conference Board und die Penn World Tables kommen für die Zeit seit 2011 gleichfalls auf Werte um null oder darunter. Weltbank, *China's Productivity Slowdown and Future Growth Potential* (2020), zum überwiegenden Anteil der Sachkapitalbildung am Wachstum je Beschäftigtem seit 2008.
+**URL:** https://documents1.worldbank.org/curated/en/839401593007627879/pdf/Chinas-Productivity-Slowdown-and-Future-Growth-Potential.pdf – indiziert 20.08.2026; https://asiasociety.org/policy-institute/chinas-total-factor-productivity-either-extremely-low-or-surging-past-united-states – indiziert 20.08.2026
+**Verifikation:** bestätigt **mit erheblicher Einschränkung.** Die Schätzungen gehen weit auseinander – es existieren Auswertungen, die China nahe an die Vereinigten Staaten heranrücken –, und die Größe hängt stark an der Behandlung von Preisindizes und Kapitalstock. Deshalb ist sie im Text als stützend und nicht als beweisend geführt und dient zugleich als Messgröße des Abschaltkriteriums, ausdrücklich in unabhängiger Erhebung statt amtlicher Meldung.
+
+### Chinesischer Anteil an der Photovoltaikfertigung
+**Erläuterung:** Erster Teil des Gegenbelegs gegen die eigene Fassung. Er steht hier, weil die Hausregel Konzessionen als Feature führt und weil die naheliegende Rettung – das sei Skalierung und keine Grenzinnovation – den Satz gegen jeden Verlauf immun machen würde.
+**Quelle(n):** Für 2024 werden chinesische Anteile an der Weltproduktion von rund 93 Prozent bei Polysilizium, rund 97 Prozent bei Wafern, rund 92 Prozent bei Zellen und rund 86 Prozent bei Modulen berichtet; die Internationale Energieagentur führt über 80 Prozent für die gesamte Fertigungskette.
+**URL:** https://www.iea.org/reports/solar-pv-global-supply-chains/executive-summary – indiziert 20.08.2026
+**Verifikation:** bestätigt hinsichtlich der Größenordnung. Die Einzelwerte schwanken nach Quelle, Stichtag und Abgrenzung (Kapazität gegen Produktion) – im Text wird deshalb nur die Größenordnung geführt.
+
+### Chinesischer Anteil an der Antriebsbatteriefertigung
+**Erläuterung:** Zweiter Teil des Gegenbelegs.
+**Quelle(n):** Für 2025 werden die beiden größten chinesischen Hersteller mit zusammen über der Hälfte der weltweit verbauten Antriebsbatteriekapazität ausgewiesen (rund 39 und rund 17 Prozent); sechs chinesische Hersteller zusammen mit rund 69 Prozent für den Zeitraum Januar bis Oktober 2025. Zählgrundlage ist die installierte Kapazität nach der branchenüblichen Erhebung von SNE Research, referiert in der Fachpresse.
+**URL:** https://cnevpost.com/2026/02/04/global-ev-battery-market-share-2025/ – indiziert 20.08.2026
+**Verifikation:** bestätigt hinsichtlich der Größenordnung. **Mit Einschränkung:** Die Werte stammen aus einer kommerziellen Marktbeobachtung und nicht aus amtlicher Statistik, und sie schwanken je nach Stichtag und Zählweise deutlich – nur die Größenordnung wird geführt.
+
+### Nature Index 2025
+**Erläuterung:** Dritter Teil des Gegenbelegs, und der am ehesten angreifbare – Publikationszahlen sind kein Maß für Erfindungen. Genau deshalb steht der Vorbehalt im Text und nicht nur hier.
+**Quelle(n):** *Nature Index* 2025, Institutionenrangliste: China als führender Beiträger, neun der zehn erstplatzierten Einrichtungen in China, erster Platz in fünf der sieben erfassten Fachgebiete.
+**URL:** https://www.nature.com/nature-index/research-leaders/2025 – indiziert 20.08.2026
+**Verifikation:** bestätigt hinsichtlich der Rangliste. **Mit Einschränkung:** Der Index misst Beiträge zu einer Auswahl von Fachzeitschriften und ist als Innovationsmaß umstritten; er wird im Text als Gegenbeleg geführt und nicht als Nachweis technologischer Führung.
+
+### Acemoglu und Robinson: die Vorgängerprognose
+**Erläuterung:** Der Grund, warum der vierzehnte Einwand ein Datum bekommt. Die Unterscheidung, mit der dieses Buch antwortet, ist nicht neu – und ihre erste Fassung steht seit vierzehn Jahren aus.
+**Quelle(n):** Daron Acemoglu / James A. Robinson, *Why Nations Fail. The Origins of Power, Prosperity, and Poverty*, New York: Crown 2012. Kern: Wachstum unter extraktiven Institutionen ist möglich, solange es aus Mobilisierung von niedriger Ausgangsbasis stammt; es endet dort, wo bottom-up-Innovation und schöpferische Zerstörung nötig werden, weil extraktive politische Institutionen sie nicht zulassen.
+**URL:** https://www.wcfia.harvard.edu/publications/why-nations-fail – indiziert 20.08.2026
+**Verifikation:** bestätigt als Position der Autoren. Dass die Prognose seit vierzehn Jahren aussteht, ist eine Feststellung über den Zeitablauf und keine Widerlegung ihrer Begründung – so ist sie im Text auch geführt.
+
 ## Aus der Verifikation folgende Präzisierungsaufträge für das Hauptdokument
 
 Die Prüfung hat keine tragende These des Dokuments erschüttert, aber zehn Stellen ergeben, an denen Formulierungen oder Zahlen nachgeschärft werden mussten. Alle zehn wurden am 22.07.2026 in das Hauptdokument eingearbeitet; die Liste bleibt als Änderungsdokumentation erhalten – nach der Hausregel gilt: präzisieren, nicht stillschweigend verschieben.

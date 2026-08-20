@@ -4,7 +4,7 @@
 
 **Marcel Richtsteiger**
 
-*Manuskript. Stand: 18. August 2026.*
+*Manuskript. Stand: 20. August 2026.*
 
 ---
 
@@ -84,7 +84,7 @@ Am Ende steht kein Zielzustand. Wer einen sucht, wird enttäuscht werden, und di
 
 *24. Die marxistische Gegenprobe.* Elf Einwände, darunter die Anarchie der Produktion – warum achtzig gleiche Zahnbürsten keine Verschwendung sind und die Planwirtschaften die Doppelarbeit selbst bezahlt haben –, Marx gegen Lassalle als der schärfste, der von innen kommt, der Staatlichkeits-Einwand – die Menschheit kam die längste Zeit ihrer Geschichte ohne Staaten aus – und der Verrechtlichungs-Einwand: Klagen kann, wer einen Anwalt bezahlt.
 
-*25. Die liberale Gegenprobe.* Dreizehn Einwände, die mit Kosten argumentieren statt mit Weltanschauung, und deshalb schwerer wiegen – darunter Hayeks Frage, wer eigentlich entscheidet, welches Bedürfnis echt ist, und der Vorwurf, dieses Buch verletze mit seinen Klagerechten seine eigene Regel über abwählbare Macht.
+*25. Die liberale Gegenprobe.* Vierzehn Einwände, die mit Kosten argumentieren statt mit Weltanschauung, und deshalb schwerer wiegen – darunter Hayeks Frage, wer eigentlich entscheidet, welches Bedürfnis echt ist, der Vorwurf, dieses Buch verletze mit seinen Klagerechten seine eigene Regel über abwählbare Macht, und zuletzt der schärfste: China wächst seit achtundvierzig Jahren mit einem einzigen Machtzentrum.
 
 **Teil VIII – Der ehrliche Rest**
 

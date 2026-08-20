@@ -60,7 +60,7 @@ Damit ist der diagnostische Teil abgeschlossen. Bevor der konstruktive beginnt, 
 
 *Fünftens:* Der kommunistische Endzustand löst das Machtproblem nicht, er definiert es weg – und wer mit dem Verschwinden von Macht rechnet, sorgt nicht dafür vor, sie einzuhegen.
 
-*Sechstens:* Der Fallvergleich bestätigt das Muster. Kuba lebt von externen Renten und kappt jede Dynamik, die politisches Eigengewicht entwickelt. Vietnam zeigt, dass Binnenreform vor Marktzugang wirkt. China zeigt, dass halbe Polyzentrik in monozentrischer Hülle spektakulär funktioniert und dann verfällt.
+*Sechstens:* Der Fallvergleich bestätigt das Muster. Kuba lebt von externen Renten und kappt jede Dynamik, die politisches Eigengewicht entwickelt. Vietnam zeigt, dass Binnenreform vor Marktzugang wirkt. China zeigt, dass halbe Polyzentrik in monozentrischer Hülle spektakulär funktioniert – und dass ihre dezentralen Elemente geduldet und nicht gesichert sind, weshalb die Zentrale sie zurücknehmen kann und damit begonnen hat.
 
 *Siebtens:* Marx' Diagnose steht, seine Therapie fällt. Die Konzentrationstendenz und die Übersetzung von Geld in Macht sind real; die Übersetzungsrate ist aber eine institutionelle Variable, keine Konstante. Und die Therapie – Vereinigung ökonomischer und politischer Macht – maximiert das diagnostizierte Problem.
 
