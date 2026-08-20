@@ -82,7 +82,7 @@ Und deshalb bleibt der Privatsektor groß: Er ist nicht nur Innovationsorgan, so
 
 ### 9. Der Hayek-Einwand gegen diesen Text selbst
 
-Wer Ordnungen entwirft, betreibt Anmaßung von Wissen. Institutionen sind gewachsen, nicht gemacht; jeder Entwurf unterschätzt, was er nicht weiß; und die Ergebnisse großer Gestaltungsprojekte waren im einundzwanzigsten Jahrhundert regelmäßig andere als die geplanten.
+Wer Ordnungen entwirft, betreibt Anmaßung von Wissen. Institutionen sind gewachsen, nicht gemacht; jeder Entwurf unterschätzt, was er nicht weiß; und die Ergebnisse großer Gestaltungsprojekte waren im zwanzigsten Jahrhundert regelmäßig andere als die geplanten.
 
 *Antwort:* Der Einwand trifft jeden Entwurf, auch diesen, und die einzige seriöse Reaktion ist eine Bauweise, die ihn einkalkuliert.
 

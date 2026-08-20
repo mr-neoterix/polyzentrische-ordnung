@@ -18,7 +18,7 @@ Deshalb wird der Umsetzungspfad in diesem Buch nicht behauptet, sondern geprüft
 
 **Der Widerstandstest.** Wer verliert, und was kann der Verlierer tun? Ein Pfad, der seine Gegner nicht benennt, hat sie nicht eingeplant.
 
-**Der Bestandstest.** Überlebt er den Regierungswechsel, der ihn abschaffen will? Das ist der Test, an dem die meisten linken Reformprojekte des einundzwanzigsten Jahrhunderts gescheitert sind, und er ist im zweiundzwanzigsten Kapitel noch einmal gesondert durchzuspielen.
+**Der Bestandstest.** Überlebt er den Regierungswechsel, der ihn abschaffen will? Das ist der Test, an dem die meisten linken Reformprojekte des zwanzigsten Jahrhunderts gescheitert sind, und er ist im zweiundzwanzigsten Kapitel noch einmal gesondert durchzuspielen.
 
 **Der Föderalismustest.** Der sechste Test gehört dazu, weil er über die Umsetzbarkeit entscheidet: *Wer zahlt, wer verwaltet, wer bekommt das Aufkommen, und wer muss im Bundesrat zustimmen?* In einem Bundesstaat ist die Frage, welche Ebene eine Steuer erhebt und welche ihr Aufkommen behält, keine Verwaltungsfrage, sondern eine Verfassungsfrage – und der zentrale Baustein der zweiten Stufe scheitert an ihr, wenn man sie nicht von Anfang an mitdenkt. Das einundzwanzigste Kapitel zeigt, wie.
 

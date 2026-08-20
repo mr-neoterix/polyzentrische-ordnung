@@ -54,7 +54,7 @@ Der Sektorenwettbewerb sei nicht fair, weil kulturelle Vorherrschaft die Präfer
 
 Der Einwand ist ernst und wird konzediert – deshalb sind Medienpluralisierung und Konzentrationsrecht in dieser Ordnung tragendes Element und nicht Dekoration.
 
-Aber es gibt eine Entgegnung, die ein genuin marxistisches Argument gegen den Marxisten wendet: *Das Sein bestimmt das Bewusstsein.* Wer Mitglied einer Wohnungsgenossenschaft ist, in einem Belegschaftsbetrieb arbeitet und seinen Strom aus einer Energiegemeinschaft bezieht, entwickelt andere Selbstverständlichkeiten als der Mieter, Angestellte und Kunde. Die materiellen Institutionen des Sektors *sind* die Infrastruktur der Gegenhegemonie – so wie die Arbeiterbewegungskultur des zwanzigsten Jahrhunderts aus Konsumvereinen, Volkshäusern und Genossenschaftsbanken wuchs und nicht aus Schriften.
+Aber es gibt eine Entgegnung, die ein genuin marxistisches Argument gegen den Marxisten wendet: *Das Sein bestimmt das Bewusstsein.* Wer Mitglied einer Wohnungsgenossenschaft ist, in einem Belegschaftsbetrieb arbeitet und seinen Strom aus einer Energiegemeinschaft bezieht, entwickelt andere Selbstverständlichkeiten als der Mieter, Angestellte und Kunde. Die materiellen Institutionen des Sektors *sind* die Infrastruktur der Gegenhegemonie – so wie die Arbeiterbewegungskultur des neunzehnten Jahrhunderts aus Konsumvereinen, Volkshäusern und Genossenschaftsbanken wuchs und nicht aus Schriften.
 
 Diese Ordnung wartet nicht, bis das Bewusstsein sich ändert, um die Verhältnisse zu ändern. Sie ändert Verhältnisse, damit Bewusstsein sich ändern kann. Hegemonie ist ein Schlachtfeld, kein Verdikt.
 

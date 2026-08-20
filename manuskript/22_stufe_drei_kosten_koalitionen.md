@@ -82,7 +82,7 @@ Die Antwort ist keine Ausrede, sondern eine Rückfrage, und sie ist die Zusammen
 
 Das Tempoargument ist das Engpass-Argument in anderer Kleidung. Wer schneller will, braucht ein Verfahren, das schneller ist – und jedes bekannte schnellere Verfahren erfordert eine Machtkonzentration, die den Widerstand überwindet. Also muss, wer schneller will, zwei Fragen beantworten: *Wer soll diese Macht bekommen?* Und: *Was gibt sie danach wieder ab?*
 
-Auf die zweite Frage hat im einundzwanzigsten Jahrhundert niemand eine Antwort gefunden. Bakunin hat 1873 vorhergesagt, dass es keine gibt. Die Fälle in den Kapiteln zwei bis fünf sind der Beleg.
+Auf die zweite Frage hat im zwanzigsten Jahrhundert niemand eine Antwort gefunden. Bakunin hat 1873 vorhergesagt, dass es keine gibt. Die Fälle in den Kapiteln zwei bis fünf sind der Beleg.
 
 Wer die Antwort hat, soll sie nennen. Wer sie nicht hat, sollte den langsamen Weg nicht verachten, sondern anfangen.
 
