@@ -1,0 +1,4 @@
+# Code Owner für alle Dateien: Merges gegen main erfordern die Freigabe des Eigentümers.
+# Wirksam zusammen mit dem Branch-Ruleset „main-nur-per-pull-request"
+# (Pull Request Pflicht, 1 Review, Code-Owner-Freigabe).
+* @mr-neoterix
