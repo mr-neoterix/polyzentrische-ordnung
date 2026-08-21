@@ -88,14 +88,6 @@ Die Abgrenzung in einem Satz: **Das Ledger sagt, was dieses Buch nicht kann; die
 **Folge, falls offen:** keine. Der Satz trägt kein Argument; er beziffert die Bedeutung des Falls. Bleibt die Quelle aus, kann er ersatzlos entfallen.
 **Betroffene Stellen:** `manuskript/12_allmende_und_sterberecht.md` (Beleg *Wohnungsgemeinnützigkeit*), `quellen_und_glossar.md` Abschnitt U.
 
-### K1 – README nennt 26 Kapitel, das Manuskript hat 27
-**Angelegt:** 21.08.2026, aufgefallen bei der Arbeit an Kapitel 12.
-**Gegenstand:** `README.md` beschreibt das Manuskript zweimal als „26 Kapitel" – im Abschnitt *Inhalt* und beim Verweis auf das PDF.
-**Was fehlt:** der Nachzug der Umnummerierung vom 16.08.2026, mit der Kapitel 17 eingefügt und die bisherigen 17 bis 26 zu 18 bis 27 wurden.
-**Was ihn schließt:** beide Stellen auf 27 setzen und prüfen, ob die Aufzählung der Teile und Einwände im README noch dem Stand entspricht.
-**Folge, falls offen:** keine für die Argumentation, aber die erste Datei, die ein Leser sieht, widerspricht dem Manuskript.
-**Betroffene Stellen:** `README.md`.
-
 ---
 
 ## II. Geprüft und entschieden
@@ -111,6 +103,8 @@ Was hier steht, ist kein Auftrag, sondern eine Warnung: Diese Fragen sind einmal
 ---
 
 ## III. Erledigt
+
+*21.08.2026 – K1, Kapitelzahl im README.* `README.md` beschrieb das Manuskript an zwei Stellen als „26 Kapitel" – im Abschnitt *Inhalt* und beim Verweis auf das PDF. Die Umnummerierung vom 16.08.2026, mit der Kapitel 17 eingefügt und die bisherigen 17 bis 26 zu 18 bis 27 wurden, war dort nie nachgezogen worden. Beide Stellen stehen jetzt auf 27. Die übrigen Zählungen des README sind bei dieser Gelegenheit gegengelesen und stimmen: acht Teile und acht Teilseiten, neun Sektionen des Essays, neun Befunde, elf Einwände der marxistischen Gegenprobe im Thesenpapier, sieben ausgewiesene Differenzen des Essays, sieben Teile des Thesenpapiers. Der Dauerverweis auf das PDF trägt ebenfalls: Der Satzlauf legt neben der nummerierten Ausgabe eigens eine Datei mit festem Namen bei.
 
 *20.08.2026 – Furubotn/Pejovich und Ellerman.* Die Fundstellen zum Horizontproblem (ZfN 30/1970, S. 431–454) und zu den Kapitalkonten (JCE 10/1986, S. 62–78; *The Democratic Worker-Owned Firm*, 1990) sind vervollständigt und stehen in Kapitel 11.
 
