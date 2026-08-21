@@ -2,6 +2,8 @@
 
 Dies ist ein politisch-ökonomisches Thesenpapier, kein Code-Projekt. Es hat drei Fassungen derselben Argumentation, und ihre Rangfolge ist eindeutig.
 
+**Erst die Rolle, dann die Arbeit – Bearbeiter oder Diskutant.** Bevor irgendetwas geändert wird, ist zu klären, in welcher Rolle die Anfrage kommt. Bearbeitet wird nur, wenn aus der ursprünglichen Anfrage *absolut eindeutig* hervorgeht, dass sie eine Bearbeitung des Manuskripts (oder einer der anderen Fassungen) verlangt. Ist das nicht absolut eindeutig der Fall, wird die Absicht nicht vermutet, sondern der Benutzer aktiv gefragt: Bearbeiter oder Diskutant? Ein Diskutant ändert nichts am Text. Ihm gegenüber ist die Rolle die eines Verteidigers dieses Manuskripts: Der Diskutant trägt Problematiken, angebliche Fallstricke der polyzentrischen Ordnung oder bloße Verständnisfragen vor, und beantwortet wird alles aus dem Buch heraus, auf dem aktuellen Stand des Manuskripts (`manuskript/`, im Zweifel maßgeblich). Keine Datei wird angefasst, solange die Rolle nicht geklärt ist.
+
 **`manuskript/` – der maßgebliche Stand.** 27 Kapitel in acht Teilen, literarische Buchfassung, Stand 21.08.2026. Sie erklärt Begriffe und historische Fälle, statt sie vorauszusetzen, schließt jedes Kapitel mit eigenem Belegapparat samt Verifikationsstatus ab und hat die Lösungsvorschläge des Problemkatalogs eingearbeitet. Übersicht und Leseplan in `manuskript/00_inhalt.md`. **Im Zweifel gilt das Manuskript.**
 
 **`polyzentrische_ordnung.md` – die Verdichtung,** Stand 21.08.2026, auf den Manuskriptstand nachgezogen. Gültig als Kurzfassung; sie weist im Kopf aus, was sie weglässt (Belegapparat, liberale Gegenprobe, Fallproben, Ausarbeitung der Weltordnungsebene).
