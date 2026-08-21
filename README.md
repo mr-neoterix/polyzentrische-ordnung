@@ -29,3 +29,15 @@ Das Thesenpapier gliedert sich in sieben Teile:
 5. **Die marxistische Gegenprobe** – elf Einwände und ihre Antworten, darunter die Anarchie der Produktion, Marx gegen Lassalle, der Staatlichkeits-Einwand und der Vorwurf, klagen könne nur, wer einen Anwalt bezahlt
 6. **Offene Flanken** – der ehrliche Rest, von der Kapitalallokation bis zur Externalisierung
 7. **Die Formel** – Fehlertoleranz als Kriterium einer guten Ordnung
+
+## Lizenz
+
+© 2026 Marcel Richtsteiger
+
+Dieses Werk – Texte und Manuskript ebenso wie die begleitenden Skripte (Satz, Prüfung) – steht unter der Lizenz [Creative Commons Namensnennung 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.de). Der vollständige Lizenztext liegt in [LICENSE](LICENSE).
+
+Das heißt: Jede und jeder darf das Werk **teilen** (vervielfältigen und weiterverbreiten) und **bearbeiten** (verändern und darauf aufbauen), zu jedem Zweck, auch kommerziell – unter der einzigen Bedingung der **Namensnennung**. Zu nennen sind der Urheber, ein Verweis auf die Lizenz und der Hinweis, ob Änderungen vorgenommen wurden.
+
+Empfohlene Namensnennung:
+
+> Marcel Richtsteiger, *Die polyzentrische Eigentumsordnung*, CC BY 4.0, https://github.com/mr-neoterix/polyzentrische-ordnung
