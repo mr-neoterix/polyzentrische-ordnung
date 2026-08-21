@@ -132,7 +132,7 @@ In der Inauguraladresse der Internationalen Arbeiter-Assoziation von 1864 pries 
 
 Im dritten Band des *Kapital* deutet er die Aktiengesellschaft als „Aufhebung des Kapitals als Privateigentum innerhalb der Grenzen der kapitalistischen Produktionsweise selbst". Und über die Genossenschaften schreibt er dort den Satz, der fast immer zur Hälfte zitiert wird – hier vollständig:
 
-> „Die Kooperativfabriken der Arbeiter selbst sind, innerhalb der alten Form, das erste Durchbrechen der alten Form, obgleich sie natürlich überall, in ihrer wirklichen Organisation, alle Mängel des bestehenden Systems reproduzieren müssen."
+> „Die Kooperativfabriken der Arbeiter selbst sind, innerhalb der alten Form, das erste Durchbrechen der alten Form, obgleich sie natürlich überall, in ihrer wirklichen Organisation, alle Mängel des bestehenden Systems reproduzieren und reproduzieren müssen."
 
 Ein Kronzeuge, dessen entlastende Aussage abgeschnitten wird, wird zum Belastungszeugen. Die Fortsetzung gehört also dazu – und sie ist kein Gegenargument, sondern Luxemburgs Einwand aus Marx' Feder. Die Antwort steht schon bei Luxemburg: Marx meint mit den Mängeln den Marktzwang, und zu dem hat sich die Antwort auf die Wertkritik bereits bekannt.
 
@@ -268,7 +268,7 @@ Die Antwort darauf ist kein Trost, sondern eine Feststellung: Erlösung stand ni
 
 *Marx, Inauguraladresse:* MEW 16, S. 5–13. **Bestätigt** (Passage im Wortlaut verifiziert).
 
-*Marx, Kapital III:* MEW 25, Kapitel 27 („Die Rolle des Kredits in der kapitalistischen Produktion"), S. 451–457; die Aktiengesellschafts-Stelle auf S. 452, die Genossenschafts-Stelle auf S. 456. Der Wortlaut beider Stellen ist bestätigt. **Bestätigt im Wortlaut**; die Seitenangabe MEW 25, S. 456 ist am 20.08.2026 über mehrere voneinander unabhängige wissenschaftliche und dokumentarische Fundstellennachweise übereinstimmend bestätigt worden – eine Einsichtnahme in die gedruckte Dietz-Ausgabe steht weiterhin aus und ist der verbleibende Rest dieses Prüfauftrags.
+*Marx, Kapital III:* MEW 25, Kapitel 27 („Die Rolle des Kredits in der kapitalistischen Produktion"), S. 451–457; die Aktiengesellschafts-Stelle auf S. 452, die Genossenschafts-Stelle auf S. 456. **Bestätigt im Wortlaut**, am 21. August 2026 auch an einer gedruckten Ausgabe (Nikol-Nachdruck, *Das Kapital*, Bd. III, dort auf S. 214 und S. 219); dabei die Fortsetzung des Genossenschaftssatzes berichtigt – sie lautet „…alle Mängel des bestehenden Systems reproduzieren und reproduzieren müssen", nicht „…reproduzieren müssen". Die Seitenangaben 452 und 456 sind die der MEW-Ausgabe, über mehrere voneinander unabhängige Fundstellennachweise und eine seitenmarkierte Textfassung übereinstimmend bestätigt; der Nikol-Nachdruck zählt eigene Seiten, sodass die reine Sichtprüfung am blauen MEW-Band der verbleibende Rest dieses Prüfauftrags bleibt.
 
 *Marx, Kritik des Gothaer Programms:* Karl Marx, *Randglossen zum Programm der deutschen Arbeiterpartei* (1875), MEW 19. Die drei zitierten Stellen sind im Wortlaut bestätigt. **Bestätigt.**
 
