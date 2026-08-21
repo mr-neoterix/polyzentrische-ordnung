@@ -1243,3 +1243,50 @@ Anlass war eine Lücke, die der Wohnen-Abschnitt vom 18.08.2026 selbst gelassen 
 **Erläuterung:** Was hier nicht Beleg, sondern Entwurf ist.
 **Quelle(n):** Die nach Bestandsgröße im selben Wohnungsmarkt gestaffelte Abgabe samt Umlageverbot und Befreiungstür; die Erstreckung des Vorkaufsrechts auf den Kontrollwechsel; das Klagerecht der Bewohner auf Feststellung des Vorkaufsfalls. Vorbild der Staffelung: Belloc, *An Essay on the Restoration of Property* (1936), mit der ausdrücklich auf Ladenketten gestaffelten Abgabe – siehe Abschnitt L.
 **Verifikation:** Wertung. Keine dieser drei Konstruktionen ist geltendes Recht; die vier offenen Fragen, die sie erzeugen, stehen im Ledger (Kapitel 26, Klasse III).
+
+---
+
+## U. Anker der Wohnungsgemeinnützigkeit (Stand 21.08.2026)
+
+Anlass war eine Frage an den eigenen Text: Der Wohnen-Abschnitt führte Berlin 2004 und Dresden 2006 als Feldbeleg der Sicherungsstufen, kannte aber den größten deutschen Fall nicht – eine bundesweite Preis-, Ausschüttungs- und Vermögensbindung des Wohnungsbestands, die fünfzig Jahre galt und an einem Stichtag endete. Die Anker dieses Abschnitts stützen den Feldbeleg in Kapitel 12, die vollzogene Ausgabe des Belastungstests in Kapitel 19 und die Erweiterung des Klasse-II-Eintrags in Kapitel 26 (Thesenpapier Sektionen III und VI).
+
+### Das Wohnungsgemeinnützigkeitsgesetz und seine Bindungen
+**Erläuterung:** Der Kern des Falls: Was das Buch als Asset Lock mit Ausschüttungsgrenze vorschlägt, hat es für den Wohnungsbestand bereits gegeben – gesetzlich, bundesweit und mit Steuerbefreiung als Gegenleistung. Vorläufer ist die Weimarer Gemeinnützigkeitsverordnung von 1930, deren Grundsätze 1940 weitgehend unverändert übernommen wurden.
+**Quelle(n):** Gesetz über die Gemeinnützigkeit im Wohnungswesen (Wohnungsgemeinnützigkeitsgesetz, WGG) vom 29.02.1940, dazu die Verordnung zur Durchführung des WGG (WGGDV). Pflichten des anerkannten gemeinnützigen Wohnungsunternehmens: Beschränkung der Preise für wohnungswirtschaftliche Leistungen auf die Deckung der Kosten und laufenden Aufwendungen; Deckelung der jährlichen Gewinnbeteiligung von Genossen, Gesellschaftern und Eigentümern auf 4 Prozent der eingezahlten Kapitaleinlage; Bindung des gesamten Vermögens an den gemeinnützigen Zweck mit Bau- und Wiederanlagepflicht; Beschränkung des Geschäftskreises auf Bau, Betreuung, Bewirtschaftung und Verkauf von Wohnungen sowie Städtebau- und Sanierungsträgerschaft. Gegenleistung: Befreiung von Körperschaft-, Gewerbe- und Vermögensteuer, häufig auch von der Grunderwerbsteuer.
+**URL:** https://recht.nrw.de/lmi/owa/br_bes_text?anw_nr=2&gld_nr=0&ugl_nr=0&bes_id=5480&aufgehoben=J&menu=1&sg=2 – indiziert 21.08.2026
+**Verifikation:** bestätigt (mehrere unabhängige Darstellungen, darunter der Sachstand des Wissenschaftlichen Dienstes des Bundestages, WD 7-006/13). Die Paragraphenzählung des WGG ist im Text bewusst nicht geführt: Der Gesetzestext war aus dieser Umgebung nicht direkt einsehbar (Ausgangsfilter), und die im Netz auffindbaren Paragraphenverweise auf ein „WGG" betreffen überwiegend das österreichische Gesetz von 1979.
+
+### Die Aufhebung zum 1. Januar 1990
+**Erläuterung:** Der Vorgang, der den Fall zum Beleg macht: Eine fünfzig Jahre alte Bindung endete nicht durch Verfall, sondern durch einen Artikel eines Steuergesetzes.
+**Quelle(n):** Artikel 21 des Steuerreformgesetzes 1990 vom 25.07.1988 (BGBl. I S. 1093) – Gesetz zur Überführung der Wohnungsgemeinnützigkeit in den allgemeinen Wohnungsmarkt (WGÜbfG) – in Verbindung mit Artikel 29 desselben Gesetzes: WGG und WGGDV aufgehoben mit Wirkung vom 01.01.1990. Größenordnung bei der Aufhebung: rund 1.800 anerkannte Unternehmen mit etwa 3,3 Millionen Wohnungen, davon knapp 60 Prozent Sozialwohnungen. Amtliche Begründung: Subventionsabbau im Zuge der Tarifsenkung, Zweckerfüllung durch andere Gesetze, überwundene Nachkriegswohnungsnot.
+**URL:** https://www.gesetze-im-internet.de/wg_bfg/BJNR011360988.html – indiziert 21.08.2026
+**Verifikation:** bestätigt (Fundstelle, Wirkungsdatum und Größenordnungen mehrfach unabhängig belegt, unter anderem über die Verfügung der OFD Frankfurt/M. vom 23.09.2013 – S 2730 A – 15 – St 53). Die Angabe „in Großstädten bis zu einem Drittel des Angebots": bestätigt mit Einschränkung – verbreitete, nicht amtlich belegte Größenordnung, im Text als solche geführt.
+
+### Was die Aufhebung überlebt hat
+**Erläuterung:** Der schärfste Teil des Belegs, weil er die Sicherungslogik des Buches an einer Steuervorschrift vorführt: Die Befreiung, die an einem Anerkennungsbescheid hing, wurde gestrichen; die Befreiung, die am Verhältnis zum Mitglied hängt, gilt bis heute.
+**Quelle(n):** § 5 Absatz 1 Nummer 10 KStG (dazu § 3 Nummer 15 GewStG): Genossenschaften und Vereine sind steuerfrei, soweit sie Wohnungen herstellen oder erwerben und sie ihren Mitgliedern aufgrund miet- oder genossenschaftsvertraglicher Grundlage überlassen, einschließlich der notwendigen Gemeinschaftsanlagen und Folgeeinrichtungen. Die Vorschrift wurde im Zuge der Beseitigung der Steuerbefreiung für gemeinnützige Wohnungsunternehmen durch das Steuerreformgesetz 1990 neu gefasst; die Gemeinnützigkeit spielt für sie seither keine Rolle mehr.
+**URL:** https://www.gesetze-im-internet.de/kstg_1977/__5.html – indiziert 21.08.2026
+**Verifikation:** bestätigt mit Einschränkung – geltender Normtext bestätigt; die Zuordnung der Neufassung zum Steuerreformgesetz 1990 stammt aus der steuerrechtlichen Kommentarliteratur (Frotscher/Drüen zu § 5 KStG, Rn. zur Nr. 10; Dötsch/Pung/Möhlenbrock), Gesetzesmaterialien nicht direkt eingesehen.
+
+### Die zweite Fassung derselben Regel, die nicht gefallen ist
+**Erläuterung:** Die Unterscheidung, ohne die der Fall falsch erzählt würde: Das Kostendeckungsprinzip ist 1990 nicht abgeschafft worden. Abgeschafft wurde die Fassung, die an einem Unternehmensstatus hing; die Fassung, die an der Subvention hängt, gilt fort – und endet mit ihr.
+**Quelle(n):** §§ 8, 8a des Wohnungsbindungsgesetzes (WoBindG) in Verbindung mit der Zweiten Berechnungsverordnung: Der Verfügungsberechtigte darf die Wohnung nicht gegen ein höheres Entgelt zum Gebrauch überlassen, als zur Deckung der laufenden Aufwendungen erforderlich ist (Kostenmiete). Die Bindung erfasst öffentlich geförderten Wohnraum unabhängig von der Rechtsform oder dem Status des Vermieters und endet mit dem Wegfall der Preisbindung nach Tilgung der öffentlichen Mittel.
+**URL:** https://www.gesetze-im-internet.de/wobindg/__8.html – indiziert 21.08.2026
+**Verifikation:** bestätigt.
+
+### Die Neue Heimat als Vorgeschichte
+**Erläuterung:** Der Grund, warum der Fall nicht nur ein Sicherungsstufen-Beleg ist, sondern ein Befund über Fehlertoleranz: Der Sektor konnte sein größtes Mitglied nicht einzeln scheitern lassen, und deshalb wurde aus dem Versagen eines Unternehmens das Ende einer Rechtsform.
+**Quelle(n):** Neue Heimat, im Eigentum des Deutschen Gewerkschaftsbundes und seiner Einzelgewerkschaften, größtes nichtstaatliches Wohnungsunternehmen Europas mit über 300.000 Wohnungen im Bestand und über 460.000 bis 1982 errichteten Wohnungen. Anfang 1982 deckte der *Spiegel* auf, dass Vorstandsmitglieder sich auf Kosten des Unternehmens bereichert und es durch Missmanagement geschädigt hatten; im September 1986 wurde das Unternehmen für eine symbolische Mark an den Berliner Bäckereiunternehmer Horst Schiesser veräußert, der Verkauf scheiterte und wurde rückgängig gemacht.
+**URL:** https://www.gewerkschaftsgeschichte.de/1975-bis-1990-gewerkschaften-55476-das-ende-der-gemeinwirtschaft-57019.htm – indiziert 21.08.2026
+**Verifikation:** Eigentümerstellung, Größenordnung, Aufdeckung 1982 und der Verkauf von 1986 bestätigt; die Bestandszahlen schwanken nach Stichtag und Zählweise (Bestand gegen kumulierte Bauleistung), im Text ist nur die Größenordnung geführt. **Wertung:** Dass der Skandal den politischen Boden für die Aufhebung bereitet hat, ist verbreitete Deutung und wird als solche geführt – neben der amtlichen Begründung, nicht an ihrer Stelle.
+
+### Die Firma der GSW
+**Erläuterung:** Ein kleiner Beleg mit großer Beweiskraft für die Abfolge: Die Gesellschaft, die Berlin 2004 an Finanzinvestoren verkaufte, trug den Status im Namen, bis er 1990 wegfiel.
+**Quelle(n):** Gemeinnützige Siedlungs- und Wohnungsbaugesellschaft Berlin mbH, entstanden 1937 aus dem Zusammenschluss von acht kommunalen Wohnungs- und Siedlungsgesellschaften; Ursprung die 1924 gegründete Wohnungsfürsorgegesellschaft Berlin mbH. Verkauf 2004 an ein Konsortium aus Cerberus und Whitehall, danach Umfirmierung in GSW Immobilien.
+**URL:** https://dewiki.de/Lexikon/GSW_Immobilien – indiziert 21.08.2026
+**Verifikation:** bestätigt mit Einschränkung – Unternehmens- und Lexikondarstellungen, kein Registerauszug eingesehen.
+
+### Konstruktionsfolgen dieses Abschnitts
+**Erläuterung:** Was hier nicht Beleg, sondern Lesart und Entwurf ist.
+**Quelle(n):** Die Lesart des Vorgangs als Befund über Fehlertoleranz – ein Sektor mit einheitlicher Anerkennung, einheitlicher Befreiung und einheitlichen Bindungen haftet politisch für seinen schlechtesten Träger mit, und deshalb sind Kostenvergleich, Offenheitskennzahl und Abschaltkriterium die Stelle, an der ein einzelnes Unternehmen durchfallen kann, bevor ein Gesetzgeber über die Form entscheidet. Dazu die Zuspitzungen „Was an einem Status hing, wurde gestrichen; was am Mitglied hing, steht noch" und „Ein Sektor, der seine Mitglieder nicht einzeln sterben lassen kann, stirbt im Ganzen".
+**Verifikation:** Wertung. Der Ledger-Eintrag in Kapitel 26 führt die Grenze mit: Aus der Förderung nehmen kann diese Stelle ein Unternehmen, aus dem Verband nicht.
