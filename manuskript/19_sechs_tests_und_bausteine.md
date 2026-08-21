@@ -62,6 +62,8 @@ Die Ergebnisse dieses Tests sind unterschiedlich, und sie zu kennen ist wichtige
 
 *Und der Sozialstaat ist beides zugleich.* Die Rentenanwartschaft ist eine Struktur, weil sie Eigentum ist; das Existenzminimum ist dem Grunde nach eine Struktur, weil es in der Verfassung steht; die Höhe jeder Leistung dagegen ist ein Programm. Ausgerechnet der Teil, auf den sich diese Ordnung stützt – die Sicherung derer, die ein gestorbener Betrieb freigesetzt hat –, liegt überwiegend im Programmteil. Das siebzehnte Kapitel zieht daraus die Konsequenzen.
 
+Einmal ist dieser Test nicht als Gedankenspiel durchgeführt worden, sondern in der Wirklichkeit und an der größten Vermögensklasse des Landes. Bis Ende 1989 band das Wohnungsgemeinnützigkeitsgesetz rund 1.800 anerkannte Unternehmen mit etwa 3,3 Millionen Wohnungen an Kostendeckung, gedeckelte Ausschüttung und Vermögensbindung; ein Artikel des Steuerreformgesetzes 1990 hob es zum 1. Januar 1990 auf. Übrig blieb, was der Test vorhersagt: Die Genossenschaften behielten ihre Bestände, weil sie ihren Mitgliedern gehörten; die kommunalen und die gewerkschaftlichen Gesellschaften wurden gewöhnliche Unternehmen mit gewöhnlichen Anteilen, und die Berliner GSW war vierzehn Jahre später verkauft. Das zwölfte Kapitel führt den Fall aus.
+
 Die Regel, die daraus folgt, ist streng: **Was den Belastungstest nicht besteht, ist ein Programm und darf nicht als Struktur geführt werden.** Ein Reformpfad, der Programme für Strukturen ausgibt, verspricht Dauerhaftigkeit, die er nicht liefern kann – und liefert seinen Gegnern das Argument, mit dem sie ihn beim ersten Regierungswechsel erledigen.
 
 ### Die Reihenfolge
@@ -91,5 +93,7 @@ Der Rest dieses Teils ist die Anwendung der sechs Tests auf diese drei Stufen.
 *Artikel 15 GG:* siehe Kapitel 18. **Bestätigt.**
 
 *Ertragshoheit und Verwaltung der Erbschaftsteuer (Grundlage des Föderalismustests):* Artikel 106 Absatz 2, Artikel 108 Absatz 2 und Artikel 105 Absatz 3 GG – ausgeführt und belegt in Kapitel 21. **Bestätigt.**
+
+*Die Wohnungsgemeinnützigkeit als vollzogener Belastungstest:* Wohnungsgemeinnützigkeitsgesetz vom 29. Februar 1940, aufgehoben durch Artikel 21 des Steuerreformgesetzes 1990 vom 25. Juli 1988 mit Wirkung zum 1. Januar 1990; rund 1.800 Unternehmen mit etwa 3,3 Millionen Wohnungen. Fundstellen und Verifikationsstatus in Kapitel 12. **Bestätigt.**
 
 *Die sechs Tests und der Belastungstest* sind Prüfverfahren dieses Buches. **Wertung.**
