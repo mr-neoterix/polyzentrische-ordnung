@@ -1,6 +1,6 @@
 # PROCESS.md – Register der offenen Handwerksaufträge
 
-Stand: 21.08.2026.
+Stand: 23.08.2026.
 
 Dieses Verzeichnis hält fest, was am Text noch zu tun ist, ohne dass es eine Aussage des Textes betrifft: Belege, die nur mittelbar bestätigt sind, Fundstellen, die aus der Arbeitsumgebung nicht einsehbar waren, Zahlen ohne amtliche Quelle, Inkonsistenzen zwischen den Dateien. Anlass seiner Anlage war ein solcher Fall: Am 21.08.2026 ist die Wohnungsgemeinnützigkeit als Feldbeleg in Kapitel 12 eingearbeitet worden, ohne dass der Gesetzestext einsehbar war – der Auftrag stand danach nur in einem Nebensatz des Belegapparats und wäre dort verschwunden.
 
@@ -82,6 +82,14 @@ Die Abgrenzung in einem Satz: **Das Ledger sagt, was dieses Buch nicht kann; die
 **Folge, falls offen:** keine. Der Satz trägt kein Argument; er beziffert die Bedeutung des Falls. Bleibt die Quelle aus, kann er ersatzlos entfallen.
 **Betroffene Stellen:** `manuskript/12_allmende_und_sterberecht.md` (Beleg *Wohnungsgemeinnützigkeit*), `quellen_und_glossar.md` Abschnitt U.
 
+### V8 – Kant-Wortlaut und Levy-Fundstelle am Volltext
+**Angelegt:** 23.08.2026.
+**Gegenstand:** die Ergänzung des Trost-Abschnitts in Kapitel 23 um den Verbund-Restbestand. Sie stützt sich auf den zweiten Definitivartikel („Das Völkerrecht soll auf einen Föderalism freier Staaten gegründet sein"; Friedensbund/foedus pacificum im Unterschied zum Friedensvertrag; der Völkerbund, der gleichwohl kein Völkerstaat sein müsse; das „negative Surrogat" der Weltrepublik) und auf Levys Einordnung der dyadischen Regelmäßigkeit als das, was einem empirischen Gesetz im Fach am nächsten kommt (*Journal of Interdisciplinary History* 18 (1988), S. 653–673, hier S. 662).
+**Was fehlt:** die Sichtprüfung am Volltext. Diese Arbeitsumgebung filtert den direkten Abruf (projekt-gutenberg.org, zeno.org, gutenberg.org sämtlich gesperrt; nur die Websuche geht durch); bestätigt ist beides über mehrere unabhängige, übereinstimmende Sekundärnachweise.
+**Was ihn schließt:** Abruf des Kant-Textes (Projekt Gutenberg, Zeno.org oder Akademie-Ausgabe Band VIII) und Einsicht in Levys Aufsatz.
+**Folge, falls offen:** gering. Das Manuskript zitiert wörtlich nur die mehrfach bestätigten Stücke und umschreibt den Rest; fiele die Levy-Seitenzahl, bliebe die Einordnung als verbreitete Charakterisierung des Forschungsstands bestehen.
+**Betroffene Stellen:** `manuskript/23_die_weltordnungsebene.md` (Trost-Abschnitt und Belege), `quellen_und_glossar.md` Abschnitt M, `polyzentrische_ordnung.md` Sektion VI.
+
 ---
 
 ## II. Geprüft und entschieden
@@ -93,6 +101,8 @@ Was hier steht, ist kein Auftrag, sondern eine Warnung: Diese Fragen sind einmal
 *Dresden 2006 gehört nicht in die Linie der Wohnungsgemeinnützigkeit.* Die WOBA kam aus der Kommunalisierung des DDR-Wohnungsbestands und war nie nach dem WGG anerkannt; für die neuen Länder galt ohnehin eine eigene Übergangsregelung. In der WGG-Abfolge steht allein Berlin. Der Fall Dresden bleibt Beleg der Sicherungsstufen und wird nicht zum Beleg des Statusmodells umgewidmet.
 
 *Arizmendiarrieta war Diözesanpriester des Bistums Vitoria, nicht Jesuit.* Der Fehler steht auch in seriösen Darstellungen und ist mehrfach zurückgewiesen worden.
+
+*Der Vorname von Maoz ist Zeev, nicht Zenonas.* Der Belegapparat von Kapitel 23 führte bis zum 23.08.2026 „Zenonas Maoz" für „Regime Types and International Conflict, 1816–1976"; der Verlagsnachweis (SAGE, *Journal of Conflict Resolution* 33/1989, H. 1, S. 3–35) weist „Zeev Maoz" aus, ebenso das Glossar, das den Zweifel schon trug. Berichtigt; die Form „Zeev" gilt und wird nicht ohne neuen Beleg geändert.
 
 *Die Vier-Prozent-Grenze des WGG 1940 steht in § 9, nicht in § 8.* Eine über Websuche gewonnene Zusammenfassung des recht.nrw.de-Bestands ordnete die Ausschüttungsgrenze § 8 und die Vermögensbindung § 9 zu. Das Faksimile des Reichsgesetzblatts (RGBl. I 1940, S. 439) widerlegt beides: § 8 regelt die Weiterveräußerung (auf mindestens zwanzig Jahre zu bestellende Sicherung gegen Preiserhöhung beim Weiterverkauf), die Grenze von vier vom Hundert der eingezahlten Kapitaleinlagen steht in § 9 Buchstabe a, die Vermögensbindung an gemeinnützige Zwecke bei Auflösung in § 11. Musterfall der vierten Regel dieses Verzeichnisses: Was nicht am Text geprüft ist, wird nicht zitiert – auch eine plausible Paragraphenfolge nicht.
 
