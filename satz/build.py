@@ -33,6 +33,7 @@ Aufruf:
 from __future__ import annotations
 
 import argparse
+import datetime
 import re
 import shutil
 import subprocess
@@ -307,7 +308,7 @@ def setze_ueberschriften(rumpf: str) -> str:
     return re.sub(r"^#{2,6}\s+", "## ", rumpf, flags=re.M)
 
 
-def baue_quelltext(fassung: str, satzdatum: str) -> str:
+def baue_quelltext(fassung: str, satzdatum: str, jahr: str) -> str:
     inhalt_pfad = MANUSKRIPT / INHALT
     if not inhalt_pfad.is_file():
         raise Fehler(f"{inhalt_pfad} fehlt – ohne Inhaltsdatei kein Satz.")
@@ -337,6 +338,7 @@ def baue_quelltext(fassung: str, satzdatum: str) -> str:
     zeilen.append(kopfzeile("untertitel", titelei["untertitel"]))
     zeilen.append(kopfzeile("autor", titelei["autor"]))
     zeilen.append(kopfzeile("stand", titelei["stand"]))
+    zeilen.append(kopfzeile("jahr", jahr))
     zeilen.append(kopfzeile("fassung", fassung))
     zeilen.append(kopfzeile("satzdatum", satzdatum))
     zeilen.append("lang: de")
@@ -453,9 +455,15 @@ def main() -> int:
 
     fassung = argumente.fassung or git("rev-parse", "--short", "HEAD", ersatz="ohne git")
     satzdatum = git("log", "-1", "--format=%cd", "--date=format:%d.%m.%Y", ersatz="")
+    # Das Jahr der Rechteangabe im Impressum. Es kommt aus dem Quellstand und
+    # nicht aus der Uhr des Bauläufers: Ein späterer Satz derselben Fassung
+    # soll dieselbe Jahreszahl tragen. Ohne git bleibt nur das heutige Jahr.
+    jahr = git("log", "-1", "--format=%cd", "--date=format:%Y", ersatz="") or str(
+        datetime.date.today().year
+    )
 
     try:
-        quelltext = baue_quelltext(fassung, satzdatum)
+        quelltext = baue_quelltext(fassung, satzdatum, jahr)
     except Fehler as fehler:
         print(f"Satz abgebrochen: {fehler}", file=sys.stderr)
         return 1

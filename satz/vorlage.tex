@@ -288,14 +288,34 @@
   $endif$
 \end{titlepage}
 
-% Die Rückseite des Titelblatts – die erste linke Seite des Buches.
+% Die Rückseite des Titelblatts – die erste linke Seite des Buches und das
+% Impressum. Es steht am Fuß der Seite, klein und in der leisen Farbe, wie
+% es in Büchern üblich ist: Wer es sucht, findet es; wer es nicht sucht,
+% liest darüber hinweg. Der Rechteinhaber ist der Verfasser der Titelei,
+% das Jahr kommt aus dem Quellstand – beides wird nicht hier gepflegt.
 \thispagestyle{empty}
 \null\vfill
 {\footnotesize\color{leise}\raggedright
+  \setlength{\parskip}{0.7em}%
+  \setlength{\parindent}{0pt}%
+  Bibliografische Information der Deutschen Nationalbibliothek: Die Deutsche
+  Nationalbibliothek verzeichnet diese Publikation in der Deutschen
+  Nationalbibliografie; detaillierte bibliografische Daten sind im Internet
+  über dnb.dnb.de abrufbar.\par
+
+  Die automatisierte Analyse des Werkes, um daraus Informationen insbesondere
+  über Muster, Trends und Korrelationen gemäß §~44b UrhG („Text und Data
+  Mining“) zu gewinnen, ist untersagt.\par
+
+  $if(autor)$© $jahr$ $autor$\par$endif$
+
+  Verlag: BoD~· Books on Demand GmbH, Überseering 33, 22297 Hamburg,
+  bod@bod.de\\
+  Druck: Libri Plureos GmbH, Friedensallee 273, 22763 Hamburg\par
+
   Diese Fassung wurde aus den Kapiteldateien in \texttt{manuskript/} gesetzt.
   Sie ist ein Erzeugnis des Satzlaufs, nicht die Quelle: Geändert wird im
   Markdown, nicht im PDF.\par
-  \vspace{0.7em}
   $if(fassung)$Quellstand: \texttt{$fassung$}$if(satzdatum)$, $satzdatum$$endif$.\par$endif$
 }
 \cleardoublepage
