@@ -1296,3 +1296,44 @@ Anlass war eine Frage an den eigenen Text: Der Wohnen-Abschnitt führte Berlin 2
 **Erläuterung:** Was hier nicht Beleg, sondern Lesart und Entwurf ist.
 **Quelle(n):** Die Lesart des Vorgangs als Befund über Fehlertoleranz – ein Sektor mit einheitlicher Anerkennung, einheitlicher Befreiung und einheitlichen Bindungen haftet politisch für seinen schlechtesten Träger mit, und deshalb sind Kostenvergleich, Offenheitskennzahl und Abschaltkriterium die Stelle, an der ein einzelnes Unternehmen durchfallen kann, bevor ein Gesetzgeber über die Form entscheidet. Dazu die Zuspitzungen „Was an einem Status hing, wurde gestrichen; was am Mitglied hing, steht noch" und „Ein Sektor, der seine Mitglieder nicht einzeln sterben lassen kann, stirbt im Ganzen".
 **Verifikation:** Wertung. Der Ledger-Eintrag in Kapitel 26 führt die Grenze mit: Aus der Förderung nehmen kann diese Stelle ein Unternehmen, aus dem Verband nicht.
+
+---
+
+## V. Anker der Automatisierungsfrage (Stand 23.08.2026)
+
+Diese Einträge tragen die Erweiterung vom 23.08.2026 in Manuskript (Kapitel 15 und 26) und Thesenpapier (Sektionen III und VI): die Prüfung der Ordnung gegen die Automatisierung der Arbeit. Der Befund unterscheidet die unbelegte Prognose (das Ende der Arbeit) von der belegten Verschiebung (der fallende Lohnanteil) und mustert die drei Streuungswege – Arbeit, Nutzung, Fondsberechtigung – auf ihre Abhängigkeit von der Beschäftigung. Geprüft am 23.08.2026 per Websuche; der direkte Abruf ist aus dieser Arbeitsumgebung gefiltert, die Fundstellen sind über Verlags- und Amtsnachweise in den Suchergebnissen bestätigt.
+
+### Keynes und die technologische Arbeitslosigkeit
+**Erläuterung:** Die älteste datierte Fassung der Prognose und der Grund, sie nicht zu übernehmen. Keynes prägte 1930 den Begriff der technologischen Arbeitslosigkeit – Arbeitslosigkeit, weil die Einsparung von Arbeit schneller vorankommt als ihre neue Verwendung – und sagte für die Generation der Enkel, also für die Zeit um 2030, eine Fünfzehnstundenwoche bei vier- bis achtfachem Lebensstandard voraus. Die Produktivitätsprognose traf ungefähr ein, die Arbeitszeitprognose nicht. Für das Projekt ist das die Vorgängerprognose im Sinne des China-Einwands: eine Ankündigung, deren Frist abgelaufen ist.
+**Quelle(n):** John Maynard Keynes, „Economic Possibilities for our Grandchildren", in: *The Nation and Athenaeum*, 1930 (auch in: *Essays in Persuasion*).
+**URL:** https://www.marxists.org/reference/subject/economics/keynes/1930/our-grandchildren.htm – indiziert (Websuche 23.08.2026)
+**Verifikation:** bestätigt hinsichtlich Titel, Jahr, Begriff und beider Prognosen über mehrere unabhängige Nachweise; nicht am Volltext geprüft.
+
+### Automatisierungsprognosen: die Spanne von 47 zu 9 Prozent
+**Erläuterung:** Der jüngste Fall derselben Prognoseform und der Beleg ihrer Methodenabhängigkeit. Die Oxford-Studie von 2013 bezifferte 47 Prozent der amerikanischen Beschäftigung als in Berufen mit hohem Automatisierungsrisiko binnen ein bis zwei Jahrzehnten; die OECD-Untersuchung von 2016 kam mit tätigkeits- statt berufsbezogener Rechnung auf rund 9 Prozent. Die Spanne misst nicht die Technik, sondern den Unterschied zwischen einem Beruf und den Tätigkeiten, aus denen er besteht – für das Projekt der Grund, keine der beiden Zahlen zur Grundlage zu machen.
+**Quelle(n):** Carl Benedikt Frey und Michael A. Osborne, *The Future of Employment: How Susceptible are Jobs to Computerisation?*, Oxford Martin School, 2013; Melanie Arntz, Terry Gregory und Ulrich Zierahn, *The Risk of Automation for Jobs in OECD Countries: A Comparative Analysis*, OECD Social, Employment and Migration Working Paper Nr. 189, 2016.
+**URL:** https://www.oecd.org/en/publications/the-risk-of-automation-for-jobs-in-oecd-countries_5jlz9h56dvq7-en.html – indiziert (Websuche 23.08.2026)
+**Verifikation:** bestätigt hinsichtlich beider Zahlen und des methodischen Unterschieds. Die Verwendung als Beleg der Prognoseunsicherheit ist **Wertung** des Projekts.
+
+### Der Rückgang der Lohnquote
+**Erläuterung:** Die belegte Fassung des Einwands, auf der die Erweiterung ruht: nicht das Verschwinden der Arbeit, sondern die Verschiebung der Anteile. Die globale Lohnquote ist seit 1975 um rund fünf Prozentpunkte gefallen, innerhalb der großen Mehrheit der Länder und Branchen; rund die Hälfte des Rückgangs lässt sich auf den gesunkenen relativen Preis der Investitionsgüter zurückführen – Maschinen und Software wurden im Verhältnis zur Arbeit billiger, und Unternehmen ersetzten entsprechend. Für das Projekt genügt dieser Befund: Ein Streuungsweg, der an der Lohnsumme hängt, schrumpft relativ, wenn der Kapitalanteil wächst.
+**Quelle(n):** Loukas Karabarbounis und Brent Neiman, „The Global Decline of the Labor Share", *Quarterly Journal of Economics* 129 (2014), H. 1, S. 61–103.
+**URL:** https://academic.oup.com/qje/article-abstract/129/1/61/1899422 – indiziert (Websuche 23.08.2026)
+**Verifikation:** bestätigt hinsichtlich Fundstelle und Kernbefund über Verlags- und Arbeitspapiernachweise. **Mit Einschränkung:** Die Höhe des Rückgangs variiert nach Abgrenzung (Unternehmenssektor gegen Gesamtwirtschaft, Behandlung der Selbständigeneinkommen); geführt wird die Größenordnung.
+
+### Roboterdichte und lokale Arbeitsmärkte
+**Erläuterung:** Der belegte lokale Effekt neben der offenen Gesamtbilanz. Ein zusätzlicher Industrieroboter je tausend Beschäftigte senkt die Beschäftigungsquote einer amerikanischen Pendlerregion um rund 0,2 Prozentpunkte und die Löhne um rund 0,4 Prozent. Die gesamtwirtschaftliche Nettowirkung – ob andernorts mehr entsteht, als lokal wegfällt – ist damit nicht gemessen und in der Forschung umstritten; das Projekt führt sie ausdrücklich als offen und stützt auf den Befund nur die Anteils-, nicht eine Verschwindensthese.
+**Quelle(n):** Daron Acemoglu und Pascual Restrepo, „Robots and Jobs: Evidence from US Labor Markets", *Journal of Political Economy* 128 (2020), H. 6, S. 2188–2244.
+**URL:** https://www.journals.uchicago.edu/doi/abs/10.1086/705716 – indiziert (Websuche 23.08.2026)
+**Verifikation:** bestätigt hinsichtlich Fundstelle und Koeffizienten über Verlags- und Referenznachweise.
+
+### Erwerbstätigkeit auf Höchststand
+**Erläuterung:** Der Gegenwartsanker gegen die Verschwindensthese: Im Jahresdurchschnitt 2024 waren rund 46,1 Millionen Menschen mit Arbeitsort in Deutschland erwerbstätig – so viele wie nie seit der Vereinigung, mit durchgängigem Zuwachs seit 2006 außer im Jahr 2020. Der Anker trägt keine Entwarnung – die Dynamik ließ seit Mitte 2022 deutlich nach –, sondern die Feststellung, dass die Prognose vom Ende der Arbeit auch in ihrem jüngsten Jahrzehnt nicht eingetreten ist.
+**Quelle(n):** Statistisches Bundesamt, Pressemitteilung Nr. 001 vom 2. Januar 2025, „Zahl der Erwerbstätigen im Jahr 2024 auf neuem Höchststand".
+**URL:** https://www.destatis.de/DE/Presse/Pressemitteilungen/2025/01/PD25_001_13321.html – indiziert (Websuche 23.08.2026)
+**Verifikation:** bestätigt als amtliche Erstschätzung.
+
+### Konstruktionsfolgen dieses Abschnitts
+**Erläuterung:** Was hier nicht Beleg, sondern Lesart und Entwurf ist.
+**Quelle(n):** Die Musterung der drei Streuungswege auf Beschäftigungsabhängigkeit (nur der Arbeitsweg hängt an der Lohnsumme; Nutzung und Fondsberechtigung nicht); die Verschärfung des Ward-Effekts durch Automatisierung (die Tätigkeitsquote kann hundert Prozent betragen und fast niemanden mehr zählen – „die Zunft, verkleinert auf die Bedienungsmannschaft der Maschinen"); die Zurückweisung von Robotersteuer (Abgrenzung ohne Kläger), Beschäftigungsgebot (Hortung nach Kornai) und Bremsen-Förderung (Abschaltkriterium gilt gegen die Förderung, nicht gegen die Maschinen); die Folgerung „Je weniger die Arbeit von der Wertschöpfung trägt, desto mehr der Streuung muss am Ertrag hängen statt am Lohn"; und der Preis im Ledger – der stimmrechtsarme Ertragsweg lässt bei schrumpfenden Belegschaften Kontrolle ruhen, die den Verwaltern zufällt.
+**Verifikation:** Wertung. Der zugehörige Ledger-Eintrag steht in Kapitel 26, Klasse III, mit Verfahren und Schwelle für den Anteil ruhender Stimmrechte.
