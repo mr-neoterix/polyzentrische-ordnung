@@ -141,6 +141,13 @@ Stand: …*`. Titel, Untertitel und Verfasser wandern auch in die
 PDF-Metadaten. Fehlt eine der Zeilen, entfällt sie schlicht auf der
 Titelseite; nur ohne Titel bricht der Satz ab.
 
+*Das Impressum steht auf der Rückseite des Titelblatts*, in `vorlage.tex`.
+Zwei seiner Angaben werden dort nicht gepflegt: Der Rechteinhaber ist der
+Verfasser aus der Titelei, und die Jahreszahl kommt aus dem Datum des
+Quellstands – nicht aus der Uhr des Bauläufers, damit ein späterer Satz
+derselben Fassung dieselbe Zahl trägt. Verlag und Druckerei stehen fest in
+der Vorlage; wer sie ändert, ändert sie dort.
+
 ## Was das Skript am Text ändert
 
 Nichts am Inhalt, zweierlei an der Form. Die Quellen setzen das öffnende
