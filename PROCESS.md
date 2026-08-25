@@ -1,6 +1,6 @@
 # PROCESS.md – Register der offenen Handwerksaufträge
 
-Stand: 23.08.2026.
+Stand: 25.08.2026.
 
 Dieses Verzeichnis hält fest, was am Text noch zu tun ist, ohne dass es eine Aussage des Textes betrifft: Belege, die nur mittelbar bestätigt sind, Fundstellen, die aus der Arbeitsumgebung nicht einsehbar waren, Zahlen ohne amtliche Quelle, Inkonsistenzen zwischen den Dateien. Anlass seiner Anlage war ein solcher Fall: Am 21.08.2026 ist die Wohnungsgemeinnützigkeit als Feldbeleg in Kapitel 12 eingearbeitet worden, ohne dass der Gesetzestext einsehbar war – der Auftrag stand danach nur in einem Nebensatz des Belegapparats und wäre dort verschwunden.
 
@@ -89,6 +89,14 @@ Die Abgrenzung in einem Satz: **Das Ledger sagt, was dieses Buch nicht kann; die
 **Was ihn schließt:** Abruf des Kant-Textes (Projekt Gutenberg, Zeno.org oder Akademie-Ausgabe Band VIII) und Einsicht in Levys Aufsatz.
 **Folge, falls offen:** gering. Das Manuskript zitiert wörtlich nur die mehrfach bestätigten Stücke und umschreibt den Rest; fiele die Levy-Seitenzahl, bliebe die Einordnung als verbreitete Charakterisierung des Forschungsstands bestehen.
 **Betroffene Stellen:** `manuskript/23_die_weltordnungsebene.md` (Trost-Abschnitt und Belege), `quellen_und_glossar.md` Abschnitt M, `polyzentrische_ordnung.md` Sektion VI.
+
+### V9 – Volltexteinsicht der drei Anpassungsstudien
+**Angelegt:** 25.08.2026.
+**Gegenstand:** die drei Studien, die die Lohn- und Beschäftigungsanpassung von Arbeitergenossenschaften tragen – Craig/Pencavel (AER 82/1992, S. 1083–1105), Pencavel/Pistaferri/Schivardi (ILR Review 60/2006, S. 23–44, einschließlich der Angabe „rund 14 Prozent niedrigere Durchschnittslöhne") und Burdín/Dean (JCE 37/2009, S. 517–533). Sie stützen die geschärfte Antwort auf den Reformismus-Einwand (Kapitel 24, Einwand 1), die Anpassungsempirie in Kapitel 15 und die Beschäftigten-Messgröße in Kapitel 22.
+**Was fehlt:** die Einsicht in die Volltexte. Fundstellen und Kernbefunde sind über die Verlagsnachweise (RePEc, SAGE, ScienceDirect) und übereinstimmende Sekundärdarstellungen bestätigt; die Aufsätze selbst liegen hinter Bezahlschranken.
+**Was ihn schließt:** Abruf der drei Aufsätze über eine Bibliothek oder frei zugängliche Arbeitspapier-Fassungen (für Pencavel/Pistaferri/Schivardi existiert IZA Discussion Paper 2188).
+**Folge, falls offen:** gering für die Anpassungsasymmetrie (mehrfach unabhängig referiert), spürbar für die 14-Prozent-Zahl: Sie hängt derzeit an der Verlagszusammenfassung und müsste, fiele sie, durch „im Mittel deutlich niedriger" ersetzt werden – das Argument selbst bliebe stehen, da es den Abstand als offene Deutungsfrage führt.
+**Betroffene Stellen:** `manuskript/15_arbeit_sorge_krise_weltmarkt.md`, `manuskript/22_stufe_drei_kosten_koalitionen.md`, `manuskript/24_marxistische_gegenprobe.md`, `polyzentrische_ordnung.md` Sektionen IV und V, `quellen_und_glossar.md` Abschnitt W.
 
 ---
 
