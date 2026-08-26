@@ -1,6 +1,6 @@
 # PROCESS.md – Register der offenen Handwerksaufträge
 
-Stand: 25.08.2026.
+Stand: 26.08.2026.
 
 Dieses Verzeichnis hält fest, was am Text noch zu tun ist, ohne dass es eine Aussage des Textes betrifft: Belege, die nur mittelbar bestätigt sind, Fundstellen, die aus der Arbeitsumgebung nicht einsehbar waren, Zahlen ohne amtliche Quelle, Inkonsistenzen zwischen den Dateien. Anlass seiner Anlage war ein solcher Fall: Am 21.08.2026 ist die Wohnungsgemeinnützigkeit als Feldbeleg in Kapitel 12 eingearbeitet worden, ohne dass der Gesetzestext einsehbar war – der Auftrag stand danach nur in einem Nebensatz des Belegapparats und wäre dort verschwunden.
 
@@ -97,6 +97,13 @@ Die Abgrenzung in einem Satz: **Das Ledger sagt, was dieses Buch nicht kann; die
 **Was ihn schließt:** Abruf der drei Aufsätze über eine Bibliothek oder frei zugängliche Arbeitspapier-Fassungen (für Pencavel/Pistaferri/Schivardi existiert IZA Discussion Paper 2188).
 **Folge, falls offen:** gering für die Anpassungsasymmetrie (mehrfach unabhängig referiert), spürbar für die 14-Prozent-Zahl: Sie hängt derzeit an der Verlagszusammenfassung und müsste, fiele sie, durch „im Mittel deutlich niedriger" ersetzt werden – das Argument selbst bliebe stehen, da es den Abstand als offene Deutungsfrage führt.
 **Betroffene Stellen:** `manuskript/15_arbeit_sorge_krise_weltmarkt.md`, `manuskript/22_stufe_drei_kosten_koalitionen.md`, `manuskript/24_marxistische_gegenprobe.md`, `polyzentrische_ordnung.md` Sektionen IV und V, `quellen_und_glossar.md` Abschnitt W.
+
+### V10 – Primärquellen des Groß-AG-Kanals
+**Angelegt:** 26.08.2026.
+**Gegenstand:** die neuen Anker des Abschnitts „Die Gesellschaft, die auf kein Ereignis wartet" (Kapitel 13, Glossar Abschnitt X), soweit sie bisher an Sekundärquellen hängen. Drei Stücke: *Erstens* die französischen Belegschaftsanteile – Eiffage rund 20,5 Prozent des Kapitals (30.06.2023) ist Unternehmensangabe; die Bouygues-Zahlen (21,4 Prozent des Kapitals Ende 2024; Belegschaftsfonds 15,01 Prozent des Kapitals, 22,97 Prozent der Stimmrechte) und die FAS-Durchschnitte (CAC 40 rund 4,8 Prozent, zweite Reihe rund 2, Deutschland ein Mehrfaches darunter) stammen aus Verbandserhebung und Wirtschaftsberichterstattung. *Zweitens* die Normtexte §§ 29, 35 WpÜG, § 186 Absatz 3 Satz 4 und § 135a AktG – über übereinstimmende Gesetzeswiedergaben (buzer.de, Kanzleidarstellungen) bestätigt, aber nicht am amtlichen Text, weil `gesetze-im-internet.de` aus dieser Arbeitsumgebung gefiltert ist (dieselbe Lage wie bei V8). *Drittens* die Zählung, BlackRock sei Ende 2023 bei 34 der 40 DAX-Gesellschaften größter Einzelaktionär gewesen – Finanzberichterstattung, keine amtliche Statistik.
+**Was ihn schließt:** Einsicht in die Universal Registration Documents von Bouygues (Geschäftsjahr 2024) und Eiffage, in die FAS-/Eres-Erhebungen selbst, Abruf der Normtexte aus einer ungefilterten Umgebung, und für die Aktionärszählung eine Auswertung der Stimmrechtsmitteilungen oder eine wissenschaftliche Quelle.
+**Folge, falls offen:** gering für das Argument, spürbar für einzelne Zahlen. Alle betroffenen Angaben sind im Text als Größenordnung oder mit Einschränkung geführt; fiele die Bouygues-Stimmrechtszahl, bliebe der Eiffage-Beleg und mit ihm der Feldbeleg des Erwerbswegs; fiele die 34-von-40-Zählung, bliebe der belegte Befund, dass die größten Einzelaktionäre im Streubesitz mit wenigen Prozent feststehen.
+**Betroffene Stellen:** `manuskript/13_privatsektor_und_sterblichkeit.md` (Belege), `quellen_und_glossar.md` Abschnitt X, `polyzentrische_ordnung.md` Sektion III.
 
 ---
 

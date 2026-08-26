@@ -50,7 +50,7 @@ Nicht der Fonds hält den Anteil und gibt die Stimme ab. Sondern eine *Belegscha
 
 Für den Erbschaftsteuerfall heißt das: Der Steuerpflichtige überträgt den Anteil an die Belegschaftstreuhand und dem Fonds das Ertragsrecht, in einem Vorgang. Wo weder eine Treuhand noch eine geloste Eigentümerversammlung zustande kommt, *ruht* das Stimmrecht bis zur Bildung eines Trägers, statt an die Fondsverwaltung zu fallen. Ruhende Stimmen sind unschöner als starke Stimmen, aber sie bauen keine Meidner-Konzentration.
 
-Und weil es im Aktienrecht an der Fünfzig-Prozent-Grenze weiterhin klemmen kann, gehört in diese Stufe ein eigener Rechtsformbaustein: *eine gesetzlich geregelte Belegschaftstreuhand mit eigener Kapitalziffer*, so wie das Vereinigte Königreich den Employee Ownership Trust geschaffen hat, statt ihn aus vorhandenen Formen zu improvisieren.
+Und weil es im Aktienrecht an der Fünfzig-Prozent-Grenze weiterhin klemmen kann, gehört in diese Stufe ein eigener Rechtsformbaustein: *eine gesetzlich geregelte Belegschaftstreuhand mit eigener Kapitalziffer*, so wie das Vereinigte Königreich den Employee Ownership Trust geschaffen hat, statt ihn aus vorhandenen Formen zu improvisieren. Derselbe Baustein trägt noch eine zweite Last: Er ist der Träger des Erwerbskanals, über den das dreizehnte Kapitel die börsennotierte Großgesellschaft – die von Erbfall und Verkaufswunsch nicht erreicht wird – schrittweise in die Konsortialstruktur des elften Kapitels führt.
 
 ### Dritte Wand: Der Ausschüttungskonflikt
 
