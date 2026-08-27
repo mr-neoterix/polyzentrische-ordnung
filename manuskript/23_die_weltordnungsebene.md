@@ -8,7 +8,7 @@ Der Umsetzungspfad endet an der Staatsgrenze. Die Ordnung nicht.
 
 Sie soll in einem europäischen Binnenmarkt bestehen, dessen Recht sie nicht setzt; auf Weltmärkten, deren Preise sie nicht macht; neben Staaten, die andere Entscheidungen treffen; und unter einem Investitionsschutzregime, das sie nicht gekündigt hat. Alles, was die vorangegangenen Kapitel gebaut haben, steht damit unter einer Bedingung, die außerhalb seiner Reichweite liegt.
 
-Diese Ebene zerfällt in zwei ungleiche Teile. Der eine ist durchaus ausarbeitbar, und die Antworten sind konkreter, als die bloße Größe der Frage vermuten lässt. Der andere ist keine Terminsache, sondern eine Grenze des Konstruktionsprinzips selbst – und dieses Kapitel endet mit einem Befund über die eigene Kernthese, den ein Ehrlichkeits-Ledger nicht tragen kann, weil er kein Eintrag ist, sondern ein Ergebnis.
+Diese Ebene zerfällt in zwei ungleiche Teile. Der eine ist durchaus ausarbeitbar, und die Antworten sind konkreter, als die bloße Größe der Frage vermuten lässt. Der andere ist keine Terminsache, sondern eine Grenze des Konstruktionsprinzips selbst.
 
 ### Drei Angriffsflächen, nicht eine
 
@@ -78,7 +78,7 @@ Das ist eine Grenze, keine Lösung.
 
 ### Die Antwort: Export statt Verteidigung
 
-Aus alldem folgt die wichtigste Konstruktionsentscheidung dieses Kapitels, und sie ist kontraintuitiv.
+Aus alldem folgt die Konstruktionsentscheidung dieses Kapitels, und sie ist kontraintuitiv.
 
 Wenn der reale Angriff juristische Zermürbung auf europäischer Ebene ist, dann ist eine deutsche Sonderregel der falsche Bauplan. Sie wird weggeklagt – nicht von einer Verschwörung, sondern von einem Wettbewerber mit einem guten Anwalt, der ein legitimes Interesse und ein besseres Verfahrensrecht hat. Was hält, ist eine europäische Rechtsgrundlage für belegschafts- und gemeinwohlgebundene Rechtsformen, analog zur Europäischen Genossenschaft.
 
@@ -100,7 +100,7 @@ Die Antwort ist unheroisch und liegt in geltendem Recht. Man macht die Unterwerf
 
 *Und der CO2-Grenzausgleich,* seit dem 1. Januar 2026 in der Zahlungsphase, tut etwas, das sich in der Sprache dieses Buches sehr genau beschreiben lässt: **Er erzeugt im Ausland einen Interessenten für die eigene Regel.** Wer nach Europa exportiert, hat plötzlich Grund, einen heimischen CO2-Preis zu wollen, weil der ihm angerechnet wird. Das ist dieselbe Logik über die Grenze getragen, und es ist derselbe Zug wie beim Export der Rechtsformen, nur mit dem Zollsatz statt mit der Mustersatzung.
 
-Der Einwand dagegen ist besonders scharf und wird nicht kleingeredet: Das ist Druck der Starken auf die Schwachen, ökologischer Protektionismus mit moralischem Vorzeichen, und er trifft die, die am wenigsten verursacht haben. Der Einwand trifft, und er ist nicht auflösbar, sondern nur begrenzbar – Rückerstattung des Aufkommens an die betroffenen Länder, Übergangsfristen nach Leistungsfähigkeit, und die Beschränkung des Hebels auf Regeln, die im eigenen Rechtsraum gleichermaßen gelten. Wer ihn darüber hinaus benutzt, betreibt Handelspolitik und nennt sie Ordnung. Dass die Grenze zwischen beidem unscharf ist, ist eine Eigenschaft des Instruments; der Eintrag steht im sechsundzwanzigsten Kapitel.
+Der Einwand dagegen ist besonders scharf und wird nicht kleingeredet: Das ist Druck der Starken auf die Schwachen, ökologischer Protektionismus mit moralischem Vorzeichen, und er trifft die, die am wenigsten verursacht haben. Der Einwand trifft, und er ist nicht auflösbar, sondern nur begrenzbar – Rückerstattung des Aufkommens an die betroffenen Länder, Übergangsfristen nach Leistungsfähigkeit, und die Beschränkung des Hebels auf Regeln, die im eigenen Rechtsraum gleichermaßen gelten. Wer ihn darüber hinaus benutzt, betreibt Handelspolitik und nennt sie Ordnung. Dass die Grenze zwischen beidem unscharf ist, ist eine Eigenschaft des Instruments; der Eintrag steht im Ledger.
 
 Das ist mehr als eine Absichtserklärung, weil es an vorhandene Träger anknüpft statt an zu gründende. Aber all das beantwortet nur die Frage, was hält – nicht die, woran auch das Halten nichts ändert: die Konkurrenz der Staaten untereinander.
 
@@ -112,7 +112,7 @@ Der zweite Teil stimmt. Der erste verdient eine genauere Behandlung, denn die Th
 
 *Die leninistische Fassung,* nach Lenins Lehre vom Imperialismus als höchstem Stadium des Kapitalismus – Monopolkapital, Zwang zum Kapitalexport, Aufteilung der Welt, daraus zwangsläufig Krieg –, scheitert an ihrem eigenen Testfall. Wenn Staaten kriegerisch wären, *weil* sie kapitalistisch sind, dürften sozialistische Staaten einander nicht bekriegen. Sie haben es getan, mehrfach und in kurzer Folge: an der sowjetisch-chinesischen Grenze 1969, in Indochina 1978 und 1979. Das ist strukturell derselbe Befund wie im ganzen Buch – die Eigentumsform war nicht die Variable. In dieser Fassung bestätigt der Einwand die Methode, statt die Ordnung zu treffen.
 
-*Die anarchistische Fassung* – der Staat als solcher ist das Problem, unabhängig von seinem Klassencharakter – trifft härter und wird in diesem Buch nicht widerlegt, sondern als Dissens ausgewiesen. Sie ist in der Einleitung angesprochen und steht im Ledger des sechsundzwanzigsten Kapitels. Wer den Staat für die Quelle des Problems hält, hat gegen diesen Entwurf kein Argument verloren, sondern eine andere Ausgangsannahme.
+*Die anarchistische Fassung* – der Staat als solcher ist das Problem, unabhängig von seinem Klassencharakter – trifft härter und wird in diesem Buch nicht widerlegt, sondern als Dissens ausgewiesen. Sie ist in der Einleitung angesprochen und steht im Ledger. Wer den Staat für die Quelle des Problems hält, hat gegen diesen Entwurf kein Argument verloren, sondern eine andere Ausgangsannahme.
 
 *Die strukturelle Fassung* aber ist die, auf die dieses Buch keine Antwort hat. Sie lautet: Zwischen Staaten herrscht Anarchie im technischen Sinn – es gibt keine übergeordnete Instanz –, daraus folgt das Sicherheitsdilemma, in dem die Verteidigungsmaßnahme des einen die Bedrohung des anderen ist, und daraus folgen Rüstung und Krieg.
 
@@ -158,7 +158,7 @@ Die Gegenprobe gehört dazu, und sie ist ernst zu nehmen. Der stärkste Einwand 
 
 Die Antwort ist eine Konzession und keine Widerlegung. Dieses Buch löst das Sicherheitsdilemma nicht und behauptet es nicht. Es bestreitet nur, dass die Konzentrationslösung eine Lösung ist, die diese Ordnung sich leisten könnte – aus demselben Grund, aus dem sie den revolutionären Weg ablehnt. Was bleibt, ist bescheidener und lautet: **gemeinsamer Rechtsraum ja, gemeinsamer Souverän nein.** Nicht eine Weltregierung, sondern sachlich begrenzte Rechtsräume mit verbindlicher Gerichtsbarkeit, in die man hineinkommt, weil der Zugang zu etwas anderem daran hängt – also die Bauart des vorigen Abschnitts.
 
-Ob das gegen eine Großmacht trägt, ist die offene Frage, und sie steht im sechsundzwanzigsten Kapitel und nicht hier.
+Ob das gegen eine Großmacht trägt, ist die offene Frage, und sie steht im Ledger und nicht hier.
 
 ### Der naheliegende Trost
 
@@ -190,7 +190,7 @@ Das lässt sich rechnen, und für dieses Buch ist es gerechnet worden. Die Verte
 
 Die Entscheidungsregel stand vor der Rechnung fest, weil eine Kennzahl ohne Schwelle nichts falsifiziert – auch nicht die eigene Hoffnung –, und sie lautet: nicht gestützt. Sie lautet nicht: widerlegt. Der Unterschied ist der ganze Ertrag dieser Rechnung, und er ist bescheiden. **Das Vorzeichen stimmt in jeder Fassung, und in keiner trägt es.**
 
-Zwei Auswege gäbe es noch, und beide werden nicht genommen. Der eine: Die Verteilungsgröße hängt eng am Wohlstand, und ohne die Kontrollen ist der Zusammenhang deutlich – nur hieße das, den kapitalistischen Frieden als eigenen Befund zu verbuchen, und das ist eine andere These als diese. Der andere: Diese Daten sehen nur den sichtbaren Teil, verdeckte Eingriffe stehen nicht darin, und die Wirkung könnte gerade dort liegen. Das ist zulässig und stand vor der Rechnung geschrieben; ein Vorbehalt, der erst nach einem unerwünschten Ergebnis wächst, ist kein Vorbehalt, sondern eine Ausrede. Der Eintrag bleibt deshalb, wo er steht – im sechsundzwanzigsten Kapitel, unter den Fragen, über die niemand etwas weiß –, jetzt mit einem Ergebnis statt bloß mit einem Verfahren.
+Zwei Auswege gäbe es noch, und beide werden nicht genommen. Der eine: Die Verteilungsgröße hängt eng am Wohlstand, und ohne die Kontrollen ist der Zusammenhang deutlich – nur hieße das, den kapitalistischen Frieden als eigenen Befund zu verbuchen, und das ist eine andere These als diese. Der andere: Diese Daten sehen nur den sichtbaren Teil, verdeckte Eingriffe stehen nicht darin, und die Wirkung könnte gerade dort liegen. Das ist zulässig und stand vor der Rechnung geschrieben; ein Vorbehalt, der erst nach einem unerwünschten Ergebnis wächst, ist kein Vorbehalt, sondern eine Ausrede. Der Eintrag bleibt deshalb, wo er steht – im Ledger, unter den Fragen, über die niemand etwas weiß –, jetzt mit einem Ergebnis statt bloß mit einem Verfahren.
 
 Ein Stück des Gedankens überlebt die Rechnung allerdings, und es gehört ausgewiesen, weil es sonst im Nichtergebnis unterginge – nicht als Trost, sondern als Restbestand mit anderem Adressaten. Der dyadische Befund, der oben nur dazu diente, die monadische Fassung zu verwerfen, ist selbst die am besten gesicherte Aussage des ganzen Feldes: Staaten mit gewählten Regierungen bekriegen einander kaum, und diese Regelmäßigkeit gilt in der Forschung als das, was einem empirischen Gesetz in der Lehre von den internationalen Beziehungen am nächsten kommt. Sie ist auch nicht irgendein Nebenbefund, sondern die zweite Hälfte desselben Gedankens bei demselben Autor. Kant hat beide Hälften formuliert: Der erste Definitivartikel begründet die Friedlichkeit des einzelnen republikanischen Staates – das ist die monadische Fassung, und sie hält der Vermessung nicht stand. Der zweite verlangt, das Völkerrecht auf einen „Föderalism freier Staaten" zu gründen – einen Bund, der gleichwohl kein Staat der Staaten sein müsse; Kant nennt ihn Friedensbund und zugleich nüchtern das „negative Surrogat" einer Weltrepublik, die nicht zu haben ist. Das ist die dyadische Fassung, Frieden nicht als Eigenschaft eines Staates, sondern als Eigenschaft eines Verhältnisses, und sie ist es, die die Vermessung überstanden hat. Die Formel des vorigen Abschnitts – gemeinsamer Rechtsraum ja, gemeinsamer Souverän nein – ist damit keine Erfindung dieses Buches: Sie ist Kants zweiter Definitivartikel in institutioneller Sprache, und dieses Kapitel hatte ihn übernommen, bevor es ihn zitiert hat.
 

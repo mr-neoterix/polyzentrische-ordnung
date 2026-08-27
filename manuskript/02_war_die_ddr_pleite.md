@@ -30,7 +30,7 @@ Was sie beschreibt, ist kein Liquiditätsproblem, sondern ein Substanzproblem. U
 
 Der Fachbegriff dafür ist Substanzverzehr: Ein Betrieb, eine Stadt, ein Land lebt von der eigenen Bausubstanz, statt sie zu erhalten. Das sieht in der laufenden Rechnung gut aus, weil Abschreibungen nicht wehtun, und es fällt erst auf, wenn die Anlagen aufgeben. Genau das ist der Zustand, den die DDR erreicht hatte.
 
-Und jetzt kommt die Pointe, um derentwillen dieses Kapitel überhaupt geschrieben ist. Ein Substanzverzehr dieses Ausmaßes hätte in einer Marktwirtschaft nicht zwei Jahrzehnte unbemerkt bleiben können. Nicht weil dort klügere Leute sitzen, sondern weil es dort zwei Geräte gibt, die Fehler sichtbar machen, ohne dass jemand sie zugeben muss.
+Ein Substanzverzehr dieses Ausmaßes hätte in einer Marktwirtschaft nicht zwei Jahrzehnte unbemerkt bleiben können. Nicht weil dort klügere Leute sitzen, sondern weil es dort zwei Geräte gibt, die Fehler sichtbar machen, ohne dass jemand sie zugeben muss.
 
 Das erste sind *Preise*. Ein Preis ist keine moralische Größe, sondern ein Nachrichtensystem: Er verdichtet Millionen verstreuter Informationen über Knappheit in eine einzige Zahl, die jeder lesen kann, der etwas kaufen oder verkaufen will. Wenn Stahl knapper wird, steigt sein Preis, und alle, die Stahl verwenden, ändern ihr Verhalten, ohne dass irgendjemand ihnen erklären müsste, warum. Die DDR hatte administrativ gesetzte Preise, die jahrzehntelang stabil gehalten wurden, weil stabile Preise politisch beruhigten. Damit war das Nachrichtensystem abgeschaltet: Ein Betrieb, der Rohstoffe verschwendete, merkte es nicht an seinen Kosten, und die Planbehörde merkte es nicht an seinen Zahlen.
 
@@ -40,13 +40,13 @@ Kornais Begriff ist der erste Baustein dieses Buches, und es ist wichtig, ihn ri
 
 ### Die Antwort
 
-Damit lässt sich die Ausgangsfrage beantworten, und die Antwort hat zwei Teile.
+Damit lässt sich die Ausgangsfrage beantworten.
 
 Die DDR war nicht akut insolvent. Die Zahl, mit der ihr Untergang gewöhnlich erklärt wird, war eine Bruttozahl in einem politischen Papier, und die Nettorechnung fällt um mehr als die Hälfte kleiner aus. Wer die Geschichte des Staatssozialismus als selbsttätige Rechenaufgabe erzählt, erzählt sie falsch.
 
-Aber die DDR war strukturell erschöpft, und zwar auf eine Weise, die schlimmer ist als Zahlungsunfähigkeit, weil sie sich nicht durch Umschuldung beheben lässt. Sie verzehrte ihre Substanz, und sie tat es, ohne es zu merken, weil sie sich beider Instrumente entledigt hatte, die den Verzehr sichtbar gemacht hätten. Man kann das in einem Satz zusammenziehen, und dieser Satz trägt das ganze weitere Buch: Sie war nicht zahlungsunfähig gegenüber ihren Gläubigern – sie war zahlungsunfähig gegenüber ihrer eigenen Zukunft.
+Aber die DDR war strukturell erschöpft, und zwar auf eine Weise, die schlimmer ist als Zahlungsunfähigkeit, weil sie sich nicht durch Umschuldung beheben lässt. Sie verzehrte ihre Substanz, und sie tat es, ohne es zu merken, weil sie sich beider Instrumente entledigt hatte, die den Verzehr sichtbar gemacht hätten. Man kann das in einem Satz zusammenziehen: Sie war nicht zahlungsunfähig gegenüber ihren Gläubigern – sie war zahlungsunfähig gegenüber ihrer eigenen Zukunft.
 
-Nun folgt daraus noch nichts über Eigentumsordnungen. Der naheliegende Schluss – dann muss man eben Preise und Insolvenz einführen, also Kapitalismus – ist zu schnell, und das nächste Kapitel zeigt, warum. Denn es gab in der DDR Menschen, die genau das vorschlugen. Nicht Kapitalismus, aber Preise, die etwas bedeuten, Kennziffern, die stimmen, Betriebe, die Verantwortung tragen. Sie hatten Argumente, sie hatten Zahlen, und sie hatten zeitweise sogar die Macht.
+Nun folgt daraus noch nichts über Eigentumsordnungen. Der naheliegende Schluss – dann muss man eben Preise und Insolvenz einführen, also Kapitalismus – ist zu schnell. Denn es gab in der DDR Menschen, die genau das vorschlugen. Nicht Kapitalismus, aber Preise, die etwas bedeuten, Kennziffern, die stimmen, Betriebe, die Verantwortung tragen. Sie hatten Argumente, sie hatten Zahlen, und sie hatten zeitweise sogar die Macht.
 
 Sie scheiterten trotzdem, und der Grund, aus dem sie scheiterten, ist der eigentliche Gegenstand dieses Buches.
 

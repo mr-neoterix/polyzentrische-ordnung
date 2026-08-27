@@ -40,7 +40,7 @@ Das ist der Gegenentwurf zum Endzustand, und er ist in einem Satz zu sagen: *Gem
 
 Ostroms Fälle liefern damit den empirischen Beweis für etwas, das der Marxismus theoretisch für unmöglich hielt: dauerhaft funktionierendes Gemeineigentum ohne Staat, ohne Markt und ohne die Abschaffung des Eigeninteresses. Und sie liefern zugleich die Begründung dafür, warum der Staatssozialismus es nicht schaffte. Er hat nicht zu viel Gemeineigentum gehabt, sondern zu wenig Institutionen, die mit dem Menschen rechnen, der es nutzt.
 
-Damit ist allerdings eine Frage aufgeworfen, die dieses Kapitel nicht beantworten kann. Wenn Gemeinschaften ihre Angelegenheiten über Jahrhunderte ohne Staat regeln – und die Menschheit hat das über den weitaus größten Teil ihrer Geschichte getan, denn Staatlichkeit bedeckt weniger als zwei Prozent davon –, warum baut dieses Buch dann eine Ordnung, die den Staat an jeder Stelle benutzt? Der Einwand ist ernst; er ist der beste, den die linke Tradition gegen diesen Entwurf hat. Die kurze Antwort lautet, dass Ostroms Befund skalenabhängig ist: Was ihre Prinzipien beim Wachsen verlangen – verschachtelte Einheiten –, ist der Anfang von etwas, das dem Staat ähnelt. Die lange steht im vierundzwanzigsten Kapitel.
+Damit ist allerdings eine Frage aufgeworfen, die dieses Kapitel nicht beantworten kann. Wenn Gemeinschaften ihre Angelegenheiten über Jahrhunderte ohne Staat regeln – und die Menschheit hat das über den weitaus größten Teil ihrer Geschichte getan, denn Staatlichkeit bedeckt weniger als zwei Prozent davon –, warum baut dieses Buch dann eine Ordnung, die den Staat an jeder Stelle benutzt? Der Einwand ist ernst; er ist der beste, den die linke Tradition gegen diesen Entwurf hat. Die kurze Antwort lautet, dass Ostroms Befund skalenabhängig ist: Was ihre Prinzipien beim Wachsen verlangen – verschachtelte Einheiten –, ist der Anfang von etwas, das dem Staat ähnelt. Die lange steht in der marxistischen Gegenprobe.
 
 ### Freiheit als Praxis
 
@@ -64,7 +64,7 @@ Aus diesem Kapitel folgen zwei Regeln, die alles Weitere binden.
 
 *Zweitens: Institutionen rechnen mit dem Eigennutz.* Jede vorgeschlagene Konstruktion muss die Frage beantworten, wer sie unterlaufen will und was ihn daran hindert. Wo die Antwort „niemand" lautet, ist die Frage schlecht gestellt worden. Wo sie „die Aufsicht" lautet, ist es eine schwache Antwort, denn Aufsichten kann man aushungern. Die starke Antwort lautet immer: ein anderer Beteiligter, der ein handfestes eigenes Interesse am Bestand der Regel hat.
 
-Warum die starke Antwort so viel besser ist als die schwache und warum sie fast immer mit Eigentum zu tun hat, zeigt das nächste Kapitel – an einer deutschen Institution, die verfiel, an einer, die stehenblieb, und an einem britischen Steuergesetz, dessen Entlastung bereits wieder halbiert wurde.
+Warum die starke Antwort so viel besser ist als die schwache und warum sie fast immer mit Eigentum zu tun hat, zeigt das nächste Kapitel.
 
 ---
 

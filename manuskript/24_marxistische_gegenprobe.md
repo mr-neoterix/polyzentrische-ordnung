@@ -82,7 +82,7 @@ Die Alltagsfassung ist konkreter und stärker als die theoretische. Es gibt acht
 
 Und nun die Form, in der der Einwand wirklich wehtut, weil er dieses Buch mit dessen eigenem Werkzeug angreift. Das vierzehnte Kapitel hat die Werbung als *Wettrüsten* beschrieben: Jeder muss sie treiben, weil der Konkurrent sie treibt, keiner kommt allein heraus, und die Summe des Aufwands verändert die Verteilung, nicht die Menge. Wenn dieses Argument dort gilt – warum dann nicht auch für die Entwicklung, die Werkzeugformen und die Vertriebsnetze? Wer das Wettrüsten der Werbeetats besteuert, kann schwer bestreiten, dass es auch ein Wettrüsten der Sortimente gibt.
 
-Die Antwort hat fünf Teile, von denen einer ein Zugeständnis ist – und danach folgt ein zweites, das keiner von ihnen einholt.
+Die Antwort hat fünf Teile, von denen einer ein Zugeständnis ist – und danach folgt ein zweites.
 
 *Erstens: Der Satz „im Grunde sind alle gleich" ist ein Urteil von hinten.* Er lässt sich sagen, nachdem die achtzig Versuche gemacht worden sind. Vorher weiß niemand, welcher von ihnen der brauchbare ist – und genau dieses Nichtwissen ist der Grund, warum es achtzig sind. Hayek hat das 1968 in einem Kieler Vortrag auf den Begriff gebracht, den dieses Buch hier braucht: Wettbewerb ist ein *Entdeckungsverfahren*. Sein Nutzen besteht darin, Tatsachen zu ermitteln, die ohne ihn unbekannt oder ungenutzt blieben. Daraus folgt eine unbequeme Konsequenz: Ein Verfahren, dessen Ergebnis man vorher kennt, ist kein Verfahren, sondern eine Bestellung. Die achtzig Versuche sind nicht die Alternative zum Wissen, sie sind der Vorgang, in dem es entsteht.
 
@@ -116,7 +116,7 @@ Und nun ein fälliges Zugeständnis – ohne es geriete dieses Kapitel in genau 
 
 Der Einwand hat eine respektable ökonomische Fassung, und sie kommt nicht von links. N. Gregory Mankiw und Michael Whinston haben 1986 gezeigt, dass Markteintritt bei festen Eintrittskosten systematisch zu häufig stattfindet, weil ein Eintretender den Umsatz, den er den Etablierten wegnimmt, für sich zählt und nicht für die Gesellschaft – der *business stealing effect*. Und die Theorie der Produktvielfalt seit Spence sowie Dixit und Stiglitz zeigt, dass der Markt je nach Nachfragebedingungen zu viele *oder* zu wenige Varianten hervorbringt. Es ist also keineswegs ausgemacht, dass achtzig Zahnbürsten die richtige Zahl sind.
 
-Nur ist ebenso wenig ausgemacht, dass drei es wären, und niemand kann die Zahl ausrechnen. Damit steht die Sache dort, wo dieses Buch sie aushalten muss: Der Einwand hat gezeigt, dass ein Optimum existiert und dass niemand es kennt. Wer daraus eine Zuständigkeit ableitet, hat aus einem Nichtwissen ein Amt gemacht. Der Eintrag steht im sechsundzwanzigsten Kapitel.
+Nur ist ebenso wenig ausgemacht, dass drei es wären, und niemand kann die Zahl ausrechnen. Damit steht die Sache dort, wo dieses Buch sie aushalten muss: Der Einwand hat gezeigt, dass ein Optimum existiert und dass niemand es kennt. Wer daraus eine Zuständigkeit ableitet, hat aus einem Nichtwissen ein Amt gemacht. Der Eintrag steht im Ledger.
 
 Was konstruktiv folgt, ist trotzdem nicht nichts, und es steht im vierzehnten Kapitel: die Pflicht zur gemeinsamen Schnittstelle, die gestaffelte Werbeabgabe und das Nutzereigentum. Der gemeinsame Nenner der drei ist eine Verschiebung der Frage. Nicht wie viele Varianten es geben darf, sondern wie viel eigene Welt jede Variante mitbringen muss; nicht ob Menschen zu viel kaufen, sondern wer das Wettrüsten still mitfinanziert; und nicht ob Vielfalt zu teuer ist, sondern wer ihre Kosten trägt. **Wo jemand die Kosten der Vielfalt selbst trägt, wählt er sie ab; wo niemand sie trägt, darf niemand sie abwählen.**
 
@@ -198,7 +198,7 @@ Der Anarchist hat diese Blöße nicht. Er hat eine andere: Er hat keine Übergan
 
 Und damit die ehrliche Form dessen, was dieses Buch behauptet – sie ist schwächer, als sie bisher klang, und dadurch haltbarer. **Es muss nicht beweisen, dass Staaten notwendig sind. Es muss nur feststellen, dass niemand einen Weg hat.** Das ist dieselbe Zurückhaltung, mit der es gegen Marx argumentiert: nicht „euer Ziel ist falsch", sondern „euer Weg ist besichtigt".
 
-Was als Dissens bleibt, bleibt, und er steht im sechsundzwanzigsten Kapitel. Wer den Staat für die Quelle des Problems hält, hat gegen dieses Buch kein Argument verloren, sondern eine andere Ausgangsannahme – und er behält die bessere Anthropologie. Dieser Text behält nur die Frage nach dem Weg.
+Was als Dissens bleibt, bleibt, und er steht im Ledger. Wer den Staat für die Quelle des Problems hält, hat gegen dieses Buch kein Argument verloren, sondern eine andere Ausgangsannahme – und er behält die bessere Anthropologie. Dieser Text behält nur die Frage nach dem Weg.
 
 Einen konstruktiven Ertrag hat der Einwand außerdem, und er ist erheblich: Der anthropologische Befund verdient nicht eine Abwehr, sondern eine Konstruktionsregel. Sie steht im sechzehnten Kapitel und kehrt die Beweislast der Subsidiarität um.
 
