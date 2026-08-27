@@ -105,6 +105,22 @@ Die Abgrenzung in einem Satz: **Das Ledger sagt, was dieses Buch nicht kann; die
 **Folge, falls offen:** gering für das Argument, spürbar für einzelne Zahlen. Alle betroffenen Angaben sind im Text als Größenordnung oder mit Einschränkung geführt; fiele die Bouygues-Stimmrechtszahl, bliebe der Eiffage-Beleg und mit ihm der Feldbeleg des Erwerbswegs; fiele die 34-von-40-Zählung, bliebe der belegte Befund, dass die größten Einzelaktionäre im Streubesitz mit wenigen Prozent feststehen.
 **Betroffene Stellen:** `manuskript/13_privatsektor_und_sterblichkeit.md` (Belege), `quellen_und_glossar.md` Abschnitt X, `polyzentrische_ordnung.md` Sektion III.
 
+### V11 – Tatsächliche Inanspruchnahme der erweiterten Kürzung durch Wohnungskonzerne
+**Angelegt:** 27.08.2026.
+**Gegenstand:** Das zwölfte Kapitel schlägt vor, die erweiterte Kürzung des Gewerbeertrags nach § 9 Nummer 1 Satz 2 GewStG an die Bestandsschwelle zu binden. Norm und Auslegung sind belegt (Gesetzeswortlaut, Kommentarliteratur). Nicht belegt und deshalb im Text auch nicht behauptet ist zweierlei: in welchem Umfang die börsennotierten Wohnungskonzerne die Vorschrift tatsächlich in Anspruch nehmen – ihre Konzernstruktur mit Dienstleistungs- und Handwerkstöchtern kann am Ausschließlichkeitsgebot scheitern –, und welches Steueraufkommen an der Vorschrift hängt, also wie groß der Hebel wäre.
+**Was ihn schließt:** Einsicht in die Steuerangaben der Konzernabschlüsse (effektive Steuerquote, Erläuterungen zur Gewerbesteuer), gegebenenfalls Auswertung der Subventions- oder Steuerausgabenberichte, hilfsweise steuerrechtliche Fachliteratur, die die Praxis der Wohnungskonzerne beschreibt.
+**Folge, falls offen:** mittel. Die Konstruktion selbst hängt nicht daran – sie bindet eine Vergünstigung an eine Schwelle, gleich wer sie heute zieht –, wohl aber die Aussage über ihre Wirksamkeit. Solange die Zahl fehlt, darf der Zug nicht als der wirksamste der vier geführt werden, sondern nur als der rechtlich leichteste.
+**Betroffene Stellen:** `manuskript/12_allmende_und_sterberecht.md` (Abschnitt „Ein Auslöser genügt nicht" und Belege), `quellen_und_glossar.md` Abschnitt Y, `polyzentrische_ordnung.md` Sektion III.
+
+---
+
+### V12 – Anwendungsfälle des schottischen Erwerbsrechts
+**Angelegt:** 27.08.2026.
+**Gegenstand:** Teil 5 des Land Reform (Scotland) Act 2016 dient dem zwölften Kapitel als Muster für das kollektive Andienungsrecht der Bewohner. Bestand, Bauart und Inkrafttreten (26.04.2020) sind bestätigt. Nicht zu ermitteln war, wie oft das Recht seit 2020 beantragt, bewilligt oder vollzogen worden ist; das Register der Anträge von Gemeinschaftskörperschaften war aus dieser Umgebung nicht auswertbar.
+**Was ihn schließt:** Auswertung des „Register of Applications by Community Bodies to Buy Land" beziehungsweise einer Evaluation der schottischen Regierung oder des Parlaments zu Teil 5.
+**Folge, falls offen:** gering für die Konstruktion, erheblich für ihren Status. Ein Recht, dessen Gebrauch niemand kennt, ist eine Bauanleitung und kein Feldbeleg – der Text sagt das ausdrücklich. Ergäbe die Auswertung, dass das Recht seit sechs Jahren nicht angewandt worden ist, wäre das kein Gegenbeleg gegen die Konstruktion, wohl aber ein Fall für den eigenen Apparat: ein Instrument, das existiert und ruht, wie die ungenutzte Subsidiaritätsklage des Ausschusses der Regionen und das Hebesatzrecht nach Art. 106 Abs. 5 Satz 3 GG.
+**Betroffene Stellen:** `manuskript/12_allmende_und_sterberecht.md` (Abschnitt „Ein Auslöser genügt nicht" und Belege), `quellen_und_glossar.md` Abschnitt Y, `polyzentrische_ordnung.md` Sektion III.
+
 ---
 
 ## II. Geprüft und entschieden
