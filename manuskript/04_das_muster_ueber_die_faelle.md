@@ -8,17 +8,17 @@ Ein Fall beweist nichts. Er kann eine Vermutung erzeugen, mehr nicht, und die Ve
 
 ### Ungarn: der Name für die Krankheit
 
-Ungarn steuert diesem Buch keinen Ereignisverlauf bei, sondern einen Begriff, und es ist der wichtigste, den es enthält.
+Ungarn steuert diesem Buch keinen Ereignisverlauf bei, sondern einen Begriff.
 
 János Kornai war ungarischer Ökonom und arbeitete am Material seines eigenen Landes. Was er beschrieb, war nicht die Bosheit von Funktionären, sondern das rationale Verhalten von Menschen unter einer bestimmten Regel. Die Regel lautete: Ein Betrieb geht nicht unter. Macht er Verluste, werden sie ausgeglichen – durch Subventionen, durch Kredite, die niemand zurückfordert, durch nachträglich angepasste Planvorgaben. Kornai nannte das die *weiche Budgetbeschränkung*, und er zeigte, was daraus folgt.
 
 Erstens Investitionshunger: Wer nicht scheitern kann, fordert unbegrenzt Investitionsmittel an, denn eine Fehlinvestition kostet ihn nichts, eine unterbliebene aber Ansehen. Zweitens Hortung: Wer weiß, dass Material knapp und Nachschub unsicher ist, legt Vorräte an, die er nicht braucht – und macht dadurch das Material für alle anderen knapper. Drittens, als Summe von beidem, chronischer Mangel. Die Mangelwirtschaft des Staatssozialismus war kein Produktionsproblem, sondern ein Anreizproblem: Es wurde nicht zu wenig produziert, sondern zu viel angefordert und zu viel gehortet.
 
-Die entscheidende Pointe dieses Begriffs ist, dass er nichts mit Eigentumsformen zu tun hat. Eine weiche Budgetbeschränkung kann überall entstehen, wo eine Instanz Verluste auffängt, weil das Scheitern politisch teurer wäre als das Auffangen. Sie wird uns in diesem Buch noch dreimal begegnen: bei deutschen Stadtwerken, bei deutschen Landesbanken und – das ist die unangenehmste Stelle – bei einer Institution, die dieses Buch selbst vorschlägt. Wer Kornai nur auf den Gegner anwendet, hat ihn nicht gelesen.
+Die entscheidende Pointe dieses Begriffs ist, dass er nichts mit Eigentumsformen zu tun hat. Eine weiche Budgetbeschränkung kann überall entstehen, wo eine Instanz Verluste auffängt, weil das Scheitern politisch teurer wäre als das Auffangen. Sie wird uns in diesem Buch noch dreimal begegnen: bei deutschen Stadtwerken, bei deutschen Landesbanken und bei einer Institution, die dieses Buch selbst vorschlägt. Wer Kornai nur auf den Gegner anwendet, hat ihn nicht gelesen.
 
 ### Jugoslawien: der Betrieb, der niemandem gehört
 
-Jugoslawien ist der wichtigste Fall dieses Buches, weil es dem am nächsten kommt, was hier vorgeschlagen wird – und weil es scheiterte.
+Jugoslawien kommt dem am nächsten, was hier vorgeschlagen wird – und es scheiterte.
 
 Das jugoslawische Modell nach dem Bruch mit Moskau 1948 hieß Arbeiterselbstverwaltung. Die Betriebe wurden nicht vom Ministerium geleitet, sondern von Arbeiterräten; sie verkauften auf Märkten, konkurrierten miteinander, setzten Preise. Wer heute für Wirtschaftsdemokratie argumentiert, bekommt Jugoslawien als Gegenargument vorgehalten, und das zu Recht: Der Versuch endete in Stagnation, Hyperinflation und Massenarbeitslosigkeit.
 
@@ -32,7 +32,7 @@ Dazu kam ein zweiter Konstruktionsfehler, der noch tiefer sitzt. Weil niemand ei
 
 Und drittens fehlte, was das ganze Modell erst diszipliniert hätte: die harte Budgetbeschränkung. Auch jugoslawische Betriebe wurden nicht insolvent, sondern gestützt – und die Politik blieb monozentrisch, ein Einparteiensystem ohne unabhängige Gegenmacht.
 
-Man muss diese vier Punkte nebeneinanderlegen, um zu sehen, was der Fall Jugoslawien wirklich beweist. Er beweist nicht, dass Belegschaftseigentum scheitert. Er beweist, dass Selbstverwaltung *ohne* Eigentum scheitert, dass Selbstverwaltung ohne mitnehmbaren Anspruch unterinvestiert, dass Selbstverwaltung ohne Insolvenzrisiko verkommt und dass Selbstverwaltung ohne offene Mitgliedschaft eine Zweiklassengesellschaft am Werkstor erzeugt. Drei dieser vier Punkte sind Konstruktionsvariablen – man kann sie anders bauen. Wie, steht im elften Kapitel. Dass Jugoslawien der härteste Testfall dieses Buches ist, wird dort nicht bestritten, sondern beantwortet.
+Man muss diese vier Punkte nebeneinanderlegen, um zu sehen, was der Fall Jugoslawien wirklich beweist. Er beweist nicht, dass Belegschaftseigentum scheitert. Er beweist, dass Selbstverwaltung *ohne* Eigentum scheitert, dass Selbstverwaltung ohne mitnehmbaren Anspruch unterinvestiert, dass Selbstverwaltung ohne Insolvenzrisiko verkommt und dass Selbstverwaltung ohne offene Mitgliedschaft eine Zweiklassengesellschaft am Werkstor erzeugt. Drei dieser vier Punkte sind Konstruktionsvariablen – man kann sie anders bauen. Wie sie anders zu bauen sind, ist die Aufgabe der Belegschaftsverfassung, die dieses Buch später entwirft; dass Jugoslawien ihr härtester Testfall ist, wird dort nicht bestritten, sondern beantwortet.
 
 ### Vietnam: die Reihenfolge
 
@@ -62,7 +62,7 @@ Man kann diese Chronologie ökonomisch erklären, aber die ökonomische Erkläru
 
 ### China: die halbe Architektur
 
-Und dann ist da der Fall, der alle anderen an Bedeutung übertrifft, weil er scheinbar alles widerlegt.
+Und dann ist da der Fall, der scheinbar alles widerlegt.
 
 China hat seit 1978 den größten Wohlstandszuwachs der Menschheitsgeschichte organisiert, ohne die politische Monozentrik aufzugeben. Wenn Monozentrik das Problem ist, warum funktioniert China?
 
@@ -80,11 +80,11 @@ Und die Einverleibung ist inzwischen datierbar, statt bloß erwartbar zu sein. *
 
 Der dritte dieser Vorgänge ist der folgenreichste, und an ihm hört der Fall auf, ein Rätsel zu sein. Ein Turnier, dessen Preis an messbarer Leistung hing, war der Ersatz für den Wettbewerb, den das System nicht zulassen wollte. Ein Turnier, dessen Preis an der Nähe zur Führung hängt, ist keiner mehr.
 
-Das ist die Lehre des chinesischen Falls, und sie ist für dieses Buch die wichtigste des ganzen Kapitels: Halbe Polyzentrik – viele konkurrierende Machtzentren statt eines – in monozentrischer Hülle ist nicht stabil. Sie kann jahrzehntelang spektakulär funktionieren, weil die dezentralen Elemente Leistung erzeugen und die zentrale Klammer sie bündelt. Aber die Hülle hat keinen Gegner. Sie kann sich die dezentralen Elemente jederzeit wieder einverleiben, und sie hat damit begonnen.
+Das ist die Lehre des chinesischen Falls: Halbe Polyzentrik – viele konkurrierende Machtzentren statt eines – in monozentrischer Hülle ist nicht stabil. Sie kann jahrzehntelang spektakulär funktionieren, weil die dezentralen Elemente Leistung erzeugen und die zentrale Klammer sie bündelt. Aber die Hülle hat keinen Gegner. Sie kann sich die dezentralen Elemente jederzeit wieder einverleiben, und sie hat damit begonnen.
 
 Zweierlei folgt daraus nicht, und beides gehört an diese Stelle, weil der Text es sich sonst später vorhalten lassen müsste. Es folgt nicht, dass China zusammenbricht. Die Wirtschaftsleistung wächst weiter, und wer aus jeder Rezentralisierung einen bevorstehenden Untergang liest, hat eine Behauptung gebaut, die kein Verlauf mehr widerlegen kann – das wäre dieselbe Stellung, die dieses Buch an anderer Stelle ablehnt. Und es folgt nicht, dass Monozentrik unproduktiv wäre. Das Gegenteil ist der Fall, allerdings für eine bestimmte Aufgabe. Vier Jahrzehnte lang hat China getan, wofür konzentrierte Macht nachweislich taugt: Mittel mobilisieren, bekannte Ziele ansteuern, vorhandene Technik übernehmen. Alexander Gerschenkron hat 1962 gezeigt, dass Rückständigkeit dabei ein Vorteil sein kann, weil der Weg bekannt ist und sich abkürzen lässt, und dass Länder, die spät beginnen, ihre fehlenden Institutionen durch andere ersetzen. Fehlertoleranz zahlt sich unter dieser Bedingung wenig aus, denn wer abschreibt, muss die Irrtümer nicht selbst begehen. Erst an der technologischen Grenze gibt es nichts mehr abzuschreiben, und dort ist die Parallelität konkurrierender Versuche kein Aufwand, sondern das Verfahren selbst.
 
-Ob diese Unterscheidung trägt, ist die schärfste offene Frage dieses Buches. Sie wird in der liberalen Gegenprobe des fünfundzwanzigsten Kapitels als eigener Einwand geführt – mitsamt den Feldern, in denen China die Grenze längst erreicht hat und beherrscht, und mitsamt einem Datum, an dem der hier vertretene Satz sich als falsch herausstellen kann.
+Ob diese Unterscheidung trägt, ist die schärfste offene Frage dieses Buches. Sie wird in der liberalen Gegenprobe als eigener Einwand geführt – mitsamt den Feldern, in denen China die Grenze längst erreicht hat und beherrscht, und mitsamt einem Datum, an dem der hier vertretene Satz sich als falsch herausstellen kann.
 
 Die Hülle frisst den Kern.
 

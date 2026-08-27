@@ -34,7 +34,7 @@ Der Vergleich ist nicht ganz sauber, und das gehört gesagt: Die Sparkassen sind
 
 Der Gegenbeleg gehört allerdings sofort dazu, denn zur selben Institutionenfamilie zählen die Landesbanken – und ihre Bilanz ist der härteste verfügbare Beleg dafür, dass öffentliches Eigentum die weiche Budgetbeschränkung nicht ausschließt, sondern besonders anfällig für sie ist. Die WestLB wurde abgewickelt, die SachsenLB notverkauft, die HSH Nordbank nach Jahren der Stützung privatisiert; BayernLB und LBBW erhielten Milliardenhilfen ihrer Träger. Die kursierenden Einzelzahlen variieren je nach Quelle und Abgrenzung erheblich; die Größenordnung – zweistellige Milliardenbeträge pro Institut, für die deutsche Bankenrettung insgesamt eine Größenordnung von rund siebzig Milliarden Euro – ist unstrittig. Und der Mechanismus ist derselbe, den Kornai beschrieben hat: Die Länder waren Eigentümer *und* Aufsichtsinstanz, und die Gewährträgerhaftung war die institutionalisierte Zusage, Verluste aufzufangen.
 
-Dieser Fall wird in diesem Buch nicht abgewehrt, sondern verwertet. Aus ihm folgen drei Konstruktionsregeln, die im zwölften und einundzwanzigsten Kapitel wieder auftauchen: Träger und Regulierer müssen getrennt sein; gemeinwirtschaftliche Träger dürfen Infrastruktur betreiben, aber keine Finanzgeschäfte mit Fristentransformation und Eigenhandel – kurzfristig geliehenes Geld langfristig zu verleihen und auf eigene Rechnung zu handeln; und was für Landesbanken gilt, gilt auch für jede neue Institution, die dieses Buch vorschlägt. Wer das Netz besitzt, braucht keine strukturierten Wertpapiere.
+Dieser Fall wird in diesem Buch nicht abgewehrt, sondern verwertet. Aus ihm folgen drei Konstruktionsregeln, die später wiederkehren: Träger und Regulierer müssen getrennt sein; gemeinwirtschaftliche Träger dürfen Infrastruktur betreiben, aber keine Finanzgeschäfte mit Fristentransformation und Eigenhandel – kurzfristig geliehenes Geld langfristig zu verleihen und auf eigene Rechnung zu handeln; und was für Landesbanken gilt, gilt auch für jede neue Institution, die dieses Buch vorschlägt. Wer das Netz besitzt, braucht keine strukturierten Wertpapiere.
 
 ### Der dritte Fall: ein Steuergesetz, das nach elf Jahren rostete
 
@@ -50,7 +50,7 @@ Elf Jahre. Eine Regel, die funktionierte, gemessen, dokumentiert, mit Hunderttau
 
 Die naheliegende Schlussfolgerung wäre, das Instrument fallen zu lassen. Sie wäre falsch, und der Grund dafür steht in der Fortsetzung der britischen Geschichte: Die 2.470 Unternehmen blieben belegschaftseigen. Die Steuerentlastung wurde halbiert; die Eigentumsverhältnisse, die sie erzeugt hatte, blieben bestehen. Das Programm rostete, seine Ergebnisse nicht.
 
-Daraus folgt die Konstruktionsanweisung, die dieses Buch aus dem Fall zieht: Der Steuerhebel ist nicht zu unterlassen, sondern so zu bauen, dass er Eigentümer erzeugt, *bevor* er wieder verschwindet. Wie man ihn konkret so baut – Stundung statt Befreiung, ausdrücklicher Bestandsschutz für abgeschlossene Übertragungen, Evaluationsklausel mit Begründungszwang statt Verfallsklausel und die frühe Erzeugung von Trägern, deren Geschäft an dem Instrument hängt –, steht im zwanzigsten Kapitel.
+Daraus folgt die Konstruktionsanweisung, die dieses Buch aus dem Fall zieht: Der Steuerhebel ist nicht zu unterlassen, sondern so zu bauen, dass er Eigentümer erzeugt, *bevor* er wieder verschwindet. Wie man ihn konkret so baut – Stundung statt Befreiung, ausdrücklicher Bestandsschutz für abgeschlossene Übertragungen, Evaluationsklausel mit Begründungszwang statt Verfallsklausel und die frühe Erzeugung von Trägern, deren Geschäft an dem Instrument hängt –, gehört in den Umsetzungspfad.
 
 ### Die Regel und ihre Grenze
 
@@ -64,7 +64,7 @@ Und nun die Grenze. Erstens ist Eigentum kein Zauber. Auch Eigentümer können s
 
 Aus dieser Grenze folgt eine Faustregel, die dieses Buch überall anwendet, wo es geht: *Klagerechte statt Aufsichtszuständigkeiten.* Wo immer möglich, bekommt der Betroffene einen eigenen Anspruch, den er selbst einklagen kann, statt dass eine Behörde ein Ermessen bekommt, das man ihr wegkürzen kann. Ein Geschädigter mit Klagerecht ist ein konzentriertes Interesse. Eine Behörde mit Ermessen ist ein Haushaltsposten.
 
-Damit hat dieses Buch sein Werkzeug. Was ihm noch fehlt, ist sein Maßstab: Woran erkennt man eigentlich, dass eine Ordnung gut ist? Die Antwort ist überraschend, und sie kommt aus dem Baskenland.
+Damit hat dieses Buch sein Werkzeug. Was ihm noch fehlt, ist sein Maßstab: Woran erkennt man eigentlich, dass eine Ordnung gut ist? Die Antwort kommt aus dem Baskenland.
 
 ---
 

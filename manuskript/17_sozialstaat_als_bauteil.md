@@ -30,7 +30,7 @@ Dem größten Gegenstand hat es sie nicht gestellt.
 
 Die Prüfung fällt anders aus als erwartet, und zwar deshalb, weil der deutsche Sozialstaat nicht ein Gebäude ist, sondern mehrere – und zwei davon sind nach entgegengesetzten Grundsätzen errichtet.
 
-Das erste ist die gesetzliche Krankenversicherung, und sie ist die größte Überraschung dieses Kapitels: Sie ist bereits so gebaut, wie dieses Buch baut.
+Das erste ist die gesetzliche Krankenversicherung, und sie ist bereits so gebaut, wie dieses Buch baut.
 
 Es gibt sie im Plural. Anfang 2026 bestanden noch 92 bis 93 organisatorisch und finanziell selbständige Kassen – das ist *Polyzentrik*, und zwar die ausgeprägteste, die der deutsche Staat besitzt. Die Versicherten können zwischen ihnen wählen und seit 2021 sogar ohne Kündigung wechseln; das ist *Exit*, und zwar in genau der Gestalt, die das sechzehnte Kapitel als die bessere beschrieben hat: Wechsel der Zugehörigkeit ohne Wechsel des Wohnorts. Die Kassen werden von einem Verwaltungsrat geführt, den Versicherte und Arbeitgeber in Sozialwahlen bestimmen; das ist *Voice*. Und seit 2010 können Krankenkassen insolvent werden; das ist die *harte Budgetbeschränkung*, und sie ist kein theoretischer Satz geblieben.
 
@@ -84,7 +84,7 @@ Nur: Niemand weiß, wie hoch sie sind.
 
 Es gibt keine verbindliche Definition dessen, was als versicherungsfremd gilt. Die Deutsche Rentenversicherung selbst rechnet mit zwei Abgrenzungen, einer engen und einer weiten, und zwischen ihnen liegen für dasselbe Jahr 63,3 und 112,4 Milliarden Euro. Der Bundesrechnungshof hat in seinen Bemerkungen des Jahres 2023 festgestellt, dass weder das Parlament noch die Öffentlichkeit weiß, welche gesamtstaatlichen Leistungen die Rentenversicherung erbringt, und verlangt, sie wenigstens zu benennen und zu beziffern. Geschehen ist es nicht.
 
-Man muss das in die Sprache dieses Buches übersetzen, um zu sehen, was es ist. Das zwölfte Kapitel verbietet dem Allmende-Sektor die stille Verlustdeckung: Quersubventionen dürfen bestehen, aber nur als offen ausgewiesene, jährlich beschlossene politische Zahlung, nicht als Buchungstechnik – denn was niemand kennt, kann niemand abwägen. Und das zweiundzwanzigste Kapitel sagt über Förderprogramme: Eine Kennzahl ohne Schwelle falsifiziert nichts.
+Man muss das in die Sprache dieses Buches übersetzen, um zu sehen, was es ist. Das zwölfte Kapitel verbietet dem Allmende-Sektor die stille Verlustdeckung: Quersubventionen dürfen bestehen, aber nur als offen ausgewiesene, jährlich beschlossene politische Zahlung, nicht als Buchungstechnik – denn was niemand kennt, kann niemand abwägen. Und über Förderprogramme sagt dieses Buch: Eine Kennzahl ohne Schwelle falsifiziert nichts.
 
 Am größten Einzelposten des Bundeshaushalts ist beides nicht eingelöst. Der Zuschuss wird nicht an der Größe gemessen, die er ersetzen soll, weil diese Größe nicht bestimmt ist. Er ist damit keine Erstattung, sondern eine Entscheidung – und Entscheidungen kann man jedes Jahr anders treffen.
 
@@ -94,7 +94,7 @@ Eine Zahlung ohne Nenner ist kein Ausgleich, sondern ein Ermessen mit langer Tra
 
 Damit ist die Prüfung des Bestehenden bei der Frage angekommen, die dieses Buch überall stellt: Wie fest ist eine Position gesichert? Es kennt dafür drei Stufen, und der deutsche Sozialstaat hat sie alle drei – nur in einer unglücklichen Verteilung.
 
-*Eigentumsgesichert* ist die Rentenanwartschaft. Das Bundesverfassungsgericht schützt sozialrechtliche Ansprüche und Anwartschaften über Artikel 14 Absatz 1 des Grundgesetzes, also über die Eigentumsgarantie – allerdings nur, soweit sie auf einer nicht unerheblichen Eigenleistung beruhen. Wer eingezahlt hat, besitzt etwas; das ist die stärkste Stellung, die das Sozialrecht kennt, und das einundzwanzigste Kapitel wird sie sich für die Fondsanwartschaft zum Vorbild nehmen.
+*Eigentumsgesichert* ist die Rentenanwartschaft. Das Bundesverfassungsgericht schützt sozialrechtliche Ansprüche und Anwartschaften über Artikel 14 Absatz 1 des Grundgesetzes, also über die Eigentumsgarantie – allerdings nur, soweit sie auf einer nicht unerheblichen Eigenleistung beruhen. Wer eingezahlt hat, besitzt etwas; das ist die stärkste Stellung, die das Sozialrecht kennt, und der Umsetzungspfad wird sie sich für die Fondsanwartschaft zum Vorbild nehmen.
 
 *Anspruchsgesichert* ist das Existenzminimum. Am 9. Februar 2010 hat das Bundesverfassungsgericht aus der Menschenwürde in Verbindung mit dem Sozialstaatsgebot ein Grundrecht auf Gewährleistung eines menschenwürdigen Existenzminimums abgeleitet. Es hat zugleich gesagt, dass es selbst keinen Betrag festsetzen darf – wohl aber, dass der Gesetzgeber ein realitäts- und bedarfsgerechtes Verfahren durchführen und dessen Ergebnis als Leistungsanspruch im Gesetz verankern muss. Gesichert ist damit der Grund, nicht die Höhe; nachprüfbar ist das Verfahren, nicht der Betrag.
 
@@ -102,7 +102,7 @@ Das ist genau die Zwischenstufe, die das zwölfte Kapitel für den Allmende-Sekt
 
 *Verfahrensgesichert*, also bloßes Programm, ist alles Übrige: die Leistungskataloge, die Pflegeleistungen, die Höhe der Grundsicherung. Was eine Mehrheit beschlossen hat, kann eine Mehrheit ändern.
 
-Und nun die Verteilung, und sie ist der unangenehmste Befund dieses Kapitels.
+Und nun die Verteilung.
 
 Man betrachte den Menschen, um dessentwillen diese ganze Konstruktion existiert: den Beschäftigten eines Betriebes, der gerade gestorben ist. Er bekommt zunächst Arbeitslosengeld, und dieses beruht auf seinen Beiträgen, ist also die geschützte Sorte. Aber es ist befristet. Danach steht er in der Grundsicherung, und dort beruht nichts mehr auf Eigenleistung – gesichert ist nur noch, *dass* er etwas bekommt, nicht *wie viel*.
 
@@ -132,7 +132,7 @@ Und jetzt kommt der Satz, der über dieses Kapitel hinausreicht. Über jede dies
 
 **Ein Zustimmungsvorbehalt ist so viel wert wie das Gremium, das ihn ausübt.**
 
-Das ist keine Nebenbemerkung, sondern eine Nachricht an das einundzwanzigste Kapitel. Dort wird die Fondsfamilie gegen ihre eigene Zusammenlegung dadurch gesichert, dass eine Fusion die Zustimmung der Berechtigten braucht. Die Krankenversicherung ist der Beweis, dass diese Sicherung nur trägt, wenn die Zustimmung bei den Berechtigten selbst liegt und nicht bei einem Organ, das in ihrem Namen spricht und von zweiundzwanzig Prozent bestellt wurde.
+Das ist keine Nebenbemerkung, sondern eine Nachricht an den Umsetzungspfad. Dort wird die Fondsfamilie gegen ihre eigene Zusammenlegung dadurch gesichert, dass eine Fusion die Zustimmung der Berechtigten braucht. Die Krankenversicherung ist der Beweis, dass diese Sicherung nur trägt, wenn die Zustimmung bei den Berechtigten selbst liegt und nicht bei einem Organ, das in ihrem Namen spricht und von zweiundzwanzig Prozent bestellt wurde.
 
 ### Was sich bauen lässt
 
@@ -148,7 +148,7 @@ Der Preis dieser Wahl gehört daneben, weil er echt ist: Die Kommunalverfassungs
 
 *Viertens: Die Konsolidierungssperre bekommt den Träger, den sie braucht.* Eine Vereinigung von Kassen setzt nicht mehr den Beschluss des Verwaltungsrats voraus, sondern die Zustimmung der Mitglieder selbst. Dazu die Hygiene, die für sich genommen wenig ausrichtet und ohne die alles andere nichts wert ist: mehr Bewerber als Sitze als Zulässigkeitsbedingung jeder Liste, gesenkte Hürden für freie Listen, und die ohnehin beschlossene Online-Wahl.
 
-Bleibt der Träger für die lange Frist, und er ist der eigentümlichste Vorschlag dieses Kapitels. Es ist der genossenschaftliche Sektor selbst. Ein Sektor, dessen Geschäftsmodell darauf beruht, dass seine Betriebe scheitern dürfen, hat ein konzentriertes materielles Interesse an der Einrichtung, die das Scheitern politisch erträglich macht – und dieses Interesse ist nicht Gesinnung, sondern Kalkül.
+Bleibt der Träger für die lange Frist. Es ist der genossenschaftliche Sektor selbst. Ein Sektor, dessen Geschäftsmodell darauf beruht, dass seine Betriebe scheitern dürfen, hat ein konzentriertes materielles Interesse an der Einrichtung, die das Scheitern politisch erträglich macht – und dieses Interesse ist nicht Gesinnung, sondern Kalkül.
 
 Nur ist es kein sicherer Träger, und der Gegenbeleg kommt aus dem Haus des Kronzeugen. Als Genossenschaftsmitglieder im spanischen Recht als Selbständige galten und damit aus dem allgemeinen System fielen, hat der baskische Verbund nicht darum gekämpft, hineinzukommen. Er hat sich 1967 mit Lagun Aro ein eigenes System gebaut – Gesundheit, Alter, Arbeitslosigkeit, und bei Nichtvermittelbarkeit achtzig Prozent des Lohns für zwei Jahre. Das ist eine beachtliche Leistung und zugleich genau der Weg, den das elfte Kapitel als Verfallspfad dieser Ordnung bezeichnet: Wer viele Eigentümer will und sie vor dem Scheitern schützt, bekommt eine Zunft.
 
@@ -174,13 +174,13 @@ Die Antwort ist dieselbe wie im sechzehnten Kapitel und mit denselben Grenzen. K
 
 Und das Zugeständnis: Die Grenze zwischen der Prüfung einer Begründung und der Prüfung der Sache ist unscharf, und Gerichte verschieben sie – in beide Richtungen. Ob daraus eine wirksame Kontrolle oder eine leerlaufende Formel wird, ist unentschieden. Immerhin ist es hier weniger unentschieden als beim entsprechenden Vorschlag des sechzehnten Kapitels, denn eine Fassung dieser Kontrolle existiert seit 2010 und lässt sich besichtigen: Sie hat einmal eine Neuberechnung erzwungen und ist seither zurückhaltend geblieben. Das ist weder nichts noch viel, und beides gehört gesagt.
 
-Für dieses Dritte gibt es allerdings einen Begriff, und er stammt aus der Untersuchung parlamentarischer Kontrolle. McCubbins und Schwartz haben 1984 zwei Formen unterschieden: den *Streifendienst*, der laufend patrouilliert und dafür laufend Aufwand kostet, und den *Feuermelder*, der ruht, bis ein Betroffener ihn auslöst. Eine Kontrolle, die einmal gefeuert hat und seither schweigt, ist danach kein halbgescheitertes Aufsichtsregime, sondern ein funktionierender Feuermelder – sofern zwei Bedingungen stehen: dass Betroffene ihn auslösen können, also eine Klagebefugnis besteht, und dass er beim Auslösen wirklich klingelt, wie 2010 geschehen. Der Feuermelder ist damit nichts anderes als die Konstruktionsanweisung dieses Buches in politikwissenschaftlicher Sprache – Kontrolle, die bei den Betroffenen liegt statt bei einer Behörde, die patrouillieren müsste. Was sich nicht beobachten lässt, ist die Abschreckung dazwischen: wie viele Kürzungen unterblieben, weil der Melder hing. Die offene Frage im sechsundzwanzigsten Kapitel wird damit kleiner, nicht leer.
+Für dieses Dritte gibt es allerdings einen Begriff, und er stammt aus der Untersuchung parlamentarischer Kontrolle. McCubbins und Schwartz haben 1984 zwei Formen unterschieden: den *Streifendienst*, der laufend patrouilliert und dafür laufend Aufwand kostet, und den *Feuermelder*, der ruht, bis ein Betroffener ihn auslöst. Eine Kontrolle, die einmal gefeuert hat und seither schweigt, ist danach kein halbgescheitertes Aufsichtsregime, sondern ein funktionierender Feuermelder – sofern zwei Bedingungen stehen: dass Betroffene ihn auslösen können, also eine Klagebefugnis besteht, und dass er beim Auslösen wirklich klingelt, wie 2010 geschehen. Der Feuermelder ist damit nichts anderes als die Konstruktionsanweisung dieses Buches in politikwissenschaftlicher Sprache – Kontrolle, die bei den Betroffenen liegt statt bei einer Behörde, die patrouillieren müsste. Was sich nicht beobachten lässt, ist die Abschreckung dazwischen: wie viele Kürzungen unterblieben, weil der Melder hing. Die offene Frage im Ledger wird damit kleiner, nicht leer.
 
 Ein zweiter liberaler Einwand geht tiefer und wird hier nicht beantwortet, sondern abgegrenzt: dass der Sozialstaat selbst weiche Budgetbeschränkungen erzeuge, nur für Personen statt für Betriebe. Über das richtige Maß entscheidet dieses Kapitel nicht und kann es nicht; es behauptet allein, dass jedes gewählte Maß haltbar und messbar sein muss, um seine Funktion in dieser Ordnung zu erfüllen.
 
 ### Was der Belastungstest ergibt
 
-Das neunzehnte Kapitel verlangt für jedes Bauteil die Angabe, was von ihm übrigbleibt, wenn die Förderung eingestellt, das Gesetz geändert und die Verwaltung umgebaut wird. Angewandt auf dieses Kapitel fällt das Ergebnis gemischt aus, und es zu kennen ist wichtiger als jede Zusage.
+Der Belastungstest dieses Buches verlangt für jedes Bauteil die Angabe, was von ihm übrigbleibt, wenn die Förderung eingestellt, das Gesetz geändert und die Verwaltung umgebaut wird. Angewandt auf dieses Kapitel fällt das Ergebnis gemischt aus, und es zu kennen ist wichtiger als jede Zusage.
 
 *Die Rentenanwartschaft ist eine Struktur.* Sie überlebt einen Regierungswechsel, weil sie Eigentum ist.
 
@@ -214,7 +214,7 @@ Bleibt das Ergebnis, und es ist bescheidener, als der Aufwand vermuten lässt.
 
 Der Sozialstaat lässt sich in dieser Ordnung nicht eigentumssichern. Er lässt sich, wie der Allmende-Sektor und wie die politische Ebene, *anspruchssichern* – und aus demselben Grund wie dort: Es gibt niemanden, dem er gehört. Wer mehr verspricht, verkauft eine Regel als Struktur.
 
-Die Trägerfrage ist damit nicht gelöst, sondern verteilt: auf die Kommunen, die die Rechnung verteidigen und nicht den Menschen; auf ein Klagerecht, das die Begründung prüft und nicht die Sache; auf eine Selbstverwaltung, die man wiederbeleben kann und die vielleicht tot bleibt; und auf einen genossenschaftlichen Sektor, den es noch nicht gibt und der desertieren kann, sobald er groß genug ist, sich selbst zu versichern. Das ist keine starke Antwort. Es ist die ehrliche, und sie steht in derselben Reihe wie das, was das sechsundzwanzigste Kapitel über die Machtwanderung sagt: Diese Ordnung löst das Problem nicht, sie verteilt es auf mehrere sterbliche, beobachtbare Schultern.
+Die Trägerfrage ist damit nicht gelöst, sondern verteilt: auf die Kommunen, die die Rechnung verteidigen und nicht den Menschen; auf ein Klagerecht, das die Begründung prüft und nicht die Sache; auf eine Selbstverwaltung, die man wiederbeleben kann und die vielleicht tot bleibt; und auf einen genossenschaftlichen Sektor, den es noch nicht gibt und der desertieren kann, sobald er groß genug ist, sich selbst zu versichern. Das ist keine starke Antwort. Es ist die ehrliche, und sie steht in derselben Reihe wie das, was das Ledger über die Machtwanderung sagt: Diese Ordnung löst das Problem nicht, sie verteilt es auf mehrere sterbliche, beobachtbare Schultern.
 
 Was sie dabei gewinnt, ist genau eines, und es ist nicht wenig.
 

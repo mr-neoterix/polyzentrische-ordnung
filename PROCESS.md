@@ -1,6 +1,6 @@
 # PROCESS.md – Register der offenen Handwerksaufträge
 
-Stand: 26.08.2026.
+Stand: 27.08.2026.
 
 Dieses Verzeichnis hält fest, was am Text noch zu tun ist, ohne dass es eine Aussage des Textes betrifft: Belege, die nur mittelbar bestätigt sind, Fundstellen, die aus der Arbeitsumgebung nicht einsehbar waren, Zahlen ohne amtliche Quelle, Inkonsistenzen zwischen den Dateien. Anlass seiner Anlage war ein solcher Fall: Am 21.08.2026 ist die Wohnungsgemeinnützigkeit als Feldbeleg in Kapitel 12 eingearbeitet worden, ohne dass der Gesetzestext einsehbar war – der Auftrag stand danach nur in einem Nebensatz des Belegapparats und wäre dort verschwunden.
 
@@ -120,6 +120,13 @@ Die Abgrenzung in einem Satz: **Das Ledger sagt, was dieses Buch nicht kann; die
 **Was ihn schließt:** Auswertung des „Register of Applications by Community Bodies to Buy Land" beziehungsweise einer Evaluation der schottischen Regierung oder des Parlaments zu Teil 5.
 **Folge, falls offen:** gering für die Konstruktion, erheblich für ihren Status. Ein Recht, dessen Gebrauch niemand kennt, ist eine Bauanleitung und kein Feldbeleg – der Text sagt das ausdrücklich. Ergäbe die Auswertung, dass das Recht seit sechs Jahren nicht angewandt worden ist, wäre das kein Gegenbeleg gegen die Konstruktion, wohl aber ein Fall für den eigenen Apparat: ein Instrument, das existiert und ruht, wie die ungenutzte Subsidiaritätsklage des Ausschusses der Regionen und das Hebesatzrecht nach Art. 106 Abs. 5 Satz 3 GG.
 **Betroffene Stellen:** `manuskript/12_allmende_und_sterberecht.md` (Abschnitt „Ein Auslöser genügt nicht" und Belege), `quellen_und_glossar.md` Abschnitt Y, `polyzentrische_ordnung.md` Sektion III.
+
+### K2 – Vorwärtsverweise im Thesenpapier
+**Angelegt:** 27.08.2026.
+**Gegenstand:** Am 27.08.2026 sind im Manuskript alle 111 Vorwärtsverweise des Fließtextes aufgelöst worden, nach der Regel „nach hinten wird nummeriert, nach vorn wird benannt" (Stil- und Formatregeln in `CLAUDE.md`). Im Thesenpapier ist dieselbe Bauart vorhanden, aber schwächer ausgeprägt: 43 Sektionsverweise, davon 12 nach vorn, überwiegend auf Sektion VI (das Ledger) und Sektion IV (den Umsetzungspfad).
+**Was ihn schließt:** eine Entscheidung des Autors, nicht eine Recherche. Entweder werden die zwölf Verweise nach derselben Regel benannt statt nummeriert – „steht in Sektion VI" wird zu „steht im Ledger" –, oder es wird festgehalten, dass das Thesenpapier sie behält, weil ein Text von dreißig Seiten sich ganz überblicken lässt und der Leser dort nicht vorblättern muss, um zu wissen, wo er ist.
+**Folge, falls offen:** keine für die Sache. Manuskript und Thesenpapier divergieren dadurch nicht inhaltlich – kein Befund, kein Beleg und keine Konstruktion ist berührt –, sondern nur in der Verweisform. Die Konsistenzpflicht zwischen den Fassungen ist damit nicht verletzt; der Eintrag steht hier, damit die Differenz nicht stillschweigend bleibt.
+**Betroffene Stellen:** `polyzentrische_ordnung.md`, Sektionen II bis V.
 
 ---
 

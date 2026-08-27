@@ -34,7 +34,7 @@ Die Antwort ist eine Liste, und keiner ihrer Punkte hat mit Kapitalismus etwas b
 
 *Ausweichmöglichkeiten.* Wer mit seinem Arbeitgeber, seiner Bank, seinem Vermieter, seiner Gemeinde unzufrieden ist, kann zu einem anderen wechseln. Das ist Hirschmans Exit, und seine Wirkung liegt nicht darin, dass viele gehen, sondern darin, dass viele gehen *könnten*.
 
-*Sphärentrennung.* Wirtschaftliche Macht kauft politische Macht nicht direkt. Ein Unternehmen ernennt keine Richter, kein Vermögender befiehlt einer Behörde. Dass diese Trennung durchlässig ist, wird das sechste Kapitel zeigen; dass sie existiert, ist ein Unterschied ums Ganze.
+*Sphärentrennung.* Wirtschaftliche Macht kauft politische Macht nicht direkt. Ein Unternehmen ernennt keine Richter, kein Vermögender befiehlt einer Behörde. Dass diese Trennung durchlässig ist, wird sich zeigen; dass sie existiert, ist ein Unterschied ums Ganze.
 
 *Rechtsstaat.* Regeln, die auch für Mächtige gelten, durchgesetzt von Gerichten, die nicht von den Betroffenen abhängen.
 
@@ -56,15 +56,15 @@ Eucken war der bedeutendste deutsche liberale Ökonom des zwanzigsten Jahrhunder
 
 Euckens zentrale Einsicht ist für dieses Buch von erheblichem Wert, weil sie von der anderen Seite kommt und dasselbe sagt. Sie lautet: Eine Wettbewerbsordnung entsteht nicht von selbst. Der Markt tendiert nicht automatisch zur Konkurrenz, sondern erzeugt aus sich heraus Konzentration, Kartelle und private Machtpositionen – und private Wirtschaftsmacht ist für die Freiheit des Einzelnen genauso gefährlich wie staatliche. Deshalb unterschied die Freiburger Schule zwischen *Ordnungspolitik*, die den Rahmen setzt und setzen muss, und *Prozesspolitik*, die in einzelne Marktergebnisse eingreift und es besser lassen sollte. Der Rahmen ist gemacht, nicht gewachsen. Ein Wirtschaftssystem ruht auf zwei Säulen: den spontanen Ordnungskräften des Marktes und einem wirtschaftspolitisch gestalteten Regelwerk.
 
-Euckens Einsicht deckt die halbe Argumentation dieses Buches. Der Streit beginnt erst bei der Frage, welches Instrument den Rahmen hält – und ob Regeln dafür ausreichen. Das ist der Gegenstand des achten Kapitels, und dort wird sich zeigen, dass Eucken zu optimistisch war.
+Euckens Einsicht deckt die halbe Argumentation dieses Buches. Der Streit beginnt erst bei der Frage, welches Instrument den Rahmen hält – und ob Regeln dafür ausreichen. Eucken hat angenommen, dass sie es tun. Dieses Buch bestreitet es, und die Begründung folgt.
 
 ### Warum das Buch trotzdem nicht bei „mehr Wettbewerb" endet
 
-Man könnte an dieser Stelle aufhören und ein ordoliberales Programm schreiben: strenges Kartellrecht, harte Insolvenzen, unabhängige Institutionen, Sphärentrennung. Vieles davon steht auch in diesem Buch. Aber es reicht aus zwei Gründen nicht, und beide werden in den folgenden Kapiteln entwickelt.
+Man könnte an dieser Stelle aufhören und ein ordoliberales Programm schreiben: strenges Kartellrecht, harte Insolvenzen, unabhängige Institutionen, Sphärentrennung. Vieles davon steht auch in diesem Buch. Aber es reicht aus zwei Gründen nicht.
 
 Der erste Grund ist, dass die Konzentrationstendenz real ist. Sie ist nicht nur eine Möglichkeit, gegen die man Regeln setzen kann; sie hat eine eigene Dynamik, die Marx als Erster systematisch beschrieben hat und die auch nach seinem Tod nicht verschwunden ist. Das nächste Kapitel prüft, was von seiner Analyse trägt.
 
-Der zweite Grund ist, dass Regeln verfallen. Sie werden nicht abgeschafft, sondern ausgehöhlt – langsam, im Detail, durch die Beharrlichkeit derer, denen sie im Weg stehen. Das achte Kapitel zeigt an deutschen und britischen Fällen, wie zuverlässig dieser Prozess ist. Und daraus folgt die Konstruktionsentscheidung, die dieses Buch von einem ordoliberalen unterscheidet: Wo immer möglich, wird eine Regel durch eine Eigentumsstruktur ersetzt, weil eine Eigentumsstruktur einen Träger hat, der sie verteidigt, und eine Regel nur eine Behörde, die man aushungern kann.
+Der zweite Grund ist, dass Regeln verfallen. Sie werden nicht abgeschafft, sondern ausgehöhlt – langsam, im Detail, durch die Beharrlichkeit derer, denen sie im Weg stehen. Und daraus folgt die Konstruktionsentscheidung, die dieses Buch von einem ordoliberalen unterscheidet: Wo immer möglich, wird eine Regel durch eine Eigentumsstruktur ersetzt, weil eine Eigentumsstruktur einen Träger hat, der sie verteidigt, und eine Regel nur eine Behörde, die man aushungern kann.
 
 Vorerst aber steht ein Zwischenergebnis, und es ist erheblich. Die Frage, mit der die politische Debatte seit hundertfünfzig Jahren geführt wird – Privateigentum oder Gemeineigentum –, ist nicht die entscheidende Frage. Sie ist eine Frage über Etiketten. Die entscheidende Frage lautet, ob eine Ordnung viele konkurrierende, sterbliche, beobachtbare Machtzentren hat oder eines, das keinen Gegner kennt.
 
@@ -86,6 +86,6 @@ Warum das so ist und warum keine der beiden klassischen Antworten das Problem l�
 
 *Hirschman, Exit:* Albert O. Hirschman, *Exit, Voice, and Loyalty*, Cambridge (Mass.) 1970. **Bestätigt.**
 
-*Eucken und die Freiburger Schule:* Walter Eucken, *Die Grundlagen der Nationalökonomie* (1940); ders., *Grundsätze der Wirtschaftspolitik* (postum 1952). Gründung der Freiburger Schule in den frühen 1930er Jahren gemeinsam mit Franz Böhm und Hans Großmann-Doerth; Programm der Unterscheidung von regelsetzender Ordnungspolitik und interventionistischer Prozesspolitik; Machtbegrenzung als Konstruktionsziel der Wettbewerbsordnung. Belegt über das Walter Eucken Institut, Freiburg, und die Ausstellungsdokumentation „Ordnung in Freiheit – Walter Eucken und die Soziale Marktwirtschaft". **Bestätigt** (Werke, Datierung, Kernbegriffe). Die Zuspitzung, Eucken sei „zu optimistisch" gewesen, ist **Wertung** dieses Buches und wird in Kapitel 8 begründet.
+*Eucken und die Freiburger Schule:* Walter Eucken, *Die Grundlagen der Nationalökonomie* (1940); ders., *Grundsätze der Wirtschaftspolitik* (postum 1952). Gründung der Freiburger Schule in den frühen 1930er Jahren gemeinsam mit Franz Böhm und Hans Großmann-Doerth; Programm der Unterscheidung von regelsetzender Ordnungspolitik und interventionistischer Prozesspolitik; Machtbegrenzung als Konstruktionsziel der Wettbewerbsordnung. Belegt über das Walter Eucken Institut, Freiburg, und die Ausstellungsdokumentation „Ordnung in Freiheit – Walter Eucken und die Soziale Marktwirtschaft". **Bestätigt** (Werke, Datierung, Kernbegriffe). Die Zuspitzung, Eucken habe die Haltbarkeit von Regeln überschätzt, ist **Wertung** dieses Buches und wird in Kapitel 8 begründet.
 
 Quellen zu Eucken: [Walter Eucken Institut](https://www.eucken.de/veranstaltung/ordoliberalismus-wozu-ordnungspolitik-und-soziale-marktwirtschaft-auf-dem-pruefstand/), [Ordnung in Freiheit – Freiburger Schule](https://www.ordnung-in-freiheit.de/themen/freiburger-schule/).

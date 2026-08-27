@@ -30,7 +30,7 @@ Das ist keine nachträgliche Klugheit. Bakunin hat es 1873 gesagt, Marx hat es g
 
 ### Die entscheidende Nuance: eine Variable, keine Konstante
 
-Damit könnte man das Kapitel schließen, und es wäre eine bequem antikommunistische Pointe. Aber es fehlt der Teil, der für dieses Buch der wichtigste ist, und er richtet sich gegen die Bequemlichkeit der anderen Seite.
+Damit könnte man das Kapitel schließen, und es wäre eine bequem antikommunistische Pointe. Aber es fehlt der Teil, der sich gegen die Bequemlichkeit der anderen Seite richtet.
 
 Denn wenn Marx' Diagnose stimmt und seine Therapie nicht, dann steht die Frage im Raum, was man stattdessen tut. Und die verbreitete liberale Antwort – man reguliere die Konzentration und schütze die politische Sphäre vor dem Geld – setzt etwas voraus, das erst zu prüfen ist: dass die Übersetzungsrate von Geld in Macht beeinflussbar ist.
 
@@ -46,13 +46,13 @@ Die Kompression hat nicht gehalten. Seit etwa 1980 laufen Einkommens- und Vermö
 
 Warum? Die beste Erklärung stammt nicht von Marx, sondern von einem amerikanischen Ökonomen, der politisch weit von ihm entfernt stand. Mancur Olson hat 1965 in *The Logic of Collective Action* gezeigt, warum kleine Gruppen mit konzentriertem Interesse sich leichter organisieren als große Gruppen mit diffusem Interesse. Für hundert Unternehmen, denen eine Regel je zehn Millionen kostet, lohnt sich der jahrelange Kampf um ihre Änderung. Für achtzig Millionen Bürger, denen dieselbe Regel je zwölf Euro einbringt, lohnt sich nicht einmal das Lesen des Gesetzentwurfs. Beide handeln rational, und das Ergebnis ist systematisch schief.
 
-Daraus folgt ein Satz, den dieses Buch die *Rost-These* nennt und der das achte Kapitel füllt: Regulierung verfällt, weil konzentriertes Interesse diffuses schlägt. Nicht mit einem Schlag, sondern durch Auslegung, Ausnahme, Nichtvollzug und Personalabbau in der Aufsicht.
+Daraus folgt ein Satz, den dieses Buch die *Rost-These* nennt: Regulierung verfällt, weil konzentriertes Interesse diffuses schlägt. Nicht mit einem Schlag, sondern durch Auslegung, Ausnahme, Nichtvollzug und Personalabbau in der Aufsicht.
 
 Ist dieser Verfall unumkehrbar? Nein. Die Kompressionsphase beweist das Gegenteil. Aber er ist *unwahrscheinlich* umzukehren, und das ist ein Unterschied, der Konstruktionsfolgen hat. Wer eine Ordnung baut, deren Bestand davon abhängt, dass ein unwahrscheinlicher Vorgang dauerhaft gelingt, hat schlecht gebaut.
 
 ### Marx als Kronzeuge
 
-Zum Schluss eine Notiz, die im vierundzwanzigsten Kapitel ausgeführt wird und hier nur angekündigt sei, weil sie für den Aufbau des Buches wichtig ist.
+Zum Schluss eine Notiz, die für den Aufbau des Buches wichtig ist.
 
 Der Streit über Genossenschaften und Belegschaftseigentum wird meist als Streit mit Marx geführt. Er ist es nicht. Marx hat die Genossenschaftsbewegung emphatisch verteidigt: In der Inauguraladresse der Internationalen Arbeiter-Assoziation von 1864 – der Eröffnungsrede der ersten internationalen Arbeiterorganisation, der Ersten Internationale – pries er die Kooperativfabriken als Beweis, dass Produktion in großem Maßstab möglich ist ohne „die Existenz einer Klasse von Meistern, die eine Klasse von ‚Händen' anwendet", und forderte, die Kooperativarbeit über vereinzelte Experimente hinaus zu nationalen Dimensionen zu entwickeln.
 
