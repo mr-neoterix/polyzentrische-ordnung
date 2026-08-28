@@ -22,7 +22,7 @@ Keine der beiden klassischen Antworten löst das damit gestellte Problem. Der Ko
 
 Was folgt, ist kein drittes Etikett, sondern eine Bauanweisung. Wo immer möglich, wird eine Regel durch eine Eigentumsstruktur ersetzt, weil eine Struktur einen Träger hat und eine Regel nur eine Behörde. Und das oberste Kriterium ist nicht Gerechtigkeit, sondern Fehlertoleranz: nicht, ob eine Ordnung Fehler vermeidet, sondern ob sie sie überlebt.
 
-Daraus entstehen drei Sektoren, die nebeneinander konkurrieren. Belegschaftseigene Betriebe mit gebundenem Kollektivvermögen *und* individuellen Kapitalkonten, offener Mitgliedschaft und echtem Insolvenzrisiko. Netze, Wasser, Wohnen und digitale Grundstrukturen in gemeinwirtschaftlicher Trägerschaft, mit einem Sterberecht für Betreiber, das den Betrieb nicht unterbricht. Und ein privater Marktsektor, der bleibt, weil dezentrales Risiko-Nehmen der einzige bekannte verlässliche Innovationsmotor ist – unter Sterblichkeitsregeln, die Vermögen entstehen lassen und Dynastien nicht.
+Daraus entstehen drei Sektoren, die nebeneinander konkurrieren. Belegschaftseigene Betriebe mit gebundenem Kollektivvermögen *und* individuellen Kapitalkonten, offener Mitgliedschaft und echtem Insolvenzrisiko. Netze, Wasser, Wohnen und digitale Grundstrukturen in gemeinwirtschaftlicher Trägerschaft, mit einem Sterberecht für Betreiber, das den Betrieb nicht unterbricht. Und ein privater Marktsektor, der bleibt, weil für die Wette gegen den Konsens kein anderes verlässliches Verfahren bekannt ist – unter Sterblichkeitsregeln, die Vermögen entstehen lassen und Dynastien nicht.
 
 Und der Weg dorthin beginnt nicht mit einem Datum, sondern mit einem Steuerparagraphen, einem Kreditprogramm, einer Fristenregel und ein paar hundert ausgebildeten Menschen.
 
