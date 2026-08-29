@@ -16,7 +16,7 @@ Der Fallvergleich bestätigte das Muster und nannte seine Bestandteile. Ungarn l
 
 Die Symmetrieregel verlangte dieselbe Prüfung nach der anderen Seite, und sie ergab: Kapitalismus ohne Konkurrenz mit harter Budgetbeschränkung, ohne Ausweichmöglichkeiten, ohne Sphärentrennung, ohne Rechtsstaat und ohne freie Presse hegt Macht nicht ein. Chile, Russland und China sind die Belege. Was Macht einhegte, war nie der Markt allein, sondern eine Verteilung von Entscheidungszentren, mit der der Kapitalismus historisch kontingent verheiratet war.
 
-Damit stand die eigentliche Systemvariable fest: nicht Kapitalismus gegen Sozialismus, sondern Polyzentrik gegen Monozentrik.
+Damit hatte die Vermutung, die diesen Text trägt, ihren Namen: nicht Kapitalismus gegen Sozialismus, sondern Polyzentrik gegen Monozentrik. Was die Fallreihe erledigt hat, ist die Erklärung durch das Etikett; ihren Ersatz hat sie benannt und nicht bewiesen, und deshalb hängt er an dem, was ihm widersprechen darf.
 
 Keine der beiden klassischen Antworten löst das damit gestellte Problem. Der Kommunismus definiert es weg – er erwartet, dass mit den Klassen auch Knappheit und legitime Meinungsverschiedenheit verschwinden, und wer das Verschwinden von Macht erwartet, baut keine Käfige für sie. Der regulierte Kapitalismus lässt die Machtquelle intakt und muss seine Fesseln dauerhaft gegen einen konzentrierten Gegner verteidigen; deshalb rosten sie, und der Nachweis dafür ist die Erosion der deutschen Mitbestimmung neben dem Fortbestand der Sparkassen.
 
