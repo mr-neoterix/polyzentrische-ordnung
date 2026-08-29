@@ -4,7 +4,7 @@
 
 **Marcel Richtsteiger**
 
-*Manuskript. Stand: 28. August 2026.*
+*Manuskript. Stand: 29. August 2026.*
 
 ---
 
@@ -17,6 +17,18 @@ Der Text setzt kein wirtschaftswissenschaftliches Studium voraus. Er setzt vorau
 Zwei Regeln durchziehen das Buch. Die erste heißt Symmetrie: Was für den einen Fall gilt, gilt für den anderen. Wer der SED nicht glaubt, muss auch dem Bundesverband der Deutschen Industrie nicht glauben; wer die Planwirtschaft an ihren Ergebnissen misst, muss den Markt an seinen messen. Die zweite heißt Gegenprobe: Jede These wird an ihrem stärksten Gegner geprüft, nicht an ihrem bequemsten Beleg – und zwar an beiden Gegnern, dem marxistischen und dem liberalen. Eine These, die nur von einer Seite geprüft wurde, ist nicht geprüft, sondern gelobt.
 
 Am Ende steht kein Zielzustand. Wer einen sucht, wird enttäuscht werden, und die Enttäuschung ist beabsichtigt.
+
+### Wie dieses Buch entstanden ist
+
+Kein Satz dieses Buches ist von einem Menschen geschrieben worden. Die Prosa stammt Wort für Wort von einer künstlichen Intelligenz, die erste Zeile ebenso wie diese hier; der Text ist im Gespräch mit ihr entstanden. Auf dem Titel steht trotzdem ein Verfasser, und das ist keine Unachtsamkeit, sondern eine Entscheidung, die sich begründen lässt: Geschrieben hat die Maschine, gedacht hat der Mensch. Jede Frage, die hier gestellt wird, jeder Einwand, dem sich der Text aussetzt, jede Konstruktion, die er vorschlägt, und jede, die er wieder verworfen hat, kommt aus einem Kopf und nicht aus der Maschine.
+
+Das Verfahren war Lektüre und Widerspruch, beides in einem Umfang, den der fertige Text nicht mehr erkennen lässt. Der Verfasser hat dieses Buch von seiner kleinsten Fassung an bis zur letzten gelesen, nicht zweimal und nicht zehnmal, sondern Dutzende Male, einzelne Stellen einige hundert Mal. Was nicht standhielt, wurde nicht angestrichen, sondern ausformuliert: der Einwand hingeschrieben, begründet, mit der Maschine durchgesprochen, gegen ihre Antwort noch einmal geprüft – und geändert wurde erst, wenn entweder der Einwand gefallen war oder die Stelle. Der vollständige Text dieser Gespräche und Überarbeitungen ist, vorsichtig geschätzt, mehr als doppelt so lang wie das Buch, das daraus geworden ist.
+
+Damit hatte die Maschine drei Aufgaben und keine vierte: zusammenfassen, was gedacht worden war; ausformulieren und deuten, was noch unfertig dastand; und falsifizieren, was der Prüfung nicht standhielt – Belege nachschlagen, Zahlen gegenrechnen, Zuschreibungen zurückweisen, die sich nicht halten ließen, Widersprüche zwischen zwei Kapiteln melden, die dem Verfasser entgangen waren. Das ist nicht wenig, und ohne sie stünde hier nichts. Es ist nur etwas anderes als Verfasserschaft.
+
+Es liegt nahe, darin ein Muster zu vermuten, nach dem Bücher künftig häufiger entstehen werden. Trifft es zu, dann fällt dabei keine Arbeit weg. Sie wird eher mehr, und vor allem verlagert sie sich: weg vom Formulieren, hin zum Durchdenken von Zusammenhängen, zum Angriff auf die eigenen Standpunkte und zum Ausarbeiten besserer Argumente. Wer das Schreiben abgibt, bekommt das Denken zurück, und das ist die größere Hälfte. Der Verfasser ist überzeugt, dass am Ende dieses Weges bessere Bücher stehen als am Ende des alten. Das ist eine Überzeugung und kein Befund – nach den Regeln dieses Buches also eine Wertung, und sie steht hier als das, was sie ist.
+
+Was hier steht, ist deshalb kein abgeschlossenes Werk, sondern ein Stand. Das Verzeichnis, aus dem dieses Buch gesetzt wird, liegt offen – das Manuskript, die Verdichtung, das Quellen- und Begriffsverzeichnis, die Prüfberichte und die Skripte, die daraus ein PDF machen –, zu finden unter [github.com/mr-neoterix/polyzentrische-ordnung](https://github.com/mr-neoterix/polyzentrische-ordnung). Es steht unter der Lizenz Creative Commons Namensnennung 4.0, die jede Verwendung erlaubt – teilen, bearbeiten, darauf aufbauen, auch zu kommerziellen Zwecken –, unter der einzigen Bedingung, den Verfasser zu nennen. Wer widersprechen will, kann es dort tun; wer etwas beitragen will, ebenfalls; und wessen Beitrag in den Text eingeht, wird auf Wunsch selbst als Verfasser genannt. Ein Buch, das Fehlertoleranz zum Kriterium einer Ordnung erklärt, kann schlecht darauf bestehen, selbst fertig zu sein.
 
 ---
 
