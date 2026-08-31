@@ -4,7 +4,7 @@
 
 ---
 
-Das letzte Kapitel hat gezeigt, dass die marxsche Therapie das diagnostizierte Problem verschärft. Dieses Kapitel fragt, warum ein so scharfer Denker diesen Fehler machen konnte – denn die Antwort ist keine biographische Kuriosität, sondern ein Konstruktionsfehler, der bis heute in vielen Entwürfen steckt, auch in solchen, die sich nicht kommunistisch nennen.
+Das letzte Kapitel hat den Weg der marxschen Therapie geprüft und gezeigt, dass er das diagnostizierte Problem verschärft. Dieses Kapitel nimmt sich das Ziel vor, in dessen Namen er gegangen wurde, und fragt, warum ein so scharfer Denker den Fehler machen konnte – denn die Antwort ist keine biographische Kuriosität, sondern ein Konstruktionsfehler, der bis heute in vielen Entwürfen steckt, auch in solchen, die sich nicht kommunistisch nennen.
 
 Der Fehler liegt in einer Annahme, die selten ausgesprochen und fast nie geprüft wird. Sie lautet: Macht ist ein Folgeproblem. Sie entsteht aus Klassenverhältnissen; verschwinden die Klassen, verschwindet auch die Macht.
 
