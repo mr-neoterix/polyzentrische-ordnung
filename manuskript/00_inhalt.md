@@ -4,7 +4,7 @@
 
 **Marcel Richtsteiger**
 
-*Manuskript. Stand: 29. August 2026.*
+*Manuskript. Stand: 31. August 2026.*
 
 ---
 
@@ -15,6 +15,10 @@ Dies ist der Versuch, eine Wirtschafts- und Gesellschaftsverfassung nicht zu beh
 Der Text setzt kein wirtschaftswissenschaftliches Studium voraus. Er setzt voraus, was ein durchschnittlich informierter deutscher Leser weiß: dass es die DDR gab und dass sie 1990 unterging, dass Marx den Kommunismus dachte, dass die Bundesrepublik eine Marktwirtschaft ist. Alles Weitere wird erklärt, wo es zum ersten Mal gebraucht wird – jeder Fachbegriff, jede historische Begebenheit, jede Zahl. Und jede Zahl steht mit ihrem Beleg da, am Ende des jeweiligen Kapitels, samt der Angabe, wie sicher sie ist. Das ist keine akademische Pedanterie: Ein Argument, dessen Belege man nicht nachprüfen kann, ist eine Meinung mit Fußnoten.
 
 Zwei Regeln durchziehen das Buch. Die erste heißt Symmetrie: Was für den einen Fall gilt, gilt für den anderen. Wer der SED nicht glaubt, muss auch dem Bundesverband der Deutschen Industrie nicht glauben; wer die Planwirtschaft an ihren Ergebnissen misst, muss den Markt an seinen messen. Die zweite heißt Gegenprobe: Jede These wird an ihrem stärksten Gegner geprüft, nicht an ihrem bequemsten Beleg – und zwar an beiden Gegnern, dem marxistischen und dem liberalen. Eine These, die nur von einer Seite geprüft wurde, ist nicht geprüft, sondern gelobt.
+
+Eine dritte Vorentscheidung begrenzt den Gegenstand. Dieses Buch untersucht und konstruiert innerhalb der Wertform – innerhalb einer Welt also, in der gearbeitet wird, um zu verkaufen, und in der Preise, Löhne und Bilanzen die Rechnung führen. Es fragt nicht, wie eine Produktion aussähe, die statt am Wert unmittelbar am Bedürfnis Maß nähme, wie Marx sie für die Zeit nach dem Ende der Warenproduktion dachte. Das ist keine Nachlässigkeit, sondern folgt aus dem Material: Auch die sozialistischen Ordnungen, deren Scheitern hier untersucht wird, haben in Waren, Geld, Preisen und Löhnen gerechnet. Sie haben die Wertform nicht abgeschafft, sondern ihre Preise verwaltet – und wer ihnen unterstellte, sie hätten diese Frage bereits hinter sich gehabt, sähe an ihnen vorbei.
+
+Und es folgt aus dem Zweck. Die Ordnung, die hier entworfen wird, liegt quer zu der Achse, an der die Debatte gewöhnlich entlangläuft: Ihre Frage ist nicht Kapitalismus oder Sozialismus, sondern verteilte oder konzentrierte Verfügungsgewalt – und deshalb muss sie in dem Wirtschaftsmodell arbeiten, das jeweils vorhanden ist, im Zweifel also in einer Marktwirtschaft, mit geltendem Recht und ohne dass zuvor irgendetwas abgeschafft würde. Ein Entwurf, der erst nach dem Ende der Wertform funktionierte, bräuchte jemanden, der sie beendet, und stünde damit vor genau dem Machtproblem, gegen das er gebaut ist. Wer darin den entscheidenden Einwand sieht, findet ihn in der marxistischen Gegenprobe ausgeführt; erledigt wird er dort nicht. Diese Ordnung verlässt die Wertform nicht – sie entzieht ihr Bereiche.
 
 Am Ende steht kein Zielzustand. Wer einen sucht, wird enttäuscht werden, und die Enttäuschung ist beabsichtigt.
 
@@ -46,7 +50,7 @@ Was hier steht, ist deshalb kein abgeschlossenes Werk, sondern ein Stand. Das Ve
 
 *4. Fünf Länder, ein Muster.* Ungarn, Jugoslawien, Vietnam, Kuba, China – und was der Vergleich über den Plan lehrt, das ein einzelner Fall nicht lehren kann.
 
-*5. Die Gegenprobe: Was den Kapitalismus einhegte.* Chile 1973, Russland nach 1992, China nach 1992 – und warum die entscheidende Systemvariable nicht Kapitalismus gegen Sozialismus heißt, sondern Polyzentrik gegen Monozentrik.
+*5. Die Gegenprobe: Was den Kapitalismus einhegte.* Chile 1973, Russland nach 1992, China nach 1992 – dazu Frankreich 1981, der Fall, in dem der Markt tatsächlich Macht begrenzte, und zwar die gewählte – und warum die entscheidende Systemvariable nicht Kapitalismus gegen Sozialismus heißt, sondern Polyzentrik gegen Monozentrik.
 
 **Teil III – Warum beide Antworten nicht genügen**
 
