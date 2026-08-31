@@ -48,7 +48,11 @@ Die Kreislaufdimension zeigt allerdings die andere Hälfte: Es gibt Innovationsk
 
 *Antwort:* Jugoslawien hatte kein Belegschaftseigentum, sondern gesellschaftliches Eigentum – niemandes Eigentum, verwaltet von Belegschaften ohne mitnehmbaren Anspruch. Es hatte keine harte Budgetbeschränkung, keinen Kapitalmarkt für die Betriebe und eine monozentrische Politik ohne Gegenmacht.
 
-Das sind vier Unterschiede zu dieser Ordnung, von denen drei Designvariablen sind: individuelle Kapitalkonten gegen das Horizontproblem, Insolvenz gegen die weiche Budgetgrenze, Polyzentrik gegen die Monozentrik. Der vierte – der Ward-Effekt, die Neigung selbstverwalteter Betriebe, bei steigenden Preisen eher Beschäftigung abzubauen als aufzubauen, empirisch von Estrin für Jugoslawien bestätigt – bleibt als echtes Risiko, wird im elften Kapitel mit der offenen Mitgliedschaft und der Tätigkeitsquote adressiert und im Ledger ausgewiesen.
+Vier Unterschiede also, und jeder von ihnen hat hier seine Entsprechung. *Dem fehlenden Eigentum* stehen die individuellen Kapitalkonten gegenüber: Der Anspruch ist mitnehmbar, und damit entfällt das Horizontproblem, an dem die jugoslawische Investitionsentscheidung hing. *Der weichen Budgetgrenze* steht die Insolvenzfähigkeit gegenüber, und Fagor ist der Beleg, dass sie nicht nur im Gesetz steht. *Der monozentrischen Politik* steht die Polyzentrik gegenüber – der Befund, mit dem die Diagnose dieses Buches endete.
+
+Beim vierten ist die Antwort schwächer, und sie ist zwei Einwände vorher schon gegeben worden. Einen Kapitalmarkt im vollen Sinne bekommen auch diese Betriebe nicht, denn sie tauschen Eigenkapital nicht gegen Kontrolle. Was sie bekommen, sind vier Ersatzquellen – Kapitalkonten, genossenschaftliche Banken, stimmrechtsarme Beteiligungen, Verkäuferdarlehen – und eine ausgewiesene Grenze dort, wo Milliarden über Jahrzehnte gebunden werden. Der Unterschied zu Jugoslawien ist an dieser Stelle also einer des Grades und nicht der Art: Dort gab es für Betriebe keinen Kapitalmarkt, hier einen verengten. Wer das für zu wenig hält, hat den Einwand richtig gestellt, und die Antwort steht im Ledger und nicht in einer Entgegnung.
+
+Und dann bleibt etwas, das durch keinen der vier Unterschiede verschwindet, weil es keiner von ihnen ist. Der Ward-Effekt – die Neigung selbstverwalteter Betriebe, das Einkommen je Kopf zu maximieren und deshalb niemanden aufzunehmen, bei steigenden Preisen sogar Beschäftigung abzubauen, von Estrin für Jugoslawien empirisch bestätigt – folgt nicht aus dem gesellschaftlichen Eigentum, sondern aus der Selbstverwaltung. Und die teilt diese Ordnung mit jener. Das elfte Kapitel antwortet mit drei Instrumenten, deren Reihenfolge wichtiger ist als ihre Zahl: Offene Mitgliedschaft und Tätigkeitsquote messen die Zusammensetzung einer Belegschaft, die Offenheitskennzahl misst ihre Bewegung – und nur die dritte trifft die Größe, um die es Ward ging. Ob eine Kennzahl eine Tür öffnet, ist unerprobt und steht so im Ledger.
 
 Die Gegenfrage an den Einwand: Wenn das Etikett entschiede, müsste Mondragón dieselben Ergebnisse zeigen wie Jugoslawien.
 
@@ -191,6 +195,8 @@ Was der Liberale allerdings nicht behalten darf, ist die Behauptung, der Status 
 *Hansmann:* Henry Hansmann, *The Ownership of Enterprise*, Cambridge (Mass.): Harvard University Press 1996. **Bestätigt.**
 
 *Ward und Estrin:* siehe Kapitel 4. **Bestätigt.**
+
+*Jugoslawien, die vier Unterschiede und der Ward-Effekt:* Das gesellschaftliche Eigentum, die weiche Budgetgrenze und die monozentrische Politik sind mit Fundstellen in Kapitel 4 belegt, die vier Kapitalquellen und die Grenze bei kapitalintensiver Großindustrie in Kapitel 11, Fagor in Kapitel 9. **Bestätigt.** Dass der Ward-Effekt nicht am gesellschaftlichen Eigentum hängt, sondern an der Selbstverwaltung – und deshalb keiner der vier Unterschiede ist, sondern die Eigenschaft, die diese Ordnung mit jener teilt –, ist **Wertung** dieses Buches. Sie folgt aus Wards Modell selbst, das die Firma über das Einkommen je Kopf und die selbst bestimmte Mitgliederzahl beschreibt, nicht über die Eigentumsform des Kapitals.
 
 *Pérotin und Burdín:* siehe Kapitel 15. **Bestätigt**, mit der ausdrücklich mitzuführenden Design-Einschränkung.
 
