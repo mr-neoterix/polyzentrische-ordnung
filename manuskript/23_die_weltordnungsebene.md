@@ -14,7 +14,7 @@ Diese Ebene zerfällt in zwei ungleiche Teile. Der eine ist durchaus ausarbeitba
 
 Die übliche Frage lautet, ob das Kapital im Ausland eine solche Konstruktion nicht beschädigen würde. In dieser Allgemeinheit ist sie nicht beantwortbar, weil sie mindestens sechs verschiedene Mechanismen bezeichnet, die sich in Wirkung und Abwehrbarkeit stark unterscheiden. Nützlich wird sie erst, wenn man die Angriffsfläche den Sektoren zuordnet – und dann zeigt sich etwas, das gegen den ersten Eindruck spricht.
 
-*Der genossenschaftliche Sektor ist der am wenigsten angreifbare Teil der ganzen Ordnung.* Ein Maschinenbauer in Ostwestfalen, der seiner Belegschaft gehört, hat keine börsennotierten Anteile, keine Übernahmefläche, keinen Schiedsgegner und kein Rating. Er konkurriert auf Produktmärkten wie jeder andere Mittelständler, und wer ihm schaden will, muss ihn unterbieten. Der Asset Lock ist, nüchtern betrachtet, auch eine Übernahmeabwehrvorrichtung – das ist nicht sein Zweck, aber seine Wirkung. Ein Land mit einem großen vermögensgebundenen Sektor hat schlicht weniger von sich selbst zu verkaufen.
+*Der Belegschaftssektor ist der am wenigsten angreifbare Teil der ganzen Ordnung.* Ein Maschinenbauer in Ostwestfalen, der seiner Belegschaft gehört, hat keine börsennotierten Anteile, keine Übernahmefläche, keinen Schiedsgegner und kein Rating. Er konkurriert auf Produktmärkten wie jeder andere Mittelständler, und wer ihm schaden will, muss ihn unterbieten. Der Asset Lock ist, nüchtern betrachtet, auch eine Übernahmeabwehrvorrichtung – das ist nicht sein Zweck, aber seine Wirkung. Ein Land mit einem großen vermögensgebundenen Sektor hat schlicht weniger von sich selbst zu verkaufen.
 
 *Der Allmende-Sektor ist die exponierteste Stelle,* und zwar genau dort, wo das achtzehnte Kapitel es gezeigt hat: Konzessionen, Netzübernahmen, Vergaberecht, Schiedsverfahren. Wo ein ausländischer Eigentümer beteiligt ist, wird jede Verschiebung von Eigentumsrechten zu einem völkerrechtlichen Vorgang.
 
@@ -140,7 +140,7 @@ Und doch ist genau dieses vierte Bauteil – der Betroffene mit eigenem Klagerec
 
 Die Bauart funktioniert also auch dort. Sie skaliert nur nicht gegen jeden – und die Grenze ist frisch dokumentiert. Russland wurde am 16. März 2022 aus dem Europarat ausgeschlossen und war ab dem 16. September 2022 nicht mehr Vertragspartei der Konvention; rund 17.450 Verfahren blieben anhängig, und russische Gesetze verhindern die Vollstreckung der Urteile. Eine Ordnung, deren stärkstes Bauteil man durch Austritt entwertet, hat kein Sterberecht für ihre Einheiten, sondern eines für ihre Regeln.
 
-Man kann das auch als Lehre für die eigene Ebene lesen: Polyzentrik allein ist kein Ordnungsprinzip. Sie wirkt nur zusammen mit einem gemeinsamen Rechtsrahmen, mit Ausweichmöglichkeiten für die Betroffenen und mit geordneten Formen des Untergangs. Wo diese fehlen, erzeugt die Vielzahl der Machtzentren nicht Einhegung, sondern Krieg.
+Man kann das auch als Lehre für die eigene Ebene lesen: Polyzentrik allein ist kein Ordnungsprinzip. Sie wirkt nur zusammen mit einem gemeinsamen Rechtsrahmen, mit Ausweichmöglichkeiten für die Betroffenen, mit geordneten Formen des Untergangs und mit Trägern, die auf die Einhaltung klagen können. Wo diese fehlen, erzeugt die Vielzahl der Machtzentren nicht Einhegung, sondern Krieg.
 
 ### Zwei Regeln, die nicht rosten
 
