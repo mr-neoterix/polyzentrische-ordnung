@@ -112,6 +112,6 @@ Was hier steht, ist deshalb kein abgeschlossenes Werk, sondern ein Stand. Das Ve
 
 ## Zu den Belegen
 
-Jedes Kapitel schließt mit einem Abschnitt *Belege*. Er nennt Fundstellen und weist den Verifikationsstatus aus: *bestätigt* heißt unabhängig belegt; *mit Einschränkung* heißt, dass die Angabe im Kern trägt, aber eine ausgewiesene Unschärfe hat; *Wertung* heißt, dass es sich um eine Deutung handelt und nicht um einen Befund. Wo eine Zahl umstritten ist, steht die Spanne und nicht der bequemste Wert. Wo eine Zuschreibung nicht haltbar ist, steht sie nicht im Text.
+Jedes Kapitel schließt mit einem Abschnitt *Belege*. Er nennt Fundstellen und weist den Verifikationsstatus aus: *bestätigt* heißt unabhängig belegt; *mit Einschränkung* heißt, dass die Angabe im Kern trägt, aber eine ausgewiesene Unschärfe hat; *Wertung* heißt, dass es sich um eine Deutung handelt und nicht um einen Befund. Eine vierte Stufe kommt selten vor: *offen* heißt, dass eine Angabe weder belegt noch gedeutet ist, sondern aussteht – weil die Messung fehlt oder der Fall noch läuft. Wo eine Zahl umstritten ist, steht die Spanne und nicht der bequemste Wert. Wo eine Zuschreibung nicht haltbar ist, steht sie nicht im Text.
 
 Das vollständige Quellen- und Begriffsverzeichnis des Projekts liegt in `quellen_und_glossar.md`.
