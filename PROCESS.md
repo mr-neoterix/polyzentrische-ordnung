@@ -139,6 +139,17 @@ Die Abgrenzung in einem Satz: **Das Ledger sagt, was dieses Buch nicht kann; die
 
 ---
 
+### V15 – Wortlaut der drei neu zitierten Marx-Stellen am Volltext
+**Angelegt:** 31.08.2026.
+**Gegenstand:** Das sechste Kapitel unterscheidet seit dem 31.08.2026 zwischen Marx' Ziel und Marx' Weg und stützt beides auf drei Stellen: die Formel der höheren Phase („Jeder nach seinen Fähigkeiten, jedem nach seinen Bedürfnissen!") und den Arbeitsschein im ersten Abschnitt der *Kritik des Gothaer Programms*, die „politische Übergangsperiode, deren Staat nichts andres sein kann als die revolutionäre Diktatur des Proletariats" im vierten Abschnitt derselben Schrift, und die Abwehr der „Rezepte … für die Garküche der Zukunft" im Nachwort zur zweiten Auflage des ersten *Kapital*-Bandes.
+**Was fehlt:** die Prüfung am Volltext. Aus dieser Arbeitsumgebung sind `zeno.org`, `marxists.org`, `de.wikipedia.org` und die einschlägigen PDF-Ablagen sämtlich durch den Ausgangsfilter gesperrt; bestätigt ist der Wortlaut über mehrere voneinander unabhängige, übereinstimmende Wiedergaben aus der Websuche. Ein Ertrag dieser Prüfung ist bereits eingefahren: Die verbreitete Fassung „Garküchen der Zukunft" ist unrichtig, Marx schreibt die Einzahl.
+**Was ihn schließt:** Abruf der Volltexte aus einer Umgebung ohne Ausgangsfilter – für die *Kritik des Gothaer Programms* genügt eine der frei zugänglichen Textfassungen, für das Nachwort ebenso.
+**Folge, falls offen:** gering. Der Text führt keine Seitenangabe innerhalb der beiden Schriften, sondern nur Band und Abschnitt, und die Belegapparate weisen die Einschränkung aus. Fiele der Wortlaut, fiele nicht die Unterscheidung, sondern nur ihr Zitat – die Sache selbst steht unabhängig davon im vierundzwanzigsten Kapitel.
+**Verwandt:** V3 führt dieselbe Frage für die MEW-*Seitenzahlen* dreier anderer Stellen; V2 beschreibt den Ausgangsfilter.
+**Betroffene Stellen:** `manuskript/06_marx_diagnose_und_irrtum.md` (Belege), `quellen_und_glossar.md` Abschnitt AB.
+
+---
+
 ## II. Geprüft und entschieden
 
 Was hier steht, ist kein Auftrag, sondern eine Warnung: Diese Fragen sind einmal geklärt worden und sehen aus, als wären sie es nicht.
@@ -146,6 +157,8 @@ Was hier steht, ist kein Auftrag, sondern eine Warnung: Diese Fragen sind einmal
 *Datum des Steuerreformgesetzes 1990.* Es ist das Gesetz **vom 25.07.1988** (BGBl. I S. 1093), mit Wirkung der Aufhebung zum 01.01.1990. Ein Teil der steuerrechtlichen Kommentarliteratur nennt „25.7.1989"; das ist mit der Fundstelle im Bundesgesetzblatt und mit der Verfügung der OFD Frankfurt/M. vom 23.09.2013 (S 2730 A – 15 – St 53) nicht vereinbar. Die Jahreszahl 1988 gilt und wird nicht ohne neuen Beleg geändert.
 
 *Dresden 2006 gehört nicht in die Linie der Wohnungsgemeinnützigkeit.* Die WOBA kam aus der Kommunalisierung des DDR-Wohnungsbestands und war nie nach dem WGG anerkannt; für die neuen Länder galt ohnehin eine eigene Übergangsregelung. In der WGG-Abfolge steht allein Berlin. Der Fall Dresden bleibt Beleg der Sicherungsstufen und wird nicht zum Beleg des Statusmodells umgewidmet.
+
+*Marx schreibt „Garküche der Zukunft", nicht „Garküchen".* Die Mehrzahl ist die verbreitete Fassung und steht auch in seriösen Wiedergaben; das Nachwort zur zweiten Auflage des ersten *Kapital*-Bandes führt die Einzahl. Geprüft am 31.08.2026 über mehrere unabhängige Wiedergaben; die Einzahl gilt und wird nicht ohne neuen Beleg geändert.
 
 *Arizmendiarrieta war Diözesanpriester des Bistums Vitoria, nicht Jesuit.* Der Fehler steht auch in seriösen Darstellungen und ist mehrfach zurückgewiesen worden.
 

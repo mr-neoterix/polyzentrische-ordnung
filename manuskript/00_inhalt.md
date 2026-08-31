@@ -54,7 +54,7 @@ Was hier steht, ist deshalb kein abgeschlossenes Werk, sondern ein Stand. Das Ve
 
 **Teil III – Warum beide Antworten nicht genügen**
 
-*6. Marx' Diagnose und Marx' Irrtum.* Konzentration, Übersetzung von Geld in Macht, und warum die Therapie das diagnostizierte Problem maximiert.
+*6. Marx' Diagnose und Marx' Irrtum.* Konzentration, Übersetzung von Geld in Macht – und warum der Weg zu Marx' Ziel das diagnostizierte Problem maximiert, während das Ziel selbst ungeprüft geblieben ist.
 
 *7. Der Endzustand, der das Problem wegdefiniert.* Knappheit, Konflikt und die Illusion der Verwaltung von Sachen; Ostroms Gegenmodell.
 
