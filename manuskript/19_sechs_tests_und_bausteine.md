@@ -14,7 +14,7 @@ Deshalb wird der Umsetzungspfad in diesem Buch nicht behauptet, sondern geprüft
 
 **Der Mehrheitstest.** Braucht der Weg eine Mehrheit, die er erst herstellen will? Reformprogramme, deren erster Schritt die Überzeugung der Bevölkerung von ihrer Weltanschauung ist, sind zirkulär. Ein tragfähiger Pfad kommt mit den Mehrheiten aus, die es geben kann.
 
-**Der Finanztest.** Ist er aus vorhandenen Mitteln oder revolvierendem Kredit – einem Kreditrahmen, der nach Tilgung wieder in Anspruch genommen werden kann – bezahlbar, nicht aus einem erhofften Aufschwung, nicht aus Einnahmen, die die Reform selbst erst erzeugen soll?
+**Der Finanztest.** Ist der Pfad aus vorhandenen Mitteln oder aus revolvierendem Kredit bezahlbar – aus einem Kreditrahmen also, der nach Tilgung wieder in Anspruch genommen werden kann? Nicht aus einem erhofften Aufschwung, nicht aus Einnahmen, die die Reform selbst erst erzeugen soll.
 
 **Der Widerstandstest.** Wer verliert, und was kann der Verlierer tun? Ein Pfad, der seine Gegner nicht benennt, hat sie nicht eingeplant.
 
@@ -34,11 +34,11 @@ Der entscheidende Vorzug dieses Pfades ist, dass er kaum etwas erfinden muss. Fa
 
 *Kommunale Stadtwerke* mit einer Neugründungswelle im laufenden Jahrhundert. Der Allmende-Sektor muss nicht geschaffen, sondern umgebaut werden.
 
-*Selbstverwaltung in der Sozialversicherung.* Deutschland hat seit über hundert Jahren Institutionen, die von Vertretern der Versicherten und der Arbeitgeber getragen werden, und in der Krankenversicherung dazu konkurrierende Träger, ein Wechselrecht und ein tatsächlich angewandtes Insolvenzrecht – die polyzentrischste Struktur, die dieser Staat besitzt. Sie ist zugleich der Baustein in der schlechtesten Verfassung, denn ihr Selbstverwaltungsorgan wird von gut einem Fünftel der Berechtigten bestellt, und ein großer Teil der Sitze wird gar nicht erst umkämpft. Das siebzehnte Kapitel behandelt beides, weil dieser Baustein anders als die übrigen nicht nur benutzt, sondern zuerst instand gesetzt werden muss.
+*Selbstverwaltung in der Sozialversicherung.* Deutschland hat seit über hundert Jahren Institutionen, die von Vertretern der Versicherten und der Arbeitgeber getragen werden. In der Krankenversicherung kommen konkurrierende Träger hinzu, ein Wechselrecht und ein tatsächlich angewandtes Insolvenzrecht – die polyzentrischste Struktur, die dieser Staat besitzt. Diese Selbstverwaltung ist zugleich der Baustein in der schlechtesten Verfassung, denn ihr Selbstverwaltungsorgan wird von gut einem Fünftel der Berechtigten bestellt, und ein großer Teil der Sitze wird gar nicht erst umkämpft. Das siebzehnte Kapitel behandelt beides, weil dieser Baustein anders als die übrigen nicht nur benutzt, sondern zuerst instand gesetzt werden muss.
 
 *Föderalismus.* Er wird in Deutschland meist als Bremse beklagt. In diesem Entwurf ist er ein Konstruktionsvorteil: Er liefert die regionale Gliederung, die die Fondsfamilie – mehrere regional zugeschnittene Bürgerfonds statt eines einzigen – ohnehin braucht.
 
-*Die KfW mit ihrem Nachfolgeinstrumentarium.* Die staatliche Förderbank fördert Unternehmensnachfolgen aus dem ERP-Sondervermögen – dem aus Marshallplan-Mitteln gespeisten European Recovery Program –, zentral über den ERP-Förderkredit Gründung und Nachfolge: zinsverbilligte Kredite bis 500.000 Euro für Gründung, Übernahme oder Erwerb einer tätigen Beteiligung, beantragt über die Hausbank; für größere Vorhaben schließt der ERP-Förderkredit KMU an. Ein eigenes Programm für genossenschaftliche Übernahmen existiert nicht – und genau das ist die Lücke, die Stufe eins schließt.
+*Die KfW mit ihrem Nachfolgeinstrumentarium.* Die staatliche Förderbank fördert Unternehmensnachfolgen aus dem ERP-Sondervermögen – dem aus Marshallplan-Mitteln gespeisten European Recovery Program –, zentral über den ERP-Förderkredit Gründung und Nachfolge: zinsverbilligte Kredite bis 500.000 Euro für Gründung, Übernahme oder Erwerb einer tätigen Beteiligung, beantragt über die Hausbank. Für größere Vorhaben schließt der ERP-Förderkredit KMU an, das Programm für kleine und mittlere Unternehmen. Ein eigenes Programm für genossenschaftliche Übernahmen existiert nicht – und genau das ist die Lücke, die Stufe eins schließt.
 
 *Und Artikel 15 des Grundgesetzes,* der Vergesellschaftung ausdrücklich vorsieht und nie angewendet wurde. Man muss ihn nicht anwenden wollen, um zu registrieren, dass die deutsche Verfassung diese Möglichkeit kennt – und dass seine bloße Existenz als glaubwürdige Rückfalloption diszipliniert.
 
