@@ -6,15 +6,15 @@
 
 Diese Stufe braucht drei bis vier Jahre, und ihre wichtigste Begründung hat ein Ablaufdatum.
 
-Die Nachfolgewelle im deutschen Mittelstand kulminiert in der zweiten Hälfte der zwanziger Jahre. Wenn Gesetzgebung, Programmaufbau und Beratungsinfrastruktur vier Jahre brauchen, greift das Instrument, wenn die Welle durchgelaufen ist. Ein Pfad, dessen eigene Begründung ein Verfallsdatum hat, muss priorisieren – und die Priorisierung ist eindeutig: *Nur der Nachfolgekanal steht unter Fristdruck.* Alles andere in dieser Stufe hat Zeit, ist aber nicht optional.
+Die Nachfolgewelle im deutschen Mittelstand kulminiert in der zweiten Hälfte der zwanziger Jahre. Wenn Gesetzgebung, Programmaufbau und Beratungsinfrastruktur vier Jahre brauchen, greift das Instrument erst, wenn die Welle durchgelaufen ist. Ein Pfad, dessen eigene Begründung ein Verfallsdatum hat, muss priorisieren – und die Priorisierung ist eindeutig: *Nur der Nachfolgekanal steht unter Fristdruck.* Alles andere in dieser Stufe hat Zeit, ist aber nicht optional.
 
 ### Der Nachfolgekanal, erstens: der Steuerhebel
 
-Er ist der Kern, und hier braucht es mehr als eine Richtungsangabe, denn eine Forderung, die nicht sagt, welche Norm sie ändert, ist eine Absichtserklärung.
+Der Steuerhebel ist der Kern, und hier braucht es mehr als eine Richtungsangabe, denn eine Forderung, die nicht sagt, welche Norm sie ändert, ist eine Absichtserklärung.
 
 Das geltende deutsche Recht kennt bereits eine Begünstigung der Betriebsveräußerung, und sie ist bescheiden. Nach § 16 Absatz 4 des Einkommensteuergesetzes gibt es einen Freibetrag von 45.000 Euro, der ab einem Veräußerungsgewinn von 136.000 Euro abschmilzt und bei 181.000 Euro vollständig entfällt; er steht einmal im Leben zu, ab dem 55. Lebensjahr oder bei dauernder Berufsunfähigkeit. Nach § 34 Absatz 3 des Einkommensteuergesetzes kann auf Antrag – ebenfalls einmal im Leben und ab 55 – ein ermäßigter Steuersatz von 56 Prozent des durchschnittlichen Steuersatzes gewährt werden, mindestens jedoch 14 Prozent.
 
-Für den Verkauf eines Betriebs mit 180 Beschäftigten ist das ein Trinkgeld. Wer den britischen Effekt will, muss an diesen Normen etwas ändern, und dieses Buch schlägt vor, was.
+Für den Verkauf eines Betriebs mit 180 Beschäftigten ist das ein Trinkgeld. Wer den britischen Effekt will – dass ein Steuerhebel Eigentum verschiebt –, muss an diesen Normen etwas ändern, und dieses Buch schlägt vor, was.
 
 *Ein neuer Tatbestand im Einkommensteuerrecht,* der den Veräußerungsgewinn bei Übertragung an eine Belegschaftsgenossenschaft oder eine Belegschaftstreuhand zinslos stundet und über zehn Jahre erlässt, solange die Belegschaftsstruktur besteht. Wird der Betrieb vorher weiterverkauft, lebt die Steuer auf.
 
@@ -38,11 +38,11 @@ Diese Zahlen taugen nicht als Beleg für den deutschen Nachfolgekanal, und der G
 
 Die Marcora-Erfahrung stammt aus *Rettungs*fällen: Übernahmen notleidender Betriebe durch ihre Belegschaften. Die 87 Prozent sind durch zwei Selektionsstufen gefiltert – erstens durch die Belegschaften selbst, die nur übernehmen, wenn sie eine Chance sehen, zweitens durch die CFI, die vorselektiert. Ein Vergleich mit dem Durchschnitt *aller* italienischen Unternehmen misst deshalb auch die Selektion und nicht nur die Eigentumsform.
 
-Der Nachfolgefall ist ein anderes Geschäft. Die Betriebe sind gesünder, was die Erfolgsaussichten hebt. Aber der Preis ist ein Preis für ein laufendes, funktionierendes Unternehmen und nicht ein Krisenpreis, und der Kapitalbedarf ist damit ein Vielfaches.
+Der Nachfolgefall ist ein anderes Geschäft. Die Betriebe sind gesünder, was die Erfolgsaussichten hebt. Aber der Preis ist ein Preis für ein laufendes, funktionierendes Unternehmen und nicht ein Krisenpreis, und der Kapitalbedarf ist damit ein Vielfaches dessen, was ein Rettungsfall verlangt.
 
 Also braucht Stufe eins *zwei* Instrumente und nicht eines.
 
-Für *Rettungsfälle* eine Marcora-artige Kofinanzierung – beihilferechtlich, also im Rahmen dessen, was das EU-Recht an staatlicher Kofinanzierung überhaupt erlaubt, auf dem Niveau, auf das die CFI nach einer Beanstandung durch die Europäische Kommission im Jahr 2001 umstellen musste, nämlich eins zu eins: Auf jeden Euro, den die Belegschaft aufbringt, kommt höchstens ein Euro öffentlicher Kofinanzierung.
+Für *Rettungsfälle* eine Marcora-artige Kofinanzierung – beihilferechtlich, also im Rahmen dessen, was das EU-Recht an staatlicher Kofinanzierung überhaupt erlaubt. Das Niveau ist dasselbe, auf das die CFI nach einer Beanstandung durch die Europäische Kommission im Jahr 2001 umstellen musste: eins zu eins. Auf jeden Euro, den die Belegschaft aufbringt, kommt höchstens ein Euro öffentlicher Kofinanzierung.
 
 Für *Nachfolgefälle* das Finanzierungspaket aus dem achtzehnten Kapitel, flankiert von Bürgschaften und Haftungsfreistellungen der KfW, damit die Hausbank das Risiko tragen kann.
 
@@ -54,7 +54,7 @@ Für die Frage, ob man Belegschaften ein Recht auf den Erwerb ihres Betriebs geb
 
 Frankreich verpflichtete mit der *Loi Hamon* ab dem 1. November 2014 Verkäufer von Unternehmen unter 250 Beschäftigten, die Belegschaft zwei Monate vor dem Verkauf zu informieren, damit sie ein eigenes Angebot vorlegen könne. Die Sanktion war scharf: Wer die Information unterließ, dessen Verkauf war nichtig. Der Conseil constitutionnel – das französische Verfassungsgericht – kassierte diese Sanktion im Juli 2015 als unverhältnismäßigen Eingriff in die unternehmerische Freiheit. Die *Loi Macron* vom 6. August 2015 verengte daraufhin den Anwendungsbereich und ersetzte die Nichtigkeit durch ein Bußgeld von höchstens zwei Prozent des Kaufpreises. Übrig blieb eine Informationspflicht, deren Wirkung in der Fachliteratur umstritten ist.
 
-Die Lehre ist doppelt und beide Hälften sind wichtig. *Ein Zwangsinstrument, das beißt, wird verfassungsrechtlich gestutzt* – in Deutschland wäre die Lage nicht grundsätzlich anders, weil auch hier die Eigentums- und die Berufsfreiheit einer Verhältnismäßigkeitsprüfung unterliegen. *Und eine Informationspflicht ohne Finanzierung bewegt nichts,* weil die Belegschaft dann die Information hat und das Geld nicht.
+Die Lehre ist doppelt und beide Hälften sind wichtig. *Ein Zwangsinstrument, das beißt, wird verfassungsrechtlich gestutzt* – in Deutschland wäre die Lage nicht grundsätzlich anders, weil auch hier die Eigentums- und die Berufsfreiheit einer Verhältnismäßigkeitsprüfung unterliegen, also der Frage, ob ein Eingriff zu dem, was er erreichen soll, in einem vertretbaren Verhältnis steht. *Und eine Informationspflicht ohne Finanzierung bewegt nichts,* weil die Belegschaft dann die Information hat und das Geld nicht.
 
 Daraus folgt die Konstruktion: ein *Andienungs- und Gleichpreisrecht mit garantierter Finanzierungszusage*, Fristen von sechs statt zwei Monaten, aber kein Kontrahierungszwang. Die Verkäuferin muss nicht an ihre Belegschaft verkaufen. Sie muss ihr die Gelegenheit geben, zum selben Preis zu bieten, und die Belegschaft muss das Geld dafür bekommen können.
 
@@ -64,7 +64,7 @@ Das ist zugleich die Antwort auf den liberalen Einwand, ein Vorkaufsrecht enteig
 
 Eine Belegschaftsübernahme ist ein Unternehmenskauf. Sie wirft Rechtsform-, Bewertungs-, Finanzierungs-, Steuer- und Verfassungsfragen auf, sie braucht Verträge, Gutachten, Satzungen und Bankgespräche. Der Engpass dieses Pfades ist nicht das Gesetz. Es ist die Zahl der Menschen, die solche Transaktionen begleiten können.
 
-Was gebraucht wird, ist unspektakulär und entscheidet über alles: Genossenschaftsverbände mit Gründungsberatung, Kammern, die den Weg kennen, Steuerberater mit Musterlösungen, standardisierte Satzungen – einschließlich der Mindestkapitalklausel, der gestreckten Auszahlung und der Mitgliedschaftsquote aus dem elften Kapitel –, standardisierte Kapitalkontenmodelle, Musterverträge für Verkäuferdarlehen, Bewertungsleitfäden.
+Was gebraucht wird, ist unspektakulär und entscheidet über alles: Genossenschaftsverbände mit Gründungsberatung, Kammern, die den Weg kennen, Steuerberater mit Musterlösungen, standardisierte Satzungen, standardisierte Kapitalkontenmodelle, Musterverträge für Verkäuferdarlehen, Bewertungsleitfäden. Die Satzungen enthalten die Mindestkapitalklausel, die gestreckte Auszahlung und die Mitgliedschaftsquote aus dem elften Kapitel.
 
 Wer den Kanal will, muss zuerst ein paar hundert Leute ausbilden. Das steht in keinem Wahlprogramm und ist die Bedingung von allem.
 
@@ -76,9 +76,9 @@ Er hat Zeit, ist aber nicht optional.
 
 *Verantwortungseigentum:* Einführung der Gesellschaft mit gebundenem Vermögen – aber nur mit dem Kontroll-Lock aus dem dreizehnten Kapitel, sonst schafft der Gesetzgeber ein weiteres Dynastie-Instrument.
 
-*Energy Sharing:* Der mit § 42c des Energiewirtschaftsgesetzes Ende 2025 geschaffene Rahmen für gemeinschaftliche Erzeugung und Nutzung von Strom ist ab Mitte 2026 anwendbar, sobald die ausstehenden Festlegungen der Bundesnetzagentur vorliegen. Die Aufgabe ist hier nicht mehr Gesetzgebung, sondern Vollzug – und ein Vollzug, der Energiegemeinschaften mit Anteilen und Mitgliedschaft hervorbringt statt bloßer Abrechnungsmodelle.
+*Energy Sharing:* Ende 2025 hat § 42c des Energiewirtschaftsgesetzes einen Rahmen für gemeinschaftliche Erzeugung und Nutzung von Strom geschaffen. Anwendbar ist er ab Mitte 2026, sobald die ausstehenden Festlegungen der Bundesnetzagentur vorliegen. Die Aufgabe ist hier nicht mehr Gesetzgebung, sondern Vollzug – und ein Vollzug, der Energiegemeinschaften mit Anteilen und Mitgliedschaft hervorbringt statt bloßer Abrechnungsmodelle.
 
-*Netze:* Fortsetzung der Rekommunalisierung bei auslaufenden Konzessionen – aber von Anfang an mit dem Sterberecht für Betreiber aus dem zwölften Kapitel statt mit dem Querverbund von gestern, und mit der Prüfpflicht, ob eine genossenschaftliche statt einer rein kommunalen Trägerschaft möglich ist.
+*Netze:* Fortsetzung der Rekommunalisierung bei auslaufenden Konzessionen – aber von Anfang an mit dem Sterberecht für Betreiber aus dem zwölften Kapitel statt mit dem Querverbund von gestern. Dazu die Prüfpflicht, ob eine genossenschaftliche statt einer rein kommunalen Trägerschaft möglich ist.
 
 *Beschaffung:* Umstellung der öffentlichen und gemeinwirtschaftlichen Vergabe auf Lebenszykluskosten. Zulässig nach Artikel 68 der Vergaberichtlinie und § 59 der Vergabeverordnung – es braucht kein Gesetz, nur Vergabestellen, die rechnen können. Und dabei ist die rechtliche Grenze mitzudenken, damit der Hebel nicht auf einer rechtswidrigen Annahme ruht: *Soziale und ökologische Anforderungen an den Auftragsgegenstand und an die Ausführungsbedingungen sind zulässig; die Bevorzugung bestimmter Trägerformen ist es nicht.* Der Sektor erzwingt Standards über Kriterien, nicht über Trägerpräferenz.
 
@@ -86,7 +86,7 @@ Er hat Zeit, ist aber nicht optional.
 
 ### Und wenn das Fenster zufällt?
 
-Eine ehrliche Frage, denn sie ist wahrscheinlich. Vier Jahre Gesetzgebung sind optimistisch, und die Welle wartet nicht.
+Eine ehrliche Frage, denn dieser Fall ist wahrscheinlich. Vier Jahre Gesetzgebung sind optimistisch, und die Welle wartet nicht.
 
 Dann greift ein Ersatzweg aus drei Teilen.
 

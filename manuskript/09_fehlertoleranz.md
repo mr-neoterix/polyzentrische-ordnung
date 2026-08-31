@@ -12,7 +12,7 @@ Damit hat dieses Buch sein oberstes Ordnungskriterium, und es heißt **Fehlertol
 
 ### Warum die DDR nicht lernen konnte
 
-Die Rückschau auf die Kapitel zwei bis vier lässt sich unter diesem Kriterium neu ordnen, und die Ordnung ist erhellend.
+Die Rückschau auf die Kapitel zwei bis vier lässt sich unter diesem Kriterium neu ordnen.
 
 Die DDR hatte keine Fehlertoleranz, weil sie kein partielles Scheitern zuließ. Ein Betrieb konnte nicht untergehen, denn sein Untergang wäre ein Urteil über den Plan gewesen, und der Plan war ein Urteil über die Partei. Ein Bezirk konnte nicht sichtbar schlechter dastehen als ein anderer, denn die Ursache wäre eine Führungsfrage gewesen. Ein Reformversuch konnte nicht als Experiment mit offenem Ausgang laufen, denn ein Experiment kann misslingen, und die Partei irrte nicht.
 
@@ -34,21 +34,21 @@ Fagor Electrodomésticos war die älteste und symbolträchtigste Genossenschaft 
 
 Was zuvor geschehen war, ist der eigentliche Gegenstand dieses Kapitels. Der Verbund hatte Fagor mit rund 300 Millionen Euro gestützt. Dann forderte Fagor weitere 180 Millionen. Und der Verbund – der Zusammenschluss von Genossenschaften, deren gemeinsame Geschichte an dieser einen hing, deren Solidarität ihr Gründungsmythos ist – sagte nein.
 
-Ein Kritiker liest diesen Fall als Widerlegung: Seht her, auch die Genossenschaft geht pleite. Mit den Kriterien dieses Buches gelesen ist er das genaue Gegenteil.
+Ein Kritiker liest diesen Fall als Widerlegung: Seht her, auch die Genossenschaft geht pleite. Mit den Kriterien dieses Buches gelesen ist der Fall das genaue Gegenteil.
 
-Ein Element scheiterte. Die Föderation hielt die Budgetbeschränkung hart – gegen ihr eigenes Gründungsmitglied, gegen die Symbolik, gegen den internen Druck. Das Ganze überlebte; der Verbund existiert und beschäftigt heute über siebzigtausend Menschen. Und ein Teil der betroffenen Mitglieder wurde aufgefangen: über Solidarfonds und durch Umsetzung in andere Genossenschaften des Verbunds, ein Mechanismus, den es in einem konventionellen Konzern in dieser Form nicht gibt.
+Ein Element scheiterte. Die Föderation, der Verbund der selbständigen Genossenschaften, hielt die Budgetbeschränkung hart – gegen ihr eigenes Gründungsmitglied, gegen die Symbolik, gegen den internen Druck. Das Ganze überlebte; der Verbund existiert und beschäftigt heute über siebzigtausend Menschen. Und ein Teil der betroffenen Mitglieder wurde aufgefangen: über Solidarfonds und durch Umsetzung in andere Genossenschaften des Verbunds, ein Mechanismus, den es in einem konventionellen Konzern in dieser Form nicht gibt.
 
 Man vergleiche das mit dem, was in der DDR geschehen wäre – und mit dem, was bei den Landesbanken geschehen ist. Dort wurde gestützt, weil das Scheitern politisch teurer war als das Auffangen. Hier wurde nicht gestützt, obwohl das Scheitern symbolisch teurer war als das Auffangen. Das ist der Unterschied zwischen einer weichen und einer harten Budgetbeschränkung, vorgeführt an einem Fall, in dem die weiche Variante alle Sympathien auf ihrer Seite hatte.
 
 Und jetzt die andere Hälfte des Falls. Die Aufnahmekapazität des Verbunds war endlich – es konnten nicht alle untergebracht werden. Und die Beschäftigten der ausländischen Tochtergesellschaften waren gar nicht geschützt, weil sie keine Mitglieder waren, sondern Lohnarbeiter in Betrieben, die einer Genossenschaft gehörten. Als Fagor fiel, traf es genau sie am härtesten.
 
-Der Fall trägt also beide Lehren, und beide werden in diesem Buch verwertet: die Fehlertoleranz als Konstruktionserfolg und die Insider-Outsider-Grenze als die größte offene Flanke der ganzen Architektur. Sie steht im Ledger dieses Buches und wird dort nicht wegargumentiert.
+Der Fall trägt also beide Lehren, und beide werden in diesem Buch verwertet: die Fehlertoleranz als Konstruktionserfolg und die Insider-Outsider-Grenze – die Trennlinie zwischen den geschützten Mitgliedern und den ungeschützten Nichtmitgliedern – als die größte offene Flanke der ganzen Architektur. Diese Flanke steht im Ledger dieses Buches und wird dort nicht wegargumentiert.
 
 Was bleibt, ist ein Satz, der als Formel für dieses ganze Buch taugt: **Scheitert ein Modell, stirbt das Modell – nicht das Land.**
 
 ### Zwischenbilanz der Diagnose
 
-Damit ist der diagnostische Teil abgeschlossen. Bevor der konstruktive beginnt, sei zusammengezogen, was er ergeben hat – nicht als Wiederholung, sondern als Prüfliste, an der sich alles Weitere messen lassen muss.
+Damit ist der diagnostische Teil abgeschlossen. Bevor der konstruktive beginnt, sei zusammengezogen, was der diagnostische ergeben hat – nicht als Wiederholung, sondern als Prüfliste, an der sich alles Weitere messen lassen muss.
 
 *Erstens:* Die DDR war nicht akut insolvent, sondern strukturell erschöpft. Sie verzehrte ihre Substanz, weil ihr die beiden Geräte fehlten, die Substanzverzehr sichtbar machen: Preise und Insolvenz.
 
