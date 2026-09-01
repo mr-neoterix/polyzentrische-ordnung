@@ -237,9 +237,17 @@
   \par\bigskip
   \stepcounter{belegblock}%
   \pdfbookmark[1]{Belege}{belege.\thebelegblock}%
-  \noindent\textcolor{leise}{\rule{0.3\linewidth}{0.4pt}}\par
-  \nobreak\vspace{0.9em}%
-  \nobreak{\normalfont\scshape\color{akzent}Belege}\par
+  % Strich und „Belege“ bilden einen einzigen zweizeiligen Absatz, nicht zwei
+  % durch \nobreak verbundene Einzeiler. So kann der Strich nie das letzte
+  % Element einer Seite werden: Der Umbruch zwischen den beiden Zeilen ist durch
+  % \clubpenalty und \widowpenalty (beide 10000, siehe oben) gesperrt – dieselbe
+  % Sperre, die Schusterjungen und Hurenkinder verhindert –, verstärkt durch das
+  % \\* des Zeilenumbruchs. Zwei durch \nobreak getrennte Absätze taten das
+  % nicht zuverlässig: Dort fiel der Seitenumbruch bisweilen auf die Glue nach
+  % dem Strich und ließ ihn allein am Fuß der Seite zurück. Das \hfill\null füllt
+  % die kurze Strichzeile, damit sie nicht als „underfull“ gemeldet wird.
+  \noindent\textcolor{leise}{\rule{0.3\linewidth}{0.4pt}}\hfill\null\\*[0.9em]%
+  {\normalfont\scshape\color{akzent}Belege}\par
   \nobreak\vspace{0.5em}%
   \begingroup
     \small
