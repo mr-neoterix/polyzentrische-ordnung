@@ -27,7 +27,9 @@
 % Buchformat 14,8 × 21,0 cm. Der Satzspiegel ist gegenüber dem früheren
 % A4-Stand mitgeschrumpft: 108 mm Zeilenbreite tragen bei 10 pt Pagella rund
 % zweiundsechzig Zeichen und damit eine noch lesbare Zeile; unten steht mehr
-% Rand als oben, damit die Seite nicht kippt.
+% Rand als oben, damit die Seite nicht kippt. Die Zeichenzahl ist an Pagella
+% gemessen – läuft die Probeschrift enger oder weiter, ist sie am gesetzten
+% Bogen nachzuzählen, bevor jemand am Satzspiegel dreht.
 %
 % Seit dem zweiseitigen Satz heißen die seitlichen Ränder nicht mehr links
 % und rechts, sondern innen und außen, und sie sind ungleich: Der Bund
@@ -45,19 +47,37 @@
 % --------------------------------------------------------------------------
 % Schrift
 % --------------------------------------------------------------------------
-% Pagella (ein Palatino-Nachbau) ist für deutsche Fließtextprosa gebaut:
-% offene Formen, kräftiges ß, ruhige Umlaute.
-
+% ACHTUNG, PROBEZWEIG. Hier steht Alegreya, wo der Hauptzweig Pagella setzt.
+% Dieser Zweig ist zum Ansehen da und nicht zum Zusammenführen: Entschieden
+% wird am gesetzten Bogen, nicht an dieser Datei. Wer zurück will, holt den
+% Block aus dem Hauptzweig; sonst ist an der Vorlage nichts zu ändern.
+%
+% Warum überhaupt geprüft wird: Alegreya (Huerta Tipográfica, Juan Pablo del
+% Peral) ist ausdrücklich für den Literatursatz entworfen und bringt eine
+% lebendige, deutlich geneigte Kursive mit. Genau daran hängt dieses Buch,
+% denn seine Hausregeln verbieten Listen und führen jede Aufzählung als
+% kursives Inline-Label: gut zweitausend kursive Auszeichnungen, davon rund
+% fünfhundert solche Labels. Eine Kursive, die sich von der Geraden kaum
+% absetzt, träfe das Buch also härter als gewöhnliche Prosa.
+%
 % Angesprochen werden die Schriftdateien, nicht die Schriftnamen: So findet
 % LuaTeX sie über den TeX-Baum auch dort, wo kein Fontconfig-Zwischenspeicher
 % gepflegt ist – etwa in einem frisch aufgesetzten Bauläufer.
+%
+% Die Kapitälchen sind der Grund für die vorletzte Zeile. Alegreya führt sie
+% als eigene Familie (AlegreyaSC) und nicht als Merkmal der Grundschrift;
+% ohne die ausdrückliche Zuweisung bekäme \scshape stillschweigend Gemeine,
+% und das träfe die Kapitelmarke und den Belege-Kopf jedes der siebenund-
+% zwanzig Kapitel, ohne dass der Lauf etwas meldete. Beide Stellen setzen
+% aufrechte Kapitälchen; ein Schnitt genügt deshalb.
 
-\setmainfont{texgyrepagella}[
+\setmainfont{Alegreya}[
   Extension = .otf,
-  UprightFont = *-regular,
-  ItalicFont = *-italic,
-  BoldFont = *-bold,
-  BoldItalicFont = *-bolditalic,
+  UprightFont = *-Regular,
+  ItalicFont = *-Italic,
+  BoldFont = *-Bold,
+  BoldItalicFont = *-BoldItalic,
+  SmallCapsFont = AlegreyaSC-Regular,
   Ligatures = TeX,
 ]
 \setsansfont{texgyreheros}[

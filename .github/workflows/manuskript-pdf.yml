@@ -94,6 +94,12 @@ jobs:
           } >> "$GITHUB_OUTPUT"
           echo "Diese Ausgabe: ${kennung}"
 
+      # PROBEZWEIG: texlive-fonts-extra bringt Alegreya mit. Das Paket ist mit
+      # rund 630 MB Herunterladen und 1,7 GB auf der Platte deutlich zu groß
+      # für zehn Schriftdateien und kostet den Lauf zwei bis drei Minuten.
+      # Für eine Probe ist das der langweiligste verlässliche Weg; bliebe es
+      # bei Alegreya, gehörten die Schnitte stattdessen ins Verzeichnis oder
+      # in ein schlankeres Paket.
       - name: Satzwerkzeuge einrichten
         run: |
           sudo apt-get update -qq
@@ -104,8 +110,36 @@ jobs:
             texlive-latex-recommended \
             texlive-lang-german \
             texlive-fonts-recommended \
+            texlive-fonts-extra \
             fonts-texgyre \
             poppler-utils
+
+      # Die Vorlage spricht die Schriftdateien über ihre Namen an. Stimmen
+      # die nicht, bricht erst LuaTeX ab und nennt eine Zeilennummer. Dieser
+      # Schritt bricht vorher ab und nennt den Grund – samt der Liste dessen,
+      # was wirklich im Baum liegt.
+      - name: Schriftdateien prüfen
+        run: |
+          set -uo pipefail
+          echo "Alegreya-Dateien im TeX-Baum:"
+          find /usr/share/texlive /usr/share/texmf /usr/local/share/texmf \
+            -iname 'Alegreya*.otf' 2>/dev/null | sort | sed 's/^/  /'
+          fehlt=0
+          for schnitt in Alegreya-Regular Alegreya-Italic Alegreya-Bold \
+                         Alegreya-BoldItalic AlegreyaSC-Regular; do
+            if ! kpsewhich "${schnitt}.otf" > /dev/null; then
+              echo "FEHLT: ${schnitt}.otf"
+              fehlt=1
+            fi
+          done
+          if [ "$fehlt" = "1" ]; then
+            echo
+            echo "Der Schriftblock in satz/vorlage.tex erwartet diese Namen."
+            echo "Weichen die oben gefundenen Dateien ab, ist der Block dort"
+            echo "anzupassen – nicht dieser Schritt."
+            exit 1
+          fi
+          echo "Alle erwarteten Schnitte vorhanden."
 
       - name: Buch setzen
         run: python3 satz/build.py --ausgabe '${{ steps.nummer.outputs.datei }}'

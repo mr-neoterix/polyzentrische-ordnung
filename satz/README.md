@@ -154,8 +154,8 @@ Nichts am Inhalt, zweierlei an der Form. Die Quellen setzen das öffnende
 Anführungszeichen typografisch und das schließende als geraden Zoll
 (`„Zitat"`); für den Satz wird daraus das deutsche Paar. Und hoch- oder
 tiefgestellte Ziffern (`CO₂`) werden aus der Brotschrift gesetzt, weil
-Pagella diese Zeichen nicht mitführt und LuaTeX sie sonst stillschweigend
-weglässt.
+Brotschriften diese Zeichen selten mitführen und LuaTeX sie sonst
+stillschweigend weglässt.
 
 Beides geschieht nur auf dem Weg ins PDF. Die Dateien in `manuskript/`
 bleiben, wie sie sind.
