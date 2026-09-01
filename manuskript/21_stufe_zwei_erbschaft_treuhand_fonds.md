@@ -4,7 +4,7 @@
 
 ---
 
-Stufe eins schafft einen Kanal. Stufe zwei speist ihn – und sie ist der Teil dieses Buches, an dem am meisten schiefgehen kann, weil hier zum ersten Mal nicht nur Politik, sondern Verfassungsrecht, Gesellschaftsrecht und Bewertungspraxis im Weg stehen.
+Stufe eins schafft einen Kanal. Stufe zwei speist ihn – und sie ist der Teil dieses Buches, an dem am meisten schiefgehen kann, weil hier zum ersten Mal neben der Politik auch Verfassungsrecht, Gesellschaftsrecht und Bewertungspraxis im Weg stehen.
 
 Das Kapitel geht deshalb anders vor als die vorigen. Es beschreibt zuerst den Gedanken, dann die Wände, an denen er in seiner naheliegenden Form scheitert, und dann die Fassung, die stehen bleibt.
 
@@ -18,7 +18,7 @@ Diese Zahlen werden in der politischen Debatte regelmäßig falsch benutzt, und 
 
 Die Privilegierung des Betriebsvermögens hat einen legitimen Kern. Wer ein Unternehmen erbt, hat Vermögen, aber keine Liquidität. Eine Steuer, die in Geld zu zahlen ist, zwingt ihn, Geld aus dem Betrieb zu ziehen oder Anteile zu verkaufen – und eine Steuer, die Betriebe zur Substanzentnahme zwingt, zerstört Arbeitsplätze.
 
-Der Reformgedanke dieser Ordnung nimmt diesen Kern ernst und dreht ihn um. *Die Steuer wird nicht in Geld erhoben, das dem Betrieb fehlt, sondern wahlweise in Anteilen, die er ohnehin hat.* Oberhalb hoher Freibeträge entfällt die pauschale Verschonung; stattdessen kann in Unternehmensanteilen gezahlt werden. Kein Euro verlässt den Betrieb.
+Der Reformgedanke dieser Ordnung nimmt diesen Kern ernst und dreht ihn um. *Die Steuer wird wahlweise in Anteilen erhoben, die der Betrieb ohnehin hat, und nicht in Geld, das ihm fehlt.* Oberhalb hoher Freibeträge entfällt die pauschale Verschonung; stattdessen kann in Unternehmensanteilen gezahlt werden. Kein Euro verlässt den Betrieb.
 
 Das ist der Gedanke. Nun die Wände.
 
@@ -28,7 +28,7 @@ An jedem Unternehmensanteil hängen zwei verschiedene Dinge: ein *Vermögensrech
 
 Drei Antworten sind möglich, und zwei davon sind falsch.
 
-*Die erste wäre, die Stimmrechte einer Fondsverwaltung zu geben.* Dann entsteht über Jahrzehnte genau die Machtkonzentration, an der der bekannteste Versuch dieser Art gescheitert ist. Rudolf Meidner, Chefökonom des schwedischen Gewerkschaftsbundes, entwarf 1975 einen Plan, nach dem profitable Unternehmen jährlich Aktien im Wert von zwanzig Prozent ihres Gewinns an kollektive, gewerkschaftlich kontrollierte Arbeitnehmerfonds abführen sollten. Der Gewerkschaftskongress nahm ihn 1976 an. Die Arbeitgeber mobilisierten dagegen in einem Ausmaß, das die schwedische Nachkriegsgeschichte nicht kannte, und ihr wirksamstes Argument war nicht ökonomisch, sondern demokratietheoretisch: Am Ende dieses Weges gehören die Unternehmen des Landes einer Handvoll Funktionäre. 1983 wurde nur eine stark verwässerte Fassung eingeführt; 1991/92 schaffte die Regierung Bildt die Fonds in einer einzigen Legislaturperiode ab.
+*Die erste wäre, die Stimmrechte einer Fondsverwaltung zu geben.* Dann entsteht über Jahrzehnte genau die Machtkonzentration, an der der bekannteste Versuch dieser Art gescheitert ist. Rudolf Meidner, Chefökonom des schwedischen Gewerkschaftsbundes, entwarf 1975 einen Plan, nach dem profitable Unternehmen jährlich Aktien im Wert von zwanzig Prozent ihres Gewinns an kollektive, gewerkschaftlich kontrollierte Arbeitnehmerfonds abführen sollten. Der Gewerkschaftskongress nahm ihn 1976 an. Die Arbeitgeber mobilisierten dagegen in einem Ausmaß, das die schwedische Nachkriegsgeschichte nicht kannte, und ihr wirksamstes Argument war demokratietheoretisch, nicht ökonomisch: Am Ende dieses Weges gehören die Unternehmen des Landes einer Handvoll Funktionäre. 1983 wurde nur eine stark verwässerte Fassung eingeführt; 1991/92 schaffte die Regierung Bildt die Fonds in einer einzigen Legislaturperiode ab.
 
 Wer diesen Weg wählt, baut den Zentralstaat des dritten Kapitels mit anderem Briefkopf.
 
@@ -46,7 +46,7 @@ Bei der Aktiengesellschaft kommt eine harte zahlenmäßige Grenze hinzu: Stimmre
 
 Damit ist die naheliegende Fassung erledigt. Die tragfähige lautet: *Die Zuordnung wird umgedreht, statt sie zu spalten.*
 
-Nicht der Fonds hält den Anteil und gibt die Stimme ab. Sondern eine *Belegschaftstreuhand* hält den Anteil – und weil die Stimme dem Anteil folgt, bleibt sie, wo sie hingehört. Der Ertrag wird dem Fonds nicht aus dem Anteil herausgetrennt, sondern über ein Recht zugeführt, das neben dem Anteil eigens für den Fonds begründet wird: gesondert bestellt. Drei Formen kommen dafür in Betracht. *Ein Nießbrauch am Anteil:* das Recht auf dessen Ertrag, ohne dass dem Fonds der Anteil selbst gehört. *Ein Genussrecht mit Vorabdividende:* ein vertraglicher Anspruch auf einen vorweg zugeteilten Gewinnanteil. *Oder eine Ergebnisbeteiligung, die auch in der Insolvenz Bestand hat.* Damit ist nichts abgespalten, sondern ein reiner Vermögensanspruch bestellt – und reine Vermögensansprüche sind übertragbar, das Stimmrecht ist es nicht. Genau das erlaubt das Recht.
+Nicht der Fonds hält den Anteil und gibt die Stimme ab. Sondern eine *Belegschaftstreuhand* hält den Anteil – und weil die Stimme dem Anteil folgt, bleibt sie, wo sie hingehört. Der Ertrag wird dem Fonds über ein Recht zugeführt, das neben dem Anteil eigens für ihn begründet wird, statt aus dem Anteil herausgetrennt zu werden: gesondert bestellt. Drei Formen kommen dafür in Betracht. *Ein Nießbrauch am Anteil:* das Recht auf dessen Ertrag, ohne dass dem Fonds der Anteil selbst gehört. *Ein Genussrecht mit Vorabdividende:* ein vertraglicher Anspruch auf einen vorweg zugeteilten Gewinnanteil. *Oder eine Ergebnisbeteiligung, die auch in der Insolvenz Bestand hat.* Damit ist nichts abgespalten, wohl aber ein reiner Vermögensanspruch bestellt – und reine Vermögensansprüche sind übertragbar, das Stimmrecht ist es nicht. Genau das erlaubt das Recht.
 
 Für den Erbschaftsteuerfall heißt das: Der Steuerpflichtige überträgt den Anteil an die Belegschaftstreuhand und dem Fonds das Ertragsrecht, in einem Vorgang. Wo weder eine Treuhand noch eine geloste Eigentümerversammlung zustande kommt, *ruht* das Stimmrecht bis zur Bildung eines Trägers, statt an die Fondsverwaltung zu fallen. Ruhende Stimmen sind unschöner als starke Stimmen, aber sie bauen keine Meidner-Konzentration.
 
@@ -56,7 +56,7 @@ Und weil es im Aktienrecht an der Fünfzig-Prozent-Grenze weiterhin klemmen kann
 
 Diese Konstruktion erzeugt einen neuen Interessenkonflikt, und er ist echt: *Die Belegschaft entscheidet, der Fonds trägt das Ertragsrisiko.* Gestritten werden wird über die Verwendung des Gewinns: ob er ausgeschüttet wird, in höhere Löhne geht, investiert wird oder die Kapitalkonten auffüllt – also die persönlichen Konten, auf denen jedes Mitglied seinen Anteil am einbehaltenen Überschuss stehen hat. Und die Berechtigten des Fonds sind Millionen Bürger mit kleinen Anwartschaften: das klassische diffuse Interesse aus Olsons Logik, das gegen ein konzentriertes stets den Kürzeren zieht. Das Muster der Rost-These – Regeln verfallen, weil konzentriertes Interesse diffuses schlägt – wiederholt sich im Inneren der eigenen Institution.
 
-Dass ein Konflikt zwischen sichtbaren Trägern besser ist als ein Anspruch ohne Verteidiger, stimmt – aber es ist noch keine Konstruktion. Die Konstruktion löst den Konflikt nicht auf, sondern macht ihn justiziabel – vor Gericht durchsetzbar –, in drei Stufen.
+Dass ein Konflikt zwischen sichtbaren Trägern besser ist als ein Anspruch ohne Verteidiger, stimmt – aber es ist noch keine Konstruktion. Die Konstruktion löst den Konflikt nicht auf; sie macht ihn justiziabel – vor Gericht durchsetzbar –, in drei Stufen.
 
 *Eine gesetzliche Mindestausschüttung* nach dem Vorbild der Vorabdividende: Ein definierter Anteil des ausschüttungsfähigen Jahresergebnisses steht dem Ertragsrecht zu, bevor die Versammlung über die Verwendung des Rests entscheidet – kumulativ, also nachzuzahlen, wenn ein Jahr ausfällt.
 
@@ -82,15 +82,15 @@ Und nun der Test, den die Finanzverfassung stellt und den keine Steuerreform üb
 
 Das Aufkommen der Erbschaft- und Schenkungsteuer steht nach Artikel 106 Absatz 2 des Grundgesetzes den *Ländern* zu. Verwaltet wird sie nach Artikel 108 Absatz 2 ebenfalls von den Ländern. Und ein Bundesgesetz über sie bedarf nach Artikel 105 Absatz 3 der Zustimmung des Bundesrates.
 
-Eine Reform, die die Steuer teilweise in Anteile umwandelt und diese Anteile einer neuen bundesweiten Institution zuführt, verschiebt damit Ertragshoheit. Sie ist nicht bloß Steuerpolitik, sondern Finanzverfassungspolitik – und sie scheitert im Bundesrat, wenn sie den Ländern Einnahmen entzieht. Sechzehn Landesregierungen jeder Couleur sind sich in wenigen Dingen so einig wie darin.
+Eine Reform, die die Steuer teilweise in Anteile umwandelt und diese Anteile einer neuen bundesweiten Institution zuführt, verschiebt damit Ertragshoheit. Sie ist Finanzverfassungspolitik, nicht bloß Steuerpolitik – und sie scheitert im Bundesrat, wenn sie den Ländern Einnahmen entzieht. Sechzehn Landesregierungen jeder Couleur sind sich in wenigen Dingen so einig wie darin.
 
-Die Lösung ist keine Notlösung, sondern die passende Form: *Die Fondsfamilie wird als Länderfamilie gebaut.* Jedes Land führt seinen Fonds oder tritt einem gemeinsamen Fonds mehrerer Länder bei; die Anteile aus der Steuer eines Landes fließen in dessen Fonds; die Berechtigten können über Landesgrenzen hinweg wechseln, was den Wettbewerb zwischen den Häusern erst scharf macht. Der Bund regelt nur das Mandat, die Konsolidierungssperre, die Rechte der Berechtigten und die Bewertung.
+Die Lösung ist die passende Form: *Die Fondsfamilie wird als Länderfamilie gebaut.* Jedes Land führt seinen Fonds oder tritt einem gemeinsamen Fonds mehrerer Länder bei; die Anteile aus der Steuer eines Landes fließen in dessen Fonds; die Berechtigten können über Landesgrenzen hinweg wechseln, was den Wettbewerb zwischen den Häusern erst scharf macht. Der Bund regelt nur das Mandat, die Konsolidierungssperre, die Rechte der Berechtigten und die Bewertung.
 
 Das kostet Einheitlichkeit und gewinnt Mehrheitsfähigkeit. Und es ist ein Beispiel dafür, dass der deutsche Föderalismus hier den Zuschnitt frei Haus liefert, den die Ordnung ohnehin braucht.
 
 ### Warum es mehrere Fonds sein müssen
 
-Denn die Zahl der Fonds ist keine Verwaltungsfrage, sondern eine Ordnungsfrage.
+Denn die Zahl der Fonds ist eine Ordnungsfrage.
 
 Ein einziger Bürgerfonds wäre eine monozentrische Antwort auf ein polyzentrisches Problem: ein einziger Angriffspunkt für politischen Zugriff – Industriepolitik, Rettungsaktionen, Verteidigungsfinanzierung –, für Kaperung durch die Verwaltungselite und für Abschaffung mit einem einzigen Gesetz. Also mehrere Häuser mit identischem Mandat, getrennten Verwaltungen, getrenntem Kapitalstock und regionalem Zuschnitt, zwischen denen die Berechtigten wechseln können. Exit als Disziplin, angewandt auf die eigene Institution.
 
@@ -98,9 +98,9 @@ Der empirische Anker ist doppelt lehrreich. Schweden legte die Pufferfonds AP1 b
 
 Das ist die Rost-These an der eigenen Konstruktion. Polyzentrische Fondsarchitekturen stehen unter dauerhaftem Konsolidierungsdruck, und der Druck argumentiert immer mit Effizienz – nie mit Machtinteresse, immer mit Kosten je verwalteter Milliarde. Wer den Fonds pluralisiert, muss die *Konsolidierungssperre* mitbauen: eine gesetzliche Mindestzahl von Häusern, getrennte Verwahrstellen, qualifizierte Mehrheit für jede Zusammenlegung, und die Pflicht, den Effizienzgewinn einer Fusion gegen den Verlust an Wechselmöglichkeit *öffentlich zu rechnen* und die Rechnung zu archivieren.
 
-Das allein ist aber wieder nur eine Regel, und Regeln kann eine Mehrheit ändern. Die Sperre wird erst haltbar, wenn sie nach demselben Prinzip gebaut wird wie alles andere in diesem Buch – wenn sie einen Träger bekommt. Also: *Eine Zusammenlegung bedarf der Zustimmung der Berechtigten des betroffenen Hauses.* Nicht eines Gremiums, das für sie spricht, sondern einer Abstimmung unter denen, deren Anwartschaften verschoben werden sollen.
+Das allein ist aber wieder nur eine Regel, und Regeln kann eine Mehrheit ändern. Die Sperre wird erst haltbar, wenn sie nach demselben Prinzip gebaut wird wie alles andere in diesem Buch – wenn sie einen Träger bekommt. Also: *Eine Zusammenlegung bedarf der Zustimmung der Berechtigten des betroffenen Hauses.* Zustimmen muss eine Abstimmung unter denen, deren Anwartschaften verschoben werden sollen, und kein Gremium, das für sie spricht.
 
-Das klingt schwerfällig und ist der Punkt. Es verwandelt eine Fusion aus einem Verwaltungsvorgang, den man mit Skaleneffekten begründet, in einen Vorgang, bei dem einige Millionen Menschen gefragt werden müssen, warum ihnen die Wahlmöglichkeit genommen wird. Und es greift nur, wenn die Berechtigten wirklich Berechtigte sind – weshalb das Eigenbeitragselement, von dem gleich noch die Rede sein wird, nicht nur den Bestandsschutz trägt, sondern auch diese Sperre. Wer eingezahlt hat, wird gefragt.
+Das klingt schwerfällig und ist der Punkt. Es verwandelt eine Fusion aus einem Verwaltungsvorgang, den man mit Skaleneffekten begründet, in einen Vorgang, bei dem einige Millionen Menschen gefragt werden müssen, warum ihnen die Wahlmöglichkeit genommen wird. Und es greift nur, wenn die Berechtigten wirklich Berechtigte sind – weshalb das Eigenbeitragselement, von dem gleich noch die Rede sein wird, neben dem Bestandsschutz auch diese Sperre trägt. Wer eingezahlt hat, wird gefragt.
 
 Die schwedische Erfahrung ist damit nicht widerlegt, aber sie ist nicht mehr das wahrscheinlichste Ergebnis: Die AP-Fonds hatten Berechtigte, aber keine Berechtigten mit Stimme. Und wenn die Vielzahl trotzdem verloren geht, existiert wenigstens ein Protokoll des Verfalls, aus dem die nächste Konstruktion lernen kann.
 
@@ -130,7 +130,7 @@ Diese Antwort ist schwächer, als sie klingt. Die Rechtsprechung des Bundesverfa
 
 Die Übertragung dieser Rechtsprechung auf eine Fondsanwartschaft ist eine Schlussfolgerung dieses Buches und keine gerichtliche Entscheidung; niemand hat den Fall bisher entschieden. Aber die Richtung ist deutlich genug, um nicht auf die günstige Auslegung zu wetten.
 
-Also wird Eigenleistung eingebaut, statt sie zu behaupten – in einer Form, die zur Ordnung passt. *Ein Eigenbeitragselement:* Die Anwartschaft entsteht nicht durch Geburt, sondern durch eine geringe, sozial gestaffelte Einzahlung oder durch die Einbringung eines Teils der individuellen Kapitalkonten aus dem Belegschaftssektor. Wer nichts einbringt, erhält eine Grundanwartschaft mit schwächerem Schutz, wer einbringt, eine geschützte. *Frühe und regelmäßige Auszahlungen,* denn eine Position, aus der seit Jahren Erträge fließen, erzeugt Vertrauensschutz-Tatsachen, die eine Mehrheit teurer zu beseitigen hat als eine bloße Aussicht. *Und Übertragbarkeit im Erbfall in engen Grenzen,* was den Charakter der Zuwendung endgültig in den einer Rechtsposition wandelt.
+Also wird Eigenleistung eingebaut, statt sie zu behaupten – in einer Form, die zur Ordnung passt. *Ein Eigenbeitragselement:* Die Anwartschaft entsteht durch eine geringe, sozial gestaffelte Einzahlung oder durch die Einbringung eines Teils der individuellen Kapitalkonten aus dem Belegschaftssektor, nicht durch Geburt. Wer nichts einbringt, erhält eine Grundanwartschaft mit schwächerem Schutz, wer einbringt, eine geschützte. *Frühe und regelmäßige Auszahlungen,* denn eine Position, aus der seit Jahren Erträge fließen, erzeugt Vertrauensschutz-Tatsachen, die eine Mehrheit teurer zu beseitigen hat als eine bloße Aussicht. *Und Übertragbarkeit im Erbfall in engen Grenzen,* was den Charakter der Zuwendung endgültig in den einer Rechtsposition wandelt.
 
 Und wenn diese Elemente politisch nicht gewollt sind, dann gehört der Preis in den Text: Der Fonds ist dann so abschaffbar wie die schwedischen Lohnempfängerfonds, und die Ordnung muss ihren Bestand aus dem Belegschaftssektor beziehen und nicht aus dem Fonds. **Eigentum verteidigt sich – aber nur, wenn es Eigentum ist.**
 
@@ -140,7 +140,7 @@ Was unabhängig davon gilt und den Belastungstest besteht, ist die genossenschaf
 
 Er folgt derselben Logik.
 
-*Die Steuerklassen der Erbschaftsteuer,* die neben die Abstammung die geleistete Sorge setzen – begründet im dreizehnten Kapitel. Für diese Stufe ist daran zweierlei wichtig. Die Änderung ist zustimmungsbedürftig und kostet die Länder Aufkommen; sie gehört deshalb in dasselbe Verhandlungspaket wie die Fondsfamilie, in dem die Länder etwas bekommen, statt einzeln in den Bundesrat zu gehen. Und sie besteht den Belastungstest besser als alles andere in dieser Stufe: Eine Steuerklasse ist kein Programm, das man auslaufen lässt, sondern ein Paragraph, dessen Streichung ein sichtbarer Beschluss ist.
+*Die Steuerklassen der Erbschaftsteuer,* die neben die Abstammung die geleistete Sorge setzen – begründet im dreizehnten Kapitel. Für diese Stufe ist daran zweierlei wichtig. Die Änderung ist zustimmungsbedürftig und kostet die Länder Aufkommen; sie gehört deshalb in dasselbe Verhandlungspaket wie die Fondsfamilie, in dem die Länder etwas bekommen, statt einzeln in den Bundesrat zu gehen. Und sie besteht den Belastungstest besser als alles andere in dieser Stufe: Eine Steuerklasse ist kein Programm, das man auslaufen lässt. Sie ist ein Paragraph, dessen Streichung ein sichtbarer Beschluss ist.
 
 *Plattform- und Kartellrecht mit echter Entflechtungskompetenz,* weil Netzwerkeffekte Monopole erzeugen, die kein Verhaltensrecht bändigt. *Medienkonzentrationsrecht mit Zähnen,* weil der Sektorenwettbewerb um Köpfe sonst entschieden ist, bevor er beginnt – ergänzt um die Eigentumsseite desselben Ziels. Der Nachfolgekanal der Stufe eins gilt ausdrücklich auch für Medienunternehmen, denn ein Blatt im Eigentum seiner Leser oder seiner Redaktion braucht keine Aufsicht, um unverkäuflich zu sein; die Begründung und die Fälle stehen im sechzehnten Kapitel. *Öffentliche digitale Basisinfrastruktur,* damit die Grundlagen des Marktes niemandem privat gehören: Glasfaser wie Straßen, quelloffene Verwaltungssoftware, föderierte Protokolle als geförderter Standard – gemeinsame Regeln, nach denen Dienste zusammenarbeiten, ohne einem Anbieter zu gehören. *Geloste Beteiligung* auf Landes- und Bundesebene für definierte Fragetypen, weil ein durch Los besetztes Gremium keine Klientel zu bedienen hat, mit dem Verfahrensdesign aus dem sechzehnten Kapitel. Und *Transparenzpflichten:* maschinenlesbare Echtzeitdaten aller öffentlichen und gemeinwirtschaftlichen Träger – zugleich das Ersatz-Preissystem des Allmende-Sektors und das Frühwarnsystem gegen dessen weiche Budgetbeschränkung.
 

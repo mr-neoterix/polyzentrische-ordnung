@@ -14,7 +14,7 @@ Sie hat heute drei realistische Ausgänge. *Verkauf an einen Wettbewerber,* meis
 
 In der hier beschriebenen Ordnung gibt es einen vierten Ausgang.
 
-Die Belegschaft wird spätestens sechs Monate vor einem Verkauf informiert und erhält ein *Andienungsrecht*: Sie darf zum gleichen Preis erwerben wie ein Dritter. Die Inhaberin ist nicht gezwungen, an sie zu verkaufen – es ist kein Kontrahierungszwang, sondern ein Gleichpreisrecht mit Finanzierungsgarantie. Warum diese Konstruktion und nicht das schärfere Vorkaufsrecht – das die Inhaberin zum Verkauf an die Belegschaft zwingen würde –, gehört in den Umsetzungspfad; die kurze Antwort ist, dass Frankreich das schärfere Instrument versucht hat und dass es verfassungsrechtlich gestutzt wurde.
+Die Belegschaft wird spätestens sechs Monate vor einem Verkauf informiert und erhält ein *Andienungsrecht*: Sie darf zum gleichen Preis erwerben wie ein Dritter. Die Inhaberin ist nicht gezwungen, an sie zu verkaufen – es ist ein Gleichpreisrecht mit Finanzierungsgarantie, kein Kontrahierungszwang. Warum diese Konstruktion und nicht das schärfere Vorkaufsrecht – das die Inhaberin zum Verkauf an die Belegschaft zwingen würde –, gehört in den Umsetzungspfad; die kurze Antwort ist, dass Frankreich das schärfere Instrument versucht hat und dass es verfassungsrechtlich gestutzt wurde.
 
 Die Finanzierung besteht aus vier Teilen. *Ein Verkäuferdarlehen* über einen Teil des Kaufpreises, verzinst und aus dem Cashflow bedient – die Inhaberin bekommt ihr Geld über Jahre statt sofort, dafür einen Zins und einen Steuervorteil. *Ein langfristiger Bankkredit* der Genossenschaftsbank gegen Cashflow und Sicherheiten. *Eine stimmrechtsarme Beteiligung* mit gedeckelter Rendite und definierter Ablösung aus der Fondsfamilie. Und *die Kapitalkonten der Mitglieder*, in die über die folgenden Jahre einbehaltene Überschüsse fließen – sie tragen anfangs wenig und werden mit der Zeit die tragende Säule.
 
@@ -34,11 +34,11 @@ In der hier beschriebenen Ordnung passiert dreierlei.
 
 *Das Netzeigentum geht an die Kommune oder eine Netzgenossenschaft und bleibt dort.* Es wird nicht mehr verkauft und nicht mehr verpachtet; es ist Anlagevermögen der Allgemeinheit, so wie die Straßen.
 
-*Die Betriebsführung wird für zehn Jahre vergeben,* mit veröffentlichten Kosten- und Qualitätskennzahlen im Vergleich zu anderen Netzbetreibern – Netzverluste, Störungsminuten je Kunde und Jahr, Erneuerungsrate, Kosten je Kilometer. Die Zahlen kommen nicht aus Meldungen des Stadtwerks, sondern aus den Systemen, testiert und stichprobenweise geprüft. Fällt das Stadtwerk in diesem Vergleich zwei Perioden hintereinander hinter die Vergleichsgruppe, verliert es die Betriebsführung an einen anderen Betreiber: ein Stadtwerk aus der Nachbarregion, eine Sekundärgenossenschaft mehrerer Stadtwerke, notfalls einen privaten Betreiber. Das Personal geht vertraglich mit über, weil das Standardvertragswerk es anordnet, statt auf die Rechtsprechung zu warten.
+*Die Betriebsführung wird für zehn Jahre vergeben,* mit veröffentlichten Kosten- und Qualitätskennzahlen im Vergleich zu anderen Netzbetreibern – Netzverluste, Störungsminuten je Kunde und Jahr, Erneuerungsrate, Kosten je Kilometer. Die Zahlen kommen aus den Systemen statt aus Meldungen des Stadtwerks, testiert und stichprobenweise geprüft. Fällt das Stadtwerk in diesem Vergleich zwei Perioden hintereinander hinter die Vergleichsgruppe, verliert es die Betriebsführung an einen anderen Betreiber: ein Stadtwerk aus der Nachbarregion, eine Sekundärgenossenschaft mehrerer Stadtwerke, notfalls einen privaten Betreiber. Das Personal geht vertraglich mit über, weil das Standardvertragswerk es anordnet, statt auf die Rechtsprechung zu warten.
 
 Das Netz läuft weiter. Der Betreiber stirbt.
 
-*Und das Bad erscheint als Zeile im Haushalt.* Eine offen beschlossene politische Zahlung, jährlich, mit einem Namen darunter. Nicht mehr eine Verrechnung, die im Konzernabschluss verschwindet, sondern ein Betrag, über den der Stadtrat abstimmen muss.
+*Und das Bad erscheint als Zeile im Haushalt.* Eine offen beschlossene politische Zahlung, jährlich, mit einem Namen darunter. Aus einer Verrechnung, die im Konzernabschluss verschwindet, wird ein Betrag, über den der Stadtrat abstimmen muss.
 
 Der Preis dieser Konstruktion ist, dass jemand die Zahlung verantworten muss, statt sie zu verrechnen. Genau das ist der Punkt. Ein Schwimmbad, das der Stadtrat jedes Jahr bewusst bezahlt, ist eine demokratische Entscheidung. Ein Schwimmbad, dessen Kosten niemand kennt, ist ein Gerücht mit Eintrittspreis.
 
@@ -54,7 +54,7 @@ Ein Bestand von 2.000 Wohnungen, gehalten von einer börsennotierten Gesellschaf
 
 Und hier stößt der Werktag an eine Wand, die kein Ordnungsentwurf umgehen kann.
 
-Das Investitionsschutzrecht kennt diese Abwägung nicht. Es besteht aus völkerrechtlichen Verträgen, die ausländischen Investoren erlauben, einen Staat vor einem internationalen Schiedsgericht zu verklagen, wenn dessen Maßnahmen ihre Investition entwerten. Ein solches Schiedsgericht ist kein staatliches Gericht: Es wird für den einzelnen Streit besetzt, und der Staat hat mit dem Vertrag im Voraus zugesagt, seinen Spruch zu befolgen. Diese Schiedsgerichte messen nicht an Artikel 14 Absatz 3, sondern am *vollen Marktwert*.
+Das Investitionsschutzrecht kennt diese Abwägung nicht. Es besteht aus völkerrechtlichen Verträgen, die ausländischen Investoren erlauben, einen Staat vor einem internationalen Schiedsgericht zu verklagen, wenn dessen Maßnahmen ihre Investition entwerten. Ein solches Schiedsgericht ist kein staatliches Gericht: Es wird für den einzelnen Streit besetzt, und der Staat hat mit dem Vertrag im Voraus zugesagt, seinen Spruch zu befolgen. Diese Schiedsgerichte messen am *vollen Marktwert*, nicht an Artikel 14 Absatz 3.
 
 Der deutsche Anschauungsfall ist der Atomausstieg. Der schwedische Konzern Vattenfall verlangte in einem Verfahren vor dem Schiedszentrum ICSID – dem Internationalen Zentrum zur Beilegung von Investitionsstreitigkeiten – rund 4,7 Milliarden Euro. Der außergerichtliche Vergleich vom März 2021 kostete den Bund 1,425 Milliarden Euro an Vattenfall und 880 Millionen an RWE. Deutschland ist inzwischen aus dem Energiecharta-Vertrag ausgetreten, wirksam im Juni 2025 – aber dessen Sunset-Klausel schützt Altinvestitionen weitere zwanzig Jahre, und bilaterale Investitionsschutzabkommen mit Drittstaaten kommen hinzu.
 
@@ -62,7 +62,7 @@ Das bedeutet: Bis in die vierziger Jahre dieses Jahrhunderts steht neben dem Gru
 
 Das ist keine Widerlegung dieser Ordnung. Es ist eine Bestätigung ihres achten Kapitels auf der Ebene des Völkerrechts.
 
-Daraus folgt eine Reihenfolge der Instrumente, und über sie entscheidet nicht die Entschlossenheit einer Regierung, sondern die Frage, welches Instrument ein Schiedsverfahren übersteht: **Kauf im Nachfolgefall und Konzessionsrückfall bei Auslaufen sind schiedsfest. Vergesellschaftung ist es nicht.**
+Daraus folgt eine Reihenfolge der Instrumente, und über sie entscheidet nicht die Entschlossenheit einer Regierung; es entscheidet die Frage, welches Instrument ein Schiedsverfahren übersteht: **Kauf im Nachfolgefall und Konzessionsrückfall bei Auslaufen sind schiedsfest. Vergesellschaftung ist es nicht.**
 
 Wer trotzdem vergesellschaften will, sollte den Preis kennen, ihn ausrechnen und die Entscheidung dann treffen.
 
