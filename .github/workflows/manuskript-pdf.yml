@@ -94,11 +94,9 @@ jobs:
           } >> "$GITHUB_OUTPUT"
           echo "Diese Ausgabe: ${kennung}"
 
-      # EINMALIG: texlive-fonts-extra ist nur noch da, um die Alegreya-Schnitte
-      # ein einziges Mal ins Verzeichnis zu holen (Schritt unten). Sobald sie
-      # dort liegen, faellt dieses Paket wieder heraus – 630 MB fuer fuenf
-      # Dateien sind nicht der Preis wert, und genau dieser Schritt ist im
-      # Lauf 121 haengen geblieben.
+      # Die Brotschrift steht in satz/schriften/ und braucht deshalb kein
+      # Schriftpaket mehr. fonts-texgyre bleibt: Heros und Latin Modern Mono
+      # kommen weiterhin aus dem TeX-Baum.
       - name: Satzwerkzeuge einrichten
         run: |
           sudo apt-get update -qq
@@ -109,29 +107,8 @@ jobs:
             texlive-latex-recommended \
             texlive-lang-german \
             texlive-fonts-recommended \
-            texlive-fonts-extra \
             fonts-texgyre \
             poppler-utils
-
-      # EINMALIG: Fehlen die Schnitte im Verzeichnis, holt der Laeufer sie aus
-      # dem TeX-Baum. Der naechste Commit nimmt diesen Schritt und das grosse
-      # Paket wieder heraus; danach kommen die Schriften nur noch aus dem
-      # Verzeichnis.
-      - name: Schriften bereitstellen (einmalig)
-        id: schriften
-        run: |
-          set -euo pipefail
-          quelle=/usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya
-          neu=nein
-          for schnitt in Alegreya-Regular Alegreya-Italic Alegreya-Bold \
-                         Alegreya-BoldItalic AlegreyaSC-Regular; do
-            if [ ! -f "satz/schriften/${schnitt}.otf" ]; then
-              cp "${quelle}/${schnitt}.otf" satz/schriften/
-              echo "  geholt: ${schnitt}.otf"
-              neu=ja
-            fi
-          done
-          echo "neu=${neu}" >> "$GITHUB_OUTPUT"
 
       # Die Vorlage spricht die Schriftdateien über ihre Namen an. Stimmen
       # die nicht, bricht erst LuaTeX ab und nennt eine Zeilennummer. Dieser
@@ -184,22 +161,6 @@ jobs:
             echo
             echo "Das PDF hängt als Artefakt **manuskript-pdf-${KENNUNG}** an diesem Lauf."
           } | tee -a "$GITHUB_STEP_SUMMARY"
-
-      # EINMALIG, faellt mit dem naechsten Commit weg. [skip ci] verhindert,
-      # dass dieser Schub einen weiteren Lauf ausloest.
-      - name: Schriften ins Verzeichnis übernehmen (einmalig)
-        if: steps.schriften.outputs.neu == 'ja'
-        run: |
-          set -euo pipefail
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add satz/schriften
-          git commit -m "Alegreya-Schnitte ins Verzeichnis gelegt [skip ci]" \
-            -m "Fuenf OTF-Dateien aus dem TeX-Live-Paket alegreya, mit denen der
-          Satz bereits erfolgreich gelaufen ist. Damit braucht der Bauläufer
-          texlive-fonts-extra nicht mehr. Die SIL Open Font License liegt als
-          OFL.txt daneben."
-          git push origin "HEAD:${GITHUB_REF_NAME}"
 
       - name: PDF als Artefakt ablegen
         uses: actions/upload-artifact@v4

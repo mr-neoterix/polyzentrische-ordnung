@@ -62,7 +62,7 @@ verloren auf der Seite oder läuft aus ihr heraus.
 
 Die Brotschrift ist **Alegreya** von Huerta Tipográfica, dazu **Alegreya SC**
 für die Kapitälchen der Kapitelmarken und der Belege-Köpfe. Beide liegen als
-OTF-Dateien in `schriften/` – fünf Schnitte, gut ein Megabyte.
+OTF-Dateien in `schriften/` – fünf Schnitte, 2,2 MB.
 
 Das hat zwei Gründe. Der Bauläufer müsste die Schnitte sonst aus einem
 Schriftpaket von 630 MB ziehen, und jeder Rechner setzt so mit denselben
