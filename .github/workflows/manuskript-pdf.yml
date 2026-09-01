@@ -162,7 +162,7 @@ jobs:
             echo "| Quellstand | \`${GITHUB_SHA:0:7}\` |"
             echo
             echo "Das PDF hängt als Artefakt **manuskript-pdf-${KENNUNG}** an diesem Lauf."
-          } >> "$GITHUB_STEP_SUMMARY"
+          } | tee -a "$GITHUB_STEP_SUMMARY"
 
       - name: PDF als Artefakt ablegen
         uses: actions/upload-artifact@v4
