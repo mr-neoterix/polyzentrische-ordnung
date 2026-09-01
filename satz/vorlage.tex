@@ -27,7 +27,11 @@
 % Buchformat 14,8 × 21,0 cm. Der Satzspiegel ist gegenüber dem früheren
 % A4-Stand mitgeschrumpft: 108 mm Zeilenbreite tragen bei 10 pt Pagella rund
 % zweiundsechzig Zeichen und damit eine noch lesbare Zeile; unten steht mehr
-% Rand als oben, damit die Seite nicht kippt.
+% Rand als oben, damit die Seite nicht kippt. Die Zeichenzahl stammt aus der
+% Pagella-Zeit und ist an Alegreya nicht nachgezählt; wer am Satzspiegel
+% dreht, zählt sie vorher am gesetzten Bogen nach. Bekannt ist nur die
+% Richtung: Alegreya läuft enger und setzt denselben Text auf 414 statt
+% 440 Seiten.
 %
 % Seit dem zweiseitigen Satz heißen die seitlichen Ränder nicht mehr links
 % und rechts, sondern innen und außen, und sie sind ungleich: Der Bund
@@ -45,29 +49,71 @@
 % --------------------------------------------------------------------------
 % Schrift
 % --------------------------------------------------------------------------
-% Pagella (ein Palatino-Nachbau) ist für deutsche Fließtextprosa gebaut:
-% offene Formen, kräftiges ß, ruhige Umlaute.
+% Alegreya (Huerta Tipográfica, Juan Pablo del Peral) ist für den
+% Literatursatz entworfen. Den Ausschlag gab ihre Kursive: Dieses Buch
+% verbietet sich Listen und führt jede Aufzählung als kursives Inline-Label
+% – gut zweitausend kursive Auszeichnungen, davon rund fünfhundert solche
+% Labels. Eine Kursive, die sich von der Geraden kaum absetzt, träfe es
+% darum härter als gewöhnliche Prosa.
+%
+% Die Schnitte liegen im Verzeichnis unter `satz/schriften/` und nicht im
+% TeX-Baum: zehn Dateien, 3,3 MB, beide Familien zusammen. Sie sparen dem
+% Bauläufer zwei Pakete – ein Schriftpaket von 630 MB für die zehn Dateien
+% und fonts-texgyre, das allein für die alte Serifenlose da war; zugleich
+% setzt jeder Rechner mit denselben Schnitten, ohne dass eine
+% Schriftverwaltung mitspielen muss. Die Lizenz (SIL Open Font License)
+% deckt beide Familien, liegt als `OFL.txt` daneben und gehört bei jeder
+% Weitergabe dazu.
+%
+% Nicht im Verzeichnis steht allein die Schreibmaschinenschrift: Latin
+% Modern Mono kommt weiter aus dem TeX-Baum. Sie trägt im ganzen Buch acht
+% Stellen, sämtlich in den Belegapparaten – Dateinamen, ein Paketname, eine
+% Registeradresse –, und für sie gibt es in dieser Werkstatt kein Gegenstück.
+%
+% Den Pfad reicht das Satzskript als Pandoc-Variable herein. Fehlt sie,
+% sucht LuaTeX wie zuvor im TeX-Baum – dann muss Alegreya dort liegen.
+%
+% Die Kapitälchen sind der Grund für die vorletzte Zeile. Alegreya führt sie
+% als eigene Familie (AlegreyaSC) und nicht als Merkmal der Grundschrift;
+% ohne die ausdrückliche Zuweisung bekäme \scshape stillschweigend Gemeine,
+% und das träfe die Kapitelmarke und den Belege-Kopf jedes der siebenund-
+% zwanzig Kapitel, ohne dass der Lauf etwas meldete. Beide Stellen setzen
+% aufrechte Kapitälchen; ein Schnitt genügt deshalb.
 
-% Angesprochen werden die Schriftdateien, nicht die Schriftnamen: So findet
-% LuaTeX sie über den TeX-Baum auch dort, wo kein Fontconfig-Zwischenspeicher
-% gepflegt ist – etwa in einem frisch aufgesetzten Bauläufer.
-
-\setmainfont{texgyrepagella}[
+\setmainfont{Alegreya}[
+$if(schriftverzeichnis)$
+  Path = $schriftverzeichnis$,
+$endif$
   Extension = .otf,
-  UprightFont = *-regular,
-  ItalicFont = *-italic,
-  BoldFont = *-bold,
-  BoldItalicFont = *-bolditalic,
+  UprightFont = *-Regular,
+  ItalicFont = *-Italic,
+  BoldFont = *-Bold,
+  BoldItalicFont = *-BoldItalic,
+  SmallCapsFont = AlegreyaSC-Regular,
   Ligatures = TeX,
 ]
-\setsansfont{texgyreheros}[
+% Die Serifenlose ist Alegreya Sans, die Schwesterfamilie derselben
+% Werkstatt. Im Buchkörper kommt sie praktisch nicht vor – die Überschriften
+% stehen unten ausdrücklich auf \normalfont, weil KOMA sie sonst serifenlos
+% setzte –, aber ein zweites Schriftbild danebenzustellen, das mit dem
+% ersten nichts zu tun hat, ist eine Mischung ohne Grund. Deshalb steht hier
+% kein `Scale = MatchLowercase`: Die beiden Familien sind aufeinander
+% gezeichnet und haben dieselbe x-Höhe; skaliert würde gerade die Passung
+% zerstört, um derentwillen die Wahl getroffen ist. Die Kapitälchenzeile
+% steht aus demselben Grund wie oben: Sie kostet einen Schnitt und nimmt
+% dafür die Falle weg, dass ein späteres \sffamily\scshape stillschweigend
+% Gemeine bekäme.
+\setsansfont{AlegreyaSans}[
+$if(schriftverzeichnis)$
+  Path = $schriftverzeichnis$,
+$endif$
   Extension = .otf,
-  UprightFont = *-regular,
-  ItalicFont = *-italic,
-  BoldFont = *-bold,
-  BoldItalicFont = *-bolditalic,
+  UprightFont = *-Regular,
+  ItalicFont = *-Italic,
+  BoldFont = *-Bold,
+  BoldItalicFont = *-BoldItalic,
+  SmallCapsFont = AlegreyaSansSC-Regular,
   Ligatures = TeX,
-  Scale = MatchLowercase,
 ]
 \setmonofont{lmmono10}[
   Extension = .otf,

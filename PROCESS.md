@@ -146,6 +146,17 @@ Die Abgrenzung in einem Satz: **Das Ledger sagt, was dieses Buch nicht kann; die
 
 ---
 
+### K11 – Ebene der Überschrift „Wie dieses Buch entstanden ist"
+**Angelegt:** 01.09.2026.
+**Gegenstand:** Der Entstehungsabschnitt vom 29.08.2026 steht in `manuskript/00_inhalt.md` als `###` und damit innerhalb von „Über dieses Buch". Der Satz macht daraus eine Zwischenüberschrift ohne eigene Seite; eine eigene Seite bekäme er als `##`, weil allein der `\vorspann`-Befehl umbricht. Beides ist vertretbar: Der Abschnitt handelt vom Buch und passt unter dessen Überschrift, er ist aber auch der einzige Text des Vorspanns, der von der Herstellung statt vom Gegenstand spricht.
+**Was fehlt:** eine Entscheidung des Autors. Der Backlog führte sie bis zum 01.09.2026 gar nicht als Frage: Er behauptete „vier Vorspannabschnitte statt drei", einen Zählstand, den kein Lauf je gemeldet hat. Die Stelle ist dort berichtigt.
+**Nebenbefund, der die Frage schärft:** Es ist die **einzige Überschrift dritter Ebene im ganzen Buch**. Der Satz zieht die Überschriften der Kapiteldateien auf die Abschnittsebene hoch, die Inhaltsdatei nimmt er, wie sie ist; im erzeugten Quelltext steht deshalb genau ein `###`, und es ist dieses. Eine Ebene, die sonst nirgends vorkommt, ist entweder Absicht oder Versehen, und das ist der Kern der Frage.
+**Was ihn schließt:** entweder die Umstellung auf `##` samt Gegenlesen des Laufs (er meldete dann vier Vorspannabschnitte, und die Standzeile bliebe unberührt) oder die ausdrückliche Entscheidung, dass die Unterordnung gewollt ist – dann wandert der Eintrag nach Abschnitt II, damit die Frage nicht bei der nächsten Durchsicht neu aufgemacht wird.
+**Folge, falls offen:** gering und rein formal. Kein Befund, kein Beleg und keine Konstruktion hängt daran; der Abschnitt steht im Buch und wird gesetzt. Was bliebe, ist eine Ebene ohne Geschwister.
+**Betroffene Stellen:** `manuskript/00_inhalt.md`.
+
+---
+
 ## II. Geprüft und entschieden
 
 Was hier steht, ist kein Auftrag, sondern eine Warnung: Diese Fragen sind einmal geklärt worden und sehen aus, als wären sie es nicht.

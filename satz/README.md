@@ -51,11 +51,53 @@ Wer die Nummer lesen will, nimmt die andere der beiden Dateien.
 |---|---|
 | `build.py` | setzt die Kapitel zusammen und ruft Pandoc |
 | `vorlage.tex` | die Buchgestaltung: Schrift, Satzspiegel, Kapitelköpfe, Belegapparat |
+| `schriften/` | die Schriftschnitte selbst, samt Lizenz |
 
 Gesetzt wird auf 14,8 × 21,0 cm, dem üblichen Buchformat, nicht auf A4.
 Papierformat und Satzspiegel stehen im Kopf von `vorlage.tex` beieinander;
 wer das eine ändert, muss das andere mitziehen, sonst steht der Text
 verloren auf der Seite oder läuft aus ihr heraus.
+
+## Die Schriften liegen im Verzeichnis
+
+Die Brotschrift ist **Alegreya** von Huerta Tipográfica, die Serifenlose ihre
+Schwesterfamilie **Alegreya Sans**, dazu von beiden der Kapitälchenschnitt –
+gebraucht wird er für die Kapitelmarken und die Belege-Köpfe. Alle liegen als
+OTF-Dateien in `schriften/`: zehn Schnitte, 3,3 MB.
+
+Das hat zwei Gründe. Der Bauläufer müsste die Schnitte sonst aus einem
+Schriftpaket von 630 MB ziehen, und jeder Rechner setzt so mit denselben
+Dateien, ohne dass eine Schriftverwaltung mitspielen muss. Den Pfad reicht
+`build.py` als Pandoc-Variable an die Vorlage; fehlt sie, sucht LuaTeX wie
+sonst im TeX-Baum.
+
+Die Serifenlose kommt im Buchkörper praktisch nicht vor – die Überschriften
+stehen ausdrücklich auf `\normalfont`, weil KOMA sie sonst serifenlos setzte.
+Sie steht trotzdem auf der Schwesterfamilie und nicht mehr auf TeX Gyre
+Heros: Ein zweites Schriftbild danebenzustellen, das mit dem ersten nichts zu
+tun hat, ist eine Mischung ohne Grund. Aus demselben Grund fehlt ihr das
+`Scale = MatchLowercase` der übrigen: Heros brauchte es, weil seine x-Höhe
+neben Alegreya nicht stimmte; die beiden Alegreya sind aufeinander
+gezeichnet, und Skalieren zerstörte gerade die Passung, um derentwillen sie
+gewählt ist.
+
+Nicht im Verzeichnis steht allein die Schreibmaschinenschrift. **Latin Modern
+Mono** kommt weiter aus dem TeX-Baum, wo `fonts-texgyre` mit Heros
+weggefallen ist und `fonts-lmodern` als Abhängigkeit ohnehin mitkommt. Sie
+trägt im ganzen Buch acht Stellen, sämtlich in den Belegapparaten. Weil sie
+als einzige an einem Paket hängt, prüft der Lauf sie eigens mit; fällt die
+Abhängigkeit einmal weg, soll das dort auffallen und nicht erst in LuaTeX.
+
+Alegreya steht unter der **SIL Open Font License**. Der Lizenztext liegt als
+`schriften/OFL.txt` daneben, deckt beide Familien und gehört bei jeder
+Weitergabe dazu – auch dann, wenn nur das PDF weitergereicht wird.
+
+Wer die Schrift wechselt, ändert den Block im Kopf von `vorlage.tex` und legt
+die neuen Schnitte daneben. Zu prüfen ist dabei dreierlei: ob die Schrift
+echte Kapitälchen mitbringt (sonst bekommt `\scshape` stillschweigend
+Gemeine), ob sie hoch- und tiefgestellte Ziffern führt, und wie viele Zeichen
+danach in eine Zeile gehen. Für die Namen der Dateien gilt: Der Lauf bricht
+ab, bevor LuaTeX es tut, und nennt den fehlenden Schnitt.
 
 ## Linke und rechte Seiten
 
@@ -154,8 +196,8 @@ Nichts am Inhalt, zweierlei an der Form. Die Quellen setzen das öffnende
 Anführungszeichen typografisch und das schließende als geraden Zoll
 (`„Zitat"`); für den Satz wird daraus das deutsche Paar. Und hoch- oder
 tiefgestellte Ziffern (`CO₂`) werden aus der Brotschrift gesetzt, weil
-Pagella diese Zeichen nicht mitführt und LuaTeX sie sonst stillschweigend
-weglässt.
+Brotschriften diese Zeichen selten mitführen und LuaTeX sie sonst
+stillschweigend weglässt.
 
 Beides geschieht nur auf dem Weg ins PDF. Die Dateien in `manuskript/`
 bleiben, wie sie sind.

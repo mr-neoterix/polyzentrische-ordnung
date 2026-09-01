@@ -94,6 +94,11 @@ jobs:
           } >> "$GITHUB_OUTPUT"
           echo "Diese Ausgabe: ${kennung}"
 
+      # Brot- und Serifenlose stehen in satz/schriften/; ein Schriftpaket
+      # steht deshalb nicht mehr in dieser Liste. fonts-texgyre ist mit Heros
+      # weggefallen – es war allein fuer die Serifenlose da. Die Mono bleibt
+      # aus dem TeX-Baum: lmmono10-regular.otf kommt aus fonts-lmodern, und
+      # das zieht texlive-latex-base ohnehin als Abhaengigkeit herein.
       - name: Satzwerkzeuge einrichten
         run: |
           sudo apt-get update -qq
@@ -104,8 +109,47 @@ jobs:
             texlive-latex-recommended \
             texlive-lang-german \
             texlive-fonts-recommended \
-            fonts-texgyre \
             poppler-utils
+
+      # Die Vorlage spricht die Schriftdateien über ihre Namen an. Stimmen
+      # die nicht, bricht erst LuaTeX ab und nennt eine Zeilennummer. Dieser
+      # Schritt bricht vorher ab und nennt den Grund.
+      - name: Schriftdateien prüfen
+        run: |
+          set -uo pipefail
+          echo "Schnitte in satz/schriften/:"
+          ls -1 satz/schriften/ | sed 's/^/  /'
+          fehlt=0
+          for schnitt in Alegreya-Regular Alegreya-Italic Alegreya-Bold \
+                         Alegreya-BoldItalic AlegreyaSC-Regular \
+                         AlegreyaSans-Regular AlegreyaSans-Italic \
+                         AlegreyaSans-Bold AlegreyaSans-BoldItalic \
+                         AlegreyaSansSC-Regular; do
+            if [ ! -f "satz/schriften/${schnitt}.otf" ]; then
+              echo "FEHLT: satz/schriften/${schnitt}.otf"
+              fehlt=1
+            fi
+          done
+          if [ ! -f satz/schriften/OFL.txt ]; then
+            echo "FEHLT: satz/schriften/OFL.txt – die Lizenz gehoert dazu."
+            fehlt=1
+          fi
+          # Die Mono ist die einzige Schrift, die nicht im Verzeichnis liegt.
+          # Sie haengt an fonts-lmodern, das kein Schritt hier verlangt,
+          # sondern texlive-latex-base mitbringt – faellt diese Abhaengigkeit
+          # weg, soll es hier auffallen und nicht erst in LuaTeX.
+          if ! kpsewhich lmmono10-regular.otf > /dev/null 2>&1; then
+            echo "FEHLT: lmmono10-regular.otf (Paket fonts-lmodern)."
+            fehlt=1
+          fi
+          if [ "$fehlt" = "1" ]; then
+            echo
+            echo "Der Schriftblock in satz/vorlage.tex erwartet diese Namen"
+            echo "in satz/schriften/. Fehlt dort etwas, gehoert es dorthin –"
+            echo "nicht in diesen Schritt."
+            exit 1
+          fi
+          echo "Alle erwarteten Schnitte vorhanden."
 
       - name: Buch setzen
         run: python3 satz/build.py --ausgabe '${{ steps.nummer.outputs.datei }}'
@@ -128,7 +172,7 @@ jobs:
             echo "| Quellstand | \`${GITHUB_SHA:0:7}\` |"
             echo
             echo "Das PDF hängt als Artefakt **manuskript-pdf-${KENNUNG}** an diesem Lauf."
-          } >> "$GITHUB_STEP_SUMMARY"
+          } | tee -a "$GITHUB_STEP_SUMMARY"
 
       - name: PDF als Artefakt ablegen
         uses: actions/upload-artifact@v4

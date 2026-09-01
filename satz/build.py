@@ -43,6 +43,10 @@ from pathlib import Path
 WURZEL = Path(__file__).resolve().parent.parent
 MANUSKRIPT = WURZEL / "manuskript"
 VORLAGE = Path(__file__).resolve().parent / "vorlage.tex"
+# Die Schriftschnitte liegen im Verzeichnis, nicht im TeX-Baum: So setzt
+# jeder Rechner mit denselben Dateien, und der Bauläufer braucht kein
+# Schriftpaket. Den Pfad bekommt die Vorlage als Variable herein.
+SCHRIFTEN = Path(__file__).resolve().parent / "schriften"
 INHALT = "00_inhalt.md"
 STANDARDAUSGABE = WURZEL / "build" / "polyzentrische-ordnung-manuskript.pdf"
 
@@ -496,6 +500,7 @@ def main() -> int:
         str(VORLAGE),
         "--top-level-division=chapter",
         f"--resource-path={MANUSKRIPT}",
+        f"--variable=schriftverzeichnis={SCHRIFTEN}/",
         "--output",
         str(ausgabe),
     ]
