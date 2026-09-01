@@ -6,7 +6,7 @@
 
 Jede Ordnungsdebatte kreist um dieselbe verkehrte Frage. Sie lautet: Welches System macht die wenigsten Fehler? Und sie ist verkehrt, weil sie voraussetzt, dass die Zahl der Fehler das Problem ist.
 
-Sie ist es nicht. Fehler sind in großen Gesellschaften nicht zu vermeiden, weil niemand die Informationen hat, um sie im Voraus zu erkennen: keine Planbehörde, kein Vorstand, kein Bürgerrat, kein Markt. Alle Beteiligten entscheiden unter Unsicherheit, und wer unter Unsicherheit entscheidet, entscheidet regelmäßig falsch. Die entscheidende Frage ist deshalb nicht, wie viele Fehler ein System macht, sondern ob es sie überlebt.
+Sie ist es nicht. Fehler sind in großen Gesellschaften nicht zu vermeiden, weil niemand die Informationen hat, um sie im Voraus zu erkennen: keine Planbehörde, kein Vorstand, kein Bürgerrat, kein Markt. Alle Beteiligten entscheiden unter Unsicherheit, und wer unter Unsicherheit entscheidet, entscheidet regelmäßig falsch. Die entscheidende Frage ist deshalb, ob ein System seine Fehler überlebt, und nicht, wie viele es macht.
 
 Damit hat dieses Buch sein oberstes Ordnungskriterium, und es heißt **Fehlertoleranz**. Eine Ordnung ist gut, wenn ihre Elemente scheitern können, ohne dass das Ganze scheitert – und wenn das Ganze aus dem Scheitern des Elements etwas lernt.
 
@@ -40,7 +40,7 @@ Ein Element scheiterte. Die Föderation, der Verbund der selbständigen Genossen
 
 Man vergleiche das mit dem, was in der DDR geschehen wäre – und mit dem, was bei den Landesbanken geschehen ist. Dort wurde gestützt, weil das Scheitern politisch teurer war als das Auffangen. Hier wurde nicht gestützt, obwohl das Scheitern symbolisch teurer war als das Auffangen. Das ist der Unterschied zwischen einer weichen und einer harten Budgetbeschränkung, vorgeführt an einem Fall, in dem die weiche Variante alle Sympathien auf ihrer Seite hatte.
 
-Und jetzt die andere Hälfte des Falls. Die Aufnahmekapazität des Verbunds war endlich – es konnten nicht alle untergebracht werden. Und die Beschäftigten der ausländischen Tochtergesellschaften waren gar nicht geschützt, weil sie keine Mitglieder waren, sondern Lohnarbeiter in Betrieben, die einer Genossenschaft gehörten. Als Fagor fiel, traf es genau sie am härtesten.
+Und jetzt die andere Hälfte des Falls. Die Aufnahmekapazität des Verbunds war endlich – es konnten nicht alle untergebracht werden. Und die Beschäftigten der ausländischen Tochtergesellschaften waren gar nicht geschützt, weil sie als Lohnarbeiter in Betrieben beschäftigt waren, die einer Genossenschaft gehörten, ohne selbst Mitglieder zu sein. Als Fagor fiel, traf es genau sie am härtesten.
 
 Der Fall trägt also beide Lehren, und beide werden in diesem Buch verwertet: die Fehlertoleranz als Konstruktionserfolg und die Insider-Outsider-Grenze – die Trennlinie zwischen den geschützten Mitgliedern und den ungeschützten Nichtmitgliedern – als die größte offene Flanke der ganzen Architektur. Diese Flanke steht im Ledger dieses Buches und wird dort nicht wegargumentiert.
 
@@ -48,15 +48,15 @@ Was bleibt, ist ein Satz, der als Formel für dieses ganze Buch taugt: **Scheite
 
 ### Zwischenbilanz der Diagnose
 
-Damit ist der diagnostische Teil abgeschlossen. Bevor der konstruktive beginnt, sei zusammengezogen, was der diagnostische ergeben hat – nicht als Wiederholung, sondern als Prüfliste, an der sich alles Weitere messen lassen muss.
+Damit ist der diagnostische Teil abgeschlossen. Bevor der konstruktive beginnt, sei zusammengezogen, was der diagnostische ergeben hat – als Prüfliste, an der sich alles Weitere messen lassen muss.
 
-*Erstens:* Die DDR war nicht akut insolvent, sondern strukturell erschöpft. Sie verzehrte ihre Substanz, weil ihr die beiden Geräte fehlten, die Substanzverzehr sichtbar machen: Preise und Insolvenz.
+*Erstens:* Die DDR war strukturell erschöpft und nicht akut insolvent. Sie verzehrte ihre Substanz, weil ihr die beiden Geräte fehlten, die Substanzverzehr sichtbar machen: Preise und Insolvenz.
 
-*Zweitens:* Die Planwirtschaft war ökonomisch reformierbarer als ihr Ruf. Alle wirksamen Optionen standen zur Debatte, keine wurde umgesetzt – nicht weil sie marktwidrig, sondern weil sie machtwidrig waren.
+*Zweitens:* Die Planwirtschaft war ökonomisch reformierbarer als ihr Ruf. Alle wirksamen Optionen standen zur Debatte, keine wurde umgesetzt – sie waren nicht marktwidrig, sie waren machtwidrig.
 
-*Drittens, und das ist der Kernbefund:* Das Scheitern lag nicht im Plan, sondern darin, wer plante und wofür. Jede Reform, die groß genug gewesen wäre zu wirken, hätte die Machtfrage gestellt.
+*Drittens, und das ist der Kernbefund:* Am Plan lag es nicht; es lag daran, wer plante und wofür. Jede Reform, die groß genug gewesen wäre zu wirken, hätte die Machtfrage gestellt.
 
-*Viertens:* Die eigentliche Systemvariable ist nicht Kapitalismus gegen Sozialismus, sondern Polyzentrik gegen Monozentrik. Der historische Kapitalismus hegte Macht ein, aber durch Institutionen, mit denen er nur kontingent verheiratet war; wo sie fehlen, hegt er nichts ein.
+*Viertens:* Die eigentliche Systemvariable heißt Polyzentrik gegen Monozentrik und nicht Kapitalismus gegen Sozialismus. Der historische Kapitalismus hegte Macht ein, aber durch Institutionen, mit denen er nur kontingent verheiratet war; wo sie fehlen, hegt er nichts ein.
 
 *Fünftens:* Der kommunistische Endzustand löst das Machtproblem nicht, er definiert es weg – und wer mit dem Verschwinden von Macht rechnet, sorgt nicht dafür vor, sie einzuhegen.
 
@@ -68,7 +68,7 @@ Damit ist der diagnostische Teil abgeschlossen. Bevor der konstruktive beginnt, 
 
 *Neuntens:* Fesseln allein genügen nicht. Regulierung lässt die Machtquelle intakt und rostet; Eigentumsstrukturen schaffen Träger mit Eigeninteresse an ihrem Bestand. Ein Eigentümer verteidigt seinen Bestand von selbst; eine Regel steht nur, solange jemand für sie einsteht.
 
-Neun Sätze, und keiner von ihnen ist ein Wert, aus dem sich eine Ordnung ableiten ließe. Es sind Beobachtungen über Fälle, die schiefgingen. Was daraus folgt, ist keine gerechte Gesellschaft, sondern eine haltbarere – und der Unterschied ist wichtig genug, um ihn beim Namen zu nennen.
+Neun Sätze, und keiner von ihnen ist ein Wert, aus dem sich eine Ordnung ableiten ließe. Es sind Beobachtungen über Fälle, die schiefgingen. Was daraus folgt, ist eine haltbarere Gesellschaft und keine gerechte – und der Unterschied ist wichtig genug, um ihn beim Namen zu nennen.
 
 Dieses Buch verspricht nicht, dass die vorgeschlagene Ordnung gerechter ist als die bestehende, obwohl der Verfasser das vermutet. Es behauptet, dass sie ihre Fehler eher überlebt. Das ist eine bescheidenere und eine prüfbarere Behauptung.
 
