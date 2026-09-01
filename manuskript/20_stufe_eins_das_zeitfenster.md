@@ -18,7 +18,7 @@ Für den Verkauf eines Betriebs mit 180 Beschäftigten ist das ein Trinkgeld. We
 
 *Ein neuer Tatbestand im Einkommensteuerrecht,* der den Veräußerungsgewinn bei Übertragung an eine Belegschaftsgenossenschaft oder eine Belegschaftstreuhand zinslos stundet und über zehn Jahre erlässt, solange die Belegschaftsstruktur besteht. Wird der Betrieb vorher weiterverkauft, lebt die Steuer auf.
 
-Die Konstruktion als *Stundung mit Nachversteuerung* statt als Befreiung hat drei Vorteile. Sie ist fiskalisch billiger, weil die Steuer nur bei dauerhaftem Erfolg entfällt. Sie ist missbrauchsfester, weil der Steuervorteil an den Fortbestand der Struktur geknüpft ist und nicht an einen Vorgang. Und sie ist präziser: Der Staat zahlt nicht für eine Rechtsform, sondern für einen Bestand.
+Die Konstruktion als *Stundung mit Nachversteuerung* statt als Befreiung hat drei Vorteile. Sie ist fiskalisch billiger, weil die Steuer nur bei dauerhaftem Erfolg entfällt. Sie ist missbrauchsfester, weil der Steuervorteil an den Fortbestand der Struktur geknüpft ist und nicht an einen Vorgang. Und sie ist präziser: Der Staat zahlt für einen Bestand und nicht für eine Rechtsform.
 
 Und dann die Frage, die das achte Kapitel aufgeworfen hat: Wie baut man einen Hebel, der nicht rostet? Man kann es nicht vollständig. Was hilft, ist dreierlei.
 
@@ -76,7 +76,7 @@ Er hat Zeit, ist aber nicht optional.
 
 *Verantwortungseigentum:* Einführung der Gesellschaft mit gebundenem Vermögen – aber nur mit dem Kontroll-Lock aus dem dreizehnten Kapitel, sonst schafft der Gesetzgeber ein weiteres Dynastie-Instrument.
 
-*Energy Sharing:* Ende 2025 hat § 42c des Energiewirtschaftsgesetzes einen Rahmen für gemeinschaftliche Erzeugung und Nutzung von Strom geschaffen. Anwendbar ist er ab Mitte 2026, sobald die ausstehenden Festlegungen der Bundesnetzagentur vorliegen. Die Aufgabe ist hier nicht mehr Gesetzgebung, sondern Vollzug – und ein Vollzug, der Energiegemeinschaften mit Anteilen und Mitgliedschaft hervorbringt statt bloßer Abrechnungsmodelle.
+*Energy Sharing:* Ende 2025 hat § 42c des Energiewirtschaftsgesetzes einen Rahmen für gemeinschaftliche Erzeugung und Nutzung von Strom geschaffen. Anwendbar ist er ab Mitte 2026, sobald die ausstehenden Festlegungen der Bundesnetzagentur vorliegen. Die Aufgabe ist hier Vollzug und nicht mehr Gesetzgebung – und ein Vollzug, der Energiegemeinschaften mit Anteilen und Mitgliedschaft hervorbringt statt bloßer Abrechnungsmodelle.
 
 *Netze:* Fortsetzung der Rekommunalisierung bei auslaufenden Konzessionen – aber von Anfang an mit dem Sterberecht für Betreiber aus dem zwölften Kapitel statt mit dem Querverbund von gestern. Dazu die Prüfpflicht, ob eine genossenschaftliche statt einer rein kommunalen Trägerschaft möglich ist.
 
