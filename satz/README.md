@@ -173,6 +173,17 @@ Kapitelzeilen der Form `*1. Eine Frage, die weiterführte.*`. Daraus entstehen
 die Teilseiten. Ein Kapitel, das dort nicht auftaucht, wird trotzdem gesetzt
 – nur ohne Teilzuordnung, und der Lauf sagt es.
 
+*Dieser eine Abschnitt wird gelesen und nicht gesetzt.* Alle übrigen
+`##`-Abschnitte des Vorspanns wandern in der Reihenfolge der Datei ins PDF,
+der Aufbau seit dem 01.09.2026 nicht mehr: Aus denselben Teilen und
+Kapiteln erzeugt der Satz sein Inhaltsverzeichnis selbst, und zwar mit
+Seitenzahlen – der Abschnitt stand wenige Seiten dahinter als zweites
+Verzeichnis ohne. Im Verzeichnis bleibt er, weil es dort keinen Satzlauf
+gibt, der eines erzeugt: Wer die Kapitel auf GitHub überblicken will, hat
+nur ihn, und `README.md` verweist als „Übersicht und Leseplan" auf ihn. Der
+Lauf sagt die Ausnahme mit („… Vorspannabschnitte gesetzt, Aufbau nur
+gelesen"), damit die kleinere Zahl niemanden einen Fehler suchen lässt.
+
 Die Reihenfolge der Kapitel ist die Reihenfolge der Dateinamen. Wer ein
 Kapitel einschiebt, nummeriert die Dateien um.
 

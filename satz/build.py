@@ -17,7 +17,10 @@ Quelle wird dagegen geprüft, damit ein Umnummerieren nicht unbemerkt bleibt.
 *Teilseiten:* Welches Kapitel zu welchem der acht Teile gehört, steht nicht
 in den Kapiteldateien, sondern im Aufbau-Abschnitt von 00_inhalt.md. Von
 dort wird die Zuordnung gelesen, damit sie nur an einer Stelle gepflegt
-werden muss.
+werden muss. Gesetzt wird dieser eine Abschnitt nicht: Das Buch hat sein
+Inhaltsverzeichnis, und derselbe Baum ein zweites Mal unmittelbar dahinter
+wäre eine Dopplung. Im Verzeichnis bleibt er, wo er gebraucht wird – dort
+gibt es kein Inhaltsverzeichnis, das ein Satzlauf erzeugt.
 
 *Anführungszeichen:* Die Quellen setzen das öffnende Zeichen typografisch
 („), das schließende als geraden Zoll ("). Für den Satz wird daraus das
@@ -48,6 +51,9 @@ VORLAGE = Path(__file__).resolve().parent / "vorlage.tex"
 # Schriftpaket. Den Pfad bekommt die Vorlage als Variable herein.
 SCHRIFTEN = Path(__file__).resolve().parent / "schriften"
 INHALT = "00_inhalt.md"
+# Der Abschnitt des Vorspanns, aus dem die Teilzuordnung kommt. Er ist der
+# einzige, der gelesen und nicht gesetzt wird – siehe baue_quelltext.
+AUFBAU = "Aufbau"
 STANDARDAUSGABE = WURZEL / "build" / "polyzentrische-ordnung-manuskript.pdf"
 
 
@@ -182,7 +188,7 @@ def lies_teile(aufbau: str) -> list[tuple[str, list[int]]]:
             teile[-1][1].append(int(kapitel.group(1)))
     if not teile:
         raise Fehler(
-            f"{INHALT}: im Abschnitt „Aufbau“ ließ sich kein Teil erkennen. "
+            f"{INHALT}: im Abschnitt „{AUFBAU}“ ließ sich kein Teil erkennen. "
             "Erwartet werden Zeilen der Form **Teil I – Die Frage** und "
             "darunter *1. Kapitelname.*"
         )
@@ -320,7 +326,7 @@ def baue_quelltext(fassung: str, satzdatum: str, jahr: str) -> str:
 
     titelei = lies_titelei(inhalt)
     vorspann = lies_vorspann(inhalt)
-    aufbau = dict(vorspann).get("Aufbau", "")
+    aufbau = dict(vorspann).get(AUFBAU, "")
     teile = lies_teile(aufbau)
 
     dateien = sorted(p for p in MANUSKRIPT.glob("[0-9][0-9]_*.md") if p.name != INHALT)
@@ -349,7 +355,14 @@ def baue_quelltext(fassung: str, satzdatum: str, jahr: str) -> str:
     zeilen.append("---")
     zeilen.append("")
 
+    gesetzter_vorspann = 0
     for titel, rumpf in vorspann:
+        # Der Aufbau ist Quelle und nicht Text: Seine Teilzuordnung braucht
+        # der Satz, seine Kapitelzeilen stünden im Buch als zweites
+        # Inhaltsverzeichnis wenige Seiten hinter dem ersten.
+        if titel == AUFBAU:
+            continue
+        gesetzter_vorspann += 1
         zeilen.append(f"\\vorspann{{{als_latex(titel)}}}")
         zeilen.append("")
         zeilen.append(typografie(rumpf))
@@ -409,7 +422,8 @@ def baue_quelltext(fassung: str, satzdatum: str, jahr: str) -> str:
 
     print(
         f"  {len(dateien)} Kapitel in {len(teile)} Teilen, "
-        f"{len(vorspann)} Vorspannabschnitte.",
+        f"{gesetzter_vorspann} Vorspannabschnitte gesetzt, "
+        f"{AUFBAU} nur gelesen.",
         file=sys.stderr,
     )
     return "\n".join(zeilen) + "\n"
