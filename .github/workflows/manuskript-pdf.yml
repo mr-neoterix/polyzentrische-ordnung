@@ -94,9 +94,10 @@ jobs:
           } >> "$GITHUB_OUTPUT"
           echo "Diese Ausgabe: ${kennung}"
 
-      # Die Brotschrift steht in satz/schriften/ und braucht deshalb kein
-      # Schriftpaket mehr. fonts-texgyre bleibt: Heros und Latin Modern Mono
-      # kommen weiterhin aus dem TeX-Baum.
+      # EINMALIG: texlive-fonts-extra ist nur noch da, um die Schnitte von
+      # Alegreya Sans ein einziges Mal ins Verzeichnis zu holen (Schritt
+      # unten). Sobald sie dort liegen, faellt das Paket wieder heraus – so
+      # wie beim ersten Mal fuer die Brotschrift.
       - name: Satzwerkzeuge einrichten
         run: |
           sudo apt-get update -qq
@@ -107,8 +108,40 @@ jobs:
             texlive-latex-recommended \
             texlive-lang-german \
             texlive-fonts-recommended \
+            texlive-fonts-extra \
             fonts-texgyre \
             poppler-utils
+
+      # EINMALIG: Fehlen die Schnitte im Verzeichnis, holt der Laeufer sie aus
+      # dem TeX-Baum. Der naechste Commit nimmt diesen Schritt und das grosse
+      # Paket wieder heraus.
+      - name: Schriften bereitstellen (einmalig)
+        id: schriften
+        run: |
+          set -euo pipefail
+          quelle=/usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya
+          neu=nein
+          for schnitt in AlegreyaSans-Regular AlegreyaSans-Italic \
+                         AlegreyaSans-Bold AlegreyaSans-BoldItalic \
+                         AlegreyaSansSC-Regular; do
+            if [ ! -f "satz/schriften/${schnitt}.otf" ]; then
+              cp "${quelle}/${schnitt}.otf" satz/schriften/
+              echo "  geholt: ${schnitt}.otf"
+              neu=ja
+            fi
+          done
+          echo "neu=${neu}" >> "$GITHUB_OUTPUT"
+          echo "Umfang von satz/schriften/: $(du -sh satz/schriften | cut -f1)"
+          # Mit Heros faellt der einzige Grund fuer fonts-texgyre weg. Bevor
+          # das Paket herausgenommen wird, ist zu klaeren, woher die Mono
+          # kommt – sie bleibt vorerst aus dem TeX-Baum.
+          echo "Herkunft der Mono:"
+          mono=$(kpsewhich lmmono10-regular.otf || true)
+          echo "  Datei: ${mono:-nicht gefunden}"
+          if [ -n "$mono" ]; then
+            dpkg -S "$mono" 2>/dev/null | sed 's/^/  Paket: /' || \
+              echo "  Paket: nicht ermittelbar"
+          fi
 
       # Die Vorlage spricht die Schriftdateien über ihre Namen an. Stimmen
       # die nicht, bricht erst LuaTeX ab und nennt eine Zeilennummer. Dieser
@@ -120,7 +153,10 @@ jobs:
           ls -1 satz/schriften/ | sed 's/^/  /'
           fehlt=0
           for schnitt in Alegreya-Regular Alegreya-Italic Alegreya-Bold \
-                         Alegreya-BoldItalic AlegreyaSC-Regular; do
+                         Alegreya-BoldItalic AlegreyaSC-Regular \
+                         AlegreyaSans-Regular AlegreyaSans-Italic \
+                         AlegreyaSans-Bold AlegreyaSans-BoldItalic \
+                         AlegreyaSansSC-Regular; do
             if [ ! -f "satz/schriften/${schnitt}.otf" ]; then
               echo "FEHLT: satz/schriften/${schnitt}.otf"
               fehlt=1
@@ -161,6 +197,23 @@ jobs:
             echo
             echo "Das PDF hängt als Artefakt **manuskript-pdf-${KENNUNG}** an diesem Lauf."
           } | tee -a "$GITHUB_STEP_SUMMARY"
+
+      # EINMALIG, faellt mit dem naechsten Commit weg. [skip ci] verhindert,
+      # dass dieser Schub einen weiteren Lauf ausloest.
+      - name: Schriften ins Verzeichnis übernehmen (einmalig)
+        if: steps.schriften.outputs.neu == 'ja'
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add satz/schriften
+          git commit -m "Alegreya-Sans-Schnitte ins Verzeichnis gelegt [skip ci]" \
+            -m "Vier Schnitte plus Kapitaelchen aus demselben TeX-Live-Paket, aus
+          dem schon die Brotschrift kam. Damit steht auch die Serifenlose im
+          Verzeichnis und der Bauläufer braucht texlive-fonts-extra nicht mehr.
+          Die SIL Open Font License deckt beide Familien und liegt bereits als
+          OFL.txt daneben."
+          git push origin "HEAD:${GITHUB_REF_NAME}"
 
       - name: PDF als Artefakt ablegen
         uses: actions/upload-artifact@v4

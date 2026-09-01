@@ -85,14 +85,28 @@ $endif$
   SmallCapsFont = AlegreyaSC-Regular,
   Ligatures = TeX,
 ]
-\setsansfont{texgyreheros}[
+% Die Serifenlose ist Alegreya Sans, die Schwesterfamilie derselben
+% Werkstatt. Im Buchkörper kommt sie praktisch nicht vor – die Überschriften
+% stehen unten ausdrücklich auf \normalfont, weil KOMA sie sonst serifenlos
+% setzte –, aber ein zweites Schriftbild danebenzustellen, das mit dem
+% ersten nichts zu tun hat, ist eine Mischung ohne Grund. Deshalb steht hier
+% kein `Scale = MatchLowercase`: Die beiden Familien sind aufeinander
+% gezeichnet und haben dieselbe x-Höhe; skaliert würde gerade die Passung
+% zerstört, um derentwillen die Wahl getroffen ist. Die Kapitälchenzeile
+% steht aus demselben Grund wie oben: Sie kostet einen Schnitt und nimmt
+% dafür die Falle weg, dass ein späteres \sffamily\scshape stillschweigend
+% Gemeine bekäme.
+\setsansfont{AlegreyaSans}[
+$if(schriftverzeichnis)$
+  Path = $schriftverzeichnis$,
+$endif$
   Extension = .otf,
-  UprightFont = *-regular,
-  ItalicFont = *-italic,
-  BoldFont = *-bold,
-  BoldItalicFont = *-bolditalic,
+  UprightFont = *-Regular,
+  ItalicFont = *-Italic,
+  BoldFont = *-Bold,
+  BoldItalicFont = *-BoldItalic,
+  SmallCapsFont = AlegreyaSansSC-Regular,
   Ligatures = TeX,
-  Scale = MatchLowercase,
 ]
 \setmonofont{lmmono10}[
   Extension = .otf,
