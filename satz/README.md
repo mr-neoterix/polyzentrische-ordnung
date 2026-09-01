@@ -51,11 +51,34 @@ Wer die Nummer lesen will, nimmt die andere der beiden Dateien.
 |---|---|
 | `build.py` | setzt die Kapitel zusammen und ruft Pandoc |
 | `vorlage.tex` | die Buchgestaltung: Schrift, Satzspiegel, Kapitelköpfe, Belegapparat |
+| `schriften/` | die Schriftschnitte selbst, samt Lizenz |
 
 Gesetzt wird auf 14,8 × 21,0 cm, dem üblichen Buchformat, nicht auf A4.
 Papierformat und Satzspiegel stehen im Kopf von `vorlage.tex` beieinander;
 wer das eine ändert, muss das andere mitziehen, sonst steht der Text
 verloren auf der Seite oder läuft aus ihr heraus.
+
+## Die Schriften liegen im Verzeichnis
+
+Die Brotschrift ist **Alegreya** von Huerta Tipográfica, dazu **Alegreya SC**
+für die Kapitälchen der Kapitelmarken und der Belege-Köpfe. Beide liegen als
+OTF-Dateien in `schriften/` – fünf Schnitte, gut ein Megabyte.
+
+Das hat zwei Gründe. Der Bauläufer müsste die Schnitte sonst aus einem
+Schriftpaket von 630 MB ziehen, und jeder Rechner setzt so mit denselben
+Dateien, ohne dass eine Schriftverwaltung mitspielen muss. Den Pfad reicht
+`build.py` als Pandoc-Variable an die Vorlage; fehlt sie, sucht LuaTeX wie
+sonst im TeX-Baum.
+
+Alegreya steht unter der **SIL Open Font License**. Der Lizenztext liegt als
+`schriften/OFL.txt` daneben und gehört bei jeder Weitergabe dazu – auch dann,
+wenn nur das PDF weitergereicht wird.
+
+Wer die Schrift wechselt, ändert den Block im Kopf von `vorlage.tex` und legt
+die neuen Schnitte daneben. Zu prüfen ist dabei dreierlei: ob die Schrift
+echte Kapitälchen mitbringt (sonst bekommt `\scshape` stillschweigend
+Gemeine), ob sie hoch- und tiefgestellte Ziffern führt, und wie viele Zeichen
+danach in eine Zeile gehen.
 
 ## Linke und rechte Seiten
 
