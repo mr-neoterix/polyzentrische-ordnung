@@ -2,6 +2,19 @@ name: Manuskript-PDF
 
 # Bei jeder Änderung am Manuskript wird das Buch neu gesetzt. Das Ergebnis
 # hängt als Artefakt am Lauf und lässt sich dort herunterladen.
+#
+# Wer hier je einen Schritt einbaut, der aus dem Lauf heraus committet:
+# kein `[skip ci]` in die Commit-Botschaft. Zusammengeführt wird per Squash,
+# und dabei wandern sämtliche Botschaften des Zweigs in die eine Nachricht
+# des Hauptzweig-Commits – GitHub liest die Bremse dort weiter und
+# überspringt den Satz. Genau das ist am 01.09.2026 mit dem Schriftwechsel
+# geschehen (#47): Der Hauptzweig bekam keinen Lauf, keine Ausgabenummer und
+# keine Veröffentlichung, obwohl der Inhalt vollständig angekommen war;
+# nachgeholt wurde es von Hand über „Run workflow".
+#
+# Nötig war die Bremse ohnehin nie. Ein Schub, der mit dem GITHUB_TOKEN
+# gemacht ist, löst nach GitHubs eigener Regel keinen neuen Lauf aus – die
+# Schleife, gegen die sie stand, gibt es gar nicht.
 
 on:
   push:
