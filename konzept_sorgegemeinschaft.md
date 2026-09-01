@@ -268,7 +268,7 @@ Nach Hausregel 3 darf das Verzeichnis nicht stillschweigend schrumpfen, und es m
 
 *Der Essay* divergiert dadurch weiter. Er kennt schon den Föderalismustest nicht; hier käme ein ganzes Bauteil hinzu. Das ist ein zusätzliches Argument für die im Backlog empfohlene Lösung, ihn als Stand vom 25.07.2026 zu kennzeichnen, statt ihn nachzuziehen.
 
-*Und in `CLAUDE.md`* wären drei Kernbegriffe zu ergänzen, wenn die Konstruktion tragend wird: *Sorge erzeugt Eigentum, nicht Lohn* – *Status, kein Vermögensträger* – *Kopplungsregel: Der Vorteil wächst nur, solange die Infrastruktur nicht schrumpft.*
+*Und in `PROJEKTSTAND.md`* wären drei Kernbegriffe zu ergänzen, wenn die Konstruktion tragend wird: *Sorge erzeugt Eigentum, nicht Lohn* – *Status, kein Vermögensträger* – *Kopplungsregel: Der Vorteil wächst nur, solange die Infrastruktur nicht schrumpft.*
 
 ---
 

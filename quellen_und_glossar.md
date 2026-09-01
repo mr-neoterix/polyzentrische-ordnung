@@ -1,6 +1,6 @@
 # Quellen und Glossar
 
-Dieses Dokument ist Quellenverzeichnis und Glossar in einem. Es erläutert die zentralen Begriffe, Personen und empirischen Anker des Thesenpapiers `polyzentrische_ordnung.md` und weist für jeden Eintrag die tragende Quelle nach. Es erfüllt damit Hausregel 6 der `CLAUDE.md` (Belegpflicht): Neue Begriffe und Behauptungen des Hauptdokuments werden hier eingetragen und verifiziert; wo die Prüfung Abweichungen ergab, sind sie ausgewiesen und am Ende als Präzisierungsaufträge gebündelt.
+Dieses Dokument ist Quellenverzeichnis und Glossar in einem. Es erläutert die zentralen Begriffe, Personen und empirischen Anker des Thesenpapiers `polyzentrische_ordnung.md` und weist für jeden Eintrag die tragende Quelle nach. Es erfüllt damit Hausregel 6 der `AGENTS.md` (Belegpflicht): Neue Begriffe und Behauptungen des Hauptdokuments werden hier eingetragen und verifiziert; wo die Prüfung Abweichungen ergab, sind sie ausgewiesen und am Ende als Präzisierungsaufträge gebündelt.
 
 **Prüfhinweis zur Erreichbarkeit:** Alle URLs wurden am 22.07.2026 geprüft. Direkte HTTP-Abrufe sind in der Arbeitsumgebung, in der dieses Dokument erstellt wurde, durch deren Netzwerk-Policy blockiert; die Erreichbarkeit wurde daher indirekt über die aktuelle Websuche-Indizierung bestätigt (Kennzeichnung: „indiziert 22.07.2026"). Ein direkter Abruftest sollte aus einer Umgebung ohne diese Beschränkung nachgeholt werden.
 
