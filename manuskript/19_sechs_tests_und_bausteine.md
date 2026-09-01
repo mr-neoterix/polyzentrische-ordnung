@@ -4,7 +4,7 @@
 
 ---
 
-Alles bisher Beschriebene ist eine Konstruktionszeichnung. Ob sie etwas taugt, entscheidet sich daran, ob jemand sie bauen kann – und zwar die Bundesrepublik Deutschland in ihrer gegenwärtigen Verfassung, mit ihren gegenwärtigen Mehrheitsverhältnissen und ihrem gegenwärtigen Haushalt, und kein anderes Land in einer anderen Lage.
+Alles bisher Beschriebene ist eine Konstruktionszeichnung. Ob sie etwas taugt, entscheidet sich daran, ob jemand sie bauen kann – und zwar die Bundesrepublik Deutschland in ihrer gegenwärtigen Verfassung, mit ihren gegenwärtigen Mehrheitsverhältnissen und ihrem gegenwärtigen Haushalt.
 
 Deshalb wird der Umsetzungspfad in diesem Buch geprüft statt behauptet. Sechs Tests entscheiden, und wer einen von ihnen nicht besteht, hat eine Wunschliste mit Gliederung.
 
@@ -20,7 +20,7 @@ Deshalb wird der Umsetzungspfad in diesem Buch geprüft statt behauptet. Sechs T
 
 **Der Bestandstest.** Überlebt er den Regierungswechsel, der ihn abschaffen will? Das ist der Test, an dem die meisten linken Reformprojekte des zwanzigsten Jahrhunderts gescheitert sind, und er ist am Ende dieses Pfades noch einmal gesondert durchzuspielen.
 
-**Der Föderalismustest.** Der sechste Test gehört dazu, weil er über die Umsetzbarkeit entscheidet: *Wer zahlt, wer verwaltet, wer bekommt das Aufkommen, und wer muss im Bundesrat zustimmen?* In einem Bundesstaat ist die Frage, welche Ebene eine Steuer erhebt und welche ihr Aufkommen behält, eine Verfassungsfrage und keine Verwaltungsfrage – und der zentrale Baustein der zweiten Stufe scheitert an ihr, wenn man sie nicht von Anfang an mitdenkt.
+**Der Föderalismustest.** Der sechste Test gehört dazu, weil er über die Umsetzbarkeit entscheidet: *Wer zahlt, wer verwaltet, wer bekommt das Aufkommen, und wer muss im Bundesrat zustimmen?* In einem Bundesstaat ist die Frage, welche Ebene eine Steuer erhebt und welche ihr Aufkommen behält, eine Verfassungsfrage, keine Verwaltungsfrage – und der zentrale Baustein der zweiten Stufe scheitert an ihr, wenn man sie nicht von Anfang an mitdenkt.
 
 ### Was Deutschland bereits besitzt
 
@@ -42,7 +42,7 @@ Der entscheidende Vorzug dieses Pfades ist, dass er kaum etwas erfinden muss. Fa
 
 *Und Artikel 15 des Grundgesetzes,* der Vergesellschaftung ausdrücklich vorsieht und nie angewendet wurde. Man muss ihn nicht anwenden wollen, um zu registrieren, dass die deutsche Verfassung diese Möglichkeit kennt – und dass seine bloße Existenz als glaubwürdige Rückfalloption diszipliniert.
 
-Was daraus folgt, ist die Absage an den revolutionären Bruch, und sie ist eine Bestandsaufnahme und keine Charakterfrage. Es braucht keinen Engpass der Machtkonzentration; es braucht die Verschiebung von Anteilen im Wettbewerb – und die Bausteine dafür liegen seit Jahrzehnten herum.
+Was daraus folgt, ist die Absage an den revolutionären Bruch, und sie ist eine Bestandsaufnahme, keine Charakterfrage. Es braucht keinen Engpass der Machtkonzentration; es braucht die Verschiebung von Anteilen im Wettbewerb – und die Bausteine dafür liegen seit Jahrzehnten herum.
 
 ### Der Belastungstest
 
@@ -62,13 +62,13 @@ Die Ergebnisse dieses Tests sind unterschiedlich, und sie zu kennen ist wichtige
 
 *Und der Sozialstaat ist beides zugleich.* Die Rentenanwartschaft ist eine Struktur, weil sie Eigentum ist; das Existenzminimum ist dem Grunde nach eine Struktur, weil es in der Verfassung steht; die Höhe jeder Leistung dagegen ist ein Programm. Ausgerechnet der Teil, auf den sich diese Ordnung stützt – die Sicherung derer, die ein gestorbener Betrieb freigesetzt hat –, liegt überwiegend im Programmteil. Das siebzehnte Kapitel zieht daraus die Konsequenzen.
 
-Einmal ist dieser Test in der Wirklichkeit durchgeführt worden und nicht als Gedankenspiel, und zwar an der größten Vermögensklasse des Landes. Bis Ende 1989 band das Wohnungsgemeinnützigkeitsgesetz rund 1.800 anerkannte Unternehmen mit etwa 3,3 Millionen Wohnungen an Kostendeckung, gedeckelte Ausschüttung und Vermögensbindung; ein Artikel des Steuerreformgesetzes 1990 hob es zum 1. Januar 1990 auf. Übrig blieb, was der Test vorhersagt: Die Genossenschaften behielten ihre Bestände, weil sie ihren Mitgliedern gehörten; die kommunalen und die gewerkschaftlichen Gesellschaften wurden gewöhnliche Unternehmen mit gewöhnlichen Anteilen, und die Berliner GSW war vierzehn Jahre später verkauft. Das zwölfte Kapitel führt den Fall aus.
+Einmal ist dieser Test in der Wirklichkeit durchgeführt worden statt als Gedankenspiel, und zwar an der größten Vermögensklasse des Landes. Bis Ende 1989 band das Wohnungsgemeinnützigkeitsgesetz rund 1.800 anerkannte Unternehmen mit etwa 3,3 Millionen Wohnungen an Kostendeckung, gedeckelte Ausschüttung und Vermögensbindung; ein Artikel des Steuerreformgesetzes 1990 hob es zum 1. Januar 1990 auf. Übrig blieb, was der Test vorhersagt: Die Genossenschaften behielten ihre Bestände, weil sie ihren Mitgliedern gehörten; die kommunalen und die gewerkschaftlichen Gesellschaften wurden gewöhnliche Unternehmen mit gewöhnlichen Anteilen, und die Berliner GSW war vierzehn Jahre später verkauft. Das zwölfte Kapitel führt den Fall aus.
 
 Die Regel, die daraus folgt, ist streng: **Was den Belastungstest nicht besteht, ist ein Programm und darf nicht als Struktur geführt werden.** Ein Reformpfad, der Programme für Strukturen ausgibt, verspricht Dauerhaftigkeit, die er nicht liefern kann – und liefert seinen Gegnern das Argument, mit dem sie ihn beim ersten Regierungswechsel erledigen.
 
 ### Die Reihenfolge
 
-Der Pfad hat drei Stufen, und ihre Reihenfolge ist Konstruktion und keine Bequemlichkeit.
+Der Pfad hat drei Stufen, und ihre Reihenfolge ist Konstruktion, keine Bequemlichkeit.
 
 *Stufe eins* – sofort, im bestehenden Recht, drei bis vier Jahre – schafft den Kanal, durch den Betriebe in Belegschaftseigentum übergehen können, und nutzt ein Zeitfenster, das sich schließt.
 

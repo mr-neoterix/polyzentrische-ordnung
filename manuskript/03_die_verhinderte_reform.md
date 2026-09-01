@@ -30,7 +30,7 @@ Kybernetik ist die Wissenschaft von Steuerung und Regelung in komplexen Systemen
 
 Ab etwa 1969 bis 1971 wurde die Kybernetik politisch zurückgedrängt. Der Grund ist in einem Detail greifbar: 1970 propagierte Ulbricht eine „marxistisch-leninistische Organisationswissenschaft" als Gegenbegriff. Ein Regelkreis kennt keine Führungsrolle. Er kennt Messgrößen, Sollwerte und Abweichungen, und er korrigiert sich, ohne dass eine Instanz recht behalten muss. Eine Partei, deren Legitimation darin besteht, die Richtung zu kennen, kann in einem Regelkreis keine Rolle spielen, die über die eines Sollwertgebers hinausgeht – und Sollwertgeber ist eine schwächere Position, als es klingt, weil ein Regelkreis auch meldet, wenn der Sollwert falsch war. Mit Honeckers Machtantritt 1971 endete die Konjunktur.
 
-Man kann daraus keine These über Computer und Planwirtschaft machen; die Rechenkapazität der Zeit hätte für eine wirklich kybernetische Planung ohnehin nicht gereicht. Aber man kann daraus etwas über die Grenzen der Reformfähigkeit lernen, und es ist eine schärfere Lehre als die aus dem NÖS. Verhindert wurde hier eine Denkform und nicht bloß ein Instrument – und zwar genau diejenige Denkform, die Fehler sichtbar macht.
+Man kann daraus keine These über Computer und Planwirtschaft machen; die Rechenkapazität der Zeit hätte für eine wirklich kybernetische Planung ohnehin nicht gereicht. Aber man kann daraus etwas über die Grenzen der Reformfähigkeit lernen, und es ist eine schärfere Lehre als die aus dem NÖS. Verhindert wurde hier mehr als ein Instrument, nämlich eine Denkform – und zwar genau diejenige Denkform, die Fehler sichtbar macht.
 
 ### Die Liste der ungenutzten Möglichkeiten
 

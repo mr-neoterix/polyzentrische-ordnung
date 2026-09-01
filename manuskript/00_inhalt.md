@@ -76,7 +76,7 @@ Was hier steht, ist deshalb ein Stand. Das Verzeichnis, aus dem dieses Buch gese
 
 *15. Arbeit, Sorge, Krise und Weltmarkt.* Wovon Menschen leben, warum die Sorge der letzte monozentrische Bereich ist, und warum die Krise die Ordnung füttert statt sie zu widerlegen.
 
-*16. Die politische Architektur und die Bedingung des Exits.* Was an die Stelle des Eigentums tritt, wenn eine Zuständigkeit niemandem gehört. Subsidiarität, aus dem anthropologischen Befund hergeleitet und mit umgekehrter Beweislast – eine Vorliebe für Nähe ist sie nicht. Warum die Gemeinde funktioniert, weil sie klagen kann und nicht, weil sie klein ist. Ein Sterberecht für Verwaltungen und die Frage, wen man wieder los wird. Dazu Losgremien, Daten und Hirschmans doppelte Lehre.
+*16. Die politische Architektur und die Bedingung des Exits.* Was an die Stelle des Eigentums tritt, wenn eine Zuständigkeit niemandem gehört. Subsidiarität, aus dem anthropologischen Befund hergeleitet und mit umgekehrter Beweislast – eine Vorliebe für Nähe ist sie nicht. Warum die Gemeinde funktioniert, weil sie klagen kann. Ein Sterberecht für Verwaltungen und die Frage, wen man wieder los wird. Dazu Losgremien, Daten und Hirschmans doppelte Lehre.
 
 *17. Der Sozialstaat als Bauteil.* Warum die Voraussetzung des härtesten Mechanismus dieser Ordnung als einzige nie geprüft wurde. Die Krankenkassen als der polyzentrischste Teil des deutschen Staates und die Rentenversicherung als sein weichster. Eine Selbstverwaltung, der 2009 die eigene Einnahme genommen wurde, und drei Stufen der Sicherung statt einer. Und die Frage, wer eine Einrichtung verteidigt, auf die alles Übrige gebaut ist.
 

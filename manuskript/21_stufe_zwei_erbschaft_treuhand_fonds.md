@@ -28,7 +28,7 @@ An jedem Unternehmensanteil hängen zwei verschiedene Dinge: ein *Vermögensrech
 
 Drei Antworten sind möglich, und zwei davon sind falsch.
 
-*Die erste wäre, die Stimmrechte einer Fondsverwaltung zu geben.* Dann entsteht über Jahrzehnte genau die Machtkonzentration, an der der bekannteste Versuch dieser Art gescheitert ist. Rudolf Meidner, Chefökonom des schwedischen Gewerkschaftsbundes, entwarf 1975 einen Plan, nach dem profitable Unternehmen jährlich Aktien im Wert von zwanzig Prozent ihres Gewinns an kollektive, gewerkschaftlich kontrollierte Arbeitnehmerfonds abführen sollten. Der Gewerkschaftskongress nahm ihn 1976 an. Die Arbeitgeber mobilisierten dagegen in einem Ausmaß, das die schwedische Nachkriegsgeschichte nicht kannte, und ihr wirksamstes Argument war demokratietheoretisch und nicht ökonomisch: Am Ende dieses Weges gehören die Unternehmen des Landes einer Handvoll Funktionäre. 1983 wurde nur eine stark verwässerte Fassung eingeführt; 1991/92 schaffte die Regierung Bildt die Fonds in einer einzigen Legislaturperiode ab.
+*Die erste wäre, die Stimmrechte einer Fondsverwaltung zu geben.* Dann entsteht über Jahrzehnte genau die Machtkonzentration, an der der bekannteste Versuch dieser Art gescheitert ist. Rudolf Meidner, Chefökonom des schwedischen Gewerkschaftsbundes, entwarf 1975 einen Plan, nach dem profitable Unternehmen jährlich Aktien im Wert von zwanzig Prozent ihres Gewinns an kollektive, gewerkschaftlich kontrollierte Arbeitnehmerfonds abführen sollten. Der Gewerkschaftskongress nahm ihn 1976 an. Die Arbeitgeber mobilisierten dagegen in einem Ausmaß, das die schwedische Nachkriegsgeschichte nicht kannte, und ihr wirksamstes Argument war demokratietheoretisch, nicht ökonomisch: Am Ende dieses Weges gehören die Unternehmen des Landes einer Handvoll Funktionäre. 1983 wurde nur eine stark verwässerte Fassung eingeführt; 1991/92 schaffte die Regierung Bildt die Fonds in einer einzigen Legislaturperiode ab.
 
 Wer diesen Weg wählt, baut den Zentralstaat des dritten Kapitels mit anderem Briefkopf.
 
@@ -82,15 +82,15 @@ Und nun der Test, den die Finanzverfassung stellt und den keine Steuerreform üb
 
 Das Aufkommen der Erbschaft- und Schenkungsteuer steht nach Artikel 106 Absatz 2 des Grundgesetzes den *Ländern* zu. Verwaltet wird sie nach Artikel 108 Absatz 2 ebenfalls von den Ländern. Und ein Bundesgesetz über sie bedarf nach Artikel 105 Absatz 3 der Zustimmung des Bundesrates.
 
-Eine Reform, die die Steuer teilweise in Anteile umwandelt und diese Anteile einer neuen bundesweiten Institution zuführt, verschiebt damit Ertragshoheit. Sie ist Finanzverfassungspolitik und nicht bloß Steuerpolitik – und sie scheitert im Bundesrat, wenn sie den Ländern Einnahmen entzieht. Sechzehn Landesregierungen jeder Couleur sind sich in wenigen Dingen so einig wie darin.
+Eine Reform, die die Steuer teilweise in Anteile umwandelt und diese Anteile einer neuen bundesweiten Institution zuführt, verschiebt damit Ertragshoheit. Sie ist Finanzverfassungspolitik, nicht bloß Steuerpolitik – und sie scheitert im Bundesrat, wenn sie den Ländern Einnahmen entzieht. Sechzehn Landesregierungen jeder Couleur sind sich in wenigen Dingen so einig wie darin.
 
-Die Lösung ist die passende Form und keine Notlösung: *Die Fondsfamilie wird als Länderfamilie gebaut.* Jedes Land führt seinen Fonds oder tritt einem gemeinsamen Fonds mehrerer Länder bei; die Anteile aus der Steuer eines Landes fließen in dessen Fonds; die Berechtigten können über Landesgrenzen hinweg wechseln, was den Wettbewerb zwischen den Häusern erst scharf macht. Der Bund regelt nur das Mandat, die Konsolidierungssperre, die Rechte der Berechtigten und die Bewertung.
+Die Lösung ist die passende Form: *Die Fondsfamilie wird als Länderfamilie gebaut.* Jedes Land führt seinen Fonds oder tritt einem gemeinsamen Fonds mehrerer Länder bei; die Anteile aus der Steuer eines Landes fließen in dessen Fonds; die Berechtigten können über Landesgrenzen hinweg wechseln, was den Wettbewerb zwischen den Häusern erst scharf macht. Der Bund regelt nur das Mandat, die Konsolidierungssperre, die Rechte der Berechtigten und die Bewertung.
 
 Das kostet Einheitlichkeit und gewinnt Mehrheitsfähigkeit. Und es ist ein Beispiel dafür, dass der deutsche Föderalismus hier den Zuschnitt frei Haus liefert, den die Ordnung ohnehin braucht.
 
 ### Warum es mehrere Fonds sein müssen
 
-Denn die Zahl der Fonds ist eine Ordnungsfrage und keine Verwaltungsfrage.
+Denn die Zahl der Fonds ist eine Ordnungsfrage.
 
 Ein einziger Bürgerfonds wäre eine monozentrische Antwort auf ein polyzentrisches Problem: ein einziger Angriffspunkt für politischen Zugriff – Industriepolitik, Rettungsaktionen, Verteidigungsfinanzierung –, für Kaperung durch die Verwaltungselite und für Abschaffung mit einem einzigen Gesetz. Also mehrere Häuser mit identischem Mandat, getrennten Verwaltungen, getrenntem Kapitalstock und regionalem Zuschnitt, zwischen denen die Berechtigten wechseln können. Exit als Disziplin, angewandt auf die eigene Institution.
 

@@ -40,7 +40,7 @@ Dies ist auch keine Utopie, und der Verzicht hat einen historischen Grund. Utopi
 
 Dieses Buch nennt die Sache den *Engpass*: die Stelle, an der alle Macht durch ein Nadelöhr muss, damit die Verhältnisse sich ändern. Wer schneller ans Ziel will, muss durch den Engpass. Wer durch den Engpass geht, kommt nicht mehr heraus. Alles, was hier vorgeschlagen wird, ist so konstruiert, dass es ohne den Engpass auskommt – und der Preis dafür ist Langsamkeit. Dieser Preis wird im Buch ausgerechnet statt versteckt.
 
-An dieser Stelle ist allerdings eine Anleihe zu deklarieren, die sonst ungedeckt bliebe. Bakunin wird hier als Zeuge gegen Marx aufgerufen, und er ist ein guter Zeuge – aber er hätte auch diesem Buch widersprochen, und zwar aus demselben Grund. Sein Einwand galt dem Staat im Allgemeinen und nicht der Diktatur des Proletariats im Besonderen: Jede zentrale Zwangsgewalt erzeuge eine Kaste, die von ihr lebt, gleichgültig in wessen Namen sie eingesetzt wurde. Die Ordnung, die hier vorgeschlagen wird, benutzt Staatsmacht ausgiebig – Steuerrecht, Konzessionen, Gerichte, eine staatliche Förderbank. Das verlangt eine Begründung.
+An dieser Stelle ist allerdings eine Anleihe zu deklarieren, die sonst ungedeckt bliebe. Bakunin wird hier als Zeuge gegen Marx aufgerufen, und er ist ein guter Zeuge – aber er hätte auch diesem Buch widersprochen, und zwar aus demselben Grund. Sein Einwand galt nicht bloß der Diktatur des Proletariats; er galt dem Staat im Allgemeinen: Jede zentrale Zwangsgewalt erzeuge eine Kaste, die von ihr lebt, gleichgültig in wessen Namen sie eingesetzt wurde. Die Ordnung, die hier vorgeschlagen wird, benutzt Staatsmacht ausgiebig – Steuerrecht, Konzessionen, Gerichte, eine staatliche Förderbank. Das verlangt eine Begründung.
 
 Sie lautet: Die Abschaffung des Staates beseitigt Macht nicht, sie verlagert sie an den, der lokal Gewalt organisieren kann. Das ist derselbe Einwand, den dieses Buch gegen Marx erhebt, nur in die andere Richtung gewendet: Wer eine Institution abschafft, schafft nicht das Problem ab, das sie bändigt – er lässt es nur unbewacht zurück.
 
@@ -74,8 +74,8 @@ Ob das trägt, ist die Frage der folgenden sechsundzwanzig Kapitel. Beginnen wir
 
 ### Belege
 
-*Bakunin, Prophezeiung gegen Marx:* Michail Bakunin, *Staatlichkeit und Anarchie* (1873); deutsch u. a. hrsg. v. Horst Stuke, Frankfurt a. M.: Ullstein 1972. Die Passage über die neue privilegierte Minderheit ist zusätzlich gesichert durch Karl Marx, *Konspekt von Bakunins Buch „Staatlichkeit und Anarchie"* (1874/75), MEW 18, S. 597–642. **Bestätigt.** *Mit Einschränkung:* Das häufig mitzitierte Etikett „roter Bürokratismus" stammt aus Bakunins Brief an Albert Richard von 1870 und nicht aus dem Buch – es wird hier deshalb nicht als Buchzitat geführt.
+*Bakunin, Prophezeiung gegen Marx:* Michail Bakunin, *Staatlichkeit und Anarchie* (1873); deutsch u. a. hrsg. v. Horst Stuke, Frankfurt a. M.: Ullstein 1972. Die Passage über die neue privilegierte Minderheit ist zusätzlich gesichert durch Karl Marx, *Konspekt von Bakunins Buch „Staatlichkeit und Anarchie"* (1874/75), MEW 18, S. 597–642. **Bestätigt.** *Mit Einschränkung:* Das häufig mitzitierte Etikett „roter Bürokratismus" stammt nicht aus dem Buch selbst; es steht in Bakunins Brief an Albert Richard von 1870 – es wird hier deshalb nicht als Buchzitat geführt.
 
 *Fagor, Landesbanken, Doppelstiftung:* Belege in den Kapiteln 9, 12 und 13, wo die Fälle ausgeführt werden.
 
-*Methodische Regeln:* Sie sind Arbeitsregeln dieses Projekts und keine Übernahme aus der Literatur; ihre Prüfbarkeit liegt in ihrer Anwendung, nicht in einer Fundstelle. **Wertung.**
+*Methodische Regeln:* Sie sind Arbeitsregeln dieses Projekts, aus der Literatur übernommen ist keine von ihnen; ihre Prüfbarkeit liegt in ihrer Anwendung, nicht in einer Fundstelle. **Wertung.**

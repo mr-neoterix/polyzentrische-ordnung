@@ -20,7 +20,7 @@ Wer behauptet, der Markt hege Macht ein, muss diesen Fall erklären. Es gab Prei
 
 **Russland nach 1992.** Die Privatisierung der sowjetischen Wirtschaft brachte binnen weniger Jahre eine Eigentumskonzentration hervor, wie sie in Friedenszeiten kaum je erreicht worden ist – und aus ihr eine Klasse von Eigentümern, deren politischer Einfluss bald mit dem des Staates konkurrierte. Was danach folgte, war Unterwerfung in der Gegenrichtung: Der wiedererstarkte Staatsapparat integrierte die Vermögenden, statt sie zu begrenzen. Am Ende stand eine Ordnung, in der wirtschaftliche und politische Macht wieder in einem Zentrum zusammenlaufen – nur diesmal mit Privateigentum.
 
-**China nach 1992.** Der Fall aus dem vierten Kapitel, aus der anderen Perspektive gelesen. Seit Deng Xiaopings Süd-Reise von 1992 ist China ein Land mit umfassenden Märkten, Privateigentum, Kapitalmärkten, Milliardären und einem der dynamischsten Unternehmenssektoren der Welt. Eingehegt hat das die Macht nicht. Wer in China unternehmerisch groß wird, wird zu einem Objekt der Aufsicht und nicht zu einer Gegenmacht – und die Ereignisse der letzten anderthalb Jahrzehnte, von der Regulierung der Technologiekonzerne bis zum plötzlichen Verschwinden einzelner Unternehmer aus der Öffentlichkeit, haben das mehrfach vorgeführt.
+**China nach 1992.** Der Fall aus dem vierten Kapitel, aus der anderen Perspektive gelesen. Seit Deng Xiaopings Süd-Reise von 1992 ist China ein Land mit umfassenden Märkten, Privateigentum, Kapitalmärkten, Milliardären und einem der dynamischsten Unternehmenssektoren der Welt. Eingehegt hat das die Macht nicht. Wer in China unternehmerisch groß wird, wird zum Objekt der Aufsicht statt zur Gegenmacht – und die Ereignisse der letzten anderthalb Jahrzehnte, von der Regulierung der Technologiekonzerne bis zum plötzlichen Verschwinden einzelner Unternehmer aus der Öffentlichkeit, haben das mehrfach vorgeführt.
 
 Drei Fälle, ein Ergebnis: Kapitalismus ohne bestimmte Zusatzinstitutionen hegt Macht nicht ein. Er verschiebt sie nur.
 
@@ -36,7 +36,7 @@ Damit ist die eigentliche Frage gestellt: Wenn nicht der Markt, was dann?
 
 Die Antwort ist eine Liste, und keiner ihrer Punkte hat mit Kapitalismus etwas begrifflich Notwendiges zu tun.
 
-*Konkurrenz mit harter Budgetbeschränkung.* Gemeint ist die reale Möglichkeit, unterzugehen, und nicht der Wettbewerb als Ideal. Ein Unternehmen, das falsch entscheidet, verschwindet, und mit ihm verschwindet die Macht seiner Eigentümer. Das ist die unpersönlichste Form der Machtbegrenzung, die es gibt: Niemand muss sie beschließen.
+*Konkurrenz mit harter Budgetbeschränkung.* Gemeint ist die reale Möglichkeit, unterzugehen; der Wettbewerb als Ideal ist etwas anderes. Ein Unternehmen, das falsch entscheidet, verschwindet, und mit ihm verschwindet die Macht seiner Eigentümer. Das ist die unpersönlichste Form der Machtbegrenzung, die es gibt: Niemand muss sie beschließen.
 
 *Ausweichmöglichkeiten.* Wer mit seinem Arbeitgeber, seiner Bank, seinem Vermieter, seiner Gemeinde unzufrieden ist, kann zu einem anderen wechseln. Das ist Hirschmans Exit, und seine Wirkung hängt nicht daran, dass viele gehen; sie hängt daran, dass viele gehen *könnten*.
 
