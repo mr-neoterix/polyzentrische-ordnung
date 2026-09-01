@@ -40,73 +40,73 @@ Was hier steht, ist deshalb ein Stand. Das Verzeichnis, aus dem dieses Buch gese
 
 **Teil I – Die Frage**
 
-*1. Eine Frage, die weiterführte.* Wie aus der Buchhaltung eines untergegangenen Staates eine Ordnungsfrage wurde; die drei Regeln des Verfahrens; was dieses Buch nicht ist – und welche Anleihe es bei Bakunin nimmt, ohne dessen Konsequenz zu ziehen.
+*1. Eine Frage, die weiterführte.* Wie aus der Buchhaltung eines untergegangenen Staates eine Ordnungsfrage wurde; die drei Regeln, nach denen hier gearbeitet wird; die zwei Prüfsteine, an denen sich jeder Vorschlag messen lassen muss – und die Anleihe bei Bakunin, die deklariert gehört, weil er auch diesem Buch widersprochen hätte.
 
 **Teil II – Die Diagnose: Was wirklich scheiterte**
 
 *2. War die DDR pleite?* Der Schürer-Bericht, die Nachrechnung der Bundesbank und der Unterschied zwischen Zahlungsunfähigkeit und Substanzverzehr.
 
-*3. Die Reform, die niemand wollte.* Das Neue Ökonomische System, die Kybernetik und die Frage, warum jede wirksame Reform an derselben Wand endete.
+*3. Die Reform, die niemand wollte.* Das Neue Ökonomische System, der Fall der Kybernetik und die Frage, woran die Reformen endeten, die geholfen hätten.
 
-*4. Fünf Länder, ein Muster.* Ungarn, Jugoslawien, Vietnam, Kuba, China – und was der Vergleich über den Plan lehrt, das ein einzelner Fall nicht lehren kann.
+*4. Fünf Länder, ein Muster.* Ungarn, Jugoslawien, Vietnam, Kuba, China – und die Frage, was ein Vergleich über den Plan zeigt, wozu ein einzelner Fall nicht reicht.
 
-*5. Die Gegenprobe: Was den Kapitalismus einhegte.* Chile 1973, Russland nach 1992, China nach 1992 – dazu Frankreich 1981, der Fall, in dem der Markt tatsächlich Macht begrenzte, und zwar die gewählte. Und warum die entscheidende Systemvariable quer zu der Achse liegt, an der die Debatte gewöhnlich entlangläuft: Polyzentrik gegen Monozentrik.
+*5. Die Gegenprobe: Was den Kapitalismus einhegte.* Chile 1973, Russland nach 1992 und China nach 1992 – drei Fälle, in denen der Markt nichts einhegte –, dazu Frankreich 1981, das in diese Reihe nicht passt und ohne das sie schief steht. Und die Frage, welche Variable die Debatte übersieht, solange sie nach Kapitalismus oder Sozialismus sortiert.
 
 **Teil III – Warum beide Antworten nicht genügen**
 
-*6. Marx' Diagnose und Marx' Irrtum.* Konzentration, Übersetzung von Geld in Macht – und warum der Weg zu Marx' Ziel das diagnostizierte Problem maximiert, während das Ziel selbst ungeprüft geblieben ist.
+*6. Marx' Diagnose und Marx' Irrtum.* Was von der Analyse trägt – Konzentration und die Übersetzung von Geld in Macht – und was von der Therapie fällt. Dazu die Unterscheidung, ohne die keine Prüfung fair wäre: Marx' Ziel und der Weg, den er dorthin gewiesen hat.
 
-*7. Der Endzustand, der das Problem wegdefiniert.* Knappheit, Konflikt und die Illusion der Verwaltung von Sachen; Ostroms Gegenmodell.
+*7. Der Endzustand, der das Problem wegdefiniert.* Knappheit, Konflikt und die Frage, was aus der Verwaltung von Sachen wird, sobald Menschen über sie streiten. Ostroms Gegenmodell und die Freiheit als Praxis.
 
-*8. Warum Regeln rosten und Eigentum sich wehrt.* Olsons Logik, die deutsche Mitbestimmung, die Sparkassen und ein britisches Steuergesetz, das nach elf Jahren halbiert wurde.
+*8. Warum Regeln rosten und Eigentum sich wehrt.* Olsons Logik der kollektiven Handlung an drei Fällen: der deutschen Mitbestimmung, den Sparkassen und einem britischen Steuergesetz, das nach elf Jahren halbiert wurde.
 
-*9. Fehlertoleranz.* Warum die entscheidende Frage lautet, ob eine Ordnung ihre Fehler überlebt – und was 2013 im Baskenland geschah. Zwischenbilanz der Diagnose.
+*9. Fehlertoleranz.* Die Frage, ob eine Ordnung ihre Fehler überlebt, an der DDR und an Mondragón – und was 2013 mit Fagor geschah. Zwischenbilanz der Diagnose in neun Befunden, auf die alles Spätere zurückverweist.
 
 **Teil IV – Die Ordnung**
 
-*10. Drei Sektoren, die nebeneinander konkurrieren.* Die Grundfigur, ihre Größenordnungen und die Zumutung der ehrlichen Rechnung.
+*10. Drei Sektoren, die nebeneinander konkurrieren.* Die Grundfigur, ihre Größenordnungen und die Designprinzipien dahinter. Warum es in dieser Ordnung Preise gibt, und wonach ein Sektor überhaupt geschnitten wird, wenn die Rechtsform darüber nicht entscheidet.
 
-*11. Die Verfassung des Belegschaftssektors.* Die beiden Traditionslinien, in denen die Konstruktion steht – die deutsche und die, an deren Ende Mondragón steht. Und was sie unterscheidet: warum der unverkäufliche Betrieb allein in den Ruin führt, und was die andere Hälfte des baskischen Modells ist.
+*11. Die Verfassung des Belegschaftssektors.* Die beiden Traditionslinien, in denen die Konstruktion steht – die deutsche und die, an deren Ende Mondragón steht –, und was sie trennt. Dann die Bauteile einzeln: Vermögensbindung und individuelle Kapitalkonten, die offene Mitgliedschaft und die Frage, wer auf ihre Einhaltung klagen kann, der Zuschnitt der Einheiten, die Herkunft des Kapitals und der Preis, den die Mitglieder zahlen.
 
-*12. Der Allmende-Sektor und sein Sterberecht.* Die gefährlichste Stelle der Ordnung: dort, wo sie sich am sichersten fühlt.
+*12. Der Allmende-Sektor und sein Sterberecht.* Was an die Stelle der Insolvenz tritt, wo es keine geben kann: Wer ein Netz, ein Wasserwerk oder einen Wohnungsbestand in gemeinwirtschaftlicher Trägerschaft schlecht führt, geht davon nicht pleite. Der Wohnungsbestand als Sonderfall des Sektors, der Fall der Wohnungsgemeinnützigkeit, den es schon gegeben hat – und die Frage, wie man einen Eigentümer erreicht, der weder stirbt noch verkauft.
 
-*13. Der Privatsektor und die Sterblichkeit des Vermögens.* Erbschaft, Stiftung, Kontroll-Lock – und warum ein halb gebauter Riegel schlimmer ist als keiner.
+*13. Der Privatsektor und die Sterblichkeit des Vermögens.* Warum dieser Sektor bleibt und unter welchen Regeln Vermögen entstehen darf, ohne dynastisch zu werden: Erbschaft, Stiftung, die Bindung der Stimmrechte – und die börsennotierte Gesellschaft, die keinen Erbfall kennt und auf keinen Verkauf angewiesen ist.
 
-*14. Die Kreislaufdimension.* Ein Trinkglas aus der Lausitz und die Frage, warum niemand Haltbarkeit verkaufen will. Dazwischen der Einwand der achtzig Zahnbürsten und die Schnittstelle als der Teil der Doppelung, den man wiegen kann. Und die Gegenfrage nach dem Bedarf, den niemand hatte: warum die Werbung ein Wettrüsten ist, warum die Frage nach dem echten Bedürfnis nicht gestellt werden darf, und was sich stattdessen entscheiden lässt.
+*14. Die Kreislaufdimension.* Ein Trinkglas aus der Lausitz und die Frage, wer an Haltbarkeit verdient. Dazwischen der Einwand der achtzig Zahnbürsten und die Schnittstelle als der Teil der Doppelung, der sich wiegen lässt. Und die andere Richtung: der Bedarf, den niemand hatte – was sich an der Bedarfsweckung entscheiden lässt und was niemand entscheiden darf.
 
-*15. Arbeit, Sorge, Krise und Weltmarkt.* Wovon Menschen leben, warum die Sorge der letzte monozentrische Bereich ist, und warum die Krise die Ordnung füttert statt sie zu widerlegen.
+*15. Arbeit, Sorge, Krise und Weltmarkt.* Wovon Menschen leben. Der Lohnboden, den der Sektor selbst nicht setzt; die Sorgearbeit, die sich denselben vier Prüffragen stellen muss wie jeder andere Bereich dieses Buches; die Frage, was aus einer Streuung über Arbeitsplätze wird, wenn die Arbeit automatisiert wird – und was diese Ordnung in der Krise tut.
 
-*16. Die politische Architektur und die Bedingung des Exits.* Was an die Stelle des Eigentums tritt, wenn eine Zuständigkeit niemandem gehört. Subsidiarität, aus dem anthropologischen Befund hergeleitet und mit umgekehrter Beweislast – eine Vorliebe für Nähe ist sie nicht. Warum die Gemeinde funktioniert, weil sie klagen kann. Ein Sterberecht für Verwaltungen und die Frage, wen man wieder los wird. Dazu Losgremien, Daten und Hirschmans doppelte Lehre.
+*16. Die politische Architektur und die Bedingung des Exits.* Was an die Stelle des Eigentums tritt, wenn eine Zuständigkeit niemandem gehört. Subsidiarität, aus dem anthropologischen Befund hergeleitet und mit umgekehrter Beweislast. Ein Sterberecht für Verwaltungen und die Frage, wen man wieder los wird. Die Medienvielfalt als Eigentumsfrage neben der Aufsichtsfrage. Dazu Losgremien, Daten und Hirschmans doppelte Lehre.
 
-*17. Der Sozialstaat als Bauteil.* Warum die Voraussetzung des härtesten Mechanismus dieser Ordnung als einzige nie geprüft wurde. Die Krankenkassen als der polyzentrischste Teil des deutschen Staates und die Rentenversicherung als sein weichster. Eine Selbstverwaltung, der 2009 die eigene Einnahme genommen wurde, und drei Stufen der Sicherung statt einer. Und die Frage, wer eine Einrichtung verteidigt, auf die alles Übrige gebaut ist.
+*17. Der Sozialstaat als Bauteil.* Die Voraussetzung, die jedes andere Kapitel benutzt und keines geprüft hat. Kranken- und Rentenversicherung als Kontrastpaar, eine Selbstverwaltung, der 2009 die eigene Einnahme genommen wurde, drei Stufen der Sicherung und die Frage, wer eine Einrichtung verteidigt, auf der alles Übrige ruht.
 
 *18. Drei Werktage.* Ein Maschinenbauer ohne Nachfolger, ein Stadtwerk mit Sterberecht, ein Wohnungsbestand und die Wand des Investitionsschutzes.
 
 **Teil V – Der Weg**
 
-*19. Sechs Tests und die Bausteine, die schon da sind.* Woran man einen Weg von einem Wunsch unterscheidet.
+*19. Sechs Tests und die Bausteine, die schon da sind.* Woran man einen Weg von einem Wunsch unterscheidet – und was das geltende Recht dafür bereits hergibt.
 
-*20. Stufe eins: das Zeitfenster.* Der Nachfolgekanal aus Steuerhebel, Finanzierung, Andienungsrecht und ein paar hundert ausgebildeten Menschen.
+*20. Stufe eins: das Zeitfenster.* Der Nachfolgekanal aus Steuerhebel, Finanzierung, Andienungsrecht und ein paar hundert ausgebildeten Menschen. Und was geschieht, wenn das Fenster zufällt.
 
-*21. Stufe zwei: Erbschaftsteuer, Belegschaftstreuhand, Fondsfamilie.* Die schwierigste Konstruktionsfrage des Buches und die Rechtsordnung, die sie begrenzt.
+*21. Stufe zwei: Erbschaftsteuer, Belegschaftstreuhand, Fondsfamilie.* Eine Steuer, die kein Geld nimmt, und die fünf Wände, an die der Gedanke stößt: Stimmrechte, Gesellschaftsrecht, Ausschüttung, Bewertung, Finanzverfassung. Warum es mehrere Fonds sein müssen und was geschieht, wenn einer von ihnen schlecht arbeitet.
 
-*22. Stufe drei, die Kosten und die Koalitionen.* Was der Weg wirklich kostet, wer verliert, und woran man erkennt, dass er gescheitert ist.
+*22. Stufe drei, die Kosten und die Koalitionen.* Was der Weg kostet, wer verliert, und woran man erkennt, dass er gescheitert ist – vier Größen mit Schwellen, die vor der ersten Erhebung feststehen müssen.
 
 **Teil VI – Die äußere Ebene**
 
-*23. Die Weltordnungsebene.* Wo der Umsetzungspfad endet und die Ordnung nicht: drei sehr ungleiche Angriffsflächen und die juristische statt der ökonomischen Zermürbung. Der Investitionsschutz als Regelwerk, das nicht rostet, und ein europäischer Rechtsraum, der gebaut und einseitig möbliert ist. Die Export- statt Verteidigungsstrategie und ihre Fortsetzung – Marktzugang gegen Gerichtsstand – und warum daraus trotzdem keine Weltregierung folgt. Dazu der Befund, dass das internationale System polyzentrisch und trotzdem die gewalttätigste Ordnung der Welt ist, und die Prüfung des naheliegendsten Trostes: ob eine Ordnung mit verteilter Macht nach außen friedlicher aufträte und ihr Beispiel Nachbarn nach sich zöge. Das Kapitel benennt seine eigene Fortsetzung.
+*23. Die Weltordnungsebene.* Wo der Umsetzungspfad endet und die Ordnung nicht: drei ungleiche Angriffsflächen, der Investitionsschutz als Regelwerk, das nicht rostet, und ein europäischer Rechtsraum, der gebaut und einseitig möbliert ist. Der Marktzugang als Hebel und die Frage nach der Weltregierung. Dazu der Einwand, der die Kernthese dieses Buches an ihrer eigenen Stelle trifft – das internationale System ist polyzentrisch und zugleich die gewalttätigste Ordnung der Welt –, und die Prüfung des Gedankens, eine Ordnung mit verteilter Macht trete nach außen friedlicher auf und ziehe Nachbarn nach sich. Das Kapitel benennt seine eigene Fortsetzung.
 
 **Teil VII – Die Proben**
 
-*24. Die marxistische Gegenprobe.* Zwölf Einwände. Darunter die Anarchie der Produktion – warum achtzig gleiche Zahnbürsten keine Verschwendung sind und die Planwirtschaften die Doppelarbeit selbst bezahlt haben. Marx gegen Lassalle als der schärfste, der von innen kommt. Der Staatlichkeits-Einwand – die Menschheit kam die längste Zeit ihrer Geschichte ohne Staaten aus. Der Verrechtlichungs-Einwand – klagen kann, wer einen Anwalt bezahlt. Und zuletzt der Maßstabs-Einwand: Diese Ordnung habe für Ergebnisse keinen Begriff von schlecht, nur einen von unhaltbar.
+*24. Die marxistische Gegenprobe.* Zwölf Einwände, ein Zusatzvorwurf und drei Konzessionen. Luxemburg gegen die Genossenschaft im Konkurrenzmeer, der Staat als Ausschuss der herrschenden Klasse, die Wertform, Gramsci und Marcuse, die Anarchie der Produktion und die achtzig Zahnbürsten, Marx gegen Lassalle, der Staatlichkeits-Einwand aus dem Anarchismus, die Verrechtlichung – und zuletzt die Frage, ob ein Buch, das Fehlertoleranz zu seinem Kriterium macht, überhaupt einen Begriff davon hat, wie es den Menschen darin ergeht.
 
-*25. Die liberale Gegenprobe.* Vierzehn Einwände, die mit Kosten argumentieren statt mit Weltanschauung, und deshalb schwerer wiegen. Darunter Hayeks Frage, wer eigentlich entscheidet, welches Bedürfnis echt ist. Der Vorwurf, dieses Buch verletze mit seinen Klagerechten seine eigene Regel über abwählbare Macht. Und zuletzt der schärfste: China wächst seit achtundvierzig Jahren mit einem einzigen Machtzentrum.
+*25. Die liberale Gegenprobe.* Vierzehn Einwände, die mit Kosten argumentieren statt mit Weltanschauung: die Kosten gemeinsamer Entscheidung, das gebündelte Risiko, der fehlende Kapitalmarkt, die Innovation, Jugoslawien, der geförderte Sektor als eigene Interessengruppe, Hayek gegen diesen Text selbst, die Frage, wer entscheidet, welches Bedürfnis echt ist, der eine Fall, an dem angeblich alles hängt, die Juristokratie – und China, das seit achtundvierzig Jahren mit einem einzigen Machtzentrum wächst.
 
 **Teil VIII – Der ehrliche Rest**
 
-*26. Offene Flanken.* Das Ehrlichkeits-Ledger, in Klassen getrennt: Grenzen der Reichweite, Stellen ohne Träger, unentschiedene Fragen – mit ausdrücklichem Nachweis, welche frühere Flanke durch welche Änderung der Ordnung geschlossen wurde.
+*26. Offene Flanken.* Das Ehrlichkeits-Ledger, in Klassen getrennt: Grenzen der Reichweite, Stellen ohne Träger, unentschiedene Fragen. Dazu ein ausgewiesener Dissens, die ausgelagerte Weltordnungsebene, der Zustand des Belegapparats – und der Nachweis, welche frühere Flanke durch welche Änderung der Ordnung geschlossen wurde.
 
-*27. Die Formel.* Verdichtung – und warum am Ende ein Kriterium steht, wo man ein Versprechen erwartet.
+*27. Die Formel.* Die Herleitung in einem Zug, die Bedingungen, unter denen sie trägt, und was sie nicht ist. Am Ende steht ein Kriterium, wo man ein Versprechen erwartet.
 
 ---
 
