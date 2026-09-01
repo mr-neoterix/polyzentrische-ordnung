@@ -57,11 +57,18 @@
 % darum härter als gewöhnliche Prosa.
 %
 % Die Schnitte liegen im Verzeichnis unter `satz/schriften/` und nicht im
-% TeX-Baum. Das kostet 2,2 MB und spart dem Bauläufer ein Paket von 630 MB,
-% das er sonst für fünf Dateien einspielen müsste; zugleich
+% TeX-Baum: zehn Dateien, 3,3 MB, beide Familien zusammen. Sie sparen dem
+% Bauläufer zwei Pakete – ein Schriftpaket von 630 MB für die zehn Dateien
+% und fonts-texgyre, das allein für die alte Serifenlose da war; zugleich
 % setzt jeder Rechner mit denselben Schnitten, ohne dass eine
 % Schriftverwaltung mitspielen muss. Die Lizenz (SIL Open Font License)
-% liegt als `OFL.txt` daneben und gehört bei jeder Weitergabe dazu.
+% deckt beide Familien, liegt als `OFL.txt` daneben und gehört bei jeder
+% Weitergabe dazu.
+%
+% Nicht im Verzeichnis steht allein die Schreibmaschinenschrift: Latin
+% Modern Mono kommt weiter aus dem TeX-Baum. Sie trägt im ganzen Buch acht
+% Stellen, sämtlich in den Belegapparaten – Dateinamen, ein Paketname, eine
+% Registeradresse –, und für sie gibt es in dieser Werkstatt kein Gegenstück.
 %
 % Den Pfad reicht das Satzskript als Pandoc-Variable herein. Fehlt sie,
 % sucht LuaTeX wie zuvor im TeX-Baum – dann muss Alegreya dort liegen.
