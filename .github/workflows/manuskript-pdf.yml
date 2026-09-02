@@ -29,6 +29,17 @@ on:
       - '.github/workflows/manuskript-pdf.yml'
   workflow_dispatch:
 
+# Die Ausgabenummer hat zwei Teile, und nur einer wird gezählt. Die Zahl
+# nach dem Punkt zählt der Schritt „Ausgabenummer bestimmen" an den
+# vorhandenen Marken hoch; die Zahl davor, die Hauptnummer, steht hier und
+# sonst nirgends – gesetzt statt gezählt. Wer sie erhöht, setzt damit den
+# Zähler zurück, ohne eine Marke anzufassen: Die erste Ausgabe der neuen
+# Reihe ist die .0, weil noch keine Marke mit dieser Hauptnummer existiert,
+# und die Marken der alten Reihe bleiben samt ihren Veröffentlichungen
+# stehen. Am 02.09.2026 von 1 auf 2 gehoben; die erste Reihe endete mit 1.31.
+env:
+  HAUPTNUMMER: '2'
+
 permissions:
   contents: read
 
@@ -51,11 +62,12 @@ jobs:
         uses: actions/checkout@v4
 
       # Jeder Satz auf dem Hauptzweig bekommt eine eigene Nummer, und die
-      # Nummer steht im Dateinamen wie in der Marke. Gezählt wird an den
-      # vorhandenen Marken selbst, nicht an einer Datei im Baum: So braucht
-      # der Lauf keinen Schritt, der ins Verzeichnis zurückschreibt, und eine
-      # gelöschte Veröffentlichung gibt ihre Nummer nicht wieder frei,
-      # solange ihre Marke steht.
+      # Nummer steht im Dateinamen wie in der Marke. Gezählt wird die Zahl
+      # nach dem Punkt, an den vorhandenen Marken der laufenden Reihe selbst
+      # und nicht an einer Datei im Baum: So braucht der Lauf keinen Schritt,
+      # der ins Verzeichnis zurückschreibt, und eine gelöschte
+      # Veröffentlichung gibt ihre Nummer nicht wieder frei, solange ihre
+      # Marke steht. Welche Reihe läuft, sagt die Hauptnummer oben unter env.
       - name: Ausgabenummer bestimmen
         id: nummer
         env:
@@ -63,19 +75,28 @@ jobs:
           STANDARDZWEIG: ${{ github.event.repository.default_branch }}
         run: |
           set -euo pipefail
+          # Die Hauptnummer wandert gleich in ein Suchmuster. Was keine Zahl
+          # ist, gehört dort nicht hinein.
+          case "${HAUPTNUMMER:-}" in
+            ''|*[!0-9]*)
+              echo "HAUPTNUMMER muss eine Zahl sein, steht aber auf '${HAUPTNUMMER:-}'." >&2
+              exit 1 ;;
+          esac
           marken=$(
             {
               gh release list --repo "$GITHUB_REPOSITORY" --limit 200 \
                 --json tagName --jq '.[].tagName' 2>/dev/null || true
-              git ls-remote --tags --refs origin 'v1.*' 2>/dev/null \
+              git ls-remote --tags --refs origin "v${HAUPTNUMMER}.*" 2>/dev/null \
                 | sed 's#.*refs/tags/##' || true
             }
           )
-          # Keine Marke zu finden ist der Regelfall des ersten Laufs und darf
-          # den Schritt nicht abbrechen – die Suche wird deshalb ausdrücklich
-          # aufgefangen. (Der Lauf startet die Schale mit -e.)
+          # Keine Marke zu finden ist der Regelfall des ersten Laufs jeder
+          # Reihe – so beginnt der Zähler bei null, wenn die Hauptnummer
+          # steigt – und darf den Schritt nicht abbrechen; die Suche wird
+          # deshalb ausdrücklich aufgefangen. (Der Lauf startet die Schale
+          # mit -e.)
           hoechste=$(printf '%s\n' "$marken" \
-            | grep -E '^v1\.[0-9]+$' \
+            | grep -E "^v${HAUPTNUMMER}\.[0-9]+$" \
             | cut -d. -f2 \
             | sort -n \
             | tail -1) || hoechste=""
@@ -90,7 +111,7 @@ jobs:
           # Quellstand, damit auch diese Dateien auseinanderzuhalten sind.
           if [ "$GITHUB_EVENT_NAME" != "pull_request" ] \
              && [ "$GITHUB_REF_NAME" = "$STANDARDZWEIG" ]; then
-            kennung="1.${naechste}"
+            kennung="${HAUPTNUMMER}.${naechste}"
             marke="v${kennung}"
             veroeffentlichen=ja
           else
