@@ -12,19 +12,30 @@ Anmeldung offen.
 
 ## Die Ausgabenummer
 
-Jeder Satz des Hauptzweigs zählt eine Nummer der Form `1.x` hoch: `1.0`,
-`1.1`, `1.2`. Sie steht an drei Stellen, damit sich zwei heruntergeladene
+Jeder Satz des Hauptzweigs zählt eine Nummer der Form `2.x` hoch: `2.0`,
+`2.1`, `2.2`. Sie steht an drei Stellen, damit sich zwei heruntergeladene
 Dateien unterscheiden lassen, ohne sie zu öffnen – im Dateinamen
-(`polyzentrische-ordnung-manuskript-1.3.pdf`), in der Marke (`v1.3`) und im
-Titel der Veröffentlichung (`Manuskript 1.3 (Stand: …)`).
+(`polyzentrische-ordnung-manuskript-2.3.pdf`), in der Marke (`v2.3`) und im
+Titel der Veröffentlichung (`Manuskript 2.3 (Stand: …)`).
 
-Gezählt wird nicht in einer Datei des Verzeichnisses, sondern an den
-vorhandenen Marken: Der Lauf sucht die höchste Marke der Form `v1.x` und
-nimmt die nächste. Das erspart einen Schritt, der in den Baum
+Die Nummer hat zwei Teile, und nur einer wird gezählt. Die Zahl nach dem
+Punkt zählt der Lauf an den vorhandenen Marken und in keiner Datei des
+Verzeichnisses: Er sucht die höchste Marke der laufenden Reihe (`v2.x`)
+und nimmt die nächste. Das erspart einen Schritt, der in den Baum
 zurückschreibt, und eine gelöschte Veröffentlichung gibt ihre Nummer nicht
 wieder frei, solange ihre Marke steht. Wer eine Nummer überspringen will,
-legt von Hand eine Marke an; wer sie zurücksetzen will, muss die höheren
-Marken löschen.
+legt von Hand eine Marke an.
+
+Die Zahl vor dem Punkt, die Hauptnummer, ist gesetzt statt gezählt. Sie
+steht an genau einer Stelle, als `HAUPTNUMMER` im Kopf des Workflows, und
+wer sie erhöht, setzt damit den Zähler zurück, ohne eine Marke anzufassen:
+Die erste Ausgabe der neuen Reihe ist die `.0`, weil noch keine Marke mit
+dieser Hauptnummer existiert, und die Marken der alten Reihe bleiben samt
+ihren Veröffentlichungen stehen. Am 02.09.2026 ist die Hauptnummer von 1
+auf 2 gestiegen; die erste Reihe lief von `1.0` bis `1.31`, und ihre
+Ausgaben sind unter ihren Marken weiter erreichbar. Innerhalb einer Reihe
+lässt sich der Zähler nur durch Löschen der höheren Marken zurücksetzen –
+und genau das erspart die Hauptnummer.
 
 Was nicht auf dem Hauptzweig läuft – Zweige und Pull Requests –, bekommt
 keine Nummer, sondern den Quellstand: `…-entwurf-a1b2c3d.pdf`. Nur
