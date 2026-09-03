@@ -152,7 +152,7 @@ Bleibt der Träger für die lange Frist. Es ist der Belegschaftssektor selbst. E
 
 Nur ist es kein sicherer Träger, und der Gegenbeleg kommt aus dem Haus des Kronzeugen. Als Genossenschaftsmitglieder im spanischen Recht als Selbständige galten und damit aus dem allgemeinen System fielen, hat der baskische Verbund Mondragón nicht darum gekämpft, hineinzukommen. Er hat sich 1967 mit Lagun Aro ein eigenes System gebaut – Gesundheit, Alter, Arbeitslosigkeit, und bei Nichtvermittelbarkeit achtzig Prozent des Lohns für zwei Jahre. Das ist eine beachtliche Leistung und zugleich genau der Weg, den das elfte Kapitel als Verfallspfad dieser Ordnung bezeichnet: Wer viele Eigentümer will und sie vor dem Scheitern schützt, bekommt eine Zunft.
 
-**Ein Sektor, der sich selbst versichern kann, verteidigt die allgemeine Versicherung nicht mehr.** Deshalb steht dieser Träger hier mit Vorbehalt, und deshalb gehört er an die Förderbedingungen gebunden: Wer die Begünstigung des Belegschaftssektors will, bleibt in den allgemeinen Systemen.
+**Ein Sektor, der sich selbst versichern kann, verteidigt die allgemeine Versicherung nicht mehr.** Deshalb steht dieser Träger hier mit Vorbehalt, und deshalb gehört er an die Förderbedingungen gebunden: Wer die Begünstigung des Belegschaftssektors will, bleibt in den allgemeinen Systemen. Das elfte Kapitel gibt dafür einen zweiten Grund, der nichts mit Loyalität zu tun hat: Ein Verbund, der sich bei sich selbst versichert, trägt im gemeinsamen Schock die Ausfälle und die Leistungen aus derselben leeren Kasse. Die allgemeine Versicherung ist die einzige, die das Tal verlässt.
 
 ### Die Gegenprobe von links
 
