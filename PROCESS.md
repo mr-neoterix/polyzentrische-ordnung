@@ -156,6 +156,16 @@ Die Abgrenzung in einem Satz: **Das Ledger sagt, was dieses Buch nicht kann; die
 
 ---
 
+### V17 – Betriebsvergleiche der Genossenschaftsverbände
+**Angelegt:** 03.09.2026.
+**Gegenstand:** Das zweiundzwanzigste Kapitel sagt beim Vergleichsportal, die Verbände rechneten für ihre Mitglieder Betriebsvergleiche, die unter Verschluss blieben.
+**Was fehlt:** die Prüfung, in welchem Umfang, nach welcher Methode und mit welchem Zugang die Prüfungs- und Spitzenverbände solche Vergleiche führen; belegt ist die Leistung nur über Verbandsdarstellungen.
+**Was ihn schließt:** eine Verbandsauskunft oder ein Prüfungsstandard, der den Betriebsvergleich beschreibt.
+**Folge, falls offen:** gering. Die Konstruktion hängt an der Offenlegungspflicht nach § 339 HGB und der Nichtöffentlichkeit des Prüfungsberichts, beides am Gesetz bestätigt; der Satz über die Verbandsvergleiche ist Kolorit und als Einschränkung ausgewiesen.
+**Betroffene Stellen:** `manuskript/22_stufe_drei_kosten_koalitionen.md` (Belege), `quellen_und_glossar.md` Abschnitt AD.
+
+---
+
 ### K11 – Ebene der Überschrift „Wie dieses Buch entstanden ist"
 **Angelegt:** 01.09.2026.
 **Gegenstand:** Der Entstehungsabschnitt vom 29.08.2026 steht in `manuskript/00_inhalt.md` als `###` und damit innerhalb von „Über dieses Buch". Der Satz macht daraus eine Zwischenüberschrift ohne eigene Seite; eine eigene Seite bekäme er als `##`, weil allein der `\vorspann`-Befehl umbricht. Beides ist vertretbar: Der Abschnitt handelt vom Buch und passt unter dessen Überschrift, er ist aber auch der einzige Text des Vorspanns, der von der Herstellung statt vom Gegenstand spricht.

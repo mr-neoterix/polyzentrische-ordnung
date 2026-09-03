@@ -90,7 +90,7 @@ Was hier steht, ist deshalb ein Stand. Das Verzeichnis, aus dem dieses Buch gese
 
 *21. Stufe zwei: Erbschaftsteuer, Belegschaftstreuhand, Fondsfamilie.* Eine Steuer, die kein Geld nimmt, und die fünf Wände, an die der Gedanke stößt: Stimmrechte, Gesellschaftsrecht, Ausschüttung, Bewertung, Finanzverfassung. Warum es mehrere Fonds sein müssen und was geschieht, wenn einer von ihnen schlecht arbeitet.
 
-*22. Stufe drei, die Kosten und die Koalitionen.* Was der Weg kostet, wer verliert, und woran man erkennt, dass er gescheitert ist – vier Größen mit Schwellen, die vor der ersten Erhebung feststehen müssen.
+*22. Stufe drei, die Kosten und die Koalitionen.* Was der Weg kostet, wer verliert, und woran man erkennt, dass er gescheitert ist – vier Größen mit Schwellen, die vor der ersten Erhebung feststehen müssen, und wer die Zahlen zu sehen bekommt.
 
 **Teil VI – Die äußere Ebene**
 

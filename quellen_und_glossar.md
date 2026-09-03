@@ -1589,3 +1589,22 @@ Anlass war der Einwand eines externen Gutachters, die Polyzentrik schütze nur g
 **Erläuterung:** Die Sicherungseinrichtung des BVR besteht seit 1934, seither ist kein angeschlossenes Institut insolvent geworden; die BVR Institutssicherung GmbH ist nach § 43 Einlagensicherungsgesetz anerkannt. Einlagensicherungssysteme müssen nach Art. 4 Abs. 10 der Richtlinie 2014/49/EU regelmäßig Belastungstests durchlaufen. Der Abschnitt nimmt daraus zweierlei: die Unterscheidung von Einleger- und Institutsschutz – die Rückversicherung der Föderationen deckt Mitglieder, keine Betriebe – und die veröffentlichte Deckung mit Schwelle.
 **Quelle(n):** BVR, Statut der Sicherungseinrichtung 2026; BVR Institutssicherung GmbH; Richtlinie 2014/49/EU.
 **Verifikation:** Bestätigt. Die Übertragung auf den Belegschaftssektor ist Wertung.
+
+## AD. Anker des Vergleichsportals (Stand 03.09.2026)
+
+Anlass war der Vorschlag des Autors, die Kennzahlen der Datenstelle den Mitgliedern je Betrieb in einem staatlichen Vergleichsportal zugänglich zu machen, damit die Eigentümer eines solventen, aber zurückfallenden Betriebs selbst Konsequenzen ziehen können – oder eben nicht. Das schließt die Informationshälfte des Rests, den der zurückgezogene zweite Gutachtereinwand (fehlender Markt für Unternehmenskontrolle) gelassen hatte; die Vollzugshälfte bleibt bei den Mitgliedern, wie die Antwort auf den Maßstabs-Einwand es verlangt. Die Anker stützen den neuen Absatz im zweiundzwanzigsten Kapitel und seine Anschlüsse in 11 und 24 sowie Sektion IV des Thesenpapiers.
+
+### Offenlegung und Prüfung der eingetragenen Genossenschaft
+**Erläuterung:** Die eG stellt ihren Jahresabschluss nach den Vorschriften für Kapitalgesellschaften auf (§ 336 HGB, Größenklassen entsprechend) und legt ihn nach § 339 HGB binnen zwölf Monaten nach dem Bilanzstichtag offen, bei Prüfungspflicht mit dem Bestätigungsvermerk des Prüfungsverbands. Die Pflichtprüfung nach § 53 GenG umfasst Einrichtungen, Vermögenslage und Geschäftsführung; der Prüfungsbericht wird nach §§ 58 und 59 GenG dem Vorstand und dem Aufsichtsrat vorgelegt und in der Generalversammlung verhandelt, aber nicht veröffentlicht. Die Zahl je Betrieb existiert also; was fehlt, ist ihre Aufbereitung und ihr Adressat.
+**Quelle(n):** §§ 336, 339 HGB; §§ 53, 58, 59 GenG (gesetze-im-internet.de).
+**Verifikation:** Bestätigt.
+
+### Betriebsvergleiche der Verbände
+**Erläuterung:** Die genossenschaftlichen Prüfungs- und Spitzenverbände führen für ihre Mitgliedsunternehmen Betriebsvergleiche und Kennzahlenanalysen als Teil der Beratung. Sie sind Verbandsleistung, nicht öffentlich, und der Träger ist zugleich Prüfer und Beitragsempfänger – die Konstellation, die das Ledger als Roststelle des eigenen Sektors führt. Deshalb ist der Träger des Portals die Datenstelle.
+**Quelle(n):** Verbandsdarstellungen (DGRV, DGV-Serviceportal „Betriebsvergleich").
+**Verifikation:** Mit Einschränkung – Umfang, Methode und Zugang der Verbandsvergleiche sind nicht einzeln geprüft; Auftrag V17 in `PROCESS.md`. Die Einordnung ist Wertung dieses Buches.
+
+### Die vier Bedingungen
+**Erläuterung:** Abstände statt Urteile (keine Empfehlung, keine Ampel – sonst Bedürfnistribunal-Stellung), Träger getrennt von Regulierer und Verband (Konstruktionsregel des achten Kapitels), Anspruch jedes Mitglieds auf Erhebung und Bereitstellung nach dem Muster des Anschlussnehmer-Klagerechts im Allmende-Sektor (Feuermelder-Kontrolle), Lieferung als Förderbedingung wie bei der Tätigkeitsquote. Was das Portal nicht leistet: Es macht Unterleistung sichtbar, nicht teuer, und erreicht den Ausgesperrten nicht.
+**Quelle(n):** Kapitel 12 (Datenstelle, Klagerecht der Anschlussnehmer), Kapitel 17 (Feuermelder-Kontrolle), Kapitel 24 (relationaler Maßstab).
+**Verifikation:** Konstruktionsvorschlag dieses Buches, Wertung.
