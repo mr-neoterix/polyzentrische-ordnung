@@ -146,6 +146,26 @@ Die Abgrenzung in einem Satz: **Das Ledger sagt, was dieses Buch nicht kann; die
 
 ---
 
+### V16 – Primärquellen des gemeinsamen Schocks
+**Angelegt:** 03.09.2026.
+**Gegenstand:** Der neue Abschnitt des elften Kapitels stützt sich auf den baskischen Doppelfall 2008 bis 2016 (Fagor-Insolvenz, Eroski-Umschuldung, Laboral Kutxa als Gläubigerin, die nachrangigen Genossenschaftsanleihen an rund 30.000 Kleinanleger), auf Haldanes Befund zur Diversifikation, auf den norwegischen Auslandsgrundsatz und auf die amerikanische Streuungsregel für Belegschaftsaktien.
+**Was fehlt:** die Prüfung am Primärdokument. Die Emissionsprospekte der *aportaciones financieras subordinadas* und der Ausgang der Fagor-Papiere in der Insolvenz sind nur über Presse und Verbraucherkanzleien gesichert; die Höhe der Laboral-Kutxa-Forderung an Fagor ist nirgends beziffert; der *Nature*-Aufsatz von Haldane und May, die Seiten der norwegischen Fondsverwaltung und des Finanzministeriums sowie Wikipedia waren durch den Ausgangsfilter gesperrt; IRC § 401(a)(28) ist nicht am amtlichen Wortlaut geprüft.
+**Was ihn schließt:** Abruf der Eroski-Emissionsprospekte (CNMV-Register) und des Insolvenzberichts Fagors, des *Nature*-Volltexts, der Seite der Norges Bank Investment Management zum Anlageuniversum und des Gesetzestexts von § 401(a)(28).
+**Folge, falls offen:** gering für die Konstruktion, mittel für den Feldbeleg. Die fünf Züge hängen an der Diagnose und nicht an einer Zahl; fiele eine der Größenordnungen, fiele die Schärfe des Beispiels, nicht der Befund, dass Fagor und Eroski dieselbe Bank teilten.
+**Betroffene Stellen:** `manuskript/11_verfassung_des_belegschaftssektors.md` (Abschnitt und Belege), `quellen_und_glossar.md` Abschnitt AC.
+
+---
+
+### V17 – Betriebsvergleiche der Genossenschaftsverbände
+**Angelegt:** 03.09.2026.
+**Gegenstand:** Das zweiundzwanzigste Kapitel sagt beim Vergleichsportal, die Verbände rechneten für ihre Mitglieder Betriebsvergleiche, die unter Verschluss blieben.
+**Was fehlt:** die Prüfung, in welchem Umfang, nach welcher Methode und mit welchem Zugang die Prüfungs- und Spitzenverbände solche Vergleiche führen; belegt ist die Leistung nur über Verbandsdarstellungen.
+**Was ihn schließt:** eine Verbandsauskunft oder ein Prüfungsstandard, der den Betriebsvergleich beschreibt.
+**Folge, falls offen:** gering. Die Konstruktion hängt an der Offenlegungspflicht nach § 339 HGB und der Nichtöffentlichkeit des Prüfungsberichts, beides am Gesetz bestätigt; der Satz über die Verbandsvergleiche ist Kolorit und als Einschränkung ausgewiesen.
+**Betroffene Stellen:** `manuskript/22_stufe_drei_kosten_koalitionen.md` (Belege), `quellen_und_glossar.md` Abschnitt AD.
+
+---
+
 ### K11 – Ebene der Überschrift „Wie dieses Buch entstanden ist"
 **Angelegt:** 01.09.2026.
 **Gegenstand:** Der Entstehungsabschnitt vom 29.08.2026 steht in `manuskript/00_inhalt.md` als `###` und damit innerhalb von „Über dieses Buch". Der Satz macht daraus eine Zwischenüberschrift ohne eigene Seite; eine eigene Seite bekäme er als `##`, weil allein der `\vorspann`-Befehl umbricht. Beides ist vertretbar: Der Abschnitt handelt vom Buch und passt unter dessen Überschrift, er ist aber auch der einzige Text des Vorspanns, der von der Herstellung statt vom Gegenstand spricht.

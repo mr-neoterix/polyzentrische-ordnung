@@ -4,7 +4,7 @@
 
 **Marcel Richtsteiger**
 
-*Manuskript. Stand: 31. August 2026.*
+*Manuskript. Stand: 3. September 2026.*
 
 ---
 
@@ -66,7 +66,7 @@ Was hier steht, ist deshalb ein Stand. Das Verzeichnis, aus dem dieses Buch gese
 
 *10. Drei Sektoren, die nebeneinander konkurrieren.* Die Grundfigur, ihre Größenordnungen und die Designprinzipien dahinter. Warum es in dieser Ordnung Preise gibt, und wonach ein Sektor überhaupt geschnitten wird, wenn die Rechtsform darüber nicht entscheidet.
 
-*11. Die Verfassung des Belegschaftssektors.* Die beiden Traditionslinien, in denen die Konstruktion steht – die deutsche und die, an deren Ende Mondragón steht –, und was sie trennt. Dann die Bauteile einzeln: Vermögensbindung und individuelle Kapitalkonten, die offene Mitgliedschaft und die Frage, wer auf ihre Einhaltung klagen kann, der Zuschnitt der Einheiten, die Herkunft des Kapitals und der Preis, den die Mitglieder zahlen.
+*11. Die Verfassung des Belegschaftssektors.* Die beiden Traditionslinien, in denen die Konstruktion steht – die deutsche und die, an deren Ende Mondragón steht –, und was sie trennt. Dann die Bauteile einzeln: Vermögensbindung und individuelle Kapitalkonten, die offene Mitgliedschaft und die Frage, wer auf ihre Einhaltung klagen kann, der Zuschnitt der Einheiten, die Herkunft des Kapitals, der Preis, den die Mitglieder zahlen, und was die Föderation nicht streut: der Schock, der alle zugleich trifft.
 
 *12. Der Allmende-Sektor und sein Sterberecht.* Was an die Stelle der Insolvenz tritt, wo es keine geben kann: Wer ein Netz, ein Wasserwerk oder einen Wohnungsbestand in gemeinwirtschaftlicher Trägerschaft schlecht führt, geht davon nicht pleite. Der Wohnungsbestand als Sonderfall des Sektors, der Fall der Wohnungsgemeinnützigkeit, den es schon gegeben hat – und die Frage, wie man einen Eigentümer erreicht, der weder stirbt noch verkauft.
 
@@ -90,7 +90,7 @@ Was hier steht, ist deshalb ein Stand. Das Verzeichnis, aus dem dieses Buch gese
 
 *21. Stufe zwei: Erbschaftsteuer, Belegschaftstreuhand, Fondsfamilie.* Eine Steuer, die kein Geld nimmt, und die fünf Wände, an die der Gedanke stößt: Stimmrechte, Gesellschaftsrecht, Ausschüttung, Bewertung, Finanzverfassung. Warum es mehrere Fonds sein müssen und was geschieht, wenn einer von ihnen schlecht arbeitet.
 
-*22. Stufe drei, die Kosten und die Koalitionen.* Was der Weg kostet, wer verliert, und woran man erkennt, dass er gescheitert ist – vier Größen mit Schwellen, die vor der ersten Erhebung feststehen müssen.
+*22. Stufe drei, die Kosten und die Koalitionen.* Was der Weg kostet, wer verliert, und woran man erkennt, dass er gescheitert ist – vier Größen mit Schwellen, die vor der ersten Erhebung feststehen müssen, und wer die Zahlen zu sehen bekommt.
 
 **Teil VI – Die äußere Ebene**
 

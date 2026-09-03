@@ -26,7 +26,7 @@ Der Belegschaftseigentümer legt Arbeitsplatz, Vermögen und oft Altersvorsorge 
 
 *Antwort:* Der Einwand ist berechtigt, und er bleibt auch nach der Antwort im Ledger. Die Designantwort steht im elften Kapitel und ist im Verbundmodell erprobt: föderale Solidarfonds und eigene Sozialversicherung, Umsetzung von Mitgliedern aus scheiternden in gesunde Genossenschaften. Dazu eine satzungsmäßige Obergrenze für den Anteil des Privatvermögens, der im eigenen Betrieb gebunden sein darf, die Trennung von Alterssicherung und Kapitalkonto und die Diversifikation über die Fondsfamilie.
 
-Die Risikokonzentration ist damit ein Argument für die Föderation, nicht gegen die Genossenschaft. Aber sie bleibt ein Argument.
+Die Risikokonzentration ist damit ein Argument für die Föderation, nicht gegen die Genossenschaft. Aber sie bleibt ein Argument. Und sie hat eine Systemseite, die der Einwand meist nicht stellt und die das elfte Kapitel unter dem gemeinsamen Schock behandelt: Eine Föderation, deren Betriebe, Bank, Fondshaus und Solidarfonds im selben Tal sitzen, streut das Risiko ihrer Mitglieder auf Träger, die es gemeinsam tragen. Dagegen stehen Heimatquote, Kreuzhaltung, Konsortium und eine Rückversicherung, die Mitglieder deckt und keine Betriebe.
 
 ### 3. Der Kapitalmarkteinwand
 
