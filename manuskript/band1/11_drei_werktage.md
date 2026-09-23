@@ -24,7 +24,7 @@ Und was passiert, wenn es schiefgeht?
 
 Der Betrieb geht in Insolvenz wie jeder andere. Die Mitglieder verlieren ihre Kapitalkonten, der Fonds seine Beteiligung, die Bank ihr Geld, die Verkäuferin ihr Restdarlehen. Es gibt keine Auffangzusage, und das ist kein Versehen: Eine Auffangzusage wäre die weiche Budgetbeschränkung, an der die DDR erblindete.
 
-Was es gibt, ist die Föderation. Solidarfonds, Umsetzung von Mitgliedern in andere Betriebe des Verbunds, gemeinsame Sozialversicherung. Fagors 5.700 Beschäftigte haben beides erlebt – das Auffangnetz und seine Grenzen.
+Was es gibt, ist die Föderation. Solidarfonds, Umsetzung von Mitgliedern in andere Betriebe des Verbunds, gemeinsame Sozialversicherung. Fagors 5.700 Beschäftigte haben das Auffangnetz erlebt und seine Grenzen.
 
 ### Ein Stadtwerk und sein Sterberecht
 
@@ -38,9 +38,9 @@ In der hier beschriebenen Ordnung passiert dreierlei.
 
 Das Netz läuft weiter. Der Betreiber stirbt.
 
-*Und das Bad erscheint als Zeile im Haushalt.* Eine offen beschlossene politische Zahlung, jährlich, mit einem Namen darunter. Aus einer Verrechnung, die im Konzernabschluss verschwindet, wird ein Betrag, über den der Stadtrat abstimmen muss.
+*Und das Bad erscheint als Zeile im Haushalt.* Eine offen beschlossene politische Zahlung, jährlich, mit einem Namen darunter.
 
-Der Preis dieser Konstruktion ist, dass jemand die Zahlung verantworten muss, statt sie zu verrechnen. Genau das ist der Punkt. Ein Schwimmbad, das der Stadtrat jedes Jahr bewusst bezahlt, ist eine demokratische Entscheidung. Ein Schwimmbad, dessen Kosten niemand kennt, ist ein Gerücht mit Eintrittspreis.
+Der Preis dieser Konstruktion ist, dass jemand die Zahlung verantworten muss, statt sie zu verrechnen. Ein Schwimmbad, das der Stadtrat jedes Jahr bewusst bezahlt, ist eine demokratische Entscheidung. Ein Schwimmbad, dessen Kosten niemand kennt, ist ein Gerücht mit Eintrittspreis.
 
 ### Ein Wohnungsbestand und die Wand
 
@@ -50,19 +50,13 @@ Ein Bestand von 2.000 Wohnungen, gehalten von einer börsennotierten Gesellschaf
 
 *Der zweite Weg,* wenn der erste versperrt ist und nachweislich Renten extrahiert werden – leistungslose Übergewinne aus der Marktstellung –, ist Artikel 15 des Grundgesetzes. Diese Norm erlaubt, Grund und Boden, Naturschätze und Produktionsmittel „zum Zwecke der Vergesellschaftung" durch Gesetz in Gemeineigentum oder andere Formen der Gemeinwirtschaft zu überführen, gegen Entschädigung, deren Höhe nach Artikel 14 Absatz 3 einer Abwägung zwischen den Interessen der Allgemeinheit und der Beteiligten unterliegt. Die Norm steht seit 1949 im Grundgesetz und wurde nie angewendet. Die Berliner Expertenkommission zur Vergesellschaftung großer Wohnungsunternehmen hielt in ihrem Abschlussbericht vom 28. Juni 2023 mehrheitlich eine verfassungskonforme Ausgestaltung für möglich und die Landesgesetzgebungskompetenz für gegeben. Strittig blieb gerade die Frage, ob die Entschädigung unterhalb des Verkehrswerts, also unter dem Marktwert, liegen darf; sie war der Gegenstand der Sondervoten.
 
-Hier stößt der Werktag an eine Wand, die kein Ordnungsentwurf umgehen kann.
-
-Das Investitionsschutzrecht kennt diese Abwägung nicht. Es besteht aus völkerrechtlichen Verträgen, die ausländischen Investoren erlauben, einen Staat vor einem internationalen Schiedsgericht zu verklagen, wenn dessen Maßnahmen ihre Investition entwerten. Ein solches Schiedsgericht ist kein staatliches Gericht: Es wird für den einzelnen Streit besetzt, und der Staat hat mit dem Vertrag im Voraus zugesagt, seinen Spruch zu befolgen. Diese Schiedsgerichte messen am *vollen Marktwert*, nicht an Artikel 14 Absatz 3.
+Hier stößt der Werktag an eine Wand, die kein Ordnungsentwurf umgehen kann, denn das Investitionsschutzrecht kennt diese Abwägung nicht. Es besteht aus völkerrechtlichen Verträgen, die ausländischen Investoren erlauben, einen Staat vor einem internationalen Schiedsgericht zu verklagen, wenn dessen Maßnahmen ihre Investition entwerten. Ein solches Schiedsgericht ist kein staatliches Gericht: Es wird für den einzelnen Streit besetzt, und der Staat hat mit dem Vertrag im Voraus zugesagt, seinen Spruch zu befolgen. Diese Schiedsgerichte messen am *vollen Marktwert*, nicht an Artikel 14 Absatz 3.
 
 Der deutsche Anschauungsfall ist der Atomausstieg. Der schwedische Konzern Vattenfall verlangte in einem Verfahren vor dem Schiedszentrum ICSID – dem Internationalen Zentrum zur Beilegung von Investitionsstreitigkeiten – rund 4,7 Milliarden Euro. Der außergerichtliche Vergleich vom März 2021 kostete den Bund 1,425 Milliarden Euro an Vattenfall und 880 Millionen an RWE. Deutschland ist inzwischen aus dem Energiecharta-Vertrag ausgetreten, wirksam im Juni 2025 – aber dessen Sunset-Klausel schützt Altinvestitionen weitere zwanzig Jahre, und bilaterale Investitionsschutzabkommen mit Drittstaaten kommen hinzu.
 
 Das bedeutet: Bis in die vierziger Jahre dieses Jahrhunderts steht neben dem Grundgesetz ein Parallelrechtsweg, der für ausländische Eigentümer die Abwägung des Artikels 14 aushebeln kann – und zwar gerade in den Sektoren, um die es hier geht.
 
-Das ist keine Widerlegung dieser Ordnung. Es ist eine Bestätigung ihres achten Kapitels auf der Ebene des Völkerrechts.
-
-Daraus folgt eine Reihenfolge der Instrumente, und über sie entscheidet nicht die Entschlossenheit einer Regierung; es entscheidet die Frage, welches Instrument ein Schiedsverfahren übersteht: **Kauf im Nachfolgefall und Konzessionsrückfall bei Auslaufen sind schiedsfest. Vergesellschaftung ist es nicht.**
-
-Wer trotzdem vergesellschaften will, sollte den Preis kennen, ihn ausrechnen und die Entscheidung dann treffen.
+Daraus folgt eine Reihenfolge der Instrumente, und über sie entscheidet nicht die Entschlossenheit einer Regierung; es entscheidet die Frage, welches Instrument ein Schiedsverfahren übersteht: Kauf im Nachfolgefall und Konzessionsrückfall bei Auslaufen sind schiedsfest. Vergesellschaftung ist es nicht.
 
 ---
 

@@ -6,13 +6,13 @@
 
 Alles bisher Beschriebene ist eine Konstruktionszeichnung. Ob sie etwas taugt, entscheidet sich daran, ob jemand sie bauen kann – und zwar die Bundesrepublik Deutschland in ihrer gegenwärtigen Verfassung, mit ihren gegenwärtigen Mehrheitsverhältnissen und ihrem gegenwärtigen Haushalt.
 
-Deshalb wird der Umsetzungspfad in diesem Buch geprüft statt behauptet. Sechs Tests entscheiden, und wer einen von ihnen nicht besteht, hat eine Wunschliste mit Gliederung.
+Deshalb wird der Umsetzungspfad in diesem Buch geprüft statt behauptet. Sechs Tests entscheiden, und ein Vorschlag muss jeden von ihnen bestehen.
 
 ### Die sechs Tests
 
 **Der Rechtstest.** Geht der erste Schritt im geltenden Recht, ohne Verfassungsänderung? Ein Programm, dessen Anfang eine Zweidrittelmehrheit in Bundestag und Bundesrat voraussetzt, beginnt nie.
 
-**Der Mehrheitstest.** Braucht der Weg eine Mehrheit, die er erst herstellen will? Reformprogramme, deren erster Schritt die Überzeugung der Bevölkerung von ihrer Weltanschauung ist, sind zirkulär. Ein tragfähiger Pfad kommt mit den Mehrheiten aus, die es geben kann.
+**Der Mehrheitstest.** Braucht der Weg eine Mehrheit, die er erst herstellen will, etwa die Überzeugung der Bevölkerung von seiner Weltanschauung? Bestanden ist der Test nur, wenn der Weg mit den Mehrheiten auskommt, die es geben kann.
 
 **Der Finanztest.** Ist der Pfad aus vorhandenen Mitteln oder aus revolvierendem Kredit bezahlbar – aus einem Kreditrahmen also, der nach Tilgung wieder in Anspruch genommen werden kann? Nicht aus einem erhofften Aufschwung, nicht aus Einnahmen, die die Reform selbst erst erzeugen soll.
 
@@ -26,7 +26,7 @@ Deshalb wird der Umsetzungspfad in diesem Buch geprüft statt behauptet. Sechs T
 
 Der entscheidende Vorzug dieses Pfades ist, dass er kaum etwas erfinden muss. Fast alle Bausteine existieren; sie sind nur nie zusammengesetzt worden.
 
-*Ein Genossenschaftsrecht seit 1889* und rund 7.000 eingetragene Genossenschaften. Die Rechtsform ist erprobt, ihre Verfassung ist geregelt, ihre Prüfung ist organisiert. Es muss nur genutzt werden, was im Produktionsbereich brachliegt.
+*Ein Genossenschaftsrecht seit 1889* und rund 7.000 eingetragene Genossenschaften. Die Rechtsform ist erprobt, ihre Verfassung ist geregelt, ihre Prüfung ist organisiert.
 
 *697 Genossenschaftsbanken* mit eigenem Prüfungs- und Verbundwesen. Sie sind der institutionelle Unterschied zwischen Deutschland und den meisten Ländern, in denen Belegschaftsübernahmen an der Finanzierung scheitern: Es gibt bereits einen Bankensektor, der regional verankert ist, mittelständische Firmenkunden kennt und selbst genossenschaftlich verfasst ist.
 
@@ -40,9 +40,9 @@ Der entscheidende Vorzug dieses Pfades ist, dass er kaum etwas erfinden muss. Fa
 
 *Die KfW mit ihrem Nachfolgeinstrumentarium.* Die staatliche Förderbank fördert Unternehmensnachfolgen aus dem ERP-Sondervermögen – dem aus Marshallplan-Mitteln gespeisten European Recovery Program –, zentral über den ERP-Förderkredit Gründung und Nachfolge: zinsverbilligte Kredite bis 500.000 Euro für Gründung, Übernahme oder Erwerb einer tätigen Beteiligung, beantragt über die Hausbank. Für größere Vorhaben schließt der ERP-Förderkredit KMU an, das Programm für kleine und mittlere Unternehmen. Ein eigenes Programm für genossenschaftliche Übernahmen existiert nicht – und genau das ist die Lücke, die Stufe eins schließt.
 
-*Und Artikel 15 des Grundgesetzes,* der Vergesellschaftung ausdrücklich vorsieht und nie angewendet wurde. Man muss ihn nicht anwenden wollen, um zu registrieren, dass die deutsche Verfassung diese Möglichkeit kennt – und dass seine bloße Existenz als glaubwürdige Rückfalloption diszipliniert.
+*Und Artikel 15 des Grundgesetzes,* der Vergesellschaftung ausdrücklich vorsieht und nie angewendet wurde. Man muss ihn nicht anwenden wollen, um zu registrieren, dass die deutsche Verfassung diese Möglichkeit kennt und dass seine bloße Existenz als glaubwürdige Rückfalloption diszipliniert.
 
-Was daraus folgt, ist die Absage an den revolutionären Bruch, und sie ist eine Bestandsaufnahme, keine Charakterfrage. Es braucht keinen Engpass der Machtkonzentration; es braucht die Verschiebung von Anteilen im Wettbewerb – und die Bausteine dafür liegen seit Jahrzehnten herum.
+Was daraus folgt, ist die Absage an den revolutionären Bruch, und sie ist eine Bestandsaufnahme. Es braucht keinen Engpass der Machtkonzentration; es braucht die Verschiebung von Anteilen im Wettbewerb – und die Bausteine dafür liegen seit Jahrzehnten herum.
 
 ### Der Belastungstest
 
@@ -52,7 +52,7 @@ Es heißt Belastungstest und lautet: *Für jedes Bauteil wird angegeben, was von
 
 Die Ergebnisse dieses Tests sind unterschiedlich.
 
-*Ein übernommener Betrieb bleibt übernommen.* Wenn die Steuerentlastung morgen gestrichen wird, gehört der Maschinenbauer aus Ostwestfalen weiterhin seiner Belegschaft. Das ist eine Struktur.
+*Ein übernommener Betrieb bleibt übernommen.* Wenn die Steuerentlastung morgen gestrichen wird, gehört der Maschinenbauer aus Ostwestfalen weiterhin seiner Belegschaft.
 
 *Ein Kreditprogramm ist ein Programm.* Es kann mit einem Haushaltsbeschluss enden, und dann enden auch die Übernahmen, die es finanziert hätte. Was bereits finanziert wurde, bleibt.
 
@@ -64,7 +64,7 @@ Die Ergebnisse dieses Tests sind unterschiedlich.
 
 Einmal ist dieser Test in der Wirklichkeit durchgeführt worden statt als Gedankenspiel, und zwar an der größten Vermögensklasse des Landes. Bis Ende 1989 band das Wohnungsgemeinnützigkeitsgesetz rund 1.800 anerkannte Unternehmen mit etwa 3,3 Millionen Wohnungen an Kostendeckung, gedeckelte Ausschüttung und Vermögensbindung; ein Artikel des Steuerreformgesetzes 1990 hob es zum 1. Januar 1990 auf. Übrig blieb, was der Test vorhersagt: Die Genossenschaften behielten ihre Bestände, weil sie ihren Mitgliedern gehörten; die kommunalen und die gewerkschaftlichen Gesellschaften wurden gewöhnliche Unternehmen mit gewöhnlichen Anteilen, und die Berliner GSW war vierzehn Jahre später verkauft. Der zweite Band führt den Fall beim Allmende-Sektor aus.
 
-Die Regel, die daraus folgt, ist streng: **Was den Belastungstest nicht besteht, ist ein Programm und darf nicht als Struktur geführt werden.** Ein Reformpfad, der Programme für Strukturen ausgibt, verspricht Dauerhaftigkeit, die er nicht liefern kann – und liefert seinen Gegnern das Argument, mit dem sie ihn beim ersten Regierungswechsel erledigen.
+Die Regel, die daraus folgt, ist streng: **Was den Belastungstest nicht besteht, ist ein Programm und darf nicht als Struktur geführt werden.** Denn ein Reformpfad, der Programme als Strukturen ausgibt, verspricht eine Dauerhaftigkeit, die er nicht liefern kann.
 
 ### Die Reihenfolge
 
