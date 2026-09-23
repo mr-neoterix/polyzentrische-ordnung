@@ -22,7 +22,7 @@ Er umfasst Netze – Strom, Gas, Wasser, Wärme, Schiene, Glasfaser –, Wasserv
 
 Die Begründung dafür ist nicht, dass diese Güter besonders wichtig wären – Nahrungsmittel sind auch wichtig und gehören trotzdem auf den Markt. Sie ist technisch. Es handelt sich überwiegend um *natürliche Monopole*: Güter, bei denen es unsinnig wäre, mehrere konkurrierende Anbieter zu haben, weil niemand ein zweites Wasserrohrnetz in dieselbe Straße legt. Wo ein natürliches Monopol besteht, gibt es keinen Wettbewerb, der den Preis diszipliniert. Ein privater Eigentümer eines Monopolnetzes bezieht deshalb, was Ökonomen eine *Rente* nennen: ein Einkommen, das aus der Position stammt statt aus Leistung. Und der Zentralstaat als Eigentümer erzeugt das andere bekannte Problem: Er politisiert die Entscheidungen, weil ein Netz mit vielen Kunden auch ein Instrument mit vielen Wählern ist.
 
-Deshalb weder das eine noch das andere: verschachtelte Strukturen im Sinne Ostroms, also möglichst kleinräumige Trägerschaft, kooperativ verbunden, mit offenen und föderierten technischen Protokollen statt Plattformbesitz. Was dieser Sektor darüber hinaus braucht – ein Verfahren, das schlechte Betreiber sterben lässt, ohne den Betrieb zu unterbrechen –, ist die heikelste Stelle des ganzen Entwurfs und bekommt ein eigenes Kapitel.
+Deshalb weder das eine noch das andere: verschachtelte Strukturen im Sinne Ostroms, also möglichst kleinräumige Trägerschaft, kooperativ verbunden, mit offenen und föderierten technischen Protokollen statt Plattformbesitz. Was dieser Sektor darüber hinaus braucht – ein Verfahren, das schlechte Betreiber sterben lässt, ohne den Betrieb zu unterbrechen –, ist die heikelste Stelle des ganzen Entwurfs und bekommt im zweiten Band ein eigenes Kapitel.
 
 ### Der private Marktsektor
 
@@ -80,11 +80,11 @@ Und weil eine Rechnung nur trägt, wenn ihre Annahmen offenliegen, gehört ein M
 
 ### Die Designprinzipien hinter allem
 
-Bevor die einzelnen Sektoren Kapitel für Kapitel durchgegangen werden, seien die Prinzipien genannt, an denen sich jede folgende Konstruktion messen lassen muss.
+Die einzelnen Sektoren geht der zweite Band Kapitel für Kapitel durch; vorher seien die Prinzipien genannt, an denen sich jede seiner Konstruktionen messen lassen muss.
 
-*Harte Budgetbeschränkungen überall,* ökonomische wie ökologische – auch und gerade in den Sektoren, die dieses Buch bevorzugt. *Sterbliche Macht,* ökonomisch wie politisch: Keine Institution, kein Amt, kein Vermögen darf so gebaut sein, dass es sein eigenes Ende nicht kennt. *Institutionen, die dauerhaft mit Eigennutz und Konflikt rechnen* – Ostroms Prinzip, angewandt auf alles. *Eingebaute Falsifizierbarkeit:* Jede Förderung braucht eine Schwelle und eine Entscheidungsregel, was geschieht, wenn sie gerissen wird. Und *Lernen durch partielles Scheitern:* Elemente müssen untergehen können, damit das Ganze etwas erfährt.
+*Harte Budgetbeschränkungen überall,* ökonomische wie ökologische – auch und gerade in den Sektoren, die dieses Buch bevorzugt. *Sterbliche Macht,* ökonomisch wie politisch: Keine Institution, kein Amt, kein Vermögen darf so gebaut sein, dass es sein eigenes Ende nicht kennt. *Institutionen, die dauerhaft mit Eigennutz und Konflikt rechnen* – Ostroms Prinzip, angewandt auf alles. *Eingebaute Falsifizierbarkeit:* Jede Förderung braucht eine Schwelle und eine Entscheidungsregel, was geschieht, wenn sie gerissen wird – ein Abschaltkriterium. Und *Lernen durch partielles Scheitern:* Elemente müssen untergehen können, damit das Ganze etwas erfährt.
 
-Aus diesen Prinzipien folgt ein Prüfsatz, den man an jede Stelle der folgenden Kapitel anlegen kann und der den Unterschied zwischen einem Entwurf und einer Hoffnung markiert:
+Aus diesen Prinzipien folgt ein Prüfsatz, den man an jede Stelle dieser Konstruktion anlegen kann und der den Unterschied zwischen einem Entwurf und einer Hoffnung markiert:
 
 **Eine Ordnung funktioniert nicht, weil sie stimmig gedacht ist. Sie funktioniert, weil an jeder ihrer Stellen jemand steht, der an ihrem Bestand verdient.**
 
@@ -100,6 +100,6 @@ Aus diesen Prinzipien folgt ein Prüfsatz, den man an jede Stelle der folgenden 
 
 *Britischer Anker:* rund 2.470 Übertragungen an Employee Ownership Trusts in elf Jahren bei vollständiger Steuerbefreiung – siehe die Belege des achten Kapitels. **Bestätigt.**
 
-*Die Unterscheidung von Nutzer- und Belegschaftsgenossenschaft* folgt der Trägerfrage des Genossenschaftsgesetzes: Mitglied ist, wessen Erwerb oder Wirtschaft die Genossenschaft fördern soll – im einen Fall die Arbeitenden, im anderen die Wohnenden oder Angeschlossenen. Das Reichsgesetz trat am 1. Oktober 1889 in Kraft und gilt novelliert fort; siehe die Belege des elften Kapitels. **Bestätigt.** Die Zuordnung der Sektoren nach dem Sterblichkeitsfall statt nach der Rechtsform ist Konstruktionsentscheidung dieses Buches. **Wertung.**
+*Die Unterscheidung von Nutzer- und Belegschaftsgenossenschaft* folgt der Trägerfrage des Genossenschaftsgesetzes: Mitglied ist, wessen Erwerb oder Wirtschaft die Genossenschaft fördern soll – im einen Fall die Arbeitenden, im anderen die Wohnenden oder Angeschlossenen. Das Reichsgesetz trat am 1. Oktober 1889 in Kraft und gilt novelliert fort; siehe die Belege von Band 2, Kapitel 2. **Bestätigt.** Die Zuordnung der Sektoren nach dem Sterblichkeitsfall statt nach der Rechtsform ist Konstruktionsentscheidung dieses Buches. **Wertung.**
 
 *Natürliche Monopole, Renten, Konsumentensouveränität:* wirtschaftswissenschaftliche Standardbegriffe, im Text erklärt.

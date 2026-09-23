@@ -1,4 +1,4 @@
-# Siebenundzwanzigstes Kapitel
+# Sechzehntes Kapitel
 
 ## Die Formel
 
@@ -56,4 +56,4 @@ Und das ist die Formel.
 
 ---
 
-*Zu den Belegen: Jedes Kapitel schließt mit seinem eigenen Nachweisapparat samt Verifikationsstatus. Das vollständige Quellen- und Begriffsverzeichnis des Projekts liegt in `quellen_und_glossar.md`; was davon noch offen ist, benennt das sechsundzwanzigste Kapitel, und Posten für Posten führt es das offene Verzeichnis.*
+*Zu den Belegen: Jedes Kapitel schließt mit seinem eigenen Nachweisapparat samt Verifikationsstatus. Das vollständige Quellen- und Begriffsverzeichnis des Projekts liegt in `quellen_und_glossar.md`; was davon noch offen ist, benennt das fünfzehnte Kapitel, und Posten für Posten führt es das offene Verzeichnis.*

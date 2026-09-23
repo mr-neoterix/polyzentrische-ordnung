@@ -68,7 +68,7 @@ Die entscheidende Frage einer Wirtschafts- und Gesellschaftsverfassung ist nicht
 
 Daraus folgt der Vorschlag. Drei Sektoren, die nebeneinander konkurrieren; keiner ersetzt die anderen. Belegschaftseigene Betriebe auf Märkten mit echtem Insolvenzrisiko. Netze, Wasser, Wohnen und digitale Grundstrukturen in gemeinwirtschaftlicher – dem Gemeinwohl verpflichteter – Trägerschaft, mit einem Verfahren, das schlechte Betreiber sterben lässt, ohne den Betrieb zu unterbrechen. Und ein privater Marktsektor, der bleibt, weil für eine bestimmte Art von Erfindung – die Wette gegen den Konsens – kein anderes verlässliches Verfahren bekannt ist als dezentrales Risiko-Nehmen, aber unter Regeln, nach denen Vermögen entstehen darf und dynastisch werden nicht.
 
-Ob das trägt, ist die Frage der folgenden sechsundzwanzig Kapitel. Beginnen wir dort, wo es angefangen hat: in der Buchhaltung eines Staates, den es nicht mehr gibt.
+Ob das trägt, ist die Frage der folgenden fünfzehn Kapitel und des zweiten Bandes. Beginnen wir dort, wo es angefangen hat: in der Buchhaltung eines Staates, den es nicht mehr gibt.
 
 ---
 
@@ -76,6 +76,6 @@ Ob das trägt, ist die Frage der folgenden sechsundzwanzig Kapitel. Beginnen wir
 
 *Bakunin, Prophezeiung gegen Marx:* Michail Bakunin, *Staatlichkeit und Anarchie* (1873); deutsch u. a. hrsg. v. Horst Stuke, Frankfurt a. M.: Ullstein 1972. Die Passage über die neue privilegierte Minderheit ist zusätzlich gesichert durch Karl Marx, *Konspekt von Bakunins Buch „Staatlichkeit und Anarchie"* (1874/75), MEW 18, S. 597–642. **Bestätigt.** *Mit Einschränkung:* Das häufig mitzitierte Etikett „roter Bürokratismus" stammt nicht aus dem Buch selbst; es steht in Bakunins Brief an Albert Richard von 1870 – es wird hier deshalb nicht als Buchzitat geführt.
 
-*Fagor, Landesbanken, Doppelstiftung:* Belege in den Kapiteln 9, 12 und 13, wo die Fälle ausgeführt werden.
+*Fagor, Landesbanken, Doppelstiftung:* Belege in Kapitel 9 sowie in Band 2, Kapitel 3 und 4, wo die Fälle ausgeführt werden.
 
 *Methodische Regeln:* Sie sind Arbeitsregeln dieses Projekts, aus der Literatur übernommen ist keine von ihnen; ihre Prüfbarkeit liegt in ihrer Anwendung, nicht in einer Fundstelle. **Wertung.**

@@ -2,6 +2,8 @@
 
 ### Warum Eigentum verteilt werden muss, damit Freiheit Bestand hat
 
+#### Erster Band: Das Argument
+
 **Marcel Richtsteiger**
 
 *Manuskript. Stand: 23. September 2026.*
@@ -14,7 +16,7 @@ Dies ist der Versuch, eine Wirtschafts- und Gesellschaftsverfassung herzuleiten 
 
 Der Text setzt kein wirtschaftswissenschaftliches Studium voraus. Er setzt voraus, was ein durchschnittlich informierter deutscher Leser weiß: dass es die DDR gab und dass sie 1990 unterging, dass Marx den Kommunismus dachte, dass die Bundesrepublik eine Marktwirtschaft ist. Alles Weitere wird erklärt, wo es zum ersten Mal gebraucht wird – jeder Fachbegriff, jede historische Begebenheit, jede Zahl. Und jede Zahl steht mit ihrem Beleg da, am Ende des jeweiligen Kapitels, samt der Angabe, wie sicher sie ist. Das ist keine akademische Pedanterie: Ein Argument, dessen Belege man nicht nachprüfen kann, ist eine Meinung mit Fußnoten.
 
-Vorausgesetzt ist allerdings Geduld, und nicht jeder Leser braucht dieselbe Menge davon. Das Buch trägt zwei Lasten, ein Argument und eine Bauanleitung, und man kann ihnen getrennt folgen. Das Argument steht in den ersten drei Teilen, also den Kapiteln eins bis neun, dazu im zehnten mit dem Umriss der drei Sektoren, im achtzehnten, das die Ordnung an drei gewöhnlichen Werktagen vorführt, im neunzehnten mit den Tests, die jeder Umsetzungsschritt bestehen muss, und in den letzten beiden Kapiteln; wer diesen Weg geht, hat die Herleitung, die Ordnung im Umriss und ihre offenen Stellen. Die Bauanleitung steht in den Kapiteln elf bis siebzehn und zwanzig bis zweiundzwanzig. Sie ist Konstruktionsarbeit bis auf den Paragraphen, geschrieben für den, der prüfen will, ob ein Bauteil hält; wer vom Fach ist, kann dort einsteigen und die Erklärungen überspringen, die für die anderen dastehen. Die Kapitel über die Staatenwelt und die beiden Gegenproben lassen sich nach Neigung lesen – wer einen Einwand hat, findet ihn dort meist samt Antwort. Und wer den ganzen Gedanken auf einem Zehntel des Raums haben will, findet eine Verdichtung im offenen Verzeichnis, das der Abschnitt über die Entstehung dieses Buches nennt.
+Vorausgesetzt ist allerdings Geduld, und nicht jeder Leser braucht dieselbe Menge davon. Das Werk trägt zwei Lasten, ein Argument und eine Bauanleitung, und es erscheint deshalb in zwei Bänden, die sich getrennt lesen lassen. Dieser erste Band führt das Argument: die Frage und die Diagnose über die Fälle, die Prüfung von Marx und vom gefesselten Kapitalismus, den Umriss der drei Sektoren, drei gewöhnliche Werktage, an denen die Ordnung vorgeführt wird, und die Tests, die jeder Umsetzungsschritt bestehen muss. Danach folgen die beiden Gegenproben – wer einen Einwand hat, findet ihn dort meist samt Antwort –, das Verzeichnis dessen, was diese Ordnung nicht leistet, und die Formel. Wer diesen Band gelesen hat, hat die Herleitung, die Ordnung im Umriss und ihre offenen Stellen. Der zweite Band ist die Bauanleitung: die Verfassung der Sektoren, die politische Architektur, der Sozialstaat als Bauteil, der Umsetzungspfad in drei Stufen und die Weltordnungsebene. Er ist Konstruktionsarbeit bis auf den Paragraphen, geschrieben für den, der prüfen will, ob ein Bauteil hält. Wo dieser Band auf ihn verweist, sagt er, was dort steht; wer ihn nicht liest, dem fehlen die Einzelheiten, das Argument hat er. Und wer den ganzen Gedanken auf einem Zehntel des Raums haben will, findet eine Verdichtung im offenen Verzeichnis, das der Abschnitt über die Entstehung dieses Buches nennt.
 
 Zwei Regeln durchziehen das Buch. Die erste heißt Symmetrie: Was für den einen Fall gilt, gilt für den anderen. Wer der SED nicht glaubt, muss auch dem Bundesverband der Deutschen Industrie nicht glauben; wer die Planwirtschaft an ihren Ergebnissen misst, muss den Markt an seinen messen. Die zweite heißt Gegenprobe: Jede These wird an ihrem stärksten Gegner geprüft, nicht an ihrem bequemsten Beleg – und zwar an beiden Gegnern, dem marxistischen und dem liberalen. Wer eine These nur von einer Seite prüft, lobt sie.
 
@@ -64,56 +66,32 @@ Was hier steht, ist deshalb ein Stand. Das Verzeichnis, aus dem dieses Buch gese
 
 *9. Fehlertoleranz.* Die Frage, ob eine Ordnung ihre Fehler überlebt, an der DDR und an Mondragón – und was 2013 mit Fagor geschah. Zwischenbilanz der Diagnose in neun Befunden, auf die alles Spätere zurückverweist.
 
-**Teil IV – Die Ordnung**
+**Teil IV – Die Ordnung im Umriss**
 
 *10. Drei Sektoren, die nebeneinander konkurrieren.* Die Grundfigur, ihre Größenordnungen und die Designprinzipien dahinter. Warum es in dieser Ordnung Preise gibt, und wonach ein Sektor überhaupt geschnitten wird, wenn die Rechtsform darüber nicht entscheidet.
 
-*11. Die Verfassung des Belegschaftssektors.* Die beiden Traditionslinien, in denen die Konstruktion steht – die deutsche und die, an deren Ende Mondragón steht –, und was sie trennt. Dann die Bauteile einzeln: Vermögensbindung und individuelle Kapitalkonten, die offene Mitgliedschaft und die Frage, wer auf ihre Einhaltung klagen kann, der Zuschnitt der Einheiten, die Herkunft des Kapitals, der Preis, den die Mitglieder zahlen, und was die Föderation nicht streut: der Schock, der alle zugleich trifft.
-
-*12. Der Allmende-Sektor und sein Sterberecht.* Was an die Stelle der Insolvenz tritt, wo es keine geben kann: Wer ein Netz, ein Wasserwerk oder einen Wohnungsbestand in gemeinwirtschaftlicher Trägerschaft schlecht führt, geht davon nicht pleite. Der Wohnungsbestand als Sonderfall des Sektors, der Fall der Wohnungsgemeinnützigkeit, den es schon gegeben hat – und die Frage, wie man einen Eigentümer erreicht, der weder stirbt noch verkauft.
-
-*13. Der Privatsektor und die Sterblichkeit des Vermögens.* Warum dieser Sektor bleibt und unter welchen Regeln Vermögen entstehen darf, ohne dynastisch zu werden: Erbschaft, Stiftung, die Bindung der Stimmrechte – und die börsennotierte Gesellschaft, die keinen Erbfall kennt und auf keinen Verkauf angewiesen ist.
-
-*14. Die Kreislaufdimension.* Ein Trinkglas aus der Lausitz und die Frage, wer an Haltbarkeit verdient. Dazwischen der Einwand der achtzig Zahnbürsten und die Schnittstelle als der Teil der Doppelung, der sich wiegen lässt. Und die andere Richtung: der Bedarf, den niemand hatte – was sich an der Bedarfsweckung entscheiden lässt und was niemand entscheiden darf.
-
-*15. Arbeit, Sorge, Krise und Weltmarkt.* Wovon Menschen leben. Der Lohnboden, den der Sektor selbst nicht setzt; die Sorgearbeit, die sich denselben vier Prüffragen stellen muss wie jeder andere Bereich dieses Buches; die Frage, was aus einer Streuung über Arbeitsplätze wird, wenn die Arbeit automatisiert wird – und was diese Ordnung in der Krise tut.
-
-*16. Die politische Architektur und die Bedingung des Exits.* Was an die Stelle des Eigentums tritt, wenn eine Zuständigkeit niemandem gehört. Subsidiarität, aus dem anthropologischen Befund hergeleitet und mit umgekehrter Beweislast. Ein Sterberecht für Verwaltungen und die Frage, wen man wieder los wird. Die Medienvielfalt als Eigentumsfrage neben der Aufsichtsfrage. Dazu Losgremien, Daten und Hirschmans doppelte Lehre.
-
-*17. Der Sozialstaat als Bauteil.* Die Voraussetzung, die jedes andere Kapitel benutzt und keines geprüft hat. Kranken- und Rentenversicherung als Kontrastpaar, eine Selbstverwaltung, der 2009 die eigene Einnahme genommen wurde, drei Stufen der Sicherung und die Frage, wer eine Einrichtung verteidigt, auf der alles Übrige ruht.
-
-*18. Drei Werktage.* Ein Maschinenbauer ohne Nachfolger, ein Stadtwerk mit Sterberecht, ein Wohnungsbestand und die Wand des Investitionsschutzes.
+*11. Drei Werktage.* Ein Maschinenbauer ohne Nachfolger, ein Stadtwerk mit Sterberecht, ein Wohnungsbestand und die Wand des Investitionsschutzes.
 
 **Teil V – Der Weg**
 
-*19. Sechs Tests und die Bausteine, die schon da sind.* Woran man einen Weg von einem Wunsch unterscheidet – und was das geltende Recht dafür bereits hergibt.
+*12. Sechs Tests und die Bausteine, die schon da sind.* Woran man einen Weg von einem Wunsch unterscheidet – und was das geltende Recht dafür bereits hergibt.
 
-*20. Stufe eins: das Zeitfenster.* Der Nachfolgekanal aus Steuerhebel, Finanzierung, Andienungsrecht und ein paar hundert ausgebildeten Menschen. Und was geschieht, wenn das Fenster zufällt.
+**Teil VI – Die Proben**
 
-*21. Stufe zwei: Erbschaftsteuer, Belegschaftstreuhand, Fondsfamilie.* Eine Steuer, die kein Geld nimmt, und die fünf Wände, an die der Gedanke stößt: Stimmrechte, Gesellschaftsrecht, Ausschüttung, Bewertung, Finanzverfassung. Warum es mehrere Fonds sein müssen und was geschieht, wenn einer von ihnen schlecht arbeitet.
+*13. Die marxistische Gegenprobe.* Zwölf Einwände, ein Zusatzvorwurf und drei Konzessionen. Luxemburg gegen die Genossenschaft im Konkurrenzmeer, der Staat als Ausschuss der herrschenden Klasse, die Wertform, Gramsci und Marcuse, die Anarchie der Produktion und die achtzig Zahnbürsten, Marx gegen Lassalle, der Staatlichkeits-Einwand aus dem Anarchismus, die Verrechtlichung – und zuletzt die Frage, ob ein Buch, das Fehlertoleranz zu seinem Kriterium macht, überhaupt einen Begriff davon hat, wie es den Menschen darin ergeht.
 
-*22. Stufe drei, die Kosten und die Koalitionen.* Was der Weg kostet, wer verliert, und woran man erkennt, dass er gescheitert ist – vier Größen mit Schwellen, die vor der ersten Erhebung feststehen müssen, und wer die Zahlen zu sehen bekommt.
+*14. Die liberale Gegenprobe.* Vierzehn Einwände, die mit Kosten argumentieren statt mit Weltanschauung: die Kosten gemeinsamer Entscheidung, das gebündelte Risiko, der fehlende Kapitalmarkt, die Innovation, Jugoslawien, der geförderte Sektor als eigene Interessengruppe, Hayek gegen diesen Text selbst, die Frage, wer entscheidet, welches Bedürfnis echt ist, der eine Fall, an dem angeblich alles hängt, die Juristokratie – und China, das seit achtundvierzig Jahren mit einem einzigen Machtzentrum wächst.
 
-**Teil VI – Die äußere Ebene**
+**Teil VII – Der ehrliche Rest**
 
-*23. Die Weltordnungsebene.* Wo der Umsetzungspfad endet und die Ordnung nicht: drei ungleiche Angriffsflächen, der Investitionsschutz als Regelwerk, das nicht rostet, und ein europäischer Rechtsraum, der gebaut und einseitig möbliert ist. Der Marktzugang als Hebel und die Frage nach der Weltregierung. Dazu der Einwand, der die Kernthese dieses Buches an ihrer eigenen Stelle trifft – das internationale System ist polyzentrisch und zugleich die gewalttätigste Ordnung der Welt –, und die Prüfung des Gedankens, eine Ordnung mit verteilter Macht trete nach außen friedlicher auf und ziehe Nachbarn nach sich. Das Kapitel benennt seine eigene Fortsetzung.
+*15. Offene Flanken.* Das Ehrlichkeits-Ledger, in Klassen getrennt: Grenzen der Reichweite, Stellen ohne Träger, unentschiedene Fragen. Dazu ein ausgewiesener Dissens, die ausgelagerte Weltordnungsebene, der Zustand des Belegapparats.
 
-**Teil VII – Die Proben**
-
-*24. Die marxistische Gegenprobe.* Zwölf Einwände, ein Zusatzvorwurf und drei Konzessionen. Luxemburg gegen die Genossenschaft im Konkurrenzmeer, der Staat als Ausschuss der herrschenden Klasse, die Wertform, Gramsci und Marcuse, die Anarchie der Produktion und die achtzig Zahnbürsten, Marx gegen Lassalle, der Staatlichkeits-Einwand aus dem Anarchismus, die Verrechtlichung – und zuletzt die Frage, ob ein Buch, das Fehlertoleranz zu seinem Kriterium macht, überhaupt einen Begriff davon hat, wie es den Menschen darin ergeht.
-
-*25. Die liberale Gegenprobe.* Vierzehn Einwände, die mit Kosten argumentieren statt mit Weltanschauung: die Kosten gemeinsamer Entscheidung, das gebündelte Risiko, der fehlende Kapitalmarkt, die Innovation, Jugoslawien, der geförderte Sektor als eigene Interessengruppe, Hayek gegen diesen Text selbst, die Frage, wer entscheidet, welches Bedürfnis echt ist, der eine Fall, an dem angeblich alles hängt, die Juristokratie – und China, das seit achtundvierzig Jahren mit einem einzigen Machtzentrum wächst.
-
-**Teil VIII – Der ehrliche Rest**
-
-*26. Offene Flanken.* Das Ehrlichkeits-Ledger, in Klassen getrennt: Grenzen der Reichweite, Stellen ohne Träger, unentschiedene Fragen. Dazu ein ausgewiesener Dissens, die ausgelagerte Weltordnungsebene, der Zustand des Belegapparats.
-
-*27. Die Formel.* Die Herleitung in einem Zug, die Bedingungen, unter denen sie trägt, und was sie nicht ist. Am Ende steht ein Kriterium, wo man ein Versprechen erwartet.
+*16. Die Formel.* Die Herleitung in einem Zug, die Bedingungen, unter denen sie trägt, und was sie nicht ist. Am Ende steht ein Kriterium, wo man ein Versprechen erwartet.
 
 ---
 
 ## Zu den Belegen
 
-Jedes Kapitel schließt mit einem Abschnitt *Belege*. Er nennt Fundstellen und weist den Verifikationsstatus aus: *bestätigt* heißt unabhängig belegt; *mit Einschränkung* heißt, dass die Angabe im Kern trägt, aber eine ausgewiesene Unschärfe hat; *Wertung* heißt, dass es sich um eine Deutung handelt und nicht um einen Befund. Eine vierte Stufe kommt selten vor: *offen* heißt, dass eine Angabe aussteht: weder belegt noch gedeutet, weil die Messung fehlt oder der Fall noch läuft. Wo eine Zahl umstritten ist, steht die Spanne und nicht der bequemste Wert. Wo eine Zuschreibung nicht haltbar ist, steht sie nicht im Text.
+Jedes Kapitel schließt mit einem Abschnitt *Belege*. Er nennt Fundstellen und weist den Verifikationsstatus aus: *bestätigt* heißt unabhängig belegt; *mit Einschränkung* heißt, dass die Angabe im Kern trägt, aber eine ausgewiesene Unschärfe hat; *Wertung* heißt, dass es sich um eine Deutung handelt und nicht um einen Befund. Eine vierte Stufe kommt selten vor: *offen* heißt, dass eine Angabe aussteht: weder belegt noch gedeutet, weil die Messung fehlt oder der Fall noch läuft. Wo eine Zahl umstritten ist, steht die Spanne und nicht der bequemste Wert. Wo eine Zuschreibung nicht haltbar ist, steht sie nicht im Text. Verweist ein Belegapparat auf den zweiten Band, nennt er ihn mit Band und Kapitelnummer.
 
 Das vollständige Quellen- und Begriffsverzeichnis des Projekts liegt in `quellen_und_glossar.md`.

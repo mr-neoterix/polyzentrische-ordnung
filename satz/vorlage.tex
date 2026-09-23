@@ -1,4 +1,6 @@
-% Pandoc-Vorlage für das Manuskript „Die polyzentrische Ordnung“.
+% Pandoc-Vorlage für das Manuskript „Die polyzentrische Ordnung“, beide Bände.
+% Was einen Band vom anderen unterscheidet – Bandzeile auf der Titelseite,
+% Quellverzeichnis im Impressum –, kommt als Variable aus dem Satzskript.
 %
 % Gesetzt wird mit LuaLaTeX. Die Vorlage ersetzt die mitgelieferte Vorlage
 % von Pandoc absichtlich vollständig: Der Text ist reine Prosa ohne Formeln,
@@ -76,9 +78,9 @@
 % Die Kapitälchen sind der Grund für die vorletzte Zeile. Alegreya führt sie
 % als eigene Familie (AlegreyaSC) und nicht als Merkmal der Grundschrift;
 % ohne die ausdrückliche Zuweisung bekäme \scshape stillschweigend Gemeine,
-% und das träfe die Kapitelmarke und den Belege-Kopf jedes der siebenund-
-% zwanzig Kapitel, ohne dass der Lauf etwas meldete. Beide Stellen setzen
-% aufrechte Kapitälchen; ein Schnitt genügt deshalb.
+% und das träfe die Kapitelmarke und den Belege-Kopf jedes Kapitels, dazu
+% die Bandzeile der Titelseite, ohne dass der Lauf etwas meldete. Alle drei
+% Stellen setzen aufrechte Kapitälchen; ein Schnitt genügt deshalb.
 
 \setmainfont{Alegreya}[
 $if(schriftverzeichnis)$
@@ -183,7 +185,7 @@ $endif$
   bookmarksopen=true,
   bookmarksopenlevel=1,
   bookmarksdepth=2,
-  pdftitle={$titel$$if(untertitel)$. $untertitel$$endif$},
+  pdftitle={$titel$$if(band)$. $band$$endif$$if(untertitel)$. $untertitel$$endif$},
   pdfauthor={$autor$},
   pdfsubject={$stand$},
   pdflang={de-DE},
@@ -332,6 +334,13 @@ $endif$
     {\large\itshape\color{akzent}$untertitel$\par}
   \end{minipage}\par
   $endif$
+  $if(band)$
+  % Die Bandzeile: welcher der beiden Bände dies ist. Sie steht unter dem
+  % Untertitel, in den Kapitälchen der Kapitelmarken, damit sie als
+  % Ordnungsangabe gelesen wird und nicht als zweiter Untertitel.
+  \vspace{2.2em}
+  {\large\scshape\color{akzent}$band$\par}
+  $endif$
   $if(autor)$
   \vspace{3.4em}
   {\large $autor$\par}
@@ -367,7 +376,7 @@ $endif$
   bod@bod.de\\
   Druck: Libri Plureos GmbH, Friedensallee 273, 22763 Hamburg\par
 
-  Diese Fassung wurde aus den Kapiteldateien in \texttt{manuskript/} gesetzt.
+  Diese Fassung wurde aus den Kapiteldateien in \texttt{$if(quelle)$$quelle$$else$manuskript/$endif$} gesetzt.
   Sie ist ein Erzeugnis des Satzlaufs, nicht die Quelle: Geändert wird im
   Markdown, nicht im PDF.\par
   $if(fassung)$Quellstand: \texttt{$fassung$}$if(satzdatum)$, $satzdatum$$endif$.\par$endif$

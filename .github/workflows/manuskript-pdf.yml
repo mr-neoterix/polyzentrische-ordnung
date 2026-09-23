@@ -1,7 +1,10 @@
 name: Manuskript-PDF
 
-# Bei jeder Änderung am Manuskript wird das Buch neu gesetzt. Das Ergebnis
-# hängt als Artefakt am Lauf und lässt sich dort herunterladen.
+# Bei jeder Änderung am Manuskript werden beide Bände neu gesetzt – das
+# Argument aus manuskript/band1/ und die Bauanleitung aus manuskript/band2/.
+# Die beiden PDFs hängen als Artefakt am Lauf und lassen sich dort
+# herunterladen; auf dem Hauptzweig erscheinen sie gemeinsam in einer
+# Veröffentlichung unter einer Nummer.
 #
 # Wer hier je einen Schritt einbaut, der aus dem Lauf heraus committet:
 # kein `[skip ci]` in die Commit-Botschaft. Zusammengeführt wird per Squash,
@@ -37,8 +40,11 @@ on:
 # Reihe ist die .0, weil noch keine Marke mit dieser Hauptnummer existiert,
 # und die Marken der alten Reihe bleiben samt ihren Veröffentlichungen
 # stehen. Am 02.09.2026 von 1 auf 2 gehoben; die erste Reihe endete mit 1.31.
+# Am 23.09.2026 von 2 auf 3 gehoben, mit der Teilung in zwei Bände; die
+# zweite Reihe endete mit 2.2, und jede Ausgabe der dritten Reihe besteht aus
+# zwei PDFs.
 env:
-  HAUPTNUMMER: '2'
+  HAUPTNUMMER: '3'
 
 permissions:
   contents: read
@@ -124,7 +130,8 @@ jobs:
             echo "kennung=${kennung}"
             echo "marke=${marke}"
             echo "veroeffentlichen=${veroeffentlichen}"
-            echo "datei=build/polyzentrische-ordnung-manuskript-${kennung}.pdf"
+            echo "datei1=build/polyzentrische-ordnung-band-1-${kennung}.pdf"
+            echo "datei2=build/polyzentrische-ordnung-band-2-${kennung}.pdf"
           } >> "$GITHUB_OUTPUT"
           echo "Diese Ausgabe: ${kennung}"
 
@@ -185,76 +192,101 @@ jobs:
           fi
           echo "Alle erwarteten Schnitte vorhanden."
 
-      - name: Buch setzen
-        run: python3 satz/build.py --ausgabe '${{ steps.nummer.outputs.datei }}'
+      # Zwei Bände, zwei Läufe. Scheitert der erste, bricht der Schritt ab,
+      # bevor der zweite beginnt – ein halber Satz wird nicht veröffentlicht.
+      - name: Bände setzen
+        run: |
+          set -e
+          python3 satz/build.py --band 1 --ausgabe '${{ steps.nummer.outputs.datei1 }}'
+          python3 satz/build.py --band 2 --ausgabe '${{ steps.nummer.outputs.datei2 }}'
 
       - name: Ergebnis vermerken
         env:
-          PDF: ${{ steps.nummer.outputs.datei }}
+          PDF1: ${{ steps.nummer.outputs.datei1 }}
+          PDF2: ${{ steps.nummer.outputs.datei2 }}
           KENNUNG: ${{ steps.nummer.outputs.kennung }}
         run: |
-          seiten=$(pdfinfo "$PDF" | awk '/^Pages:/ {print $2}')
-          groesse=$(du -h "$PDF" | cut -f1)
+          seiten1=$(pdfinfo "$PDF1" | awk '/^Pages:/ {print $2}')
+          seiten2=$(pdfinfo "$PDF2" | awk '/^Pages:/ {print $2}')
+          groesse1=$(du -h "$PDF1" | cut -f1)
+          groesse2=$(du -h "$PDF2" | cut -f1)
           {
             echo "### Manuskript gesetzt"
             echo
-            echo "| | |"
-            echo "|---|---|"
-            echo "| Ausgabe | ${KENNUNG} |"
-            echo "| Seiten | ${seiten} |"
-            echo "| Umfang | ${groesse} |"
-            echo "| Quellstand | \`${GITHUB_SHA:0:7}\` |"
+            echo "| | Band 1: Das Argument | Band 2: Die Bauanleitung |"
+            echo "|---|---|---|"
+            echo "| Ausgabe | ${KENNUNG} | ${KENNUNG} |"
+            echo "| Seiten | ${seiten1} | ${seiten2} |"
+            echo "| Umfang | ${groesse1} | ${groesse2} |"
             echo
-            echo "Das PDF hängt als Artefakt **manuskript-pdf-${KENNUNG}** an diesem Lauf."
+            echo "Quellstand \`${GITHUB_SHA:0:7}\`. Beide PDFs hängen als Artefakt **manuskript-pdf-${KENNUNG}** an diesem Lauf."
           } | tee -a "$GITHUB_STEP_SUMMARY"
 
-      - name: PDF als Artefakt ablegen
+      - name: PDFs als Artefakt ablegen
         uses: actions/upload-artifact@v4
         with:
           name: manuskript-pdf-${{ steps.nummer.outputs.kennung }}
-          path: ${{ steps.nummer.outputs.datei }}
+          path: |
+            ${{ steps.nummer.outputs.datei1 }}
+            ${{ steps.nummer.outputs.datei2 }}
           if-no-files-found: error
 
       # Ein Artefakt ist nur mit Anmeldung erreichbar und verfällt. Damit das
       # Buch von außen sichtbar bleibt, bekommt jeder Satz des Hauptzweigs
-      # eine eigene Veröffentlichung unter der Marke seiner Nummer. Die
-      # jüngste ist zugleich die „latest"; der Dauerverweis führt also
-      # weiterhin auf den letzten Stand, sagt aber jetzt, welcher es ist.
+      # eine eigene Veröffentlichung unter der Marke seiner Nummer, mit
+      # beiden Bänden. Die jüngste ist zugleich die „latest"; die
+      # Dauerverweise führen also weiterhin auf den letzten Stand.
       - name: Veröffentlichung anlegen
         if: steps.nummer.outputs.veroeffentlichen == 'ja'
         env:
           GH_TOKEN: ${{ github.token }}
-          PDF: ${{ steps.nummer.outputs.datei }}
+          PDF1: ${{ steps.nummer.outputs.datei1 }}
+          PDF2: ${{ steps.nummer.outputs.datei2 }}
           KENNUNG: ${{ steps.nummer.outputs.kennung }}
           MARKE: ${{ steps.nummer.outputs.marke }}
         run: |
           set -eu
-          stand=$(sed -n 's/^\*Manuskript\. \(Stand: .*\)\.\*$/\1/p' manuskript/00_inhalt.md | head -1)
-          seiten=$(pdfinfo "$PDF" | awk '/^Pages:/ {print $2}')
+          # Jeder Band führt seine eigene Standzeile. Stimmen beide überein,
+          # steht sie einmal im Titel der Veröffentlichung; sonst beide.
+          stand1=$(sed -n 's/^\*Manuskript\. \(Stand: .*\)\.\*$/\1/p' manuskript/band1/00_inhalt.md | head -1)
+          stand2=$(sed -n 's/^\*Manuskript\. \(Stand: .*\)\.\*$/\1/p' manuskript/band2/00_inhalt.md | head -1)
+          if [ "$stand1" = "$stand2" ]; then
+            stand="$stand1"
+          else
+            stand="Band 1 ${stand1:-ohne Stand}, Band 2 ${stand2:-ohne Stand}"
+          fi
+          seiten1=$(pdfinfo "$PDF1" | awk '/^Pages:/ {print $2}')
+          seiten2=$(pdfinfo "$PDF2" | awk '/^Pages:/ {print $2}')
 
-          # Derselbe Satz noch einmal unter festem Namen: Der Verweis auf
-          # „latest/download/polyzentrische-ordnung-manuskript.pdf" bleibt
-          # damit gültig, obwohl die eigentliche Datei ihre Nummer trägt.
-          fester_name=build/polyzentrische-ordnung-manuskript.pdf
-          cp "$PDF" "$fester_name"
+          # Derselbe Satz noch einmal unter festen Namen: Die Verweise auf
+          # „latest/download/polyzentrische-ordnung-band-1.pdf" und
+          # „…-band-2.pdf" bleiben damit gültig, obwohl die eigentlichen
+          # Dateien ihre Nummer tragen.
+          fester_name1=build/polyzentrische-ordnung-band-1.pdf
+          fester_name2=build/polyzentrische-ordnung-band-2.pdf
+          cp "$PDF1" "$fester_name1"
+          cp "$PDF2" "$fester_name2"
 
           titel="Manuskript ${KENNUNG}"
           if [ -n "$stand" ]; then
             titel="${titel} (${stand})"
           fi
           notiz=$(printf '%s\n' \
-            "Das Manuskript als Buch-PDF – Ausgabe ${KENNUNG}, ${stand:-ohne Standangabe}, ${seiten} Seiten." \
+            "Das Manuskript in zwei Bänden – Ausgabe ${KENNUNG}, ${stand:-ohne Standangabe}." \
+            "" \
+            "- Band 1, Das Argument: ${seiten1} Seiten" \
+            "- Band 2, Die Bauanleitung: ${seiten2} Seiten" \
             "" \
             "Gesetzt aus \`${GITHUB_SHA:0:7}\`. Jeder Satz des Hauptzweigs bekommt eine eigene" \
-            "Veröffentlichung; die Nummer zählt um eins hoch und steht im Dateinamen." \
+            "Veröffentlichung; die Nummer zählt um eins hoch und steht in den Dateinamen." \
             "" \
-            "Derselbe Satz liegt zusätzlich unter dem festen Namen" \
-            "\`polyzentrische-ordnung-manuskript.pdf\` bei, damit der Dauerverweis auf die" \
-            "jeweils letzte Ausgabe gültig bleibt." \
+            "Derselbe Satz liegt zusätzlich unter den festen Namen" \
+            "\`polyzentrische-ordnung-band-1.pdf\` und \`polyzentrische-ordnung-band-2.pdf\` bei," \
+            "damit die Dauerverweise auf die jeweils letzte Ausgabe gültig bleiben." \
             "" \
-            "Geändert wird im Markdown unter \`manuskript/\`, nicht im PDF.")
+            "Geändert wird im Markdown unter \`manuskript/band1/\` und \`manuskript/band2/\`, nicht im PDF.")
 
-          gh release create "$MARKE" "$PDF" "$fester_name" \
+          gh release create "$MARKE" "$PDF1" "$PDF2" "$fester_name1" "$fester_name2" \
             --repo "$GITHUB_REPOSITORY" \
             --target "$GITHUB_SHA" \
             --title "$titel" \

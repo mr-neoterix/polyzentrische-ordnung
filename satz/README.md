@@ -1,8 +1,13 @@
 # Satz
 
-Hier liegt, was aus den Kapiteldateien in `manuskript/` ein Buch-PDF macht.
-Der Satz läuft bei jeder Änderung am Manuskript automatisch
-(`.github/workflows/manuskript-pdf.yml`).
+Hier liegt, was aus den Kapiteldateien in `manuskript/` zwei Buch-PDFs macht.
+Das Manuskript erscheint in zwei Bänden, und jeder liegt in seinem eigenen
+Verzeichnis: das Argument in `manuskript/band1/`, die Bauanleitung in
+`manuskript/band2/`. Jeder Band hat seine eigene Inhaltsdatei, seine eigene
+Titelei und seine eigene Kapitelzählung, die bei eins beginnt, und wird zu
+einem eigenen PDF gesetzt. Der Satz läuft bei jeder Änderung am Manuskript
+automatisch (`.github/workflows/manuskript-pdf.yml`) und setzt dann beide
+Bände.
 
 Das Ergebnis geht zwei Wege. Jeder Lauf hängt es als Artefakt unter
 *Actions* an – auch für Zweige und Pull Requests, aber nur mit Anmeldung
@@ -12,11 +17,13 @@ Anmeldung offen.
 
 ## Die Ausgabenummer
 
-Jeder Satz des Hauptzweigs zählt eine Nummer der Form `2.x` hoch: `2.0`,
-`2.1`, `2.2`. Sie steht an drei Stellen, damit sich zwei heruntergeladene
-Dateien unterscheiden lassen, ohne sie zu öffnen – im Dateinamen
-(`polyzentrische-ordnung-manuskript-2.3.pdf`), in der Marke (`v2.3`) und im
-Titel der Veröffentlichung (`Manuskript 2.3 (Stand: …)`).
+Jeder Satz des Hauptzweigs zählt eine Nummer der Form `3.x` hoch: `3.0`,
+`3.1`, `3.2`. Beide Bände eines Laufs tragen dieselbe Nummer und erscheinen
+in derselben Veröffentlichung. Die Nummer steht an drei Stellen, damit sich
+heruntergeladene Dateien unterscheiden lassen, ohne sie zu öffnen – im
+Dateinamen (`polyzentrische-ordnung-band-1-3.3.pdf`,
+`polyzentrische-ordnung-band-2-3.3.pdf`), in der Marke (`v3.3`) und im Titel
+der Veröffentlichung (`Manuskript 3.3 (Stand: …)`).
 
 Die Nummer hat zwei Teile, und nur einer wird gezählt. Die Zahl nach dem
 Punkt zählt der Lauf an den vorhandenen Marken und in keiner Datei des
@@ -33,7 +40,10 @@ Die erste Ausgabe der neuen Reihe ist die `.0`, weil noch keine Marke mit
 dieser Hauptnummer existiert, und die Marken der alten Reihe bleiben samt
 ihren Veröffentlichungen stehen. Am 02.09.2026 ist die Hauptnummer von 1
 auf 2 gestiegen; die erste Reihe lief von `1.0` bis `1.31`, und ihre
-Ausgaben sind unter ihren Marken weiter erreichbar. Innerhalb einer Reihe
+Ausgaben sind unter ihren Marken weiter erreichbar. Am 23.09.2026 ist sie
+von 2 auf 3 gestiegen, mit der Teilung des Manuskripts in zwei Bände; die
+zweite Reihe lief von `2.0` bis `2.2` und bestand aus je einem PDF, jede
+Ausgabe der dritten Reihe besteht aus zweien. Innerhalb einer Reihe
 lässt sich der Zähler nur durch Löschen der höheren Marken zurücksetzen –
 und genau das erspart die Hauptnummer.
 
@@ -48,19 +58,23 @@ jede neue Veröffentlichung wird zur „latest":
 https://github.com/mr-neoterix/polyzentrische-ordnung/releases/latest
 ```
 
-Dazu liegt jeder Veröffentlichung derselbe Satz ein zweites Mal unter dem
-festen Namen `polyzentrische-ordnung-manuskript.pdf` bei, damit auch der
-Verweis unmittelbar auf die Datei gültig bleibt:
+Dazu liegt jeder Veröffentlichung jeder Band ein zweites Mal unter einem
+festen Namen bei, damit auch die Verweise unmittelbar auf die Dateien gültig
+bleiben:
 
 ```
-https://github.com/mr-neoterix/polyzentrische-ordnung/releases/latest/download/polyzentrische-ordnung-manuskript.pdf
+https://github.com/mr-neoterix/polyzentrische-ordnung/releases/latest/download/polyzentrische-ordnung-band-1.pdf
+https://github.com/mr-neoterix/polyzentrische-ordnung/releases/latest/download/polyzentrische-ordnung-band-2.pdf
 ```
 
-Wer die Nummer lesen will, nimmt die andere der beiden Dateien.
+Wer die Nummer lesen will, nimmt die nummerierten Dateien. Der feste Name
+der zweiten Reihe, `polyzentrische-ordnung-manuskript.pdf`, liegt nur den
+Veröffentlichungen bis `v2.2` bei; der Verweis auf ihn unter `latest` führt
+seit der ersten Ausgabe der dritten Reihe ins Leere.
 
 | Datei | Aufgabe |
 |---|---|
-| `build.py` | setzt die Kapitel zusammen und ruft Pandoc |
+| `build.py` | setzt die Kapitel eines Bandes zusammen und ruft Pandoc, ohne Angabe für beide Bände |
 | `vorlage.tex` | die Buchgestaltung: Schrift, Satzspiegel, Kapitelköpfe, Belegapparat |
 | `schriften/` | die Schriftschnitte selbst, samt Lizenz |
 
@@ -141,18 +155,23 @@ zweiseitig.
 ```
 sudo apt-get install pandoc texlive-luatex texlive-latex-recommended \
                      texlive-lang-german texlive-fonts-recommended fonts-texgyre
-python3 satz/build.py
+python3 satz/build.py            # beide Bände
+python3 satz/build.py --band 1   # nur einen
 ```
 
-Das PDF landet in `build/`. Der Ordner ist von der Versionsverwaltung
-ausgenommen: Das PDF ist ein Erzeugnis, keine Quelle.
+Die PDFs landen in `build/`, als `polyzentrische-ordnung-band-1.pdf` und
+`polyzentrische-ordnung-band-2.pdf`. Der Ordner ist von der
+Versionsverwaltung ausgenommen: Ein PDF ist ein Erzeugnis, keine Quelle.
 
 Nützlich beim Suchen von Fehlern:
 
 ```
-python3 satz/build.py --nur-quelltext   # zeigt den zusammengesetzten Markdown-Stand
-python3 satz/build.py --ausgabe /tmp/probe.pdf
+python3 satz/build.py --band 2 --nur-quelltext   # zeigt den zusammengesetzten Markdown-Stand
+python3 satz/build.py --band 1 --ausgabe /tmp/probe.pdf
 ```
+
+Eine Zieldatei verlangt die Angabe eines Bandes, denn zwei Bände sind zwei
+Dateien.
 
 ## Was das Skript voraussetzt
 
@@ -169,6 +188,8 @@ Gezählt wird im PDF mit Ziffern: Über dem Titel steht „9. Kapitel“, im
 Inhaltsverzeichnis „9. Kapitel – Fehlertoleranz“. Die Zahl nimmt der Satz
 aus dem Dateinamen, nicht aus der Überschrift – der Dateiname bestimmt
 ohnehin die Reihenfolge, und der Aufbau in `00_inhalt.md` zählt genauso.
+Jeder Band zählt für sich und beginnt bei eins; ein Kapitel des zweiten
+Bandes kann deshalb dieselbe Nummer tragen wie eines des ersten.
 Die ausgeschriebene Bezeichnung erscheint damit nicht mehr im PDF, wird
 aber gegen die Dateinummer geprüft: Wer Dateien umnummeriert und die
 Überschriften stehen lässt, liest es im Lauf als Hinweis.
@@ -178,7 +199,7 @@ wird kleiner und mit Abstand statt Einzug gesetzt, damit er als Apparat und
 nicht als Fließtext gelesen wird. Ein Kapitel ohne Belege wird gesetzt, aber
 im Lauf angemerkt.
 
-*Die Einteilung in Teile steht in `manuskript/00_inhalt.md`*, im Abschnitt
+*Die Einteilung in Teile steht in der `00_inhalt.md` jedes Bandes*, im Abschnitt
 *Aufbau*: fette Zeilen der Form `**Teil I – Die Frage**`, darunter kursive
 Kapitelzeilen der Form `*1. Eine Frage, die weiterführte.*`. Daraus entstehen
 die Teilseiten. Ein Kapitel, das dort nicht auftaucht, wird trotzdem gesetzt
@@ -199,10 +220,13 @@ Die Reihenfolge der Kapitel ist die Reihenfolge der Dateinamen. Wer ein
 Kapitel einschiebt, nummeriert die Dateien um.
 
 *Die Titelei steht im Kopf von `00_inhalt.md`*, also vor dem ersten
-Abschnitt: der Titel als `#`, der Untertitel als `###`, der Verfasser als
-einzige fett gesetzte Zeile, der Stand als kursive Zeile `*Manuskript.
-Stand: …*`. Titel, Untertitel und Verfasser wandern auch in die
-PDF-Metadaten. Fehlt eine der Zeilen, entfällt sie schlicht auf der
+Abschnitt: der Titel als `#`, der Untertitel als `###`, die Bandzeile als
+`####` („Erster Band: Das Argument“), der Verfasser als einzige fett gesetzte
+Zeile, der Stand als kursive Zeile `*Manuskript. Stand: …*`. Titel,
+Bandzeile, Untertitel und Verfasser wandern auch in die PDF-Metadaten; die
+Bandzeile steht auf der Titelseite unter dem Untertitel. Die Standzeilen
+beider Bände werden getrennt gepflegt; stimmen sie überein, nennt der Titel
+der Veröffentlichung den Stand einmal, sonst beide. Fehlt eine der Zeilen, entfällt sie schlicht auf der
 Titelseite; nur ohne Titel bricht der Satz ab.
 
 *Das Impressum steht auf der Rückseite des Titelblatts*, in `vorlage.tex`.
@@ -221,5 +245,5 @@ tiefgestellte Ziffern (`CO₂`) werden aus der Brotschrift gesetzt, weil
 Brotschriften diese Zeichen selten mitführen und LuaTeX sie sonst
 stillschweigend weglässt.
 
-Beides geschieht nur auf dem Weg ins PDF. Die Dateien in `manuskript/`
-bleiben, wie sie sind.
+Beides geschieht nur auf dem Weg ins PDF. Die Dateien in `manuskript/band1/`
+und `manuskript/band2/` bleiben, wie sie sind.

@@ -1,4 +1,4 @@
-# Zwanzigstes Kapitel
+# Neuntes Kapitel
 
 ## Stufe eins: das Zeitfenster
 
@@ -20,13 +20,13 @@ Für den Verkauf eines Betriebs mit 180 Beschäftigten ist das ein Trinkgeld. We
 
 Die Konstruktion als *Stundung mit Nachversteuerung* statt als Befreiung hat drei Vorteile. Sie ist fiskalisch billiger, weil die Steuer nur bei dauerhaftem Erfolg entfällt. Sie ist missbrauchsfester, weil der Steuervorteil an den Fortbestand der Struktur geknüpft ist und nicht an einen Vorgang. Und sie ist präziser: Der Staat zahlt für einen Bestand, nicht für eine Rechtsform.
 
-Und dann die Frage, die das achte Kapitel aufgeworfen hat: Wie baut man einen Hebel, der nicht rostet? Man kann es nicht vollständig. Was hilft, ist dreierlei.
+Und dann die Frage, die das achte Kapitel des ersten Bandes aufgeworfen hat: Wie baut man einen Hebel, der nicht rostet? Man kann es nicht vollständig. Was hilft, ist dreierlei.
 
 *Ein ausdrücklicher Bestandsschutz für abgeschlossene Übertragungen im Gesetz selbst,* so dass eine spätere Kürzung nur künftige Fälle trifft. Damit kann eine Regierung den Hebel abschaffen, aber nicht zurückdrehen.
 
 *Eine Evaluationsklausel mit Begründungszwang statt einer Verfallsklausel.* Eine Verfallsklausel – die Norm läuft nach acht Jahren automatisch aus – klingt nach Sorgfalt und ist ein Geschenk an die Gegner, weil sie nichts tun müssen. Eine Evaluationsklausel zwingt zur Messung und macht jede Kürzung zu einem Vorgang, in dem eine Regierung öffentlich gegen gemessene Ergebnisse argumentieren muss.
 
-*Und die frühe Erzeugung von Trägern:* Genossenschaftsverbände, Kammern und Banken, deren Geschäft an dem Instrument hängt. Das ist die Konstruktionsanweisung aus dem achten Kapitel – jede tragende Regel bekommt einen Träger mit konzentriertem Interesse an ihrem Bestand.
+*Und die frühe Erzeugung von Trägern:* Genossenschaftsverbände, Kammern und Banken, deren Geschäft an dem Instrument hängt. Das ist die Konstruktionsanweisung aus dem achten Kapitel des ersten Bandes – jede tragende Regel bekommt einen Träger mit konzentriertem Interesse an ihrem Bestand.
 
 Zum britischen Vorbild gehört im Übrigen die Selbstkritik, ohne die die Berufung darauf unehrlich wäre. Employee Ownership Trusts sind *treuhänderisch gehalten, nicht mitgliedschaftlich regiert*: Ein Treuhänder hält das Unternehmen im Interesse der Belegschaft, aber die Belegschaft wählt nicht, entscheidet nicht und hat keine individuellen Kapitalkonten. Das ist Verantwortungseigentum ohne Demokratie. Die britischen Zahlen belegen die *Übertragungsthese* – dass ein Steuerhebel Eigentum verschieben kann –, nicht die *Selbstverwaltungsthese*. Ein deutsches Modell sollte die Mitgliedschaftsverfassung mitliefern, die den Briten fehlt.
 
@@ -44,7 +44,7 @@ Also braucht Stufe eins *zwei* Instrumente und nicht eines.
 
 Für *Rettungsfälle* eine Marcora-artige Kofinanzierung – beihilferechtlich, also im Rahmen dessen, was das EU-Recht an staatlicher Kofinanzierung überhaupt erlaubt. Das Niveau ist dasselbe, auf das die CFI nach einer Beanstandung durch die Europäische Kommission im Jahr 2001 umstellen musste: eins zu eins. Auf jeden Euro, den die Belegschaft aufbringt, kommt höchstens ein Euro öffentlicher Kofinanzierung.
 
-Für *Nachfolgefälle* das Finanzierungspaket aus dem achtzehnten Kapitel, flankiert von Bürgschaften und Haftungsfreistellungen der KfW, damit die Hausbank das Risiko tragen kann.
+Für *Nachfolgefälle* das Finanzierungspaket aus dem elften Kapitel des ersten Bandes, flankiert von Bürgschaften und Haftungsfreistellungen der KfW, damit die Hausbank das Risiko tragen kann.
 
 **Die Nachfolgewelle ist ein Zeitfenster nur dann, wenn die Finanzierung Übernahmen zu vollen Preisen trägt.**
 
@@ -64,7 +64,7 @@ Das ist zugleich die Antwort auf den liberalen Einwand, ein Vorkaufsrecht enteig
 
 Eine Belegschaftsübernahme ist ein Unternehmenskauf. Sie wirft Rechtsform-, Bewertungs-, Finanzierungs-, Steuer- und Verfassungsfragen auf, sie braucht Verträge, Gutachten, Satzungen und Bankgespräche. Der Engpass dieses Pfades ist nicht das Gesetz. Es ist die Zahl der Menschen, die solche Transaktionen begleiten können.
 
-Was gebraucht wird, ist unspektakulär und entscheidet über alles: Genossenschaftsverbände mit Gründungsberatung, Kammern, die den Weg kennen, Steuerberater mit Musterlösungen, standardisierte Satzungen, standardisierte Kapitalkontenmodelle, Musterverträge für Verkäuferdarlehen, Bewertungsleitfäden. Die Satzungen enthalten die Mindestkapitalklausel, die gestreckte Auszahlung und die Mitgliedschaftsquote aus dem elften Kapitel.
+Was gebraucht wird, ist unspektakulär und entscheidet über alles: Genossenschaftsverbände mit Gründungsberatung, Kammern, die den Weg kennen, Steuerberater mit Musterlösungen, standardisierte Satzungen, standardisierte Kapitalkontenmodelle, Musterverträge für Verkäuferdarlehen, Bewertungsleitfäden. Die Satzungen enthalten die Mindestkapitalklausel, die gestreckte Auszahlung und die Mitgliedschaftsquote aus dem zweiten Kapitel.
 
 Wer den Kanal will, muss zuerst ein paar hundert Leute ausbilden. Das steht in keinem Wahlprogramm und ist die Bedingung von allem.
 
@@ -74,15 +74,15 @@ Er hat Zeit, ist aber nicht optional.
 
 *Genossenschaftsrecht:* Entbürokratisierung von Gründung und Prüfungswesen, digitale Verfahren, Augenmaß bei der Pflichtmitgliedschaft jeder eingetragenen Genossenschaft in einem Prüfungsverband nach § 54 des Genossenschaftsgesetzes. Diese Pflichtmitgliedschaft sichert Qualität – sie ist einer der Gründe, warum Genossenschaften in Deutschland selten insolvent werden – und sie verteuert Gründungen. Beides ist wahr, und die Aufgabe ist eine Abwägung, keine Abschaffung.
 
-*Verantwortungseigentum:* Einführung der Gesellschaft mit gebundenem Vermögen – aber nur mit dem Kontroll-Lock aus dem dreizehnten Kapitel, sonst schafft der Gesetzgeber ein weiteres Dynastie-Instrument.
+*Verantwortungseigentum:* Einführung der Gesellschaft mit gebundenem Vermögen – aber nur mit dem Kontroll-Lock aus dem vierten Kapitel, sonst schafft der Gesetzgeber ein weiteres Dynastie-Instrument.
 
 *Energy Sharing:* Ende 2025 hat § 42c des Energiewirtschaftsgesetzes einen Rahmen für gemeinschaftliche Erzeugung und Nutzung von Strom geschaffen. Anwendbar ist er ab Mitte 2026, sobald die ausstehenden Festlegungen der Bundesnetzagentur vorliegen. Die Aufgabe ist hier Vollzug, nicht mehr Gesetzgebung – und ein Vollzug, der Energiegemeinschaften mit Anteilen und Mitgliedschaft hervorbringt statt bloßer Abrechnungsmodelle.
 
-*Netze:* Fortsetzung der Rekommunalisierung bei auslaufenden Konzessionen – aber von Anfang an mit dem Sterberecht für Betreiber aus dem zwölften Kapitel statt mit dem Querverbund von gestern. Dazu die Prüfpflicht, ob eine genossenschaftliche statt einer rein kommunalen Trägerschaft möglich ist.
+*Netze:* Fortsetzung der Rekommunalisierung bei auslaufenden Konzessionen – aber von Anfang an mit dem Sterberecht für Betreiber aus dem dritten Kapitel statt mit dem Querverbund von gestern. Dazu die Prüfpflicht, ob eine genossenschaftliche statt einer rein kommunalen Trägerschaft möglich ist.
 
 *Beschaffung:* Umstellung der öffentlichen und gemeinwirtschaftlichen Vergabe auf Lebenszykluskosten. Zulässig nach Artikel 68 der Vergaberichtlinie und § 59 der Vergabeverordnung – es braucht kein Gesetz, nur Vergabestellen, die rechnen können. Und dabei ist die rechtliche Grenze mitzudenken, damit der Hebel nicht auf einer rechtswidrigen Annahme ruht: *Soziale und ökologische Anforderungen an den Auftragsgegenstand und an die Ausführungsbedingungen sind zulässig; die Bevorzugung bestimmter Trägerformen ist es nicht.* Der Sektor erzwingt Standards über Kriterien, nicht über Trägerpräferenz.
 
-*Bürgerräte:* kommunale Losgremien mit Antragsrecht als Regelinstitution, mit dem Verfahrensdesign und den materiellen Teilnahmebedingungen aus dem sechzehnten Kapitel.
+*Bürgerräte:* kommunale Losgremien mit Antragsrecht als Regelinstitution, mit dem Verfahrensdesign und den materiellen Teilnahmebedingungen aus dem siebten Kapitel.
 
 ### Und wenn das Fenster zufällt?
 
@@ -104,7 +104,7 @@ Das Fenster ist wichtig. Es ist nicht das einzige.
 
 *Veräußerungsgewinnbesteuerung:* § 16 Absatz 4 EStG – Freibetrag 45.000 Euro, Abschmelzung ab einem Veräußerungsgewinn von 136.000 Euro, vollständiger Wegfall bei 181.000 Euro, einmal im Leben, ab dem 55. Lebensjahr oder bei dauernder Berufsunfähigkeit. § 34 Absatz 3 EStG – auf Antrag ermäßigter Steuersatz von 56 Prozent des durchschnittlichen Steuersatzes, mindestens 14 Prozent. **Bestätigt.**
 
-*Employee Ownership Trusts:* siehe Kapitel 8. **Bestätigt**, einschließlich des Zusatzes, dass EOTs treuhänderisch gehalten und nicht mitgliedschaftlich regiert sind.
+*Employee Ownership Trusts:* siehe Band 1, Kapitel 8. **Bestätigt**, einschließlich des Zusatzes, dass EOTs treuhänderisch gehalten und nicht mitgliedschaftlich regiert sind.
 
 *Marcora-Gesetz und CFI:* Legge 49/1985; CFI gegründet 1986, ursprünglich 3:1-Kofinanzierung, nach EU-beihilferechtlicher Beanstandung 2001 auf 1:1 reformiert. Drei-Jahres-Überlebensrate nach 2007 gegründeter Marcora-Buyouts 87 Prozent gegenüber 48 Prozent aller italienischen Unternehmen; über CFI insgesamt 257 Firmen mit rund 9.300 Arbeitsplätzen gerettet oder geschaffen. Marcelo Vieta, *The Italian Road to Recuperating Enterprises and the Legge Marcora Framework*, Euricse Working Paper Nr. 78|15 (2015); International Cooperative Alliance (2015). **Bestätigt.** *Wertung dieses Buches:* Die Überlebensrate ist durch zwei Selektionsstufen gefiltert und deshalb nicht auf Nachfolgefälle übertragbar.
 
@@ -114,8 +114,8 @@ Das Fenster ist wichtig. Es ist nicht das einzige.
 
 *Energy Sharing:* Artikel 22 der Richtlinie (EU) 2018/2001 und Artikel 16 der Richtlinie (EU) 2019/944 als europäischer Rahmen; deutsche Umsetzung mit § 42c EnWG durch die Novelle vom Dezember 2025, praktisch anwendbar ab 1. Juni 2026, zentrale Festlegungen der Bundesnetzagentur standen Mitte 2026 noch aus. **Bestätigt.**
 
-*Lebenszykluskosten im Vergaberecht:* siehe Kapitel 14. **Bestätigt.** Die Grenze – Standards über Kriterien, nicht über Trägerpräferenz – folgt aus dem Vergaberecht und ist im Text ausgewiesen.
+*Lebenszykluskosten im Vergaberecht:* siehe Kapitel 5. **Bestätigt.** Die Grenze – Standards über Kriterien, nicht über Trägerpräferenz – folgt aus dem Vergaberecht und ist im Text ausgewiesen.
 
-*Gesellschaft mit gebundenem Vermögen:* siehe Kapitel 13. **Bestätigt.**
+*Gesellschaft mit gebundenem Vermögen:* siehe Kapitel 4. **Bestätigt.**
 
 *Der neue Steuertatbestand als Stundung mit Nachversteuerung, der Rostschutz in drei Teilen, die Zwei-Instrumente-Unterscheidung, das Andienungs- und Gleichpreisrecht und der Ersatzplan für das verpasste Fenster* sind Konstruktionsvorschläge dieses Buches. **Wertung.**

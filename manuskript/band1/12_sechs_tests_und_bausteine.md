@@ -1,4 +1,4 @@
-# Neunzehntes Kapitel
+# Zwölftes Kapitel
 
 ## Sechs Tests und die Bausteine, die schon da sind
 
@@ -34,7 +34,7 @@ Der entscheidende Vorzug dieses Pfades ist, dass er kaum etwas erfinden muss. Fa
 
 *Kommunale Stadtwerke* mit einer Neugründungswelle im laufenden Jahrhundert. Den Allmende-Sektor muss niemand schaffen; er muss umgebaut werden.
 
-*Selbstverwaltung in der Sozialversicherung.* Deutschland hat seit über hundert Jahren Institutionen, die von Vertretern der Versicherten und der Arbeitgeber getragen werden. In der Krankenversicherung kommen konkurrierende Träger hinzu, ein Wechselrecht und ein tatsächlich angewandtes Insolvenzrecht – die polyzentrischste Struktur, die dieser Staat besitzt. Diese Selbstverwaltung ist zugleich der Baustein in der schlechtesten Verfassung, denn ihr Selbstverwaltungsorgan wird von gut einem Fünftel der Berechtigten bestellt, und ein großer Teil der Sitze wird gar nicht erst umkämpft. Das siebzehnte Kapitel behandelt beides, weil dieser Baustein anders als die übrigen zuerst instand gesetzt werden muss, bevor er benutzt werden kann.
+*Selbstverwaltung in der Sozialversicherung.* Deutschland hat seit über hundert Jahren Institutionen, die von Vertretern der Versicherten und der Arbeitgeber getragen werden. In der Krankenversicherung kommen konkurrierende Träger hinzu, ein Wechselrecht und ein tatsächlich angewandtes Insolvenzrecht – die polyzentrischste Struktur, die dieser Staat besitzt. Diese Selbstverwaltung ist zugleich der Baustein in der schlechtesten Verfassung, denn ihr Selbstverwaltungsorgan wird von gut einem Fünftel der Berechtigten bestellt, und ein großer Teil der Sitze wird gar nicht erst umkämpft. Der zweite Band behandelt beides im Kapitel über den Sozialstaat, weil dieser Baustein anders als die übrigen zuerst instand gesetzt werden muss, bevor er benutzt werden kann.
 
 *Föderalismus.* Er wird in Deutschland meist als Bremse beklagt. In diesem Entwurf ist er ein Konstruktionsvorteil: Er liefert die regionale Gliederung, die die Fondsfamilie – mehrere regional zugeschnittene Bürgerfonds statt eines einzigen – ohnehin braucht.
 
@@ -58,11 +58,11 @@ Die Ergebnisse dieses Tests sind unterschiedlich, und sie zu kennen ist wichtige
 
 *Ein Kostenvergleich im Allmende-Sektor ist eine Regel.* Er kann von einer Regierung, die ihn unbequem findet, methodisch entschärft, personell ausgehungert oder in der Veröffentlichungsfrist verzögert werden, bis er nichts mehr aussagt.
 
-*Eine Fondsanwartschaft ist – vermutlich – ein Programm.* Das ist der unangenehmste Befund dieses Buches über sich selbst, und die zweite Stufe führt ihn aus.
+*Eine Fondsanwartschaft ist – vermutlich – ein Programm.* Das ist der unangenehmste Befund dieses Buches über sich selbst, und der zweite Band führt ihn bei der zweiten Stufe aus.
 
-*Und der Sozialstaat ist beides zugleich.* Die Rentenanwartschaft ist eine Struktur, weil sie Eigentum ist; das Existenzminimum ist dem Grunde nach eine Struktur, weil es in der Verfassung steht; die Höhe jeder Leistung dagegen ist ein Programm. Ausgerechnet der Teil, auf den sich diese Ordnung stützt – die Sicherung derer, die ein gestorbener Betrieb freigesetzt hat –, liegt überwiegend im Programmteil. Das siebzehnte Kapitel zieht daraus die Konsequenzen.
+*Und der Sozialstaat ist beides zugleich.* Die Rentenanwartschaft ist eine Struktur, weil sie Eigentum ist; das Existenzminimum ist dem Grunde nach eine Struktur, weil es in der Verfassung steht; die Höhe jeder Leistung dagegen ist ein Programm. Ausgerechnet der Teil, auf den sich diese Ordnung stützt – die Sicherung derer, die ein gestorbener Betrieb freigesetzt hat –, liegt überwiegend im Programmteil. Das Kapitel über den Sozialstaat im zweiten Band zieht daraus die Konsequenzen.
 
-Einmal ist dieser Test in der Wirklichkeit durchgeführt worden statt als Gedankenspiel, und zwar an der größten Vermögensklasse des Landes. Bis Ende 1989 band das Wohnungsgemeinnützigkeitsgesetz rund 1.800 anerkannte Unternehmen mit etwa 3,3 Millionen Wohnungen an Kostendeckung, gedeckelte Ausschüttung und Vermögensbindung; ein Artikel des Steuerreformgesetzes 1990 hob es zum 1. Januar 1990 auf. Übrig blieb, was der Test vorhersagt: Die Genossenschaften behielten ihre Bestände, weil sie ihren Mitgliedern gehörten; die kommunalen und die gewerkschaftlichen Gesellschaften wurden gewöhnliche Unternehmen mit gewöhnlichen Anteilen, und die Berliner GSW war vierzehn Jahre später verkauft. Das zwölfte Kapitel führt den Fall aus.
+Einmal ist dieser Test in der Wirklichkeit durchgeführt worden statt als Gedankenspiel, und zwar an der größten Vermögensklasse des Landes. Bis Ende 1989 band das Wohnungsgemeinnützigkeitsgesetz rund 1.800 anerkannte Unternehmen mit etwa 3,3 Millionen Wohnungen an Kostendeckung, gedeckelte Ausschüttung und Vermögensbindung; ein Artikel des Steuerreformgesetzes 1990 hob es zum 1. Januar 1990 auf. Übrig blieb, was der Test vorhersagt: Die Genossenschaften behielten ihre Bestände, weil sie ihren Mitgliedern gehörten; die kommunalen und die gewerkschaftlichen Gesellschaften wurden gewöhnliche Unternehmen mit gewöhnlichen Anteilen, und die Berliner GSW war vierzehn Jahre später verkauft. Der zweite Band führt den Fall beim Allmende-Sektor aus.
 
 Die Regel, die daraus folgt, ist streng: **Was den Belastungstest nicht besteht, ist ein Programm und darf nicht als Struktur geführt werden.** Ein Reformpfad, der Programme für Strukturen ausgibt, verspricht Dauerhaftigkeit, die er nicht liefern kann – und liefert seinen Gegnern das Argument, mit dem sie ihn beim ersten Regierungswechsel erledigen.
 
@@ -76,24 +76,24 @@ Der Pfad hat drei Stufen, und ihre Reihenfolge ist Konstruktion, keine Bequemlic
 
 *Stufe drei* – Jahre acht bis zwanzig – konsolidiert und behandelt die Fälle, in denen die milderen Instrumente versagen.
 
-Der Rest dieses Teils ist die Anwendung der sechs Tests auf diese drei Stufen.
+Die drei Stufen selbst und ihre Prüfung an den sechs Tests führt der zweite Band aus.
 
 ---
 
 ### Belege
 
-*Genossenschaftsrecht und Genossenschaftssektor:* siehe Kapitel 10 und 11. **Bestätigt** (Verbandsstatistik ausgewiesen).
+*Genossenschaftsrecht und Genossenschaftssektor:* siehe Kapitel 10 und Band 2, Kapitel 2. **Bestätigt** (Verbandsstatistik ausgewiesen).
 
 *Sparkassen:* siehe Kapitel 8. **Bestätigt.**
 
-*Rekommunalisierung und Stadtwerke-Neugründungen:* siehe Kapitel 15. **Bestätigt.**
+*Rekommunalisierung und Stadtwerke-Neugründungen:* siehe Band 2, Kapitel 6. **Bestätigt.**
 
 *KfW-Programme zur Unternehmensnachfolge:* Förderung aus dem ERP-Sondervermögen, zentral über den ERP-Förderkredit Gründung und Nachfolge (Programm 077) – zinsverbilligte Kredite bis 500.000 Euro für Gründung, Übernahme oder Erwerb einer tätigen Beteiligung, beantragt über die Hausbank; für größere Vorhaben ERP-Förderkredit KMU. Ein eigenes Programm „Genossenschaftsfinanzierung" existiert nicht. **Bestätigt.**
 
-*Artikel 15 GG:* siehe Kapitel 18. **Bestätigt.**
+*Artikel 15 GG:* siehe Kapitel 11. **Bestätigt.**
 
-*Ertragshoheit und Verwaltung der Erbschaftsteuer (Grundlage des Föderalismustests):* Artikel 106 Absatz 2, Artikel 108 Absatz 2 und Artikel 105 Absatz 3 GG – ausgeführt und belegt in Kapitel 21. **Bestätigt.**
+*Ertragshoheit und Verwaltung der Erbschaftsteuer (Grundlage des Föderalismustests):* Artikel 106 Absatz 2, Artikel 108 Absatz 2 und Artikel 105 Absatz 3 GG – ausgeführt und belegt in Band 2, Kapitel 10. **Bestätigt.**
 
-*Die Wohnungsgemeinnützigkeit als vollzogener Belastungstest:* Wohnungsgemeinnützigkeitsgesetz vom 29. Februar 1940, aufgehoben durch Artikel 21 des Steuerreformgesetzes 1990 vom 25. Juli 1988 mit Wirkung zum 1. Januar 1990; rund 1.800 Unternehmen mit etwa 3,3 Millionen Wohnungen. Fundstellen und Verifikationsstatus in Kapitel 12. **Bestätigt.**
+*Die Wohnungsgemeinnützigkeit als vollzogener Belastungstest:* Wohnungsgemeinnützigkeitsgesetz vom 29. Februar 1940, aufgehoben durch Artikel 21 des Steuerreformgesetzes 1990 vom 25. Juli 1988 mit Wirkung zum 1. Januar 1990; rund 1.800 Unternehmen mit etwa 3,3 Millionen Wohnungen. Fundstellen und Verifikationsstatus in Band 2, Kapitel 3. **Bestätigt.**
 
 *Die sechs Tests und der Belastungstest* sind Prüfverfahren dieses Buches. **Wertung.**
