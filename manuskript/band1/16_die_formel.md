@@ -4,7 +4,7 @@
 
 ---
 
-Die Politik endet nicht; sie vervielfältigt sich. Das Eigentum wird pluralisiert statt abgeschafft. Und an die Stelle des neuen Menschen treten Institutionen für den alten.
+Die Politik vervielfältigt sich, und das Eigentum wird pluralisiert. An die Stelle des neuen Menschen treten Institutionen für den alten.
 
 ### Die Herleitung in einem Zug
 
@@ -20,7 +20,7 @@ Damit hatte die Vermutung, die diesen Text trägt, ihren Namen: Polyzentrik gege
 
 Keine der beiden klassischen Antworten löst das damit gestellte Problem. Der Kommunismus definiert es weg – er erwartet, dass mit den Klassen auch Knappheit und legitime Meinungsverschiedenheit verschwinden, und wer das Verschwinden von Macht erwartet, baut keine Käfige für sie. Der regulierte Kapitalismus lässt die Machtquelle intakt und muss seine Fesseln dauerhaft gegen einen konzentrierten Gegner verteidigen; deshalb rosten sie, und der Nachweis dafür ist die Erosion der deutschen Mitbestimmung neben dem Fortbestand der Sparkassen.
 
-Was folgt, ist eine Bauanweisung, kein drittes Etikett. Wo immer möglich, wird eine Regel durch eine Eigentumsstruktur ersetzt, weil eine Struktur einen Träger hat und eine Regel nur eine Behörde. Und das oberste Kriterium ist Fehlertoleranz, nicht Gerechtigkeit: Es fragt, ob eine Ordnung ihre Fehler überlebt.
+Was folgt, ist eine Bauanweisung: Wo immer möglich, wird eine Regel durch eine Eigentumsstruktur ersetzt, weil eine Struktur einen Träger hat, der sie verteidigt. Und das oberste Kriterium ist Fehlertoleranz, nicht Gerechtigkeit: Es fragt, ob eine Ordnung ihre Fehler überlebt.
 
 Daraus entstehen drei Sektoren, die nebeneinander konkurrieren. Belegschaftseigene Betriebe mit gebundenem Kollektivvermögen *und* individuellen Kapitalkonten, offener Mitgliedschaft und echtem Insolvenzrisiko. Netze, Wasser, Wohnen und digitale Grundstrukturen in gemeinwirtschaftlicher Trägerschaft, mit einem Sterberecht für Betreiber, das den Betrieb nicht unterbricht. Und ein privater Marktsektor, der bleibt, weil für die Wette gegen den Konsens kein anderes verlässliches Verfahren bekannt ist – unter Sterblichkeitsregeln, die Vermögen entstehen lassen und Dynastien nicht.
 
@@ -34,7 +34,7 @@ Die Belegschaft am Betrieb, der ihr gehört. Das Mitglied am Kapitalkonto, das i
 
 Umsetzbar ist sie, weil ihr erster Schritt aus Instrumenten besteht, die eine gewöhnliche Mehrheit im geltenden Recht beschließen kann, deren Gewinner benennbar sind und deren Ergebnisse messbar bleiben. Und weil dieselbe Politik aus drei verschiedenen Weltbildern heraus begründbar ist – als Standorterhalt, als Eigentumsverteilung, als Beseitigung einer Marktunvollkommenheit.
 
-Beides zusammen ist der ganze Unterschied zur Utopie. Diese Ordnung braucht keinen Bruch, keinen neuen Menschen und keinen Engpass, durch den erst einmal alle Macht hindurch muss.
+Beides zusammen ist der ganze Unterschied zur Utopie: Diese Ordnung braucht keinen Bruch, keinen neuen Menschen und keinen Engpass, durch den erst einmal alle Macht hindurch muss.
 
 ### Was sie nicht ist
 
@@ -46,9 +46,9 @@ Jede Regel in diesem Buch wird angegriffen werden. Jede Kennzahl wird geschönt 
 
 Deshalb steht am Ende dieses Bandes ein Kriterium, wo man ein Versprechen erwartet.
 
-Fehlertoleranz ist das ehrlichste Maß einer guten Ordnung. Fehler vermeidet keine Ordnung – gefragt ist, ob sie sie überlebt. Ob ihre Elemente scheitern können, ohne dass das Ganze scheitert. Ob aus dem Scheitern des Elements etwas gelernt wird, das ohne dieses Scheitern nicht zu erfahren gewesen wäre.
+Fehlertoleranz ist das ehrlichste Maß einer guten Ordnung. Sie fragt, ob die Elemente einer Ordnung scheitern können, ohne dass das Ganze scheitert, und ob aus dem Scheitern des Elements etwas gelernt wird, das ohne dieses Scheitern nicht zu erfahren gewesen wäre.
 
-Eine Gesellschaft, deren Betriebe untergehen dürfen, verliert Betriebe und behält ihre Lernfähigkeit. Eine, deren Betriebe nicht untergehen dürfen, behält ihre Betriebe und verliert zwanzig Jahre später alles auf einmal. Das ist der Unterschied zwischen einer Ordnung mit vielen kleinen Zusammenbrüchen und einer mit einem großen.
+Eine Gesellschaft, deren Betriebe untergehen dürfen, verliert Betriebe und behält ihre Lernfähigkeit. Eine, deren Betriebe nicht untergehen dürfen, behält ihre Betriebe und verliert zwanzig Jahre später alles auf einmal.
 
 Und das ist die Formel.
 
