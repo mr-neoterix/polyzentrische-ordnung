@@ -4,9 +4,9 @@
 
 ---
 
-Jede Ordnungsdebatte kreist um dieselbe verkehrte Frage. Sie lautet: Welches System macht die wenigsten Fehler? Und sie ist verkehrt, weil sie voraussetzt, dass die Zahl der Fehler das Problem ist.
+Jede Ordnungsdebatte kreist um dieselbe verkehrte Frage. Sie lautet: Welches System macht die wenigsten Fehler?
 
-Sie ist es nicht. Fehler sind in großen Gesellschaften nicht zu vermeiden, weil niemand die Informationen hat, um sie im Voraus zu erkennen: keine Planbehörde, kein Vorstand, kein Bürgerrat, kein Markt. Alle Beteiligten entscheiden unter Unsicherheit, und wer unter Unsicherheit entscheidet, entscheidet regelmäßig falsch. Die entscheidende Frage ist deshalb, ob ein System seine Fehler überlebt, und nicht, wie viele es macht.
+Die entscheidende Frage ist, ob ein System seine Fehler überlebt, und nicht, wie viele es macht. Fehler sind in großen Gesellschaften nicht zu vermeiden, weil niemand die Informationen hat, um sie im Voraus zu erkennen: keine Planbehörde, kein Vorstand, kein Bürgerrat, kein Markt. Alle Beteiligten entscheiden unter Unsicherheit, also regelmäßig auch falsch.
 
 Damit hat dieses Buch sein oberstes Ordnungskriterium, und es heißt **Fehlertoleranz**. Eine Ordnung ist gut, wenn ihre Elemente scheitern können, ohne dass das Ganze scheitert – und wenn das Ganze aus dem Scheitern des Elements etwas lernt.
 
@@ -14,17 +14,15 @@ Damit hat dieses Buch sein oberstes Ordnungskriterium, und es heißt **Fehlertol
 
 Die Rückschau auf die Kapitel zwei bis vier lässt sich unter diesem Kriterium neu ordnen.
 
-Die DDR hatte keine Fehlertoleranz, weil sie kein partielles Scheitern zuließ. Ein Betrieb konnte nicht untergehen, denn sein Untergang wäre ein Urteil über den Plan gewesen, und der Plan war ein Urteil über die Partei. Ein Bezirk konnte nicht sichtbar schlechter dastehen als ein anderer, denn die Ursache wäre eine Führungsfrage gewesen. Ein Reformversuch konnte nicht als Experiment mit offenem Ausgang laufen, denn ein Experiment kann misslingen, und die Partei irrte nicht.
+Die DDR hatte keine Fehlertoleranz, weil sie kein partielles Scheitern zuließ. Ein Betrieb konnte nicht untergehen, denn sein Untergang wäre ein Urteil über den Plan gewesen, und der Plan war ein Urteil über die Partei. Ein Bezirk konnte nicht sichtbar schlechter dastehen als ein anderer, denn die Ursache wäre eine Führungsfrage gewesen. Ein Reformversuch konnte nicht als Experiment mit offenem Ausgang laufen, weil ein misslungenes Experiment einen Irrtum der Partei bedeutet hätte.
 
-Das ist der Grund, warum in der DDR alles mit allem zusammenhing – und warum am Ende alles auf einmal fiel. In einem monozentrischen System – einem System mit nur einem Zentrum, das über alles entscheidet – ist jeder Einzelfehler ein Systemfehler, weil es keine Instanz gibt, die ihn absorbieren könnte. Deshalb muss ein solches System jeden Fehler leugnen; deshalb sammeln sich die geleugneten Fehler; deshalb kommt der Zusammenbruch spät und auf einmal.
+Deshalb hing in der DDR alles mit allem zusammen. In einem monozentrischen System – einem System mit nur einem Zentrum, das über alles entscheidet – ist jeder Einzelfehler ein Systemfehler, weil es keine Instanz gibt, die ihn absorbieren könnte. Deshalb muss ein solches System jeden Fehler leugnen; deshalb sammeln sich die geleugneten Fehler; deshalb kommt der Zusammenbruch spät und auf einmal.
 
 Die Gegenkonstruktion ist eine Ordnung, in der Fehler lokal bleiben. Und die Frage lautet: Gibt es dafür einen Beleg, oder ist das nur eine schöne Idee?
 
 ### Mondragón
 
-Es gibt einen.
-
-Im spanischen Baskenland, in der Kleinstadt Arrasate-Mondragón, gründete der Priester José María Arizmendiarrieta 1956 mit fünf ehemaligen Schülern eine kleine Werkstatt für Petroleumöfen. Aus ihr entstand über die folgenden Jahrzehnte der größte Arbeitergenossenschaftsverbund der Welt. Der Verbund – heute Mondragón Corporation – umfasst Industrie, Handel, Finanzdienstleistung und Bildung; nach dem Jahresbericht für 2024 beschäftigt er 70.085 Menschen und setzt 11,2 Milliarden Euro um. Er hat eine eigene Bank, die Caja Laboral, heute Laboral Kutxa; ein eigenes Sozialversicherungssystem; eine eigene Universität; und eine Struktur aus vielen einzelnen Genossenschaften, die unter einem Dachverband kooperieren, ohne ihre Selbständigkeit zu verlieren.
+Es gibt einen, im spanischen Baskenland: In der Kleinstadt Arrasate-Mondragón gründete der Priester José María Arizmendiarrieta 1956 mit fünf ehemaligen Schülern eine kleine Werkstatt für Petroleumöfen. Aus ihr entstand über die folgenden Jahrzehnte der größte Arbeitergenossenschaftsverbund der Welt. Der Verbund – heute Mondragón Corporation – umfasst Industrie, Handel, Finanzdienstleistung und Bildung; nach dem Jahresbericht für 2024 beschäftigt er 70.085 Menschen und setzt 11,2 Milliarden Euro um. Er hat eine eigene Bank, die Caja Laboral, heute Laboral Kutxa; ein eigenes Sozialversicherungssystem; eine eigene Universität; und eine Struktur aus vielen einzelnen Genossenschaften, die unter einem Dachverband kooperieren, ohne ihre Selbständigkeit zu verlieren.
 
 Wer für Belegschaftseigentum argumentiert, führt Mondragón als Erfolgsbeleg vor. Dieses Buch tut das Gegenteil und führt seine größte Katastrophe vor.
 
@@ -34,13 +32,11 @@ Fagor Electrodomésticos war die älteste und symbolträchtigste Genossenschaft 
 
 Der Verbund hatte Fagor zuvor mit rund 300 Millionen Euro gestützt. Dann forderte Fagor weitere 180 Millionen. Und der Verbund – der Zusammenschluss von Genossenschaften, deren gemeinsame Geschichte an dieser einen hing, deren Solidarität ihr Gründungsmythos ist – sagte nein.
 
-Ein Kritiker liest diesen Fall als Widerlegung: Seht her, auch die Genossenschaft geht pleite. Mit den Kriterien dieses Buches gelesen ist der Fall das genaue Gegenteil.
+Ein Kritiker liest diesen Fall als Widerlegung: Seht her, auch die Genossenschaft geht pleite. Mit den Kriterien dieses Buches gelesen, scheiterte ein Element. Die Föderation, der Verbund der selbständigen Genossenschaften, hielt die Budgetbeschränkung hart – gegen ihr eigenes Gründungsmitglied, gegen die Symbolik, gegen den internen Druck. Das Ganze überlebte; der Verbund existiert und beschäftigt heute über siebzigtausend Menschen. Und ein Teil der betroffenen Mitglieder wurde aufgefangen: über Solidarfonds und durch Umsetzung in andere Genossenschaften des Verbunds, ein Mechanismus, den es in einem konventionellen Konzern in dieser Form nicht gibt.
 
-Ein Element scheiterte. Die Föderation, der Verbund der selbständigen Genossenschaften, hielt die Budgetbeschränkung hart – gegen ihr eigenes Gründungsmitglied, gegen die Symbolik, gegen den internen Druck. Das Ganze überlebte; der Verbund existiert und beschäftigt heute über siebzigtausend Menschen. Und ein Teil der betroffenen Mitglieder wurde aufgefangen: über Solidarfonds und durch Umsetzung in andere Genossenschaften des Verbunds, ein Mechanismus, den es in einem konventionellen Konzern in dieser Form nicht gibt.
+Man vergleiche das mit dem, was in der DDR geschehen wäre – und mit dem, was bei den Landesbanken geschehen ist. Dort wurde gestützt, weil das Scheitern politisch teurer war als das Auffangen. Hier wurde nicht gestützt, obwohl das Scheitern symbolisch teurer war als das Auffangen.
 
-Man vergleiche das mit dem, was in der DDR geschehen wäre – und mit dem, was bei den Landesbanken geschehen ist. Dort wurde gestützt, weil das Scheitern politisch teurer war als das Auffangen. Hier wurde nicht gestützt, obwohl das Scheitern symbolisch teurer war als das Auffangen. Das ist der Unterschied zwischen einer weichen und einer harten Budgetbeschränkung, vorgeführt an einem Fall, in dem die weiche Variante alle Sympathien auf ihrer Seite hatte.
-
-Nur war die Aufnahmekapazität des Verbunds endlich – es konnten nicht alle untergebracht werden. Und die Beschäftigten der ausländischen Tochtergesellschaften waren gar nicht geschützt, weil sie als Lohnarbeiter in Betrieben beschäftigt waren, die einer Genossenschaft gehörten, ohne selbst Mitglieder zu sein. Als Fagor fiel, traf es genau sie am härtesten.
+Nur war die Aufnahmekapazität des Verbunds endlich – es konnten nicht alle untergebracht werden. Und die Beschäftigten der ausländischen Tochtergesellschaften waren gar nicht geschützt, weil sie als Lohnarbeiter in Betrieben beschäftigt waren, die einer Genossenschaft gehörten, ohne selbst Mitglieder zu sein.
 
 Der Fall trägt also beide Lehren: die Fehlertoleranz als Konstruktionserfolg und die Insider-Outsider-Grenze – die Trennlinie zwischen den geschützten Mitgliedern und den ungeschützten Nichtmitgliedern – als die größte offene Flanke der ganzen Architektur. Diese Flanke steht im Ledger dieses Buches und wird dort nicht wegargumentiert.
 
@@ -70,7 +66,7 @@ Damit ist der diagnostische Teil abgeschlossen. Bevor der konstruktive beginnt, 
 
 Neun Sätze, und keiner von ihnen ist ein Wert, aus dem sich eine Ordnung ableiten ließe. Es sind Beobachtungen über Fälle, die schiefgingen. Was daraus folgt, ist eine haltbarere Gesellschaft und keine gerechte – und der Unterschied ist wichtig genug, um ihn beim Namen zu nennen.
 
-Dieses Buch verspricht nicht, dass die vorgeschlagene Ordnung gerechter ist als die bestehende, obwohl der Verfasser das vermutet. Es behauptet, dass sie ihre Fehler eher überlebt. Das ist eine bescheidenere und eine prüfbarere Behauptung.
+Dieses Buch verspricht nicht, dass die vorgeschlagene Ordnung gerechter ist als die bestehende, obwohl der Verfasser das vermutet. Es behauptet, dass sie ihre Fehler eher überlebt.
 
 Wie sie aussieht, steht im vierten Teil.
 

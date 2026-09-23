@@ -18,9 +18,9 @@ Das war ein politischer Sieg von historischem Rang, erkämpft gegen erbitterten 
 
 Die Hans-Böckler-Stiftung dokumentiert den Vorgang seit Jahren. Im Jahr 2022 blieb mindestens 2,45 Millionen Beschäftigten die paritätische Mitbestimmung vorenthalten. 256 Unternehmen nutzten dafür legale Konstruktionen; 172 ignorierten schlicht das geltende Recht.
 
-Die Zahlen zeigen zwei verschiedene Mechanismen. Die 172 sind der uninteressantere Fall: offener Rechtsbruch, der geahndet werden könnte, wenn jemand klagte – nur klagt selten jemand, weil die Mitbestimmung ein Recht ohne einen Kläger mit hinreichend konzentriertem Interesse ist. Die 256 sind der interessantere Fall. Sie tun nichts Verbotenes. Sie wählen Rechtsformen, für die das Mitbestimmungsgesetz nicht gilt oder nur eingefroren gilt. Die Europäische Aktiengesellschaft etwa konserviert den Mitbestimmungsstand zum Zeitpunkt der Umwandlung, so dass er mit dem weiteren Wachstum nicht mitwächst. Daneben stehen ausländische Rechtsformen und Stiftungskonstruktionen. Sie umgehen das Gesetz mit dem Gesetz.
+Die Zahlen zeigen zwei verschiedene Mechanismen. Die 172 sind der uninteressantere Fall: offener Rechtsbruch, der geahndet werden könnte, wenn jemand klagte – nur klagt selten jemand, weil die Mitbestimmung ein Recht ohne einen Kläger mit hinreichend konzentriertem Interesse ist. Die 256 dagegen tun nichts Verbotenes. Sie wählen Rechtsformen, für die das Mitbestimmungsgesetz nicht gilt oder nur eingefroren gilt. Die Europäische Aktiengesellschaft etwa konserviert den Mitbestimmungsstand zum Zeitpunkt der Umwandlung, so dass er mit dem weiteren Wachstum nicht mitwächst. Daneben stehen ausländische Rechtsformen und Stiftungskonstruktionen. Sie umgehen das Gesetz mit dem Gesetz.
 
-Das ist die *Rost-These* in ihrer reinen Form. Die Regel wurde nicht abgeschafft. Niemand hat sie je zur Abstimmung gestellt. Sie ist verrostet: an den Rändern, im Detail, durch die geduldige Arbeit von Leuten, deren Beruf es ist, Umwege zu finden, gegen eine Öffentlichkeit, für die das Thema zu technisch ist, um Aufmerksamkeit zu binden.
+Das ist die *Rost-These* in ihrer reinen Form. Die Regel wurde nicht abgeschafft, und niemand hat sie je zur Abstimmung gestellt. Sie ist verrostet: an den Rändern, im Detail, durch die geduldige Arbeit von Leuten, deren Beruf es ist, Umwege zu finden, gegen eine Öffentlichkeit, für die das Thema zu technisch ist, um Aufmerksamkeit zu binden.
 
 ### Der zweite Weg: die Sparkassen
 
@@ -28,7 +28,7 @@ Die deutschen Sparkassen sind eine Eigentumsform. Eine Regel sind sie nicht. Sie
 
 Der schwerste Angriff kam aus Brüssel. In der sogenannten Brüsseler Verständigung vom 17. Juli 2001 einigten sich EU-Kommission und Bundesregierung darauf, die staatlichen Garantien für Sparkassen und Landesbanken zum 19. Juli 2005 abzuschaffen. Gemeint sind Anstaltslast und Gewährträgerhaftung, also die Pflicht des öffentlichen Trägers, das Institut funktionsfähig zu halten und für seine Verbindlichkeiten einzustehen. Das war ein empfindlicher Eingriff: Er verteuerte die Refinanzierung. Aber der öffentlich-rechtliche Status der Institute blieb unangetastet. Auch im schärfsten Einzelfall, der Berliner Landesbank, erzwang die beihilferechtliche Entscheidung – das Beihilferecht der Union verbietet dem Staat, einzelne Unternehmen finanziell zu begünstigen – zwar den Verkauf. Erworben wurde sie 2007 aber von einer Erwerbsgesellschaft des Deutschen Sparkassen- und Giroverbands für 4,62 Milliarden Euro, und die Berliner Sparkasse blieb in öffentlicher Hand.
 
-Der Vergleich ist nicht ganz sauber: Die Sparkassen sind mächtiger organisiert als die Beschäftigten mitbestimmter Unternehmen, sie haben Verbände mit Geld und Personal. Aber genau das ist der Punkt. Sie *haben* diese Verbände, weil es etwas zu verteidigen gibt, das ihnen gehört. Ein Eigentümer hat einen Grund, sich zu organisieren; ein Rechtsinhaber ohne Eigentum hat einen Anspruch und muss hoffen, dass ihn jemand durchsetzt.
+Der Vergleich ist nicht ganz sauber: Die Sparkassen sind mächtiger organisiert als die Beschäftigten mitbestimmter Unternehmen, sie haben Verbände mit Geld und Personal, und sie haben sie, weil es etwas zu verteidigen gibt, das ihnen gehört. Ein Eigentümer hat einen Grund, sich zu organisieren; ein Rechtsinhaber ohne Eigentum hat einen Anspruch und muss hoffen, dass ihn jemand durchsetzt.
 
 Zur selben Institutionenfamilie zählen allerdings die Landesbanken, die Banken in der Trägerschaft der Länder. Ihre Bilanz ist der härteste verfügbare Beleg dafür, dass öffentliches Eigentum die weiche Budgetbeschränkung nicht ausschließt und besonders anfällig für sie ist. Die WestLB wurde abgewickelt, die SachsenLB notverkauft, die HSH Nordbank nach Jahren der Stützung privatisiert; BayernLB und LBBW erhielten Milliardenhilfen ihrer Träger. Die kursierenden Einzelzahlen variieren je nach Quelle und Abgrenzung erheblich. Unstrittig ist die Größenordnung: zweistellige Milliardenbeträge pro Institut und, für die deutsche Bankenrettung insgesamt, eine Größenordnung von rund siebzig Milliarden Euro. Und der Mechanismus ist derselbe, den Kornai beschrieben hat: Die Länder waren Eigentümer *und* Aufsichtsinstanz, und die Gewährträgerhaftung war die institutionalisierte Zusage, Verluste aufzufangen.
 
@@ -44,15 +44,15 @@ Das ist die eine Hälfte der Geschichte, und sie belegt, dass ein Steuerhebel Ei
 
 Die andere Hälfte: Zum 26. November 2025 wurde die Entlastung von 100 auf 50 Prozent halbiert.
 
-Elf Jahre. Eine Regel, die funktionierte, gemessen, dokumentiert, mit Hunderttausenden Begünstigten – und sie wurde nach elf Jahren zurückgeschnitten, weil ein Haushalt Geld brauchte und weil die Nutznießer diffus und die Kasse konzentriert war. Das ist Olsons Logik, angewandt auf das Lieblingsinstrument dieses Buches.
+Eine Regel, die funktionierte, gemessen, dokumentiert, mit Hunderttausenden Begünstigten – und sie wurde nach elf Jahren zurückgeschnitten, weil ein Haushalt Geld brauchte und weil die Nutznießer diffus und die Kasse konzentriert war.
 
-Die naheliegende Schlussfolgerung wäre, das Instrument fallen zu lassen. Sie wäre falsch: Die 2.470 Unternehmen blieben belegschaftseigen. Die Steuerentlastung wurde halbiert; die Eigentumsverhältnisse, die sie erzeugt hatte, blieben bestehen. Das Programm rostete, seine Ergebnisse nicht.
+Die naheliegende Schlussfolgerung wäre, das Instrument fallen zu lassen. Sie wäre falsch: Die 2.470 Unternehmen blieben belegschaftseigen. Die Steuerentlastung wurde halbiert; die Eigentumsverhältnisse, die sie erzeugt hatte, blieben bestehen.
 
 Daraus folgt eine Konstruktionsanweisung: Zu unterlassen ist der Steuerhebel deswegen nicht; er ist so zu bauen, dass er Eigentümer erzeugt, *bevor* er wieder verschwindet. Wie man ihn konkret so baut, gehört in den Umsetzungspfad des zweiten Bandes: Stundung statt Befreiung, also Aufschub der Steuer statt ihres Erlasses; ausdrücklicher Bestandsschutz für abgeschlossene Übertragungen; eine Evaluationsklausel mit Begründungszwang statt einer Verfallsklausel, die das Instrument von selbst auslaufen ließe; und die frühe Erzeugung von Trägern, deren Geschäft an dem Instrument hängt.
 
 ### Die Regel und ihre Grenze
 
-Regulierung lässt die Machtquelle intakt. Ein reguliertes Monopol ist ein Monopol mit Auflagen, und die Auflagen müssen dauerhaft gegen einen reichen, geduldigen, hochspezialisierten Gegner verteidigt werden, dem die Sache viel wert ist, gegen eine Öffentlichkeit, der sie wenig wert ist. Deshalb rostet Regulierung. Eigentumsstrukturen dagegen schaffen Träger mit Eigeninteresse an ihrem Fortbestand: Wer etwas besitzt, verteidigt es, ohne dass man ihn dazu auffordern muss.
+Regulierung lässt die Machtquelle intakt. Ein reguliertes Monopol ist ein Monopol mit Auflagen, und die Auflagen müssen dauerhaft gegen einen reichen, geduldigen, hochspezialisierten Gegner verteidigt werden, dem die Sache viel wert ist, gegen eine Öffentlichkeit, der sie wenig wert ist. Deshalb rostet Regulierung. Eigentumsstrukturen dagegen schaffen Träger mit Eigeninteresse an ihrem Fortbestand.
 
 Der Satz, der das trägt, lautet: **Eigentum verteidigt sich; Regeln muss man verteidigen.**
 
@@ -60,7 +60,7 @@ Der Satz hat Grenzen. Erstens ist Eigentum kein Zauber. Auch Eigentümer können
 
 Aus dieser Grenze folgt eine Faustregel: *Klagerechte statt Aufsichtszuständigkeiten.* Wo immer möglich, bekommt der Betroffene einen eigenen Anspruch, den er selbst einklagen kann, statt dass eine Behörde ein Ermessen bekommt, das man ihr wegkürzen kann. Ein Geschädigter mit Klagerecht ist ein konzentriertes Interesse. Eine Behörde mit Ermessen ist ein Haushaltsposten.
 
-Damit hat dieses Buch sein Werkzeug. Was ihm noch fehlt, ist sein Maßstab: Woran erkennt man eigentlich, dass eine Ordnung gut ist? Die Antwort kommt aus dem Baskenland.
+Neben dem Werkzeug fehlt diesem Buch noch sein Maßstab: Woran erkennt man eigentlich, dass eine Ordnung gut ist?
 
 ---
 
