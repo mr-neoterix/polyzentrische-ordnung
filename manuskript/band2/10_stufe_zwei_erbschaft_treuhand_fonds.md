@@ -4,17 +4,17 @@
 
 ---
 
-Stufe eins schafft einen Kanal. Stufe zwei speist ihn – und sie ist der Teil dieses Buches, an dem am meisten schiefgehen kann, weil hier zum ersten Mal neben der Politik auch Verfassungsrecht, Gesellschaftsrecht und Bewertungspraxis im Weg stehen.
+Stufe eins schafft einen Kanal. Stufe zwei speist ihn, und hier stehen zum ersten Mal neben der Politik auch Verfassungsrecht, Gesellschaftsrecht und Bewertungspraxis im Weg.
 
 Das Kapitel geht deshalb anders vor als die vorigen. Es beschreibt zuerst den Gedanken, dann die Wände, an denen er in seiner naheliegenden Form scheitert, und dann die Fassung, die stehen bleibt.
 
 ### Der Gedanke: eine Steuer, die kein Geld nimmt
 
-Das Herzstück ist die Erbschaftsteuer, und es lohnt, die Zahlen zu kennen, statt Prinzipien zu tauschen.
+Das Herzstück ist die Erbschaftsteuer.
 
 Im Jahr 2024 setzten die deutschen Finanzverwaltungen Erbschaft- und Schenkungsteuer in Höhe von 13,3 Milliarden Euro fest, davon 8,5 Milliarden Erbschaft- und 4,8 Milliarden Schenkungsteuer. Im selben Jahr blieb begünstigtes Vermögen von 4,0 Milliarden Euro bei Erbschaften und 13,1 Milliarden bei Schenkungen verschont, zusammen 17,1 Milliarden Euro – nach § 13a des Erbschaftsteuergesetzes, der Vorschrift, die Betriebsvermögen begünstigt. Das insgesamt übertragene Betriebsvermögen betrug 21,5 Milliarden Euro; die Großerwerbe über 26 Millionen Euro beliefen sich auf 8,6 Milliarden.
 
-Diese Zahlen werden in der politischen Debatte regelmäßig falsch benutzt, und deshalb sofort die Einschränkung: Die 17,1 Milliarden sind *kein Steuerausfall in gleicher Höhe*. Sie bezeichnen verschontes Vermögen, nicht entgangene Steuer; wie viel Steuer ohne die Verschonung angefallen wäre, hängt von Freibeträgen, Steuerklassen und Gestaltungsreaktionen ab – davon also, wie Erblasser und Schenker ihre Übertragungen an das jeweils geltende Recht anpassen. Der Betrag liegt deutlich unter diesen 17,1 Milliarden. Was die Zahl aber zeigt, ist das Verhältnis: Der Ausnahmebereich ist neben der Regel sehr groß geworden.
+Die Einschränkung gehört sofort dazu: Die 17,1 Milliarden sind *kein Steuerausfall in gleicher Höhe*. Sie bezeichnen verschontes Vermögen, nicht entgangene Steuer; wie viel Steuer ohne die Verschonung angefallen wäre, hängt von Freibeträgen, Steuerklassen und Gestaltungsreaktionen ab – davon also, wie Erblasser und Schenker ihre Übertragungen an das jeweils geltende Recht anpassen. Der Betrag liegt deutlich unter diesen 17,1 Milliarden. Was die Zahl aber zeigt, ist das Verhältnis: Der Ausnahmebereich ist neben der Regel sehr groß geworden.
 
 Die Privilegierung des Betriebsvermögens hat einen legitimen Kern. Wer ein Unternehmen erbt, hat Vermögen, aber keine Liquidität. Eine Steuer, die in Geld zu zahlen ist, zwingt ihn, Geld aus dem Betrieb zu ziehen oder Anteile zu verkaufen – und eine Steuer, die Betriebe zur Substanzentnahme zwingt, zerstört Arbeitsplätze.
 
@@ -24,7 +24,7 @@ Das ist der Gedanke. Nun die Wände.
 
 ### Erste Wand: Wem gehören die Stimmrechte?
 
-An jedem Unternehmensanteil hängen zwei verschiedene Dinge: ein *Vermögensrecht* – der Anspruch auf Gewinn und auf den Erlös im Fall der Auflösung – und ein *Verwaltungsrecht*, vor allem das Stimmrecht. Wenn der Staat Anteile einsammelt, sammelt er beides ein. Und damit steht die schwierigste Konstruktionsfrage dieses Buches im Raum.
+An jedem Unternehmensanteil hängen zwei verschiedene Dinge: ein *Vermögensrecht* – der Anspruch auf Gewinn und auf den Erlös im Fall der Auflösung – und ein *Verwaltungsrecht*, vor allem das Stimmrecht. Wenn der Staat Anteile einsammelt, sammelt er beides ein.
 
 Drei Antworten sind möglich, und zwei davon sind falsch.
 
@@ -46,7 +46,7 @@ Bei der Aktiengesellschaft kommt eine harte zahlenmäßige Grenze hinzu: Stimmre
 
 Damit ist die naheliegende Fassung erledigt. Die tragfähige lautet: *Die Zuordnung wird umgedreht, statt sie zu spalten.*
 
-Nicht der Fonds hält den Anteil und gibt die Stimme ab. Sondern eine *Belegschaftstreuhand* hält den Anteil – und weil die Stimme dem Anteil folgt, bleibt sie, wo sie hingehört. Der Ertrag wird dem Fonds über ein Recht zugeführt, das neben dem Anteil eigens für ihn begründet wird, statt aus dem Anteil herausgetrennt zu werden: gesondert bestellt. Drei Formen kommen dafür in Betracht. *Ein Nießbrauch am Anteil:* das Recht auf dessen Ertrag, ohne dass dem Fonds der Anteil selbst gehört. *Ein Genussrecht mit Vorabdividende:* ein vertraglicher Anspruch auf einen vorweg zugeteilten Gewinnanteil. *Oder eine Ergebnisbeteiligung, die auch in der Insolvenz Bestand hat.* Damit ist nichts abgespalten, wohl aber ein reiner Vermögensanspruch bestellt – und reine Vermögensansprüche sind übertragbar, das Stimmrecht ist es nicht. Genau das erlaubt das Recht.
+Den Anteil hält eine *Belegschaftstreuhand* – und weil die Stimme dem Anteil folgt, bleibt sie, wo sie hingehört. Der Ertrag wird dem Fonds über ein Recht zugeführt, das neben dem Anteil eigens für ihn begründet wird, statt aus dem Anteil herausgetrennt zu werden: gesondert bestellt. Drei Formen kommen dafür in Betracht. *Ein Nießbrauch am Anteil:* das Recht auf dessen Ertrag, ohne dass dem Fonds der Anteil selbst gehört. *Ein Genussrecht mit Vorabdividende:* ein vertraglicher Anspruch auf einen vorweg zugeteilten Gewinnanteil. *Oder eine Ergebnisbeteiligung, die auch in der Insolvenz Bestand hat.* Damit ist nichts abgespalten, wohl aber ein reiner Vermögensanspruch bestellt – und reine Vermögensansprüche sind übertragbar, das Stimmrecht ist es nicht. Genau das erlaubt das Recht.
 
 Für den Erbschaftsteuerfall heißt das: Der Steuerpflichtige überträgt den Anteil an die Belegschaftstreuhand und dem Fonds das Ertragsrecht, in einem Vorgang. Wo weder eine Treuhand noch eine geloste Eigentümerversammlung zustande kommt, *ruht* das Stimmrecht bis zur Bildung eines Trägers, statt an die Fondsverwaltung zu fallen. Ruhende Stimmen sind unschöner als starke Stimmen, aber sie bauen keine Meidner-Konzentration.
 
@@ -54,7 +54,7 @@ Und weil es im Aktienrecht an der Fünfzig-Prozent-Grenze weiterhin klemmen kann
 
 ### Dritte Wand: Der Ausschüttungskonflikt
 
-Diese Konstruktion erzeugt einen neuen Interessenkonflikt, und er ist echt: *Die Belegschaft entscheidet, der Fonds trägt das Ertragsrisiko.* Gestritten werden wird über die Verwendung des Gewinns: ob er ausgeschüttet wird, in höhere Löhne geht, investiert wird oder die Kapitalkonten auffüllt – also die persönlichen Konten, auf denen jedes Mitglied seinen Anteil am einbehaltenen Überschuss stehen hat. Und die Berechtigten des Fonds sind Millionen Bürger mit kleinen Anwartschaften: das klassische diffuse Interesse aus Olsons Logik, das gegen ein konzentriertes stets den Kürzeren zieht. Das Muster der Rost-These – Regeln verfallen, weil konzentriertes Interesse diffuses schlägt – wiederholt sich im Inneren der eigenen Institution.
+Diese Konstruktion erzeugt einen neuen Interessenkonflikt, und er ist echt: *Die Belegschaft entscheidet, der Fonds trägt das Ertragsrisiko.* Gestritten werden wird über die Verwendung des Gewinns: ob er ausgeschüttet wird, in höhere Löhne geht, investiert wird oder die Kapitalkonten auffüllt – also die persönlichen Konten, auf denen jedes Mitglied seinen Anteil am einbehaltenen Überschuss stehen hat. Und die Berechtigten des Fonds sind Millionen Bürger mit kleinen Anwartschaften: das klassische diffuse Interesse aus Olsons Logik, das gegen ein konzentriertes stets den Kürzeren zieht. Das Muster der Rost-These wiederholt sich im Inneren der eigenen Institution.
 
 Dass ein Konflikt zwischen sichtbaren Trägern besser ist als ein Anspruch ohne Verteidiger, stimmt – aber es ist noch keine Konstruktion. Die Konstruktion löst den Konflikt nicht auf; sie macht ihn justiziabel – vor Gericht durchsetzbar –, in drei Stufen.
 
@@ -77,8 +77,6 @@ Die Lösung entkoppelt die Bewertung von der Steuerfestsetzung. Für die *Höhe 
 Das ist administrativ teuer und rechnerisch ehrlich – und es ist die Bedingung dafür, dass die Fonds überhaupt Bestände haben, die man vergleichen, wechseln und abwickeln kann.
 
 ### Fünfte Wand: Die Finanzverfassung
-
-Und nun der Test, den die Finanzverfassung stellt und den keine Steuerreform überspringen darf.
 
 Das Aufkommen der Erbschaft- und Schenkungsteuer steht nach Artikel 106 Absatz 2 des Grundgesetzes den *Ländern* zu. Verwaltet wird sie nach Artikel 108 Absatz 2 ebenfalls von den Ländern. Und ein Bundesgesetz über sie bedarf nach Artikel 105 Absatz 3 der Zustimmung des Bundesrates.
 
@@ -132,7 +130,7 @@ Die Übertragung dieser Rechtsprechung auf eine Fondsanwartschaft ist eine Schlu
 
 Also wird Eigenleistung eingebaut, statt sie zu behaupten – in einer Form, die zur Ordnung passt. *Ein Eigenbeitragselement:* Die Anwartschaft entsteht durch eine geringe, sozial gestaffelte Einzahlung oder durch die Einbringung eines Teils der individuellen Kapitalkonten aus dem Belegschaftssektor, nicht durch Geburt. Wer nichts einbringt, erhält eine Grundanwartschaft mit schwächerem Schutz, wer einbringt, eine geschützte. *Frühe und regelmäßige Auszahlungen,* denn eine Position, aus der seit Jahren Erträge fließen, erzeugt Vertrauensschutz-Tatsachen, die eine Mehrheit teurer zu beseitigen hat als eine bloße Aussicht. *Und Übertragbarkeit im Erbfall in engen Grenzen,* was den Charakter der Zuwendung endgültig in den einer Rechtsposition wandelt.
 
-Und wenn diese Elemente politisch nicht gewollt sind, dann gehört der Preis in den Text: Der Fonds ist dann so abschaffbar wie die schwedischen Lohnempfängerfonds, und die Ordnung muss ihren Bestand aus dem Belegschaftssektor beziehen und nicht aus dem Fonds. **Eigentum verteidigt sich – aber nur, wenn es Eigentum ist.**
+Und wenn diese Elemente politisch nicht gewollt sind, hat das einen Preis: Der Fonds ist dann so abschaffbar wie die schwedischen Lohnempfängerfonds, und die Ordnung muss ihren Bestand aus dem Belegschaftssektor beziehen und nicht aus dem Fonds. **Eigentum verteidigt sich – aber nur, wenn es Eigentum ist.**
 
 Was unabhängig davon gilt und den Belastungstest besteht, ist die genossenschaftliche Übernahme selbst: Der übernommene Betrieb bleibt übernommen, auch wenn das Programm gestrichen wird – wie die britische Steuerentlastung für den Employee Ownership Trust 2025 halbiert wurde, während die 2.470 Unternehmen belegschaftseigen blieben.
 

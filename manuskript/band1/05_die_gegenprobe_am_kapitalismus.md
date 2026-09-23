@@ -12,7 +12,7 @@ Die Frage lautet also nicht: Ist der Kapitalismus besser als der Sozialismus? Si
 
 ### Drei Fälle, in denen der Markt nichts einhegte
 
-Beginnen wir mit den Fällen, die diese Frage am schärfsten stellen, weil sie in der üblichen Erzählung nicht vorkommen.
+Beginnen wir mit Fällen, die in der üblichen Erzählung nicht vorkommen.
 
 **Chile nach 1973.** Salvador Allende, seit 1970 gewählter Präsident, führte ein Programm durch, das Kupferbergbau entschädigungslos verstaatlichte, Banken nationalisierte und eine Agrarreform durchsetzte. Es traf auf Wirtschaftskrise, Inflation, ausbleibende Investitionen und massiven amerikanischen Druck, unter anderem in Gestalt einer Kreditblockade. Am 11. September 1973 endete es im Militärputsch. Was danach kam, war eines der marktradikalsten Wirtschaftsprogramme des zwanzigsten Jahrhunderts – Privatisierung, Deregulierung, Öffnung –, durchgeführt von einer Militärdiktatur, die Gewerkschaften zerschlug, Parteien verbot, die Presse zensierte und ihre Gegner ermordete.
 
@@ -26,7 +26,7 @@ Drei Fälle, ein Ergebnis: Kapitalismus ohne bestimmte Zusatzinstitutionen hegt 
 
 Und ein vierter Fall gehört daneben, der nicht in diese Reihe passt und ohne den sie schief steht. Frankreich hatte 1981 alles, was Chile fehlte: unabhängige Gerichte, eine freie Presse, organisierte Gegenmacht und eine Regierung, die man abwählen konnte. François Mitterrand, im Mai jenes Jahres gewählt, verstaatlichte Banken und Industriekonzerne und fuhr ein keynesianisches Expansionsprogramm – höhere Staatsausgaben, um die Wirtschaft anzukurbeln. Binnen achtzehn Monaten wurde der Franc dreimal abgewertet, Kapital floss ab, und mit der dritten Abwertung am 21. März 1983 kehrte die Regierung zur Haushaltsdisziplin zurück – der *tournant de la rigueur*.
 
-Was dieser Fall zeigt, ist genau abzugrenzen, denn die verbreitete Erzählung nimmt ihm die Schärfe, indem sie ihn übertreibt. Sie lautet, die Märkte hätten eine gewählte Regierung in die Knie gezwungen. Dagegen steht zweierlei. Die neuere Forschung bestreitet, dass der Kurswechsel überhaupt ein bewusster Bruch war; und ein Ausweg lag auf dem Tisch, nämlich der Austritt aus dem europäischen Währungssystem, der aus europapolitischen Gründen verworfen wurde. Wer sich zwischen zwei Wegen entscheidet, wird nicht gezwungen. Mit diesem Befund erledigt sich die Beschränkung gleichwohl nicht: Ein Land mit eigener Währung, offenem Kapitalverkehr und einem festen Wechselkurs in einem Verbund kann ein Programm nur so lange fahren, wie es den Wechselkurs hält. Und der Preis des Ausstiegs war so hoch, dass er nicht gezahlt wurde. Ob eine Regierung darin einen Zwang sah oder eine Gelegenheit, ist eine Frage nach Motiven, und solche Fragen beantwortet dieses Buch nicht. Belegt ist der Kanal, nicht die Kapitulation.
+Die verbreitete Erzählung nimmt diesem Fall die Schärfe, indem sie ihn übertreibt: Die Märkte hätten eine gewählte Regierung in die Knie gezwungen. Dagegen steht zweierlei. Die neuere Forschung bestreitet, dass der Kurswechsel überhaupt ein bewusster Bruch war; und ein Ausweg lag auf dem Tisch, nämlich der Austritt aus dem europäischen Währungssystem, der aus europapolitischen Gründen verworfen wurde. Wer sich zwischen zwei Wegen entscheidet, wird nicht gezwungen. Mit diesem Befund erledigt sich die Beschränkung gleichwohl nicht: Ein Land mit eigener Währung, offenem Kapitalverkehr und einem festen Wechselkurs in einem Verbund kann ein Programm nur so lange fahren, wie es den Wechselkurs hält. Und der Preis des Ausstiegs war so hoch, dass er nicht gezahlt wurde. Ob eine Regierung darin einen Zwang sah oder eine Gelegenheit, ist eine Frage nach Motiven, und solche Fragen beantwortet dieses Buch nicht. Belegt ist der Kanal, nicht die Kapitulation.
 
 Für die Diagnose folgt daraus wenig und für den Weg viel: Chile zeigt, was ohne die einhegenden Institutionen geschieht, Frankreich, was mit ihnen noch immer möglich ist. Der Umsetzungspfad hat beides einzurechnen – den offenen Bruch und die Beschränkung, die keinen Urheber hat. Denn Frankreich ist der einzige der vier Fälle, in dem der Markt Macht tatsächlich begrenzt hat. Nur war es die Macht, die aus einer Wahl hervorgegangen war.
 
@@ -34,7 +34,7 @@ Für die Diagnose folgt daraus wenig und für den Weg viel: Chile zeigt, was ohn
 
 Damit ist die eigentliche Frage gestellt: Wenn nicht der Markt, was dann?
 
-Die Antwort ist eine Liste, und keiner ihrer Punkte hat mit Kapitalismus etwas begrifflich Notwendiges zu tun.
+Die Antwort ist eine Liste.
 
 *Konkurrenz mit harter Budgetbeschränkung.* Gemeint ist die reale Möglichkeit, unterzugehen; der Wettbewerb als Ideal ist etwas anderes. Ein Unternehmen, das falsch entscheidet, verschwindet, und mit ihm verschwindet die Macht seiner Eigentümer. Das ist die unpersönlichste Form der Machtbegrenzung, die es gibt: Niemand muss sie beschließen.
 
@@ -60,9 +60,9 @@ An dieser Stelle könnte der Verdacht aufkommen, hier werde eine linke These mit
 
 Eucken war der bedeutendste deutsche liberale Ökonom des zwanzigsten Jahrhunderts. Zusammen mit den Juristen Franz Böhm und Hans Großmann-Doerth begründete er in den frühen dreißiger Jahren in Freiburg jene Denkschule, die als Ordoliberalismus bekannt wurde und deren Ideen über Ludwig Erhard in die Soziale Marktwirtschaft der Bundesrepublik einflossen. Seine Hauptwerke sind *Die Grundlagen der Nationalökonomie* von 1940 und die postum 1952 erschienenen *Grundsätze der Wirtschaftspolitik*.
 
-Euckens zentrale Einsicht ist für dieses Buch von erheblichem Wert, weil sie von der anderen Seite kommt und dasselbe sagt. Sie lautet: Eine Wettbewerbsordnung entsteht nicht von selbst. Der Markt tendiert nicht automatisch zur Konkurrenz; er erzeugt aus sich heraus Konzentration, Kartelle und private Machtpositionen – und private Wirtschaftsmacht ist für die Freiheit des Einzelnen genauso gefährlich wie staatliche. Deshalb unterschied die Freiburger Schule zwischen *Ordnungspolitik*, die den Rahmen setzt und setzen muss, und *Prozesspolitik*, die in einzelne Marktergebnisse eingreift und es besser lassen sollte. Der Rahmen ist gemacht, nicht gewachsen. Ein Wirtschaftssystem ruht auf zwei Säulen: den spontanen Ordnungskräften des Marktes und einem wirtschaftspolitisch gestalteten Regelwerk.
+Euckens zentrale Einsicht kommt von der anderen Seite und sagt dasselbe: Eine Wettbewerbsordnung entsteht nicht von selbst. Der Markt tendiert nicht automatisch zur Konkurrenz; er erzeugt aus sich heraus Konzentration, Kartelle und private Machtpositionen – und private Wirtschaftsmacht ist für die Freiheit des Einzelnen genauso gefährlich wie staatliche. Deshalb unterschied die Freiburger Schule zwischen *Ordnungspolitik*, die den Rahmen setzt und setzen muss, und *Prozesspolitik*, die in einzelne Marktergebnisse eingreift und es besser lassen sollte. Der Rahmen ist gemacht, nicht gewachsen. Ein Wirtschaftssystem ruht auf zwei Säulen: den spontanen Ordnungskräften des Marktes und einem wirtschaftspolitisch gestalteten Regelwerk.
 
-Euckens Einsicht deckt die halbe Argumentation dieses Buches. Der Streit beginnt erst bei der Frage, welches Instrument den Rahmen hält – und ob Regeln dafür ausreichen. Eucken hat angenommen, dass sie es tun. Dieses Buch bestreitet es, und die Begründung folgt.
+Euckens Einsicht deckt die halbe Argumentation dieses Buches. Der Streit beginnt erst bei der Frage, welches Instrument den Rahmen hält – und ob Regeln dafür ausreichen. Eucken hat angenommen, dass sie es tun. Dieses Buch bestreitet es.
 
 ### Warum das Buch trotzdem nicht bei „mehr Wettbewerb" endet
 
@@ -72,7 +72,7 @@ Der erste Grund ist, dass die Konzentrationstendenz real ist. Sie ist nicht nur 
 
 Der zweite Grund ist, dass Regeln verfallen. Sie werden ausgehöhlt statt abgeschafft – langsam, im Detail, durch die Beharrlichkeit derer, denen sie im Weg stehen. Und daraus folgt die Konstruktionsentscheidung, die dieses Buch von einem ordoliberalen unterscheidet: Wo immer möglich, wird eine Regel durch eine Eigentumsstruktur ersetzt, weil eine Eigentumsstruktur einen Träger hat, der sie verteidigt, und eine Regel nur eine Behörde, die man aushungern kann.
 
-Vorerst aber steht ein Zwischenergebnis, und es ist erheblich. Die Frage, mit der die politische Debatte seit hundertfünfzig Jahren geführt wird – Privateigentum oder Gemeineigentum –, ist nicht die entscheidende Frage. Sie ist eine Frage über Etiketten. Die entscheidende Frage lautet, ob eine Ordnung viele konkurrierende, sterbliche, beobachtbare Machtzentren hat oder eines, das keinen Gegner kennt.
+Vorerst steht ein Zwischenergebnis. Die Frage, mit der die politische Debatte seit hundertfünfzig Jahren geführt wird – Privateigentum oder Gemeineigentum –, ist nicht die entscheidende Frage. Sie ist eine Frage über Etiketten. Die entscheidende Frage lautet, ob eine Ordnung viele konkurrierende, sterbliche, beobachtbare Machtzentren hat oder eines, das keinen Gegner kennt.
 
 Beide historischen Großsysteme haben darauf keine haltbare Antwort gegeben. Der Staatssozialismus hat die Monozentrik zum Programm gemacht. Der Kapitalismus hat die Polyzentrik geerbt und lebt davon, sie langsam aufzubrauchen.
 

@@ -22,7 +22,7 @@ Die Gegenkonstruktion ist eine Ordnung, in der Fehler lokal bleiben. Und die Fra
 
 ### Mondragón
 
-Es gibt einen, und er ist unangenehm.
+Es gibt einen.
 
 Im spanischen Baskenland, in der Kleinstadt Arrasate-Mondragón, gründete der Priester José María Arizmendiarrieta 1956 mit fünf ehemaligen Schülern eine kleine Werkstatt für Petroleumöfen. Aus ihr entstand über die folgenden Jahrzehnte der größte Arbeitergenossenschaftsverbund der Welt. Der Verbund – heute Mondragón Corporation – umfasst Industrie, Handel, Finanzdienstleistung und Bildung; nach dem Jahresbericht für 2024 beschäftigt er 70.085 Menschen und setzt 11,2 Milliarden Euro um. Er hat eine eigene Bank, die Caja Laboral, heute Laboral Kutxa; ein eigenes Sozialversicherungssystem; eine eigene Universität; und eine Struktur aus vielen einzelnen Genossenschaften, die unter einem Dachverband kooperieren, ohne ihre Selbständigkeit zu verlieren.
 
@@ -32,7 +32,7 @@ Wer für Belegschaftseigentum argumentiert, führt Mondragón als Erfolgsbeleg v
 
 Fagor Electrodomésticos war die älteste und symbolträchtigste Genossenschaft des Verbunds – der direkte Nachfolger jener Werkstatt von 1956, ein Hersteller von Haushaltsgeräten, das Flaggschiff und Gründungsmitglied. Im Oktober 2013 stellte Fagor den Insolvenzantrag: rund 5.700 Beschäftigte weltweit, 1,1 Milliarden Euro Schulden.
 
-Was zuvor geschehen war, ist der eigentliche Gegenstand dieses Kapitels. Der Verbund hatte Fagor mit rund 300 Millionen Euro gestützt. Dann forderte Fagor weitere 180 Millionen. Und der Verbund – der Zusammenschluss von Genossenschaften, deren gemeinsame Geschichte an dieser einen hing, deren Solidarität ihr Gründungsmythos ist – sagte nein.
+Der Verbund hatte Fagor zuvor mit rund 300 Millionen Euro gestützt. Dann forderte Fagor weitere 180 Millionen. Und der Verbund – der Zusammenschluss von Genossenschaften, deren gemeinsame Geschichte an dieser einen hing, deren Solidarität ihr Gründungsmythos ist – sagte nein.
 
 Ein Kritiker liest diesen Fall als Widerlegung: Seht her, auch die Genossenschaft geht pleite. Mit den Kriterien dieses Buches gelesen ist der Fall das genaue Gegenteil.
 
@@ -40,11 +40,11 @@ Ein Element scheiterte. Die Föderation, der Verbund der selbständigen Genossen
 
 Man vergleiche das mit dem, was in der DDR geschehen wäre – und mit dem, was bei den Landesbanken geschehen ist. Dort wurde gestützt, weil das Scheitern politisch teurer war als das Auffangen. Hier wurde nicht gestützt, obwohl das Scheitern symbolisch teurer war als das Auffangen. Das ist der Unterschied zwischen einer weichen und einer harten Budgetbeschränkung, vorgeführt an einem Fall, in dem die weiche Variante alle Sympathien auf ihrer Seite hatte.
 
-Und jetzt die andere Hälfte des Falls. Die Aufnahmekapazität des Verbunds war endlich – es konnten nicht alle untergebracht werden. Und die Beschäftigten der ausländischen Tochtergesellschaften waren gar nicht geschützt, weil sie als Lohnarbeiter in Betrieben beschäftigt waren, die einer Genossenschaft gehörten, ohne selbst Mitglieder zu sein. Als Fagor fiel, traf es genau sie am härtesten.
+Nur war die Aufnahmekapazität des Verbunds endlich – es konnten nicht alle untergebracht werden. Und die Beschäftigten der ausländischen Tochtergesellschaften waren gar nicht geschützt, weil sie als Lohnarbeiter in Betrieben beschäftigt waren, die einer Genossenschaft gehörten, ohne selbst Mitglieder zu sein. Als Fagor fiel, traf es genau sie am härtesten.
 
-Der Fall trägt also beide Lehren, und beide werden in diesem Buch verwertet: die Fehlertoleranz als Konstruktionserfolg und die Insider-Outsider-Grenze – die Trennlinie zwischen den geschützten Mitgliedern und den ungeschützten Nichtmitgliedern – als die größte offene Flanke der ganzen Architektur. Diese Flanke steht im Ledger dieses Buches und wird dort nicht wegargumentiert.
+Der Fall trägt also beide Lehren: die Fehlertoleranz als Konstruktionserfolg und die Insider-Outsider-Grenze – die Trennlinie zwischen den geschützten Mitgliedern und den ungeschützten Nichtmitgliedern – als die größte offene Flanke der ganzen Architektur. Diese Flanke steht im Ledger dieses Buches und wird dort nicht wegargumentiert.
 
-Was bleibt, ist ein Satz, der als Formel für dieses ganze Buch taugt: **Scheitert ein Modell, stirbt das Modell – nicht das Land.**
+Was bleibt, ist ein Satz: **Scheitert ein Modell, stirbt das Modell – nicht das Land.**
 
 ### Zwischenbilanz der Diagnose
 

@@ -4,7 +4,7 @@
 
 ---
 
-Ordnungsentwürfe scheitern selten an ihren Prinzipien und fast immer an ihren Werktagen. Deshalb folgen drei Fälle, so konkret wie möglich – und zwei von ihnen mit dem Ausgang, den man in Broschüren nicht findet.
+Ordnungsentwürfe scheitern selten an ihren Prinzipien und fast immer an ihren Werktagen. Deshalb folgen drei Fälle, so konkret wie möglich.
 
 ### Ein Maschinenbauer ohne Nachfolger
 
@@ -44,15 +44,13 @@ Der Preis dieser Konstruktion ist, dass jemand die Zahlung verantworten muss, st
 
 ### Ein Wohnungsbestand und die Wand
 
-Der dritte Fall geht nicht gut aus – und gerade deshalb steht er in diesem Buch.
-
 Ein Bestand von 2.000 Wohnungen, gehalten von einer börsennotierten Gesellschaft mit ausländischen Ankerinvestoren. Die Mieten liegen am oberen Rand des Zulässigen, die Instandhaltung am unteren. Die Stadt möchte den Bestand in gemeinwohlorientierte Hand bringen.
 
 *Der bevorzugte Weg ist der Kauf.* Kommunale Vorkaufsrechte, eine Wohnungsgenossenschaft als Erwerberin – in der die Mieter Mitglieder werden, also Eigentümer statt Kunden –, geduldiges Kapital aus der Fondsfamilie, und eine Bindung des Bestands durch Vermögensbindung, damit der Weiterverkauf ausgeschlossen ist. Das ist unspektakulär, teuer und in vielen Fällen machbar.
 
 *Der zweite Weg,* wenn der erste versperrt ist und nachweislich Renten extrahiert werden – leistungslose Übergewinne aus der Marktstellung –, ist Artikel 15 des Grundgesetzes. Diese Norm erlaubt, Grund und Boden, Naturschätze und Produktionsmittel „zum Zwecke der Vergesellschaftung" durch Gesetz in Gemeineigentum oder andere Formen der Gemeinwirtschaft zu überführen, gegen Entschädigung, deren Höhe nach Artikel 14 Absatz 3 einer Abwägung zwischen den Interessen der Allgemeinheit und der Beteiligten unterliegt. Die Norm steht seit 1949 im Grundgesetz und wurde nie angewendet. Die Berliner Expertenkommission zur Vergesellschaftung großer Wohnungsunternehmen hielt in ihrem Abschlussbericht vom 28. Juni 2023 mehrheitlich eine verfassungskonforme Ausgestaltung für möglich und die Landesgesetzgebungskompetenz für gegeben. Strittig blieb gerade die Frage, ob die Entschädigung unterhalb des Verkehrswerts, also unter dem Marktwert, liegen darf; sie war der Gegenstand der Sondervoten.
 
-Und hier stößt der Werktag an eine Wand, die kein Ordnungsentwurf umgehen kann.
+Hier stößt der Werktag an eine Wand, die kein Ordnungsentwurf umgehen kann.
 
 Das Investitionsschutzrecht kennt diese Abwägung nicht. Es besteht aus völkerrechtlichen Verträgen, die ausländischen Investoren erlauben, einen Staat vor einem internationalen Schiedsgericht zu verklagen, wenn dessen Maßnahmen ihre Investition entwerten. Ein solches Schiedsgericht ist kein staatliches Gericht: Es wird für den einzelnen Streit besetzt, und der Staat hat mit dem Vertrag im Voraus zugesagt, seinen Spruch zu befolgen. Diese Schiedsgerichte messen am *vollen Marktwert*, nicht an Artikel 14 Absatz 3.
 
