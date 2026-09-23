@@ -121,3 +121,21 @@ Nach der Teilung in zwei Bände hat ein Lektor im Belegapparat des Ledger-Kapite
 > *Und eine Abgrenzung, die seither dazugehört:*
 
 Keiner der vier Eingriffe ändert einen Eintrag, seine Klasse oder seinen Stand. Das Ledger ist dadurch weder gewachsen noch geschrumpft.
+
+## V. Durchsicht des Ledger-Kapitels am 23.09.2026
+
+Bei der Kürzung des Ledger-Kapitels (Band 1, Kapitel 15) hat kein Eintrag seine Klasse oder seinen Stand gewechselt, und keine Konzession ist entfallen. Drei Stellen haben dabei ihren Wortlaut in der Sache geändert; der frühere steht hier.
+
+*Der Sozialstaat (Klasse II), erster Satz.* Der Sozialstaat und die Sterblichkeitsregeln des eigenen Sektors beanspruchten beide den schwächsten Träger. Stehen geblieben ist die zweite Stelle, auf die sich der Kernbegriff zur zweiten Traditionslinie stützt; der Sozialstaat hat jetzt „keinen Träger, der sie ganz deckt", wie der Eintrag mit seinen vier ungleichen Schultern ohnehin ausführt.
+
+> Die Voraussetzung des härtesten Mechanismus dieser Ordnung hat den schwächsten Träger von allen, und das Kapitel über den Sozialstaat verteilt das, statt es zu lösen.
+
+*Die Abgabe auf Großbestände (Klasse III), das kollektive Andienungsrecht.* Die Anwendungsfälle des schottischen Rechts sind am 01.09.2026 am Register ermittelt worden (Auftrag V12 in `PROCESS.md`). Allmende-Kapitel und Thesenpapier sind damals angeglichen worden, das Ledger nicht. Der Eintrag steht jetzt wie in Band 2, Kapitel 3: ein fremdes Recht, „das seit 2020 erst fünfmal in Anspruch genommen worden ist". Er bleibt der ungesichertste der vier Auslöser.
+
+> Sein Muster steht in einem fremden Recht, dessen Anwendungsfälle sich von hier aus nicht ermitteln ließen.
+
+*Die Friedensfrage (Klasse III).* Der Eintrag begründete zweimal, warum er in der dritten Klasse steht und nicht in der ersten. Gestrichen ist die erste Begründung, die vor dem Ergebnis stand; die zweite, nach dem Ergebnis, bleibt.
+
+> Deshalb steht sie hier und nicht unter den Grenzen der Reichweite: Sie ist nicht zu klein geraten, sie ist ungestellt.
+
+Das Ledger ist dadurch weder gewachsen noch geschrumpft.

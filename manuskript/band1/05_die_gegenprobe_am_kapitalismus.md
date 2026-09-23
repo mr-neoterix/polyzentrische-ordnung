@@ -48,6 +48,8 @@ Die Antwort ist eine Liste.
 
 Diese Liste beschreibt keinen Kapitalismus. Sie beschreibt eine *Verteilung von Entscheidungszentren* – und dafür gibt es einen Namen. Die Politikwissenschaftlerin Elinor Ostrom, die 2009 als erste Frau den Wirtschaftsnobelpreis erhielt, hat ihn für die Verwaltung gemeinschaftlicher Ressourcen ausgearbeitet: *Polyzentrik*. Eine polyzentrische Ordnung hat viele Entscheidungszentren auf mehreren, ineinander verschachtelten Ebenen, die einander teils ergänzen, teils kontrollieren, teils Konkurrenz machen. Ihr Gegenteil ist die *Monozentrik*: ein Zentrum, das letztinstanzlich entscheidet und dem keine Instanz gegenübersteht.
 
+Und damit ist der zentrale Satz dieses Buches erreicht.
+
 **Die entscheidende Systemvariable ist nicht Kapitalismus gegen Sozialismus, sondern Polyzentrik gegen Monozentrik.**
 
 Der historische Kapitalismus des Westens hat Macht besser eingehegt als der Staatssozialismus, weil er in einigen Ländern und für einige Jahrzehnte mit polyzentrischen Institutionen verheiratet war. Sein Etikett hat damit nichts zu tun. Diese Ehe war kontingent, nicht notwendig. Chile, Russland und China zeigen, dass es sie nicht geben muss. Und umgekehrt: Die Monozentrik des Staatssozialismus war eine Bauentscheidung, keine begriffliche Folge des Gemeineigentums. Sie war eine leninistische Entscheidung, getroffen aus der Logik der Machtergreifung heraus.

@@ -10,7 +10,7 @@ Vorweg eine Frage an das eigene Verfahren. Dieses Buch hegt wirtschaftliche Mach
 
 ### Was an die Stelle des Eigentums tritt
 
-Die naheliegende Antwort lautet nein, und sie hat ein Argument. Der zentrale Satz dieses Buches heißt: Eigentum verteidigt sich, Regeln muss man verteidigen. Politische Zuständigkeit aber *ist* eine Regel. Sie gehört niemandem, sie lässt sich nicht vererben, nicht verkaufen und mit keinem Asset Lock versehen. Also bliebe an dieser Stelle nur, die Regeln möglichst gut zu machen und zu wissen, dass sie rosten.
+Die naheliegende Antwort lautet nein, und sie hat ein Argument. Die Konstruktionsregel dieses Buches heißt: Eigentum verteidigt sich, Regeln muss man verteidigen. Politische Zuständigkeit aber *ist* eine Regel. Sie gehört niemandem, sie lässt sich nicht vererben, nicht verkaufen und mit keinem Asset Lock versehen. Also bliebe an dieser Stelle nur, die Regeln möglichst gut zu machen und zu wissen, dass sie rosten.
 
 Die Folgerung ist zu schnell. Es gibt eine politische Entsprechung des Eigentums; sie ist schwächer als Eigentum und erheblich stärker als eine Regel, und sie hat drei Stücke. *Eine Zuständigkeit,* die eine Ebene hat und nicht bloß im Auftrag ausführt. *Eine eigene Einnahme,* die ihr zusteht und die niemand jährlich zuteilen muss. *Und ein Klagerecht,* mit dem sich beides vor Gericht verteidigen lässt.
 
