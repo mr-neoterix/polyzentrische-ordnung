@@ -1,4 +1,4 @@
-# Dreiundzwanzigstes Kapitel
+# Zwölftes Kapitel
 
 ## Die Weltordnungsebene
 
@@ -16,7 +16,7 @@ Die übliche Frage lautet, ob das Kapital im Ausland eine solche Konstruktion ni
 
 *Der Belegschaftssektor ist der am wenigsten angreifbare Teil der ganzen Ordnung.* Ein Maschinenbauer in Ostwestfalen, der seiner Belegschaft gehört, hat keine börsennotierten Anteile, keine Übernahmefläche, keinen Schiedsgegner und kein Rating. Er konkurriert auf Produktmärkten wie jeder andere Mittelständler, und wer ihm schaden will, muss ihn unterbieten. Der Asset Lock ist, nüchtern betrachtet, auch eine Übernahmeabwehrvorrichtung – das ist nicht sein Zweck, aber seine Wirkung. Ein Land mit einem großen vermögensgebundenen Sektor hat schlicht weniger von sich selbst zu verkaufen.
 
-*Der Allmende-Sektor ist die exponierteste Stelle,* und zwar genau dort, wo das achtzehnte Kapitel es gezeigt hat: Konzessionen, Netzübernahmen, Vergaberecht, Schiedsverfahren. Wo ein ausländischer Eigentümer beteiligt ist, wird jede Verschiebung von Eigentumsrechten zu einem völkerrechtlichen Vorgang.
+*Der Allmende-Sektor ist die exponierteste Stelle,* und zwar genau dort, wo das elfte Kapitel des ersten Bandes es gezeigt hat: Konzessionen, Netzübernahmen, Vergaberecht, Schiedsverfahren. Wo ein ausländischer Eigentümer beteiligt ist, wird jede Verschiebung von Eigentumsrechten zu einem völkerrechtlichen Vorgang.
 
 *Die Fondsfamilie liegt dazwischen* – angreifbar über Kapitalmarkt-, Beihilfe- und Binnenmarktrecht, nicht über Kapitalflucht, weil sie keine Kredite aufnimmt und keine Garantien gibt.
 
@@ -24,13 +24,13 @@ Wer also fragt, ob diese Ordnung dem Druck von außen standhält, fragt in Wahrh
 
 ### Warum der klassische Erzwingungskanal schlecht greift
 
-Die Analogie, die dabei stets bemüht wird, ist Chile 1973 und Frankreich 1983 – der Sturz der sozialistischen Regierung Allendes und die wirtschaftspolitische Kehrtwende Mitterrands, beide im fünften Kapitel behandelt: Ein Reformprogramm trifft auf Investitionsstreik, Kapitalflucht und Währungsdruck und wird gebrochen. Die Analogie ist ernst zu nehmen und trägt hier trotzdem weniger weit, als es scheint, aus zwei Gründen, die beide unrühmlich unspektakulär sind.
+Die Analogie, die dabei stets bemüht wird, ist Chile 1973 und Frankreich 1983 – der Sturz der sozialistischen Regierung Allendes und die wirtschaftspolitische Kehrtwende Mitterrands, beide im fünften Kapitel des ersten Bandes behandelt: Ein Reformprogramm trifft auf Investitionsstreik, Kapitalflucht und Währungsdruck und wird gebrochen. Die Analogie ist ernst zu nehmen und trägt hier trotzdem weniger weit, als es scheint, aus zwei Gründen, die beide unrühmlich unspektakulär sind.
 
 Der erste ist die Währung. Mitterrands Kanal war der Franc im Europäischen Währungssystem, Allendes der Dollar und das Kupfer. Ein Mitglied der europäischen Währungsunion mit Leistungsbilanzüberschuss – das im Austausch mit dem Ausland mehr einnimmt, als es ausgibt – hat diesen Kanal weitgehend nicht: Es gibt keine nationale Währung, die abstürzen könnte, und keine Zahlungsbilanzkrise klassischer Bauart, die eine Regierung zur Kehrtwende zwingt. Der Euro nimmt einer Reformregierung das Ausweichventil und zugleich die Erpressbarkeit; was er dafür gibt, ist ein anderer Kanal, nämlich der Anleihemarkt – der Markt, auf dem ein Staat sich Geld leiht.
 
 Und der ist der zweite Grund. Zinsaufschläge disziplinieren nur ein Programm, das Schulden braucht. Dieses braucht kaum welche: Der Steuerhebel kostet verschobene Einnahmen statt Ausgaben, der Nachfolgekanal ist revolvierender Kredit, die Erbschaftsteuerreform bringt Anteile statt Geld und belastet gar keinen Haushalt. Ein Reformpfad, der fiskalisch unspektakulär ist, bietet dem Anleihemarkt wenig Angriffsfläche.
 
-Dazu kommt der taktische Befund aus dem zweiundzwanzigsten Kapitel: Die Sequenzierung erzeugt kein Enteignungsereignis, gegen das sich international mobilisieren ließe. Niemand organisiert eine Kampagne gegen den Verkauf von Betrieben, für die es keine Käufer gibt.
+Dazu kommt der taktische Befund aus dem elften Kapitel: Die Sequenzierung erzeugt kein Enteignungsereignis, gegen das sich international mobilisieren ließe. Niemand organisiert eine Kampagne gegen den Verkauf von Betrieben, für die es keine Käufer gibt.
 
 Und die Symmetrieregel verlangt die Gegenfrage, sonst ist die Prüfung schief: *exponiert im Vergleich wozu?* Der Status quo ist demonstrativ verwundbar durch ausländische Kapitalmacht, und zwar nicht hypothetisch. Wohnungsbestände in der Hand börsennotierter Gesellschaften mit ausländischen Ankerinvestoren; fremdfinanzierte Übernahmen im Mittelstand, bei denen der Kaufpreis dem gekauften Unternehmen als Schuld aufgebürdet wird; die Erosion der Mitbestimmung über europäische und ausländische Rechtsformen. Die Frage lautet also nicht, ob die polyzentrische Ordnung angreifbar ist; sie lautet, ob sie es *mehr* ist als das Bestehende. Auf mindestens einer Dimension ist die Antwort eindeutig nein.
 
@@ -42,7 +42,7 @@ Eine Klage gegen ein Andienungsrecht. Eine beihilferechtliche Beanstandung des S
 
 Die binnenmarktrechtliche Wand heißt dabei Kapitalverkehrsfreiheit – das Recht, Geld und Unternehmensanteile über die Grenze zu bewegen –, und sie gilt zwischen Mitgliedstaaten und ebenso gegenüber Drittstaaten. Beschränkungen des Anteilserwerbs enden dort. Beihilfe- und Vergaberecht setzen die weiteren Grenzen: Der Steuerhebel muss als allgemeine Maßnahme konstruiert sein, die an die Übertragungsart und nicht an eine Trägerform anknüpft; die Beschaffung erzwingt Standards über Kriterien, nicht über Trägerpräferenz.
 
-Das ist die Rost-These auf europäischer Ebene – Regulierung verfällt, weil konzentriertes Interesse diffuses schlägt –, und an dieser Stelle versagt das eigene Gegenmittel. Die Konstruktionsanweisung des achten Kapitels lautet: Jede tragende Regel bekommt einen Träger mit konzentriertem Interesse an ihrem Bestand. Ein nationaler Träger kann eine nationale Regel verteidigen – gegen eine europäische Rechtslage kann er nichts ausrichten, weil er dort weder Kläger noch Gesetzgeber ist.
+Das ist die Rost-These auf europäischer Ebene – Regulierung verfällt, weil konzentriertes Interesse diffuses schlägt –, und an dieser Stelle versagt das eigene Gegenmittel. Die Konstruktionsanweisung des achten Kapitels im ersten Band lautet: Jede tragende Regel bekommt einen Träger mit konzentriertem Interesse an ihrem Bestand. Ein nationaler Träger kann eine nationale Regel verteidigen – gegen eine europäische Rechtslage kann er nichts ausrichten, weil er dort weder Kläger noch Gesetzgeber ist.
 
 Was die deutsche Mitbestimmung im Kleinen vorgeführt hat, ist damit im Großen zu erwarten: kein Beschluss, der die Ordnung abschafft, wohl aber zweihundertsechsundfünfzig legale Umwege.
 
@@ -60,7 +60,7 @@ Bemerkenswert ist dabei, dass ein Kläger für die Zuständigkeitsordnung bereit
 
 ### Der Investitionsschutz: die Wand, die nicht rostet
 
-Die härteste Grenze ist zugleich besonders lehrreich, und der dritte Werktag des achtzehnten Kapitels ist ihr bereits begegnet.
+Die härteste Grenze ist zugleich besonders lehrreich, und der dritte Werktag im elften Kapitel des ersten Bandes ist ihr bereits begegnet.
 
 Neben dem Grundgesetz steht ein Parallelrechtsweg. Völkerrechtliche Verträge erlauben ausländischen Investoren, einen Staat vor einem internationalen Schiedsgericht zu verklagen, wenn dessen Maßnahmen ihre Investition entwerten – und diese Schiedsgerichte messen am vollen Marktwert, nicht an der Entschädigungsabwägung des Artikels 14 des Grundgesetzes. Vattenfall verlangte im ICSID-Verfahren wegen des Atomausstiegs rund 4,7 Milliarden Euro; der Vergleich vom März 2021 kostete den Bund 1,425 Milliarden an Vattenfall und 880 Millionen an RWE. Deutschland ist aus dem Energiecharta-Vertrag ausgetreten, wirksam im Juni 2025, aber dessen Sunset-Klausel schützt Altinvestitionen weitere zwanzig Jahre, und bilaterale Investitionsschutzabkommen kommen hinzu.
 
@@ -118,7 +118,7 @@ Der zweite Teil stimmt. Der erste verdient eine genauere Behandlung, denn die Th
 
 Und hier ist die Beobachtung, auf die dieses Kapitel hinausläuft.
 
-**Das internationale System ist polyzentrisch.** Viele konkurrierende Machtzentren, keines mit letzter Autorität über die anderen, kein Souverän darüber. Nach der Kernthese des fünften Kapitels – die entscheidende Systemvariable sei Polyzentrik gegen Monozentrik – müsste es die am besten eingehegte Ordnung der Welt sein.
+**Das internationale System ist polyzentrisch.** Viele konkurrierende Machtzentren, keines mit letzter Autorität über die anderen, kein Souverän darüber. Nach der Kernthese des fünften Kapitels im ersten Band – die entscheidende Systemvariable sei Polyzentrik gegen Monozentrik – müsste es die am besten eingehegte Ordnung der Welt sein.
 
 Es ist die gewalttätigste.
 
@@ -132,7 +132,7 @@ Was sich aus dem Gegenbeispiel lernen lässt, ist die Frage, was der internation
 
 *Exit und Voice für die Betroffenen.* Die Bevölkerung eines Landes kann den Krieg, den ihr Staat beginnt, nicht verlassen, und sie hat im anderen Land keine Stimme. Beide Kanäle Hirschmans sind auf dieser Ebene geschlossen – und der ganze Disziplinierungsmechanismus dieser Ordnung hängt daran, dass wenigstens einer offen ist.
 
-*Geordnete Sterblichkeit der Einheiten.* Staaten gehen selten unter, und wenn, dann meist durch Krieg. Ein Sterberecht ohne Betriebsunterbrechung – das Konstruktionselement, mit dem das zwölfte Kapitel den Allmende-Sektor gerettet hat – existiert auf dieser Ebene nicht. Das oberste Kriterium dieses Buches, dass Elemente scheitern können müssen, ohne dass das Ganze scheitert, hat international keine Implementierung. Das einzige ausgeschriebene Verfahren, das es überhaupt gibt, ist innerstaatlich und steht im sechzehnten Kapitel: die kanadische Konstruktion aus klarer Frage, klarer Mehrheit und beiderseitiger Verhandlungspflicht.
+*Geordnete Sterblichkeit der Einheiten.* Staaten gehen selten unter, und wenn, dann meist durch Krieg. Ein Sterberecht ohne Betriebsunterbrechung – das Konstruktionselement, mit dem das dritte Kapitel den Allmende-Sektor gerettet hat – existiert auf dieser Ebene nicht. Das oberste Kriterium dieses Buches, dass Elemente scheitern können müssen, ohne dass das Ganze scheitert, hat international keine Implementierung. Das einzige ausgeschriebene Verfahren, das es überhaupt gibt, ist innerstaatlich und steht im siebten Kapitel: die kanadische Konstruktion aus klarer Frage, klarer Mehrheit und beiderseitiger Verhandlungspflicht.
 
 *Träger für die Regeln.* Die einzigen Akteure mit Stellung im Völkerrecht sind die Staaten selbst. Es gibt dort keine Betroffenen mit Klagerecht, nur Vertragsparteien mit Kündigungsrecht.
 
@@ -172,13 +172,13 @@ Das Ergebnis der Vermessung ist ungünstig, und zwar für genau diese Fassung. W
 
 Der ernsthafte Einwand dagegen lautet, hier werde das Falsche gemessen. Die Skalen, an denen diese Befunde hängen, erfassen Wahlen, Wettbewerb und Rechtsstaat, nicht die Verteilung wirtschaftlicher Macht; ein Land mit freien Wahlen und hochkonzentriertem Vermögen zählt dort als Demokratie und wäre nach der hier maßgeblichen Variablen ein Machtzentrum. Der Einwand ist berechtigt und hat einen Beleg: Gilens und Page finden für rund 1.800 amerikanische Politikergebnisse über zwei Jahrzehnte substanziellen unabhängigen Einfluss wirtschaftlicher Eliten und organisierter Wirtschaftsinteressen und nahezu keinen der Durchschnittsbürger. Regimeetikett und Machtverteilung fallen tatsächlich auseinander.
 
-Nur kostet diese Korrektur mehr, als sie einbringt. Denn wenn kriegführende Demokratien als konzentriert gelten, weil in ihnen Vermögen konzentriert ist, und die Kriege zwischen sozialistischen Staaten als konzentriert, weil dort der Engpass herrschte, dann ist kein Krieg der Geschichte mehr ein Gegenbeleg. Eine These, die jeden Fall als Bestätigung verbucht, weil sich jeder kriegführende Staat im Nachhinein als konzentriert beschreiben lässt, hat keinen Gegner mehr. Das ist dieselbe Stellung, die das vierzehnte Kapitel dem Bedürfnistribunal verweigert, nur mit anderem Gegenstand: Wer nach dem Krieg entscheidet, ob ein Staat konzentriert genug war, hat kein Kriterium. Er hat ein Urteil.
+Nur kostet diese Korrektur mehr, als sie einbringt. Denn wenn kriegführende Demokratien als konzentriert gelten, weil in ihnen Vermögen konzentriert ist, und die Kriege zwischen sozialistischen Staaten als konzentriert, weil dort der Engpass herrschte, dann ist kein Krieg der Geschichte mehr ein Gegenbeleg. Eine These, die jeden Fall als Bestätigung verbucht, weil sich jeder kriegführende Staat im Nachhinein als konzentriert beschreiben lässt, hat keinen Gegner mehr. Das ist dieselbe Stellung, die das fünfte Kapitel dem Bedürfnistribunal verweigert, nur mit anderem Gegenstand: Wer nach dem Krieg entscheidet, ob ein Staat konzentriert genug war, hat kein Kriterium. Er hat ein Urteil.
 
-Prüfbar wird die These erst, wenn sie innerhalb der Gruppe misst – wenn also die weniger konzentrierten unter den gewählten Regierungen zurückhaltender sein müssten als die stärker konzentrierten. Diese Prüfung ist möglich, und die verfügbaren Fälle sprechen nicht für sie. In der Luftkampagne über Libyen 2011 stellten Kanada, Norwegen und Dänemark zusammen etwa zwölf Prozent der Flugzeuge und flogen rund ein Drittel der Angriffe; auf Norwegen entfielen etwa zehn Prozent aller Angriffsflüge, auf Dänemark elf. Norwegen ist dabei kein beliebiger Fall; es ist der nächste lebende Verwandte der Fondsfamilie des einundzwanzigsten Kapitels: eine der egalitärsten Vermögensverteilungen der entwickelten Welt und ein staatlicher Fonds, der den Ölertrag für alle hält. Wenn verteilte Macht zurückhaltend machte, hätte dieses Land am wenigsten bombardieren müssen. Es hat überproportional bombardiert.
+Prüfbar wird die These erst, wenn sie innerhalb der Gruppe misst – wenn also die weniger konzentrierten unter den gewählten Regierungen zurückhaltender sein müssten als die stärker konzentrierten. Diese Prüfung ist möglich, und die verfügbaren Fälle sprechen nicht für sie. In der Luftkampagne über Libyen 2011 stellten Kanada, Norwegen und Dänemark zusammen etwa zwölf Prozent der Flugzeuge und flogen rund ein Drittel der Angriffe; auf Norwegen entfielen etwa zehn Prozent aller Angriffsflüge, auf Dänemark elf. Norwegen ist dabei kein beliebiger Fall; es ist der nächste lebende Verwandte der Fondsfamilie des zehnten Kapitels: eine der egalitärsten Vermögensverteilungen der entwickelten Welt und ein staatlicher Fonds, der den Ölertrag für alle hält. Wenn verteilte Macht zurückhaltend machte, hätte dieses Land am wenigsten bombardieren müssen. Es hat überproportional bombardiert.
 
 Auch die Zeitreihe – der Blick auf dasselbe Land zu verschiedenen Zeiten – stützt die These nicht. Die amerikanische Einkommens- und Vermögenskonzentration war in den fünfziger und sechziger Jahren geringer als vorher und nachher – und in dieses Fenster fällt der Schwerpunkt der siebzig Regimewechselversuche, die für die Zeit von 1947 bis 1989 gezählt sind. Was die Beteiligung an solchen Einsätzen besser erklärt als die innere Machtverteilung, sind Bündniszugehörigkeit, Stellung im Staatensystem und Gelegenheit.
 
-Und dann ist da der Kanal, an dem die innere Verteilung ohnehin vorbeiläuft. Von jenen siebzig Versuchen waren vierundsechzig verdeckt; verdeckt einzugreifen war etwa zehnmal wahrscheinlicher als offen. Der verdeckte Weg ist nicht das Gegenargument zur Rechenschaftspflicht; er ist ihre Ausweichroute – und er ist die Stelle, an der alle drei Stücke politischen Eigentums aus dem sechzehnten Kapitel zugleich fehlen: keine Zuständigkeit des Betroffenen, keine eigene Einnahme, keine Klagebefugnis. Was sich verbergen lässt, wird verlegt statt eingehegt.
+Und dann ist da der Kanal, an dem die innere Verteilung ohnehin vorbeiläuft. Von jenen siebzig Versuchen waren vierundsechzig verdeckt; verdeckt einzugreifen war etwa zehnmal wahrscheinlicher als offen. Der verdeckte Weg ist nicht das Gegenargument zur Rechenschaftspflicht; er ist ihre Ausweichroute – und er ist die Stelle, an der alle drei Stücke politischen Eigentums aus dem siebten Kapitel zugleich fehlen: keine Zuständigkeit des Betroffenen, keine eigene Einnahme, keine Klagebefugnis. Was sich verbergen lässt, wird verlegt statt eingehegt.
 
 Zuletzt eine Voraussetzung, die der Gedanke stillschweigend macht und die dieses Buch nicht machen darf: Verteilte Macht ist nicht dasselbe wie Macht bei Friedliebenden. Der spanisch-amerikanische Krieg von 1898 wurde von öffentlichem Druck getrieben und nicht gegen ihn; Bevölkerungen sammeln sich um die Flagge, und Nationalismus ist keine Erfindung von Eliten. Ein Buch, das sich weigert, echte von unechten Wünschen zu scheiden, kann nicht annehmen, die Vielen wollten das Richtige. Es kann nur bestimmen, wer zahlt, wer beschließt und wer klagen kann.
 
@@ -202,13 +202,13 @@ Die Grenze steht unmittelbar daneben, und dieser Abschnitt hat sie selbst gelief
 
 Wenig, und es sei nicht größer gemacht, als es ist.
 
-Sie senkt *möglicherweise* einen einzelnen Kriegstreiber – möglicherweise im vollen Gewicht des Wortes, nach allem, was der vorige Abschnitt dagegen aufgeboten hat. Wenn die Übersetzungsrate von Geld in politische Macht eine institutionelle Variable ist – das sechste Kapitel argumentiert dafür – und wenn konzentrierte Interessen einer der Eingänge in aggressive Außenpolitik sind, dann verdünnt eine Streuung des Eigentums diesen Eingang. Behauptet wird das nicht.
+Sie senkt *möglicherweise* einen einzelnen Kriegstreiber – möglicherweise im vollen Gewicht des Wortes, nach allem, was der vorige Abschnitt dagegen aufgeboten hat. Wenn die Übersetzungsrate von Geld in politische Macht eine institutionelle Variable ist – das sechste Kapitel des ersten Bandes argumentiert dafür – und wenn konzentrierte Interessen einer der Eingänge in aggressive Außenpolitik sind, dann verdünnt eine Streuung des Eigentums diesen Eingang. Behauptet wird das nicht.
 
-Sie hat *kein eingebautes Expansionsmotiv.* Sie ist nicht autark und will es nicht sein; sie braucht keine externen Renten, wie Kuba sie braucht, und keinen privilegierten Rohstoffzugriff als Existenzbedingung. Das vierte Kapitel hat gezeigt, wie ein System aussieht, das von außen alimentiert wird und deshalb dessen Verlust nicht überleben kann. Diese Ordnung ist so nicht gebaut. Aber die Abwesenheit eines Mechanismus ist kein Frieden.
+Sie hat *kein eingebautes Expansionsmotiv.* Sie ist nicht autark und will es nicht sein; sie braucht keine externen Renten, wie Kuba sie braucht, und keinen privilegierten Rohstoffzugriff als Existenzbedingung. Das vierte Kapitel des ersten Bandes hat gezeigt, wie ein System aussieht, das von außen alimentiert wird und deshalb dessen Verlust nicht überleben kann. Diese Ordnung ist so nicht gebaut. Aber die Abwesenheit eines Mechanismus ist kein Frieden.
 
 Und sie kann drei kleine Dinge, die sich aus der üblichen Bewegung dieses Buches ergeben: von der unentscheidbaren Frage zur entscheidbaren. *Ob* Staaten Kriege führen, entscheidet keine Eigentumsordnung. *Wer sie bezahlt, wer sie beschließt und wer dagegen klagen kann,* ist entscheidbar.
 
-Daraus folgt zuerst die *Kriegskostenwahrheit* – keine Finanzierung außerhalb des Haushalts, keine Verschiebung der Kosten in künftige Perioden ohne ausgewiesenen Beschluss, also das Verbot der stillen Verlustdeckung aus dem zwölften Kapitel, angewandt auf den teuersten Posten überhaupt. Sie ist die einzige Stelle, an der der Gedanke des vorigen Abschnitts eine belastbare Gestalt annimmt, und die Gestalt ist eine Frage der Rechnung, keine der Gesinnung. Konzentrierte Macht muss den Krieg nicht wollen, um ihn wahrscheinlicher zu machen; es genügt, dass sie ihn nicht selbst bezahlt. Wie weit das geht, ist an einem Fall dokumentiert: Die amerikanischen Kriege in Afghanistan und im Irak wurden über Kredit finanziert. Und es war das erste Mal in der Geschichte des Landes, dass bei Kriegsbeginn die Steuern gesenkt statt erhöht wurden – vom Bürgerkrieg bis Korea war der Normalfall Steuern und Kriegsanleihen. Dazu kam, dass die Kriegsbudgets dauerhaft neben dem regulären Verteidigungshaushalt geführt wurden, statt wie in früheren Kriegen nach einer Anlaufzeit in ihn einzugehen – also außerhalb jeder Abwägung mit anderen Ausgaben. Das ist Kornais weiche Budgetbeschränkung an der teuersten denkbaren Stelle, und es ist ein Anreizbefund und keine Vermutung über Motive: Wer die Rechnung verschieben kann, entscheidet anders als der, der sie vorlegen muss.
+Daraus folgt zuerst die *Kriegskostenwahrheit* – keine Finanzierung außerhalb des Haushalts, keine Verschiebung der Kosten in künftige Perioden ohne ausgewiesenen Beschluss, also das Verbot der stillen Verlustdeckung aus dem dritten Kapitel, angewandt auf den teuersten Posten überhaupt. Sie ist die einzige Stelle, an der der Gedanke des vorigen Abschnitts eine belastbare Gestalt annimmt, und die Gestalt ist eine Frage der Rechnung, keine der Gesinnung. Konzentrierte Macht muss den Krieg nicht wollen, um ihn wahrscheinlicher zu machen; es genügt, dass sie ihn nicht selbst bezahlt. Wie weit das geht, ist an einem Fall dokumentiert: Die amerikanischen Kriege in Afghanistan und im Irak wurden über Kredit finanziert. Und es war das erste Mal in der Geschichte des Landes, dass bei Kriegsbeginn die Steuern gesenkt statt erhöht wurden – vom Bürgerkrieg bis Korea war der Normalfall Steuern und Kriegsanleihen. Dazu kam, dass die Kriegsbudgets dauerhaft neben dem regulären Verteidigungshaushalt geführt wurden, statt wie in früheren Kriegen nach einer Anlaufzeit in ihn einzugehen – also außerhalb jeder Abwägung mit anderen Ausgaben. Das ist Kornais weiche Budgetbeschränkung an der teuersten denkbaren Stelle, und es ist ein Anreizbefund und keine Vermutung über Motive: Wer die Rechnung verschieben kann, entscheidet anders als der, der sie vorlegen muss.
 
 Dazu die *Beschlusswahrheit* – Parlamentsvorbehalt für den einzelnen Einsatz mit veröffentlichter Kostenschätzung und nachträglichem Vergleich von Schätzung und Rechnung; und die *Klagbarkeit* – das Klagerecht der ausländischen Betroffenen vor hiesigen Gerichten, dessen härtester Anwendungsfall genau hier liegt.
 
@@ -218,7 +218,7 @@ Was sie nicht tut: das Sicherheitsdilemma auflösen, Grenzen entwerten oder die 
 
 Und der bequeme Ausweg wird hier nicht genommen. Dass die Alternative dieselbe Lücke hat – der Marxismus versprach den proletarischen Internationalismus und lieferte sozialistische Staaten im Krieg gegeneinander – zeigt nur, dass diese Frage kein Unterscheidungsmerkmal zwischen den Ordnungen ist. Es zeigt nicht, dass die Lücke geschlossen wäre. Ein Einwand, der beide Seiten trifft, ist deshalb kein Einwand weniger.
 
-Es ist dieselbe Lücke wie die Auslandsbedingung des elften Kapitels, eine Ebene höher: Die Einhegungsmechanismen dieser Ordnung versagen beim Fernen, der weder Mitgliedschaft noch Widerspruch noch Ausweichmöglichkeit in unseren Institutionen hat. Innerhalb der eigenen Betriebe lässt sich das durch eine Förderbedingung schließen, die kein fremder Gesetzgeber genehmigen muss. Zwischen Staaten nicht.
+Es ist dieselbe Lücke wie die Auslandsbedingung des zweiten Kapitels, eine Ebene höher: Die Einhegungsmechanismen dieser Ordnung versagen beim Fernen, der weder Mitgliedschaft noch Widerspruch noch Ausweichmöglichkeit in unseren Institutionen hat. Innerhalb der eigenen Betriebe lässt sich das durch eine Förderbedingung schließen, die kein fremder Gesetzgeber genehmigen muss. Zwischen Staaten nicht.
 
 ### Warum das ein eigenes Buch wäre
 
@@ -232,7 +232,7 @@ Dieses Kapitel benennt vier Aufgaben und löst zwei davon halb.
 
 *Und die Frage nach den vier fehlenden Bauteilen:* Zwei von ihnen haben ein vorhandenes Muster, an dem sich weiterarbeiten ließe – der Träger in der Individualbeschwerde und den beiden Klimaentscheidungen, die geordnete Sterblichkeit im kanadischen Trennungsverfahren. Zwei haben keines: Für Exit und Voice der Betroffenen einer fremden Staatsgewalt gibt es kein Vorbild, und für den gemeinsamen Rechtsraum gibt es eines, das nur bis zur Grenze der Freiwilligkeit reicht. Wer daran weiterarbeitet, arbeitet an einer Theorie der internationalen Ordnung und nicht mehr an einer Eigentumsverfassung für ein Land.
 
-Das ist die einzige verfügbare Form von Redlichkeit an dieser Stelle: Die Weltordnungsebene ist nicht das letzte Kapitel dieses Buches. Sie ist das erste eines anderen.
+Das ist die einzige verfügbare Form von Redlichkeit an dieser Stelle: Die Weltordnungsebene steht am Schluss dieses Bandes und schließt ihn doch nicht ab. Sie ist das erste Kapitel eines anderen Buches.
 
 ---
 
@@ -242,7 +242,7 @@ Das ist die einzige verfügbare Form von Redlichkeit an dieser Stelle: Die Welto
 
 *Kapitalverkehrsfreiheit:* Artikel 63 AEUV gilt im Verhältnis zwischen Mitgliedstaaten und ebenso gegenüber Drittstaaten. **Bestätigt** als geltende Vertragslage.
 
-*Beihilfe- und Vergaberecht:* CFI-Kofinanzierung nach der Beanstandung von 2001 auf eins zu eins umgestellt (Belege in Kapitel 20); Lebenszykluskosten und Trägerpräferenz im Vergaberecht (Belege in den Kapiteln 14 und 19). **Bestätigt.**
+*Beihilfe- und Vergaberecht:* CFI-Kofinanzierung nach der Beanstandung von 2001 auf eins zu eins umgestellt (Belege in Kapitel 9); Lebenszykluskosten und Trägerpräferenz im Vergaberecht (Belege in Kapitel 5 und in Band 1, Kapitel 12). **Bestätigt.**
 
 *Erosion der Mitbestimmung über europäische und ausländische Rechtsformen:* Sebastian Sick, *Erosion der Unternehmensmitbestimmung*, Mitbestimmungsreport Nr. 81, Hans-Böckler-Stiftung, Juni 2024 – 2022 mindestens 2,45 Mio. Beschäftigte ohne paritätische Mitbestimmung, 256 Unternehmen mit legalen Umgehungskonstruktionen. **Bestätigt.**
 
@@ -250,15 +250,15 @@ Das ist die einzige verfügbare Form von Redlichkeit an dieser Stelle: Die Welto
 
 *Der Vergleich beider Regelwerke* – unkündbarer Investitionsschutz gegen entkernte Lieferkettenregulierung im selben Jahrzehnt – ist eine Gegenüberstellung dieses Buches. **Wertung.**
 
-*Chile 1973 und Frankreich 1983:* Belege in den Kapiteln 5 und 21. **Bestätigt** hinsichtlich Verlauf; *mit Einschränkung:* Ein organisierter Investitionsstreik ist für Chile nur indirekt gefasst, für Frankreich gut belegt, und die neuere Forschung relativiert die Deutung des *tournant de la rigueur* als bewussten Bruch.
+*Chile 1973 und Frankreich 1983:* Belege in Band 1, Kapitel 5, und in Kapitel 10. **Bestätigt** hinsichtlich Verlauf; *mit Einschränkung:* Ein organisierter Investitionsstreik ist für Chile nur indirekt gefasst, für Frankreich gut belegt, und die neuere Forschung relativiert die Deutung des *tournant de la rigueur* als bewussten Bruch.
 
 *Kriege zwischen sozialistischen Staaten:* sowjetisch-chinesischer Grenzkonflikt 1969, vietnamesische Intervention in Kambodscha 1978, chinesisch-vietnamesischer Krieg 1979. **Bestätigte Zeitgeschichte;** die Schlussfolgerung, dies widerlege die leninistische Fassung des Kriegseinwands, ist **Wertung.**
 
 *Anarchie des internationalen Systems und Sicherheitsdilemma:* Standardbegriffe der Theorie der internationalen Beziehungen, im Text erklärt und als Position referiert.
 
-*Hirschman, Exit und Voice:* siehe Kapitel 4 und 16. **Bestätigt.**
+*Hirschman, Exit und Voice:* siehe Band 1, Kapitel 4, und Kapitel 7. **Bestätigt.**
 
-*Olson:* siehe Kapitel 6 und 8. **Bestätigt.**
+*Olson:* siehe Band 1, Kapitel 6 und 8. **Bestätigt.**
 
 *Die Einschätzung der Erzwingungskanäle* – begrenzte Wirksamkeit von Währungs- und Anleihedruck gegenüber einem Mitglied der Währungsunion mit Leistungsbilanzüberschuss und geringem Finanzierungsbedarf; ungleiche Verteilung der Angriffsfläche über die drei Sektoren; der Asset Lock als Nebenwirkung auch Übernahmeabwehr – ist eine Analyse dieses Buches und keine quantitative Untersuchung. **Wertung.**
 
@@ -276,9 +276,9 @@ Das ist die einzige verfügbare Form von Redlichkeit an dieser Stelle: Die Welto
 
 *Unabänderbarkeit des Vetorechts:* Art. 108 und 109 der Charta der Vereinten Nationen – Änderungen bedürfen der Ratifikation durch zwei Drittel der Mitglieder einschließlich aller ständigen Mitglieder des Sicherheitsrats. Die Charta wurde dreimal geändert (1963, 1965, 1971); nur die Änderung von 1963 betraf den Sicherheitsrat. **Bestätigt.** Die Parallele zur Bauweise des Investitionsschutzes und der daraus gezogene Satz über nicht rostende internationale Regeln sind **Wertung** dieses Buches.
 
-*Kanadisches Trennungsverfahren:* Belege in Kapitel 16.
+*Kanadisches Trennungsverfahren:* Belege in Kapitel 7.
 
-*Die Ablehnung der Weltregierung* folgt aus dem Engpass-Argument des ersten und sechsten Kapitels und ist **Wertung.** Das Sicherheitsdilemma und die Position, die aus ihm eine übergeordnete Instanz ableitet, sind als Positionen referiert.
+*Die Ablehnung der Weltregierung* folgt aus dem Engpass-Argument des ersten und sechsten Kapitels im ersten Band und ist **Wertung.** Das Sicherheitsdilemma und die Position, die aus ihm eine übergeordnete Instanz ableitet, sind als Positionen referiert.
 
 *Kant und der republikanische Frieden:* Immanuel Kant, *Zum ewigen Frieden. Ein philosophischer Entwurf*, Königsberg 1795, Erster Definitivartikel („Die bürgerliche Verfassung in jedem Staate soll republikanisch sein") mit der Begründung, dass die Staatsbürger, die den Krieg zu tragen haben, ihn nicht leichthin beschließen, während er dem Oberhaupt nichts kostet. **Bestätigt.** Zweiter Definitivartikel („Das Völkerrecht soll auf einen Föderalism freier Staaten gegründet sein"): der Friedensbund (foedus pacificum) im Unterschied zum Friedensvertrag, der Völkerbund, der gleichwohl kein Völkerstaat sein müsse, und das „negative Surrogat" der Weltrepublik. **Bestätigt**, am Volltext geprüft (Projekt-Gutenberg-Einzeldatei-Fassung; alle vier Elemente wörtlich, Originalorthographie 1795). Offener Rest von V8 in `PROCESS.md` ist allein die Levy-Seitenangabe im folgenden Beleg.
 
@@ -298,7 +298,7 @@ Das ist die einzige verfügbare Form von Redlichkeit an dieser Stelle: Die Welto
 
 *Die Folgerung für den Verbund* – dass ein Zusammenschluss von Staaten mit gewählten Regierungen und gemeinsamem Rechtsraum nach innen auf dem dyadischen Befund steht, während sein Verhalten nach außen davon unberührt bleibt – ist **Wertung** dieses Buches; der Libyen-Fall steht oben mit eigenem Beleg, die Offenheit der Zurechnung im Beleg zum dyadischen Befund.
 
-*Kriegsfinanzierung:* Linda J. Bilmes, *The Financial Legacy of Iraq and Afghanistan. How Wartime Spending Decisions Will Constrain Future National Security Budgets*, HKS Faculty Research Working Paper 2013-01 – erstmalige Steuersenkung bei Kriegsbeginn, Finanzierung über Kredit, dauerhafte Führung der Kriegsausgaben in Ergänzungshaushalten neben dem regulären Verteidigungshaushalt. **Bestätigt.** Die Deutung als weiche Budgetbeschränkung im Sinne Kornais ist **Wertung** dieses Buches; zu Kornai siehe Kapitel 2 und 12.
+*Kriegsfinanzierung:* Linda J. Bilmes, *The Financial Legacy of Iraq and Afghanistan. How Wartime Spending Decisions Will Constrain Future National Security Budgets*, HKS Faculty Research Working Paper 2013-01 – erstmalige Steuersenkung bei Kriegsbeginn, Finanzierung über Kredit, dauerhafte Führung der Kriegsausgaben in Ergänzungshaushalten neben dem regulären Verteidigungshaushalt. **Bestätigt.** Die Deutung als weiche Budgetbeschränkung im Sinne Kornais ist **Wertung** dieses Buches; zu Kornai siehe Band 1, Kapitel 2, und Kapitel 3.
 
 *Spanisch-amerikanischer Krieg 1898* als Beispiel für öffentlichen Druck zugunsten eines Krieges: als Position referiert, **Wertung** hinsichtlich der Gewichtung gegenüber anderen Ursachen.
 

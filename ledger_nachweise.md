@@ -2,6 +2,8 @@
 
 *Stand: 23. September 2026. Ausgelagert aus dem sechsundzwanzigsten Kapitel des Manuskripts.*
 
+*Zählung:* Die Kapitelangaben folgen der durchgehenden Zählung 1 bis 27, die bis zum 23.09.2026 galt; seither erscheint das Manuskript in zwei Bänden mit eigener Zählung. Die Konkordanz steht in `AGENTS.md` unter „Vier Zählungen nicht vermischen". Das Ledger ist heute Band 1, Kapitel 15.
+
 Das Ledger – Kapitel 26 des Manuskripts, Sektion VI des Thesenpapiers – wächst mit jeder erkannten Lücke und schrumpft nie stillschweigend (Hausregel 3). Wo eine Flanke durch eine Änderung der Konstruktion geschlossen oder verkleinert wurde, gehört deshalb gesagt, welche Lücke wodurch geschlossen wurde und wo die Konstruktion jetzt steht. Bis zum 23.09.2026 standen diese Nachweise im Buch selbst: als Schließungsnachweis am Anfang des Kapitels, als *Bewegung, ohne Schließung* in den einzelnen Einträgen und als Abschnitt V über den Zustand des Belegapparats. Ein Lektorat hat sie zu Recht als Werkstattspuren gelesen – Buchführung über den Text statt Argument im Text. Sie stehen seitdem hier, und das Kapitel verweist in einem Satz auf das offene Verzeichnis.
 
 **Wer das Ledger ändert, schreibt den Nachweis hierher und nicht ins Kapitel.** Das Kapitel führt jeden Eintrag im Präsens, mit seinem gegenwärtigen Stand; diese Datei führt, wie er dahin gekommen ist. Schrumpfen darf das Ledger, stillschweigend nicht – der Nachweis dafür ist diese Datei.

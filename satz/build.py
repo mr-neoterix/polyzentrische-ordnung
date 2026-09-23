@@ -1,9 +1,13 @@
 #!/usr/bin/env python3
-"""Setzt die Kapiteldateien aus manuskript/ zu einem einzelnen Buch-PDF.
+"""Setzt die Kapiteldateien aus manuskript/ zu zwei Buch-PDFs, einem je Band.
 
-Das Skript liest die Manuskriptquellen, fügt sie in der Reihenfolge ihrer
-Dateinamen zu einem Quelltext zusammen und übergibt diesen an Pandoc, das
-mit LuaLaTeX und der Vorlage in satz/vorlage.tex daraus ein PDF setzt.
+Das Manuskript erscheint in zwei Bänden – dem Argument und der Bauanleitung –,
+und jeder Band liegt in einem eigenen Verzeichnis: manuskript/band1/ und
+manuskript/band2/. Jedes hat seine eigene Inhaltsdatei und zählt seine
+Kapitel von eins an. Das Skript liest die Quellen eines Bandes, fügt sie in
+der Reihenfolge ihrer Dateinamen zu einem Quelltext zusammen und übergibt
+diesen an Pandoc, das mit LuaLaTeX und der Vorlage in satz/vorlage.tex daraus
+ein PDF setzt. Ohne Angabe setzt es beide Bände nacheinander.
 
 Drei Dinge macht es dabei, die Pandoc allein nicht könnte:
 
@@ -14,8 +18,8 @@ auf die Abschnittsebene. Gezählt wird im Satz mit Ziffern („9. Kapitel"),
 und die Ziffer kommt aus dem Dateinamen; die ausgeschriebene Bezeichnung der
 Quelle wird dagegen geprüft, damit ein Umnummerieren nicht unbemerkt bleibt.
 
-*Teilseiten:* Welches Kapitel zu welchem der acht Teile gehört, steht nicht
-in den Kapiteldateien, sondern im Aufbau-Abschnitt von 00_inhalt.md. Von
+*Teilseiten:* Welches Kapitel zu welchem Teil seines Bandes gehört, steht
+nicht in den Kapiteldateien, sondern im Aufbau-Abschnitt von 00_inhalt.md. Von
 dort wird die Zuordnung gelesen, damit sie nur an einer Stelle gepflegt
 werden muss. Gesetzt wird dieser eine Abschnitt nicht: Das Buch hat sein
 Inhaltsverzeichnis, und derselbe Baum ein zweites Mal unmittelbar dahinter
@@ -28,9 +32,10 @@ deutsche Paar „…“ beziehungsweise ‚…‘.
 
 Aufruf:
 
-    python3 satz/build.py                      # nach build/ setzen
-    python3 satz/build.py --ausgabe buch.pdf
-    python3 satz/build.py --nur-quelltext      # nur den Zwischenstand zeigen
+    python3 satz/build.py                          # beide Bände nach build/
+    python3 satz/build.py --band 1                 # nur den ersten Band
+    python3 satz/build.py --band 2 --ausgabe b2.pdf
+    python3 satz/build.py --band 1 --nur-quelltext # nur den Zwischenstand zeigen
 """
 
 from __future__ import annotations
@@ -45,6 +50,9 @@ from pathlib import Path
 
 WURZEL = Path(__file__).resolve().parent.parent
 MANUSKRIPT = WURZEL / "manuskript"
+# Die beiden Bände, jeder in seinem Verzeichnis. Die Zahl ist die Bandnummer,
+# und aus ihr entstehen Verzeichnis- und Dateiname.
+BAENDE = (1, 2)
 VORLAGE = Path(__file__).resolve().parent / "vorlage.tex"
 # Die Schriftschnitte liegen im Verzeichnis, nicht im TeX-Baum: So setzt
 # jeder Rechner mit denselben Dateien, und der Bauläufer braucht kein
@@ -54,7 +62,14 @@ INHALT = "00_inhalt.md"
 # Der Abschnitt des Vorspanns, aus dem die Teilzuordnung kommt. Er ist der
 # einzige, der gelesen und nicht gesetzt wird – siehe baue_quelltext.
 AUFBAU = "Aufbau"
-STANDARDAUSGABE = WURZEL / "build" / "polyzentrische-ordnung-manuskript.pdf"
+
+
+def bandverzeichnis(band: int) -> Path:
+    return MANUSKRIPT / f"band{band}"
+
+
+def standardausgabe(band: int) -> Path:
+    return WURZEL / "build" / f"polyzentrische-ordnung-band-{band}.pdf"
 
 
 class Fehler(Exception):
@@ -137,15 +152,17 @@ def als_latex(text: str) -> str:
 
 
 def lies_titelei(text: str) -> dict[str, str]:
-    """Zieht Titel, Untertitel, Verfasser und Stand aus 00_inhalt.md.
+    """Zieht Titel, Untertitel, Band, Verfasser und Stand aus 00_inhalt.md.
 
     Gelesen wird nur der Kopf – alles vor dem ersten Abschnitt. Sonst
     verwechselte der Verfassername sich mit den fett gesetzten Teilzeilen
-    des Aufbaus.
+    des Aufbaus. Die Bandzeile steht als `####` unter dem Untertitel
+    („Erster Band: Das Argument").
     """
     kopf = re.split(r"^## ", text, maxsplit=1, flags=re.M)[0]
     titel = re.search(r"^# (.+)$", kopf, re.M)
     untertitel = re.search(r"^### (.+)$", kopf, re.M)
+    band = re.search(r"^#### (.+)$", kopf, re.M)
     autor = re.search(r"^\*\*(.+?)\*\*$", kopf, re.M)
     stand = re.search(r"^\*(Manuskript\.[^*]+)\*$", kopf, re.M)
     if not titel:
@@ -153,6 +170,7 @@ def lies_titelei(text: str) -> dict[str, str]:
     return {
         "titel": titel.group(1).strip(),
         "untertitel": untertitel.group(1).strip() if untertitel else "",
+        "band": band.group(1).strip() if band else "",
         "autor": autor.group(1).strip() if autor else "",
         "stand": stand.group(1).strip().rstrip(".") if stand else "",
     }
@@ -318,8 +336,9 @@ def setze_ueberschriften(rumpf: str) -> str:
     return re.sub(r"^#{2,6}\s+", "## ", rumpf, flags=re.M)
 
 
-def baue_quelltext(fassung: str, satzdatum: str, jahr: str) -> str:
-    inhalt_pfad = MANUSKRIPT / INHALT
+def baue_quelltext(band: int, fassung: str, satzdatum: str, jahr: str) -> str:
+    verzeichnis = bandverzeichnis(band)
+    inhalt_pfad = verzeichnis / INHALT
     if not inhalt_pfad.is_file():
         raise Fehler(f"{inhalt_pfad} fehlt – ohne Inhaltsdatei kein Satz.")
     inhalt = inhalt_pfad.read_text(encoding="utf-8")
@@ -329,9 +348,9 @@ def baue_quelltext(fassung: str, satzdatum: str, jahr: str) -> str:
     aufbau = dict(vorspann).get(AUFBAU, "")
     teile = lies_teile(aufbau)
 
-    dateien = sorted(p for p in MANUSKRIPT.glob("[0-9][0-9]_*.md") if p.name != INHALT)
+    dateien = sorted(p for p in verzeichnis.glob("[0-9][0-9]_*.md") if p.name != INHALT)
     if not dateien:
-        raise Fehler(f"In {MANUSKRIPT} liegt keine Kapiteldatei.")
+        raise Fehler(f"In {verzeichnis} liegt keine Kapiteldatei.")
 
     teil_von_kapitel: dict[int, str] = {}
     for teiltitel, nummern in teile:
@@ -346,6 +365,8 @@ def baue_quelltext(fassung: str, satzdatum: str, jahr: str) -> str:
     zeilen.append("---")
     zeilen.append(kopfzeile("titel", titelei["titel"]))
     zeilen.append(kopfzeile("untertitel", titelei["untertitel"]))
+    zeilen.append(kopfzeile("band", titelei["band"]))
+    zeilen.append(kopfzeile("quelle", f"{verzeichnis.relative_to(WURZEL).as_posix()}/"))
     zeilen.append(kopfzeile("autor", titelei["autor"]))
     zeilen.append(kopfzeile("stand", titelei["stand"]))
     zeilen.append(kopfzeile("jahr", jahr))
@@ -421,7 +442,7 @@ def baue_quelltext(fassung: str, satzdatum: str, jahr: str) -> str:
         print(f"  Hinweis: {meldung}.", file=sys.stderr)
 
     print(
-        f"  {len(dateien)} Kapitel in {len(teile)} Teilen, "
+        f"  Band {band}: {len(dateien)} Kapitel in {len(teile)} Teilen, "
         f"{gesetzter_vorspann} Vorspannabschnitte gesetzt, "
         f"{AUFBAU} nur gelesen.",
         file=sys.stderr,
@@ -448,58 +469,15 @@ def git(*argumente: str, ersatz: str = "") -> str:
         return ersatz
 
 
-def main() -> int:
-    zerleger = argparse.ArgumentParser(
-        description="Setzt das Manuskript zu einem Buch-PDF.",
-        formatter_class=argparse.RawDescriptionHelpFormatter,
-    )
-    zerleger.add_argument(
-        "--ausgabe",
-        type=Path,
-        default=STANDARDAUSGABE,
-        help=f"Zieldatei (Vorgabe: {STANDARDAUSGABE.relative_to(WURZEL)})",
-    )
-    zerleger.add_argument(
-        "--fassung",
-        default="",
-        help="Kennung des Quellstands für die Fußzeile (Vorgabe: git-Commit)",
-    )
-    zerleger.add_argument(
-        "--nur-quelltext",
-        action="store_true",
-        help="nur den zusammengesetzten Markdown-Quelltext ausgeben",
-    )
-    argumente = zerleger.parse_args()
-
-    fassung = argumente.fassung or git("rev-parse", "--short", "HEAD", ersatz="ohne git")
-    satzdatum = git("log", "-1", "--format=%cd", "--date=format:%d.%m.%Y", ersatz="")
-    # Das Jahr der Rechteangabe im Impressum. Es kommt aus dem Quellstand und
-    # nicht aus der Uhr des Bauläufers: Ein späterer Satz derselben Fassung
-    # soll dieselbe Jahreszahl tragen. Ohne git bleibt nur das heutige Jahr.
-    jahr = git("log", "-1", "--format=%cd", "--date=format:%Y", ersatz="") or str(
-        datetime.date.today().year
-    )
-
+def setze_band(band: int, ausgabe: Path, fassung: str, satzdatum: str, jahr: str) -> int:
+    """Setzt einen Band nach ausgabe. Gibt den Rückgabewert des Laufs zurück."""
     try:
-        quelltext = baue_quelltext(fassung, satzdatum, jahr)
+        quelltext = baue_quelltext(band, fassung, satzdatum, jahr)
     except Fehler as fehler:
-        print(f"Satz abgebrochen: {fehler}", file=sys.stderr)
+        print(f"Satz von Band {band} abgebrochen: {fehler}", file=sys.stderr)
         return 1
 
-    if argumente.nur_quelltext:
-        sys.stdout.write(quelltext)
-        return 0
-
-    if not shutil.which("pandoc"):
-        print(
-            "Pandoc fehlt. Unter Debian/Ubuntu: sudo apt-get install pandoc "
-            "texlive-luatex texlive-latex-recommended texlive-lang-german "
-            "texlive-fonts-recommended",
-            file=sys.stderr,
-        )
-        return 1
-
-    ausgabe = argumente.ausgabe.resolve()
+    ausgabe = ausgabe.resolve()
     ausgabe.parent.mkdir(parents=True, exist_ok=True)
     zwischenstand = ausgabe.with_suffix(".md")
     zwischenstand.write_text(quelltext, encoding="utf-8")
@@ -513,7 +491,7 @@ def main() -> int:
         "--template",
         str(VORLAGE),
         "--top-level-division=chapter",
-        f"--resource-path={MANUSKRIPT}",
+        f"--resource-path={bandverzeichnis(band)}",
         f"--variable=schriftverzeichnis={SCHRIFTEN}/",
         "--output",
         str(ausgabe),
@@ -522,14 +500,82 @@ def main() -> int:
     lauf = subprocess.run(befehl, cwd=WURZEL)
     if lauf.returncode != 0:
         print(
-            "Pandoc ist gescheitert. Der zusammengesetzte Quelltext liegt in "
-            f"{zwischenstand} und lässt sich von Hand nachprüfen.",
+            f"Pandoc ist an Band {band} gescheitert. Der zusammengesetzte "
+            f"Quelltext liegt in {zwischenstand} und lässt sich von Hand nachprüfen.",
             file=sys.stderr,
         )
         return lauf.returncode
 
     groesse = ausgabe.stat().st_size / 1024
     print(f"  Fertig: {ausgabe} ({groesse:.0f} kB)", file=sys.stderr)
+    return 0
+
+
+def main() -> int:
+    zerleger = argparse.ArgumentParser(
+        description="Setzt das Manuskript zu zwei Buch-PDFs, einem je Band.",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+    )
+    zerleger.add_argument(
+        "--band",
+        type=int,
+        choices=BAENDE,
+        help="nur diesen Band setzen (Vorgabe: beide)",
+    )
+    zerleger.add_argument(
+        "--ausgabe",
+        type=Path,
+        help="Zieldatei, nur zusammen mit --band "
+        "(Vorgabe: build/polyzentrische-ordnung-band-N.pdf)",
+    )
+    zerleger.add_argument(
+        "--fassung",
+        default="",
+        help="Kennung des Quellstands für die Fußzeile (Vorgabe: git-Commit)",
+    )
+    zerleger.add_argument(
+        "--nur-quelltext",
+        action="store_true",
+        help="nur den zusammengesetzten Markdown-Quelltext ausgeben",
+    )
+    argumente = zerleger.parse_args()
+    # Eine Zieldatei passt nur zu einem Band; für zwei Bände gäbe es zwei.
+    if argumente.ausgabe and not argumente.band:
+        zerleger.error("--ausgabe verlangt --band, denn jeder Band ist eine eigene Datei.")
+    baende = (argumente.band,) if argumente.band else BAENDE
+
+    fassung = argumente.fassung or git("rev-parse", "--short", "HEAD", ersatz="ohne git")
+    satzdatum = git("log", "-1", "--format=%cd", "--date=format:%d.%m.%Y", ersatz="")
+    # Das Jahr der Rechteangabe im Impressum. Es kommt aus dem Quellstand und
+    # nicht aus der Uhr des Bauläufers: Ein späterer Satz derselben Fassung
+    # soll dieselbe Jahreszahl tragen. Ohne git bleibt nur das heutige Jahr.
+    jahr = git("log", "-1", "--format=%cd", "--date=format:%Y", ersatz="") or str(
+        datetime.date.today().year
+    )
+
+    if argumente.nur_quelltext:
+        for band in baende:
+            try:
+                sys.stdout.write(baue_quelltext(band, fassung, satzdatum, jahr))
+            except Fehler as fehler:
+                print(f"Satz von Band {band} abgebrochen: {fehler}", file=sys.stderr)
+                return 1
+        return 0
+
+    if not shutil.which("pandoc"):
+        print(
+            "Pandoc fehlt. Unter Debian/Ubuntu: sudo apt-get install pandoc "
+            "texlive-luatex texlive-latex-recommended texlive-lang-german "
+            "texlive-fonts-recommended",
+            file=sys.stderr,
+        )
+        return 1
+
+    for band in baende:
+        ausgabe = argumente.ausgabe or standardausgabe(band)
+        ergebnis = setze_band(band, ausgabe, fassung, satzdatum, jahr)
+        if ergebnis != 0:
+            return ergebnis
     return 0
 
 

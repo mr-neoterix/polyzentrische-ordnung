@@ -4,6 +4,8 @@ Dieses Dokument ist Quellenverzeichnis und Glossar in einem. Es erläutert die z
 
 **Prüfhinweis zur Erreichbarkeit:** Alle URLs wurden am 22.07.2026 geprüft. Direkte HTTP-Abrufe sind in der Arbeitsumgebung, in der dieses Dokument erstellt wurde, durch deren Netzwerk-Policy blockiert; die Erreichbarkeit wurde daher indirekt über die aktuelle Websuche-Indizierung bestätigt (Kennzeichnung: „indiziert 22.07.2026"). Ein direkter Abruftest sollte aus einer Umgebung ohne diese Beschränkung nachgeholt werden.
 
+**Zählung der Manuskriptkapitel:** Die Kapitelangaben folgen der durchgehenden Zählung 1 bis 27, die bis zum 23.09.2026 galt; seither erscheint das Manuskript in zwei Bänden mit eigener Zählung. Die Konkordanz steht in `AGENTS.md` unter „Vier Zählungen nicht vermischen". Einträge, die danach entstehen, nennen den Band.
+
 **Verifikationsstatus:** *bestätigt* – Angabe unabhängig belegt. *Mit Einschränkung* – im Kern belegt, aber mit ausgewiesener Abweichung oder Unschärfe. *Nicht verifizierbar* – Zuschreibung nicht haltbar; im Hauptdokument entsprechend kennzeichnen.
 
 ---

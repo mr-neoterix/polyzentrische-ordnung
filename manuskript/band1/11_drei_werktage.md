@@ -1,4 +1,4 @@
-# Achtzehntes Kapitel
+# Elftes Kapitel
 
 ## Drei Werktage
 
@@ -14,9 +14,9 @@ Sie hat heute drei realistische Ausgänge. *Verkauf an einen Wettbewerber,* meis
 
 In der hier beschriebenen Ordnung gibt es einen vierten Ausgang.
 
-Die Belegschaft wird spätestens sechs Monate vor einem Verkauf informiert und erhält ein *Andienungsrecht*: Sie darf zum gleichen Preis erwerben wie ein Dritter. Die Inhaberin ist nicht gezwungen, an sie zu verkaufen – es ist ein Gleichpreisrecht mit Finanzierungsgarantie, kein Kontrahierungszwang. Warum diese Konstruktion und nicht das schärfere Vorkaufsrecht – das die Inhaberin zum Verkauf an die Belegschaft zwingen würde –, gehört in den Umsetzungspfad; die kurze Antwort ist, dass Frankreich das schärfere Instrument versucht hat und dass es verfassungsrechtlich gestutzt wurde.
+Die Belegschaft wird spätestens sechs Monate vor einem Verkauf informiert und erhält ein *Andienungsrecht*: Sie darf zum gleichen Preis erwerben wie ein Dritter. Die Inhaberin ist nicht gezwungen, an sie zu verkaufen – es ist ein Gleichpreisrecht mit Finanzierungsgarantie, kein Kontrahierungszwang. Warum diese Konstruktion und nicht das schärfere Vorkaufsrecht – das die Inhaberin zum Verkauf an die Belegschaft zwingen würde –, gehört in den Umsetzungspfad des zweiten Bandes; die kurze Antwort ist, dass Frankreich das schärfere Instrument versucht hat und dass es verfassungsrechtlich gestutzt wurde.
 
-Die Finanzierung besteht aus vier Teilen. *Ein Verkäuferdarlehen* über einen Teil des Kaufpreises, verzinst und aus dem Cashflow bedient – die Inhaberin bekommt ihr Geld über Jahre statt sofort, dafür einen Zins und einen Steuervorteil. *Ein langfristiger Bankkredit* der Genossenschaftsbank gegen Cashflow und Sicherheiten, im Verbund geteilt, damit die Nachfolgewelle einer Region nicht in einer einzigen Bilanz landet. *Eine stimmrechtsarme Beteiligung* mit gedeckelter Rendite und definierter Ablösung aus der Fondsfamilie – aus einem Haus, das nicht im selben Land sitzt, aus dem Grund, den das elfte Kapitel beim gemeinsamen Schock nennt. Und *die Kapitalkonten der Mitglieder*, in die über die folgenden Jahre einbehaltene Überschüsse fließen – sie tragen anfangs wenig und werden mit der Zeit die tragende Säule.
+Die Finanzierung besteht aus vier Teilen. *Ein Verkäuferdarlehen* über einen Teil des Kaufpreises, verzinst und aus dem Cashflow bedient – die Inhaberin bekommt ihr Geld über Jahre statt sofort, dafür einen Zins und einen Steuervorteil. *Ein langfristiger Bankkredit* der Genossenschaftsbank gegen Cashflow und Sicherheiten, im Verbund geteilt, damit die Nachfolgewelle einer Region nicht in einer einzigen Bilanz landet. *Eine stimmrechtsarme Beteiligung* mit gedeckelter Rendite und definierter Ablösung aus der Fondsfamilie, mehreren nach Ländern geschnittenen Bürgerfonds mit gleichem Auftrag – aus einem Haus, das nicht im selben Land sitzt, damit ein Schock, der die Region trifft, nicht Betrieb und Geldgeber zugleich trifft. Und *die Kapitalkonten der Mitglieder*, in die über die folgenden Jahre einbehaltene Überschüsse fließen – sie tragen anfangs wenig und werden mit der Zeit die tragende Säule.
 
 Der entscheidende Hebel ist steuerlich: Der Inhaberin wird ihre Veräußerungsgewinnsteuer gestundet oder erlassen, wenn sie an die Belegschaft überträgt. Das ist der britische Weg, und dass er funktioniert, ist gemessen – rund 2.470 belegschaftseigene Unternehmen in elf Jahren sind keine Nische, auch wenn sie kein Umsturz sind.
 
@@ -74,7 +74,7 @@ Wer trotzdem vergesellschaften will, sollte den Preis kennen, ihn ausrechnen und
 
 *Fagor:* siehe Kapitel 9.
 
-*Steuerlicher Querverbund, Effizienzvergleich, § 46 EnWG, § 613a BGB:* siehe Kapitel 12.
+*Steuerlicher Querverbund, Effizienzvergleich, § 46 EnWG, § 613a BGB:* siehe Band 2, Kapitel 3.
 
 *Artikel 15 Grundgesetz:* Überführung von Grund und Boden, Naturschätzen und Produktionsmitteln „zum Zwecke der Vergesellschaftung" in Gemeineigentum oder andere Formen der Gemeinwirtschaft durch Gesetz; für die Entschädigung gilt Artikel 14 Absatz 3 Satz 3 und 4 entsprechend. Seit 1949 nie angewendet. **Bestätigt.**
 
@@ -82,6 +82,6 @@ Wer trotzdem vergesellschaften will, sollte den Preis kennen, ihn ausrechnen und
 
 *Investitionsschutz:* ICSID-Verfahren ARB/12/12 (Vattenfall gegen Bundesrepublik Deutschland) mit einer Forderung von rund 4,7 Mrd. Euro wegen des Atomausstiegs; außergerichtlicher Vergleich März 2021 mit 1,425 Mrd. Euro an Vattenfall und 880 Mio. Euro an RWE, förmliche Verfahrensbeendigung November 2021. Austritt Deutschlands aus dem Energiecharta-Vertrag wirksam im Juni 2025; Sunset-Klausel mit zwanzigjährigem Schutz für Altinvestitionen; hinzu kommen bilaterale Investitionsschutzabkommen. **Bestätigt.**
 
-*Loi Hamon / Loi Macron (im Text nur angekündigt):* Belege in Kapitel 20.
+*Loi Hamon / Loi Macron (im Text nur angekündigt):* Belege in Band 2, Kapitel 9.
 
 *Die Ausgestaltung der drei Werktage* – Finanzierungsstruktur, Kennzahlensatz, Vertragsgestaltung – ist Konstruktionsvorschlag dieses Buches; die zugrunde liegenden Rechtsnormen und empirischen Anker sind einzeln nachgewiesen. **Wertung.**
