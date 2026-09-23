@@ -16,6 +16,8 @@ Das kompakte Thesenpapier: **[polyzentrische_ordnung.md](polyzentrische_ordnung.
 
 Begleitend: **[quellen_und_glossar.md](quellen_und_glossar.md)** – Quellenverzeichnis und Glossar in einem, mit Verifikationsstatus für jeden Eintrag.
 
+Zum Ledger: **[ledger_nachweise.md](ledger_nachweise.md)** – welche offene Flanke durch welche Änderung der Ordnung geschlossen oder verkleinert wurde. Das Buch führt im sechsundzwanzigsten Kapitel nur den gegenwärtigen Stand, der Nachweis steht hier.
+
 Adversariale Prüfung: **[pruefbericht_schwachstellen.md](pruefbericht_schwachstellen.md)** – Schwachstellen, Gegenargumente und Einarbeitungsvorschläge, jeweils mit Urteil (echte Schwäche, halbe Schwäche, keine Schwäche); Abschnitt G weist nach, wo jeder Befund im Essay gelandet ist.
 
 Das Manuskript gliedert sich in acht Teile: die Frage, die Diagnose über fünf Länder, warum weder Marx noch der gefesselte Kapitalismus genügen, die Ordnung mit ihren drei Sektoren, der Weg in drei Stufen, die äußere Ebene, die beiden Gegenproben und der ehrliche Rest aus offenen Flanken und Formel. Der Essay folgt derselben Argumentation in neun Sektionen; wo beide abweichen, gilt das Manuskript.

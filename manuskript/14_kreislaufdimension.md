@@ -54,7 +54,7 @@ Der Maßstab dieser Mechanismen sind die Ressourcenkosten des ganzen Lebenszyklu
 
 Der Unterschied ist praktisch bedeutsam. Beim Trinkglas gewinnt das ewige Glas: Ein Glas verbraucht im Gebrauch nichts, seine gesamten Ressourcenkosten stecken in Herstellung und Transport, also ist jedes nicht zerbrochene Glas ein Gewinn. Beim zwanzig Jahre alten Kühlschrank gewinnt der geordnete Ersatz: Er verbraucht im Betrieb so viel mehr Strom, dass ein neues Gerät seine Herstellungskosten binnen weniger Jahre einspart. Wer Langlebigkeit zum Selbstzweck erklärt, produziert im zweiten Fall ökologischen Schaden mit gutem Gewissen.
 
-Damit ist die Flanke benannt, die dieses Kapitel offenlässt und die im Ledger wieder auftaucht. *Effizienz gegen Langlebigkeit* ist eine echte Zielspannung, und Lebenszykluspreise sind der Versuch, sie rechenbar zu machen – ob die Rechnung in allen Produktklassen aufgeht, ist offen.
+Damit ist die Flanke benannt, die dieses Kapitel offenlässt. *Effizienz gegen Langlebigkeit* ist eine echte Zielspannung, und Lebenszykluspreise sind der Versuch, sie rechenbar zu machen – ob die Rechnung in allen Produktklassen aufgeht, ist offen.
 
 Und es gibt eine zweite, unangenehmere Flanke. Wenn haltbare Produkte ihre Märkte sättigen, versiegt die private Finanzierung der nächsten Innovationsgeneration – man kann nicht gleichzeitig den Ersatzumsatz vernichten und erwarten, dass er weiter die Forschung bezahlt. Dieses Buch hat darauf keine Antwort, nur ein Verfahren: Die entkoppelten Prämien werden in einem begrenzten Produktbereich als Modellversuch mit veröffentlichten Messgrößen gefahren, statt als Prinzip behauptet zu werden. Was dort nicht funktioniert, funktioniert nirgends.
 
@@ -78,7 +78,7 @@ Die Gegenprobe von der liberalen Flanke gehört daneben, und sie ist berechtigt.
 
 Bleibt die stillste Antwort, und sie stammt aus der ersten Kapitelhälfte. Wo Käufer und Langzeitnutzer zusammenfallen, schrumpft die Vielfalt von selbst: Ein Krankenhaus, das nach Lebenszykluskosten beschafft, führt keine achtzig Modelle, weil es die Ersatzteilhaltung für achtzig Modelle bezahlt. Niemand hat das angeordnet, und niemand musste entscheiden, welche Variante überflüssig ist. **Wo jemand die Kosten der Vielfalt selbst trägt, wählt er sie ab; wo niemand sie trägt, darf niemand sie abwählen.**
 
-Die Grenze dieses Mechanismus gehört genannt, und sie ist erheblich: Er erreicht Schnittstellen, Ersatzteile und Verbrauchsmaterial, nicht den Entwicklungsaufwand selbst. Dass achtzig Entwicklungsabteilungen dieselbe Aufgabe lösen, bleibt der Preis eines Verfahrens, das vorher nicht weiß, welche Lösung trägt. Dieses Buch zahlt ihn wissentlich, und wie hoch er ist, weiß es nicht – der Eintrag steht im Ledger.
+Die Grenze dieses Mechanismus gehört genannt, und sie ist erheblich: Er erreicht Schnittstellen, Ersatzteile und Verbrauchsmaterial, nicht den Entwicklungsaufwand selbst. Dass achtzig Entwicklungsabteilungen dieselbe Aufgabe lösen, bleibt der Preis eines Verfahrens, das vorher nicht weiß, welche Lösung trägt. Dieses Buch zahlt ihn wissentlich, und wie hoch er ist, weiß es nicht.
 
 ### Die andere Richtung: der Bedarf, den niemand hatte
 
@@ -148,7 +148,7 @@ Auch dieser Mechanismus hat eine erhebliche Grenze. Er greift nur für den Teil 
 
 Und nun der Befund. Das deutsche Wettbewerbsrecht verfolgt irreführende Werbung vergleichsweise wirksam, und der Grund steht in § 8 Absatz 3 des Gesetzes gegen den unlauteren Wettbewerb: Anspruchsberechtigt ist jeder *Mitbewerber*.
 
-**Das Recht verfolgt die Lüge über das Produkt, weil der Wettbewerber klagt; es verfolgt die Weckung des Bedarfs nicht, weil der Wettbewerber von ihr lebt.** Das ist die Rost-These in ihrer reinsten Form, und der Eintrag steht im Ledger.
+**Das Recht verfolgt die Lüge über das Produkt, weil der Wettbewerber klagt; es verfolgt die Weckung des Bedarfs nicht, weil der Wettbewerber von ihr lebt.** Das ist die Rost-These in ihrer reinsten Form.
 
 ### Zwei Vorbehalte und eine Selbstbindung
 

@@ -4,7 +4,7 @@
 
 **Marcel Richtsteiger**
 
-*Manuskript. Stand: 3. September 2026.*
+*Manuskript. Stand: 23. September 2026.*
 
 ---
 
@@ -13,6 +13,8 @@
 Dies ist der Versuch, eine Wirtschafts- und Gesellschaftsverfassung herzuleiten statt sie zu behaupten. Der Ausgangspunkt ist eine enge historische Frage – war die DDR eigentlich pleite? –, und der Weg von dieser Frage bis zu einem Institutionenentwurf für die Bundesrepublik ist der eigentliche Gegenstand. Wer nur das Ergebnis wissen will, kann das letzte Kapitel lesen. Wer wissen will, ob das Ergebnis trägt, muss den Weg gehen, denn eine Ordnung ist genau so viel wert wie die Gründe, aus denen sie gebaut wurde.
 
 Der Text setzt kein wirtschaftswissenschaftliches Studium voraus. Er setzt voraus, was ein durchschnittlich informierter deutscher Leser weiß: dass es die DDR gab und dass sie 1990 unterging, dass Marx den Kommunismus dachte, dass die Bundesrepublik eine Marktwirtschaft ist. Alles Weitere wird erklärt, wo es zum ersten Mal gebraucht wird – jeder Fachbegriff, jede historische Begebenheit, jede Zahl. Und jede Zahl steht mit ihrem Beleg da, am Ende des jeweiligen Kapitels, samt der Angabe, wie sicher sie ist. Das ist keine akademische Pedanterie: Ein Argument, dessen Belege man nicht nachprüfen kann, ist eine Meinung mit Fußnoten.
+
+Vorausgesetzt ist allerdings Geduld, und nicht jeder Leser braucht dieselbe Menge davon. Das Buch trägt zwei Lasten, ein Argument und eine Bauanleitung, und man kann ihnen getrennt folgen. Das Argument steht in den ersten drei Teilen, also den Kapiteln eins bis neun, dazu im zehnten mit dem Umriss der drei Sektoren, im achtzehnten, das die Ordnung an drei gewöhnlichen Werktagen vorführt, im neunzehnten mit den Tests, die jeder Umsetzungsschritt bestehen muss, und in den letzten beiden Kapiteln; wer diesen Weg geht, hat die Herleitung, die Ordnung im Umriss und ihre offenen Stellen. Die Bauanleitung steht in den Kapiteln elf bis siebzehn und zwanzig bis zweiundzwanzig. Sie ist Konstruktionsarbeit bis auf den Paragraphen, geschrieben für den, der prüfen will, ob ein Bauteil hält; wer vom Fach ist, kann dort einsteigen und die Erklärungen überspringen, die für die anderen dastehen. Die Kapitel über die Staatenwelt und die beiden Gegenproben lassen sich nach Neigung lesen – wer einen Einwand hat, findet ihn dort meist samt Antwort. Und wer den ganzen Gedanken auf einem Zehntel des Raums haben will, findet eine Verdichtung im offenen Verzeichnis, das der Abschnitt über die Entstehung dieses Buches nennt.
 
 Zwei Regeln durchziehen das Buch. Die erste heißt Symmetrie: Was für den einen Fall gilt, gilt für den anderen. Wer der SED nicht glaubt, muss auch dem Bundesverband der Deutschen Industrie nicht glauben; wer die Planwirtschaft an ihren Ergebnissen misst, muss den Markt an seinen messen. Die zweite heißt Gegenprobe: Jede These wird an ihrem stärksten Gegner geprüft, nicht an ihrem bequemsten Beleg – und zwar an beiden Gegnern, dem marxistischen und dem liberalen. Wer eine These nur von einer Seite prüft, lobt sie.
 
@@ -24,7 +26,7 @@ Am Ende steht kein Zielzustand. Wer einen sucht, wird enttäuscht werden, und di
 
 ### Wie dieses Buch entstanden ist
 
-Kein Satz dieses Buches ist von einem Menschen geschrieben worden. Die Prosa stammt Wort für Wort von einer künstlichen Intelligenz, die erste Zeile ebenso wie diese hier; der Text ist im Gespräch mit ihr entstanden. Auf dem Titel steht trotzdem ein Verfasser, und das ist eine Entscheidung, die sich begründen lässt: Geschrieben hat die Maschine, gedacht hat der Mensch. Jede Frage, die hier gestellt wird, jeder Einwand, dem sich der Text aussetzt, jede Konstruktion, die er vorschlägt, und jede, die er wieder verworfen hat, kommt aus einem Kopf und nicht aus der Maschine.
+Kein Satz dieses Buches ist von einem Menschen geschrieben worden. Die Prosa stammt Wort für Wort von einer künstlichen Intelligenz, die erste Zeile ebenso wie diese hier; der Text ist im Gespräch mit ihr entstanden. Auf dem Titel steht trotzdem ein Verfasser, und das ist eine Entscheidung, die sich begründen lässt: Geschrieben hat die Maschine, gedacht hat der Mensch. Jede Frage, die hier gestellt wird, jeder Einwand, dem sich der Text aussetzt, jede Konstruktion, die er vorschlägt, und jede, die er wieder verworfen hat, kommt aus einem Kopf und nicht aus der Maschine. Nach der ersten Regel dieses Buches ist das eine Selbstauskunft, also ein Datum über den Verfasser und kein Beweis, und so darf man es lesen.
 
 Das Verfahren war Lektüre und Widerspruch, beides in einem Umfang, den der fertige Text nicht mehr erkennen lässt. Der Verfasser hat dieses Buch von seiner kleinsten Fassung an bis zur letzten gelesen, Dutzende Male ganz und einzelne Stellen einige hundert Mal. Was nicht standhielt, wurde ausformuliert statt angestrichen: der Einwand hingeschrieben, begründet, mit der Maschine durchgesprochen, gegen ihre Antwort noch einmal geprüft – und geändert wurde erst, wenn entweder der Einwand gefallen war oder die Stelle. Der vollständige Text dieser Gespräche und Überarbeitungen ist, vorsichtig geschätzt, mehr als doppelt so lang wie das Buch, das daraus geworden ist.
 
@@ -104,7 +106,7 @@ Was hier steht, ist deshalb ein Stand. Das Verzeichnis, aus dem dieses Buch gese
 
 **Teil VIII – Der ehrliche Rest**
 
-*26. Offene Flanken.* Das Ehrlichkeits-Ledger, in Klassen getrennt: Grenzen der Reichweite, Stellen ohne Träger, unentschiedene Fragen. Dazu ein ausgewiesener Dissens, die ausgelagerte Weltordnungsebene, der Zustand des Belegapparats – und der Nachweis, welche frühere Flanke durch welche Änderung der Ordnung geschlossen wurde.
+*26. Offene Flanken.* Das Ehrlichkeits-Ledger, in Klassen getrennt: Grenzen der Reichweite, Stellen ohne Träger, unentschiedene Fragen. Dazu ein ausgewiesener Dissens, die ausgelagerte Weltordnungsebene, der Zustand des Belegapparats.
 
 *27. Die Formel.* Die Herleitung in einem Zug, die Bedingungen, unter denen sie trägt, und was sie nicht ist. Am Ende steht ein Kriterium, wo man ein Versprechen erwartet.
 
