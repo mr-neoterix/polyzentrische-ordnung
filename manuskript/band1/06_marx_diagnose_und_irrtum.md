@@ -22,7 +22,7 @@ Marx' Diagnose steht.
 
 ### Was fällt
 
-Und nun die Therapie. Vor ihrer Prüfung ist eine Unterscheidung fällig, die in der Polemik beider Lager regelmäßig verschwindet, und ohne die man den falschen Gegenstand prüft: Marx' Therapie hat ein Ziel und einen Weg dorthin, und beides ist nicht dasselbe.
+Vor der Prüfung der Therapie ist eine Unterscheidung fällig, die in der Polemik beider Lager regelmäßig verschwindet, und ohne die man den falschen Gegenstand prüft: Marx' Therapie hat ein Ziel und einen Weg dorthin, und beides ist nicht dasselbe.
 
 *Das Ziel* ist eine Gesellschaft ohne Klassen, ohne Staat und ohne Geld. In ihr wird produziert, um Bedürfnisse zu decken, statt für den Verkauf – das Rechnen in Preisen, Löhnen und Bilanzen, das die Fachsprache die *Wertform* nennt, hört auf. Der Staat verschwindet dort ohne Beschluss, weil ihm die Aufgabe abhandenkommt: Wo keine Klasse mehr eine andere niederhält, hat der Apparat, der das besorgte, nichts mehr zu tun. An die Stelle des Kaufens tritt ein Nachweis über geleistete Arbeit, gegen den der Einzelne aus dem gesellschaftlichen Vorrat entnimmt, was gleich viel Arbeit gekostet hat. Ausgemalt hat Marx diesen Zustand nie – für „Rezepte … für die Garküche der Zukunft" hatte er nur Spott übrig, und wer ihm einen Bauplan zuschreibt, verwechselt ihn mit seinen Erben. Benannt hat er ihn. In der *Kritik des Gothaer Programms* von 1875 steht die Formel, die eine solche Gesellschaft auf ihre Fahne schreiben könnte: „Jeder nach seinen Fähigkeiten, jedem nach seinen Bedürfnissen!"
 
@@ -46,13 +46,13 @@ Denn wenn Marx' Diagnose stimmt und seine Therapie nicht, dann steht die Frage i
 
 Sie ist es. Das ist der entscheidende Punkt, an dem dieses Buch vom Marxismus abweicht: Die Übersetzungsrate ist eine *institutionelle Variable*, keine Naturkonstante. Sie hängt davon ab, wie Parteien finanziert werden, wie Medien besessen werden, wie Lobbyismus geregelt ist, wie Gerichte bestellt werden, wie stark Gewerkschaften sind, wie transparent Verwaltungen arbeiten. Diese Größen sind gestaltbar, sie waren historisch verschieden, und sie sind heute zwischen Ländern verschieden.
 
-Der Gegenbeleg gegen den Fatalismus ist der Zeitraum zwischen etwa 1930 und 1980. In diesen fünf Jahrzehnten sank die Einkommens- und Vermögensungleichheit in den westlichen Industrieländern deutlich – und zwar weil progressive Besteuerung, Gewerkschaftsmacht, Sozialversicherung, Kartellrecht und Bildungsexpansion die Übersetzungsrate senkten, nicht weil das Kapital seine Natur geändert hätte. Der Begriff, der dafür kursiert, ist die „große Kompression", und an dieser Stelle ist eine Präzisierung fällig: Claudia Goldin und Robert Margo haben den Begriff 1992 geprägt, und sie bezeichnen damit präzise die starke Kompression der *amerikanischen Lohnstruktur in den vierziger Jahren*. Die weiter gefasste Verwendung für den Zeitraum 1930 bis 1980 ist Rezeptionsgebrauch, nicht die Originaldefinition. Der Befund einer langen Kompressionsphase ist unabhängig davon gut belegt; nur das Etikett gehört richtig zugeordnet.
+Der Gegenbeleg gegen den Fatalismus ist der Zeitraum zwischen etwa 1930 und 1980. In diesen fünf Jahrzehnten sank die Einkommens- und Vermögensungleichheit in den westlichen Industrieländern deutlich – und zwar weil progressive Besteuerung, Gewerkschaftsmacht, Sozialversicherung, Kartellrecht und Bildungsexpansion die Übersetzungsrate senkten, nicht weil das Kapital seine Natur geändert hätte. Der Begriff, der dafür kursiert, ist die „große Kompression". Claudia Goldin und Robert Margo haben den Begriff 1992 geprägt, und sie bezeichnen damit die starke Kompression der *amerikanischen Lohnstruktur in den vierziger Jahren*. Die weiter gefasste Verwendung für den Zeitraum 1930 bis 1980 ist Rezeptionsgebrauch, nicht die Originaldefinition. Der Befund einer langen Kompressionsphase ist unabhängig davon gut belegt; nur das Etikett gehört richtig zugeordnet.
 
 Was folgt daraus? Die Konzentrationstendenz ist real, aber nicht schicksalhaft. Sie war schon einmal für ein halbes Jahrhundert gebremst. Sie hat sich danach dennoch fortgesetzt.
 
 ### Warum die Kompression nicht hielt
 
-Die Kompression hat nicht gehalten. Seit etwa 1980 laufen Einkommens- und Vermögenskonzentration wieder auseinander, und die Institutionen, die sie gebremst hatten, sind nicht abgeschafft worden; sie sind geschwächt: niedrigere Spitzensteuersätze, sinkende gewerkschaftliche Organisationsgrade – ein kleinerer Anteil der Beschäftigten gehört einer Gewerkschaft an –, erodierende Kartellkontrolle, weiter reichende Ausnahmen bei der Erbschaftsbesteuerung.
+Seit etwa 1980 laufen Einkommens- und Vermögenskonzentration wieder auseinander, und die Institutionen, die sie gebremst hatten, sind nicht abgeschafft worden; sie sind geschwächt: niedrigere Spitzensteuersätze, sinkende gewerkschaftliche Organisationsgrade – ein kleinerer Anteil der Beschäftigten gehört einer Gewerkschaft an –, erodierende Kartellkontrolle, weiter reichende Ausnahmen bei der Erbschaftsbesteuerung.
 
 Warum? Die beste Erklärung stammt von einem amerikanischen Ökonomen, der politisch weit von Marx entfernt stand. Mancur Olson hat 1965 in *The Logic of Collective Action* gezeigt, warum kleine Gruppen mit konzentriertem Interesse sich leichter organisieren als große Gruppen mit diffusem Interesse. Für hundert Unternehmen, denen eine Regel je zehn Millionen kostet, lohnt sich der jahrelange Kampf um ihre Änderung. Für achtzig Millionen Bürger, denen dieselbe Regel je zwölf Euro einbringt, lohnt sich nicht einmal das Lesen des Gesetzentwurfs.
 
@@ -63,8 +63,6 @@ Daraus folgt ein Satz, den dieses Buch die *Rost-These* nennt: Regulierung verf�
 Ist dieser Verfall unumkehrbar? Nein. Die Kompressionsphase beweist das Gegenteil. Aber er ist *unwahrscheinlich* umzukehren, und das ist ein Unterschied, der Konstruktionsfolgen hat. Wer eine Ordnung baut, deren Bestand davon abhängt, dass ein unwahrscheinlicher Vorgang dauerhaft gelingt, hat schlecht gebaut.
 
 ### Marx als Kronzeuge
-
-Zum Schluss eine Notiz, die für den Aufbau des Buches wichtig ist.
 
 Der Streit über Genossenschaften und Belegschaftseigentum wird meist als Streit mit Marx geführt. Er ist es nicht. Marx hat die Genossenschaftsbewegung emphatisch verteidigt: In der Inauguraladresse der Internationalen Arbeiter-Assoziation von 1864 – der Eröffnungsrede der ersten internationalen Arbeiterorganisation, der Ersten Internationale – pries er die Kooperativfabriken als Beweis, dass Produktion in großem Maßstab möglich ist ohne „die Existenz einer Klasse von Meistern, die eine Klasse von ‚Händen' anwendet". Und er forderte, die Kooperativarbeit über vereinzelte Experimente hinaus zu nationalen Dimensionen zu entwickeln.
 

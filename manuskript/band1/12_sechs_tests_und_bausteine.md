@@ -20,7 +20,7 @@ Deshalb wird der Umsetzungspfad in diesem Buch geprüft statt behauptet. Sechs T
 
 **Der Bestandstest.** Überlebt er den Regierungswechsel, der ihn abschaffen will? Das ist der Test, an dem die meisten linken Reformprojekte des zwanzigsten Jahrhunderts gescheitert sind, und er ist am Ende dieses Pfades noch einmal gesondert durchzuspielen.
 
-**Der Föderalismustest.** Der sechste Test gehört dazu, weil er über die Umsetzbarkeit entscheidet: *Wer zahlt, wer verwaltet, wer bekommt das Aufkommen, und wer muss im Bundesrat zustimmen?* In einem Bundesstaat ist die Frage, welche Ebene eine Steuer erhebt und welche ihr Aufkommen behält, eine Verfassungsfrage, keine Verwaltungsfrage – und der zentrale Baustein der zweiten Stufe scheitert an ihr, wenn man sie nicht von Anfang an mitdenkt.
+**Der Föderalismustest.** Er fragt: *Wer zahlt, wer verwaltet, wer bekommt das Aufkommen, und wer muss im Bundesrat zustimmen?* In einem Bundesstaat ist die Frage, welche Ebene eine Steuer erhebt und welche ihr Aufkommen behält, eine Verfassungsfrage, keine Verwaltungsfrage – und der zentrale Baustein der zweiten Stufe scheitert an ihr, wenn man sie nicht von Anfang an mitdenkt.
 
 ### Was Deutschland bereits besitzt
 
@@ -46,11 +46,11 @@ Was daraus folgt, ist die Absage an den revolutionären Bruch, und sie ist eine 
 
 ### Der Belastungstest
 
-Bevor die drei Stufen beschrieben werden, sei ein Prüfverfahren eingeführt, das dieses Buch sich selbst auferlegt und das die meisten Reformprogramme nicht überstehen.
+Dazu kommt ein Prüfverfahren, das dieses Buch sich selbst auferlegt.
 
 Es heißt Belastungstest und lautet: *Für jedes Bauteil wird angegeben, was von ihm übrigbleibt, wenn die Förderung eingestellt, das Gesetz geändert und die Verwaltung umgebaut wird.*
 
-Die Ergebnisse dieses Tests sind unterschiedlich, und sie zu kennen ist wichtiger als jedes Versprechen.
+Die Ergebnisse dieses Tests sind unterschiedlich.
 
 *Ein übernommener Betrieb bleibt übernommen.* Wenn die Steuerentlastung morgen gestrichen wird, gehört der Maschinenbauer aus Ostwestfalen weiterhin seiner Belegschaft. Das ist eine Struktur.
 

@@ -44,7 +44,7 @@ Es gibt keinen Endzustand, in dem das Machtproblem erledigt wäre. Es gibt nur d
 
 Jede Regel in diesem Buch wird angegriffen werden. Jede Kennzahl wird geschönt werden. Jede Sperre wird eines Tages mit dem Argument der Effizienz fallen. Das ist die Anwendung des eigenen Befundes auf den eigenen Entwurf: Wer glaubt, seine Konstruktion sei von der Rost-These ausgenommen, hat sie nicht verstanden.
 
-Deshalb steht am Ende dieses Buches ein Kriterium, wo man ein Versprechen erwartet.
+Deshalb steht am Ende dieses Bandes ein Kriterium, wo man ein Versprechen erwartet.
 
 Fehlertoleranz ist das ehrlichste Maß einer guten Ordnung. Fehler vermeidet keine Ordnung – gefragt ist, ob sie sie überlebt. Ob ihre Elemente scheitern können, ohne dass das Ganze scheitert. Ob aus dem Scheitern des Elements etwas gelernt wird, das ohne dieses Scheitern nicht zu erfahren gewesen wäre.
 
