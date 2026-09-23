@@ -138,7 +138,7 @@ Ein Kronzeuge, dessen entlastende Aussage abgeschnitten wird, wird zum Belastung
 
 Die Differenz bleibt. Marx dachte die Genossenschaft als Durchgangsstufe zur vollen Assoziation nach dem Ende der Warenproduktion; diese Ordnung verweigert den Endzustand grundsätzlich, aus den Gründen des siebten Kapitels. Sie nimmt Marx' Übergangsform und streicht sein Ziel, weil das Ziel das Machtproblem wegdefiniert, statt es zu lösen.
 
-### 8. Marx gegen Lassalle – ein besonders scharfer Einwand, und er kommt nicht von Luxemburg
+### 8. Marx gegen Lassalle – ein Einwand, der nicht von Luxemburg kommt
 
 Der Einwand stammt aus einem deutschen Streit: Ferdinand Lassalle forderte 1863 für seinen Allgemeinen Deutschen Arbeiterverein Produktivgenossenschaften mit Staatshilfe; Hermann Schulze-Delitzsch hielt dagegen, die Arbeiter sollten sich selbst helfen. Zwölf Jahre später hat Marx sich zu Wort gemeldet – und zwar gegen Lassalle.
 
@@ -162,11 +162,11 @@ Ersetzt wird das eine Weltsubjekt; der Kampf bleibt. An die Stelle des Proletari
 
 Das ist Olsons Logik, die im sechsten Kapitel gegen die Einhegung arbeitete, auf die eigene Seite gezogen: konzentrierte Teilinteressen als Motor der Verschiebung. Man kann das unheroisch finden. Es ist der einzige bekannte Transformationsmodus, der ohne den Engpass maximaler Machtkonzentration auskommt.
 
-### 10. Der Staatlichkeits-Einwand – und er ist der beste in diesem Kapitel
+### 10. Der Staatlichkeits-Einwand
 
 Der zehnte Einwand stammt eher aus der anarchistischen als aus der marxistischen Tradition, wird aber von links erhoben und gehört deshalb hierher. Er lautet: Die Menschheit ist die längste Zeit ihrer Geschichte ohne Staaten ausgekommen. Warum soll ausgerechnet eine Ordnung, die Macht einhegen will, an dem Instrument festhalten, das Macht am stärksten bündelt – und das diese Ordnung an jeder Stelle benutzt: Steuerrecht, Konzessionen, Gerichte, eine staatliche Förderbank?
 
-Der Sachverhalt stimmt. Der anatomisch moderne Mensch existiert seit rund dreihunderttausend Jahren – die Funde von Jebel Irhoud in Marokko haben diesen Zeitpunkt 2017 um mehr als hunderttausend Jahre nach hinten verschoben. Die ersten Staaten entstehen im südlichen Mesopotamien vor etwa fünf- bis sechstausend Jahren. Staatlichkeit bedeckt damit weniger als zwei Prozent der Geschichte der Gattung. Rechnet man vorsichtiger und beginnt erst bei dem, was als Verhaltensmoderne bezeichnet wird – dem Zeitpunkt, ab dem symbolische Kultur, also Kunst, Bestattung und komplexe Werkzeuge, archäologisch fassbar wird –, sind es sieben bis zehn Prozent. In jeder Rechnung ist der Staat die Ausnahme und die Staatenlosigkeit der Normalfall.
+Der Einwand ist der beste in diesem Kapitel, und der Sachverhalt stimmt. Der anatomisch moderne Mensch existiert seit rund dreihunderttausend Jahren – die Funde von Jebel Irhoud in Marokko haben diesen Zeitpunkt 2017 um mehr als hunderttausend Jahre nach hinten verschoben. Die ersten Staaten entstehen im südlichen Mesopotamien vor etwa fünf- bis sechstausend Jahren. Staatlichkeit bedeckt damit weniger als zwei Prozent der Geschichte der Gattung. Rechnet man vorsichtiger und beginnt erst bei dem, was als Verhaltensmoderne bezeichnet wird – dem Zeitpunkt, ab dem symbolische Kultur, also Kunst, Bestattung und komplexe Werkzeuge, archäologisch fassbar wird –, sind es sieben bis zehn Prozent. In jeder Rechnung ist der Staat die Ausnahme und die Staatenlosigkeit der Normalfall.
 
 Und diese staatenlosen Gesellschaften waren nicht Chaos. Sie hatten Recht, Verfahren zur Konfliktbeilegung, Eigentumsordnungen, abgestufte Sanktionen, Verwandtschaftspflichten, Ächtung. Wer sie als Vorstufe behandelt, hat sie nicht angesehen. Dass die Kapitel zwei bis neun diesen Befund nicht führen, ist eine Lücke – die dritte Methodenregel verlangt, jede These am härtesten Gegenbeispiel zu prüfen, und dies ist das härteste Gegenbeispiel zur Staatlichkeit überhaupt.
 

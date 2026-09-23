@@ -8,7 +8,7 @@ Es gibt eine bequeme Art, die Geschichte des letzten Kapitels weiterzuerzählen.
 
 Diese Erzählung ist attraktiv, weil sie kurz ist, und sie hat einen wahren Kern. Aber sie erklärt eine Merkwürdigkeit nicht: dass es in der DDR – und in Ungarn, in Polen, in der Sowjetunion selbst – über Jahrzehnte Fachleute gab, die genau dieses Problem sahen, Lösungen vorschlugen und sie ausarbeiteten. Sie waren nicht heimliche Kapitalisten. Sie wollten die Planwirtschaft reparieren, nicht abschaffen. Und ihre Vorschläge scheiterten mit einer Regelmäßigkeit, die sich mit ökonomischer Untauglichkeit nicht erklären lässt, weil manche von ihnen nachweislich funktionierten, solange man sie ließ.
 
-Wer die zweite Regel dieses Buches ernst nimmt – Muster über Fälle statt Etikettenvergleich –, muss deshalb genauer hinsehen. Nicht: Konnte der Plan funktionieren? Sondern: Was genau geschah mit den Versuchen, ihn funktionieren zu lassen?
+Wer die zweite Regel dieses Buches ernst nimmt – Muster über Fälle statt Etikettenvergleich –, muss deshalb genauer hinsehen. Die Frage lautet dann: Was genau geschah mit den Versuchen, den Plan funktionieren zu lassen?
 
 ### Das Neue Ökonomische System
 
