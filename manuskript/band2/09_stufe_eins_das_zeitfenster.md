@@ -6,11 +6,11 @@
 
 Diese Stufe braucht drei bis vier Jahre, und ihre wichtigste Begründung hat ein Ablaufdatum.
 
-Die Nachfolgewelle im deutschen Mittelstand kulminiert in der zweiten Hälfte der zwanziger Jahre. Wenn Gesetzgebung, Programmaufbau und Beratungsinfrastruktur vier Jahre brauchen, greift das Instrument erst, wenn die Welle durchgelaufen ist. Ein Pfad, dessen eigene Begründung ein Verfallsdatum hat, muss priorisieren – und die Priorisierung ist eindeutig: *Nur der Nachfolgekanal steht unter Fristdruck.* Alles andere in dieser Stufe hat Zeit, ist aber nicht optional.
+Die Nachfolgewelle im deutschen Mittelstand kulminiert in der zweiten Hälfte der zwanziger Jahre. Wenn Gesetzgebung, Programmaufbau und Beratungsinfrastruktur vier Jahre brauchen, greift das Instrument erst, wenn die Welle durchgelaufen ist. Der Pfad muss deshalb priorisieren: *Nur der Nachfolgekanal steht unter Fristdruck;* alles andere in dieser Stufe hat Zeit, ist aber nicht optional.
 
 ### Der Nachfolgekanal, erstens: der Steuerhebel
 
-Der Steuerhebel ist der Kern. Eine Forderung, die nicht sagt, welche Norm sie ändert, ist eine Absichtserklärung.
+Der Steuerhebel ist der Kern, und eine Forderung nach ihm muss sagen, welche Norm sie ändert.
 
 Das geltende deutsche Recht kennt bereits eine Begünstigung der Betriebsveräußerung, und sie ist bescheiden. Nach § 16 Absatz 4 des Einkommensteuergesetzes gibt es einen Freibetrag von 45.000 Euro, der ab einem Veräußerungsgewinn von 136.000 Euro abschmilzt und bei 181.000 Euro vollständig entfällt; er steht einmal im Leben zu, ab dem 55. Lebensjahr oder bei dauernder Berufsunfähigkeit. Nach § 34 Absatz 3 des Einkommensteuergesetzes kann auf Antrag – ebenfalls einmal im Leben und ab 55 – ein ermäßigter Steuersatz von 56 Prozent des durchschnittlichen Steuersatzes gewährt werden, mindestens jedoch 14 Prozent.
 
@@ -26,9 +26,9 @@ Und dann die Frage der Rost-These: Wie baut man einen Hebel, der nicht rostet? M
 
 *Eine Evaluationsklausel mit Begründungszwang statt einer Verfallsklausel.* Eine Verfallsklausel – die Norm läuft nach acht Jahren automatisch aus – klingt nach Sorgfalt und ist ein Geschenk an die Gegner, weil sie nichts tun müssen. Eine Evaluationsklausel zwingt zur Messung und macht jede Kürzung zu einem Vorgang, in dem eine Regierung öffentlich gegen gemessene Ergebnisse argumentieren muss.
 
-*Und die frühe Erzeugung von Trägern:* Genossenschaftsverbände, Kammern und Banken, deren Geschäft an dem Instrument hängt. Das ist die Konstruktionsanweisung dieses Buches: Jede tragende Regel bekommt einen Träger mit konzentriertem Interesse an ihrem Bestand.
+*Und die frühe Erzeugung von Trägern:* Genossenschaftsverbände, Kammern und Banken, deren Geschäft an dem Instrument hängt.
 
-Zum britischen Vorbild gehört die Selbstkritik. Employee Ownership Trusts sind *treuhänderisch gehalten, nicht mitgliedschaftlich regiert*: Ein Treuhänder hält das Unternehmen im Interesse der Belegschaft, aber die Belegschaft wählt nicht, entscheidet nicht und hat keine individuellen Kapitalkonten. Das ist Verantwortungseigentum ohne Demokratie. Die britischen Zahlen belegen die *Übertragungsthese* – dass ein Steuerhebel Eigentum verschieben kann –, nicht die *Selbstverwaltungsthese*. Ein deutsches Modell sollte die Mitgliedschaftsverfassung mitliefern, die den Briten fehlt.
+Zum britischen Vorbild gehört die Selbstkritik. Employee Ownership Trusts sind *treuhänderisch gehalten, nicht mitgliedschaftlich regiert*: Ein Treuhänder hält das Unternehmen im Interesse der Belegschaft, aber die Belegschaft wählt nicht, entscheidet nicht und hat keine individuellen Kapitalkonten. Die britischen Zahlen belegen die *Übertragungsthese* – dass ein Steuerhebel Eigentum verschieben kann –, nicht die *Selbstverwaltungsthese*. Ein deutsches Modell sollte die Mitgliedschaftsverfassung mitliefern, die den Briten fehlt.
 
 ### Zweitens: die Finanzierung – und eine Unterscheidung, die meist verwischt wird
 
@@ -44,9 +44,7 @@ Also braucht Stufe eins *zwei* Instrumente.
 
 Für *Rettungsfälle* eine Marcora-artige Kofinanzierung – beihilferechtlich, also im Rahmen dessen, was das EU-Recht an staatlicher Kofinanzierung überhaupt erlaubt. Das Niveau ist dasselbe, auf das die CFI nach einer Beanstandung durch die Europäische Kommission im Jahr 2001 umstellen musste: eins zu eins. Auf jeden Euro, den die Belegschaft aufbringt, kommt höchstens ein Euro öffentlicher Kofinanzierung.
 
-Für *Nachfolgefälle* das Finanzierungspaket aus dem elften Kapitel des ersten Bandes, flankiert von Bürgschaften und Haftungsfreistellungen der KfW, damit die Hausbank das Risiko tragen kann.
-
-**Die Nachfolgewelle ist ein Zeitfenster nur dann, wenn die Finanzierung Übernahmen zu vollen Preisen trägt.**
+Für *Nachfolgefälle* das Finanzierungspaket aus dem elften Kapitel des ersten Bandes, flankiert von Bürgschaften und Haftungsfreistellungen der KfW, damit die Hausbank das Risiko tragen kann. Die Nachfolgewelle ist ein Zeitfenster nur dann, wenn die Finanzierung Übernahmen zu vollen Preisen trägt.
 
 ### Drittens: das Andienungsrecht statt des Zwangs
 
@@ -56,21 +54,21 @@ Frankreich verpflichtete mit der *Loi Hamon* ab dem 1. November 2014 Verkäufer 
 
 Die Lehre ist doppelt. *Ein Zwangsinstrument, das beißt, wird verfassungsrechtlich gestutzt* – in Deutschland wäre die Lage nicht grundsätzlich anders, weil auch hier die Eigentums- und die Berufsfreiheit einer Verhältnismäßigkeitsprüfung unterliegen, also der Frage, ob ein Eingriff zu dem, was er erreichen soll, in einem vertretbaren Verhältnis steht. *Und eine Informationspflicht ohne Finanzierung bewegt nichts,* weil die Belegschaft dann die Information hat und das Geld nicht.
 
-Daraus folgt die Konstruktion: ein *Andienungs- und Gleichpreisrecht mit garantierter Finanzierungszusage*, Fristen von sechs statt zwei Monaten, aber kein Kontrahierungszwang. Die Verkäuferin muss nicht an ihre Belegschaft verkaufen. Sie muss ihr die Gelegenheit geben, zum selben Preis zu bieten, und die Belegschaft muss das Geld dafür bekommen können.
+Daraus folgt die Konstruktion: ein *Andienungs- und Gleichpreisrecht mit garantierter Finanzierungszusage*, Fristen von sechs statt zwei Monaten, aber kein Kontrahierungszwang. Die Verkäuferin muss ihrer Belegschaft die Gelegenheit geben, zum selben Preis zu bieten, und die Belegschaft muss das Geld dafür bekommen können.
 
 Das ist zugleich die Antwort auf den liberalen Einwand, ein Vorkaufsrecht enteigne den Verkäufer über den Preis: Er bekommt denselben Preis, nur einen anderen Käufer – und einen Steuervorteil dafür.
 
 ### Viertens, und im politischen Betrieb am meisten unterschätzt: die Transaktionsinfrastruktur
 
-Eine Belegschaftsübernahme ist ein Unternehmenskauf. Sie wirft Rechtsform-, Bewertungs-, Finanzierungs-, Steuer- und Verfassungsfragen auf, sie braucht Verträge, Gutachten, Satzungen und Bankgespräche. Der Engpass dieses Pfades ist nicht das Gesetz. Es ist die Zahl der Menschen, die solche Transaktionen begleiten können.
+Eine Belegschaftsübernahme ist ein Unternehmenskauf. Sie wirft Rechtsform-, Bewertungs-, Finanzierungs-, Steuer- und Verfassungsfragen auf, sie braucht Verträge, Gutachten, Satzungen und Bankgespräche. Der Engpass dieses Pfades ist die Zahl der Menschen, die solche Transaktionen begleiten können.
 
 Was gebraucht wird, ist unspektakulär: Genossenschaftsverbände mit Gründungsberatung, Kammern, die den Weg kennen, Steuerberater mit Musterlösungen, standardisierte Satzungen, standardisierte Kapitalkontenmodelle, Musterverträge für Verkäuferdarlehen, Bewertungsleitfäden. Die Satzungen enthalten die Mindestkapitalklausel, die gestreckte Auszahlung und die Mitgliedschaftsquote aus dem zweiten Kapitel.
 
-Wer den Kanal will, muss zuerst ein paar hundert Leute ausbilden. Das steht in keinem Wahlprogramm und ist die Bedingung von allem.
+Wer den Kanal will, muss zuerst ein paar hundert Leute ausbilden.
 
 ### Der Rest der Stufe eins
 
-*Genossenschaftsrecht:* Entbürokratisierung von Gründung und Prüfungswesen, digitale Verfahren, Augenmaß bei der Pflichtmitgliedschaft jeder eingetragenen Genossenschaft in einem Prüfungsverband nach § 54 des Genossenschaftsgesetzes. Diese Pflichtmitgliedschaft sichert Qualität – sie ist einer der Gründe, warum Genossenschaften in Deutschland selten insolvent werden – und sie verteuert Gründungen. Beides ist wahr, und die Aufgabe ist eine Abwägung, keine Abschaffung.
+*Genossenschaftsrecht:* Entbürokratisierung von Gründung und Prüfungswesen, digitale Verfahren, Augenmaß bei der Pflichtmitgliedschaft jeder eingetragenen Genossenschaft in einem Prüfungsverband nach § 54 des Genossenschaftsgesetzes. Diese Pflichtmitgliedschaft sichert Qualität – sie ist einer der Gründe, warum Genossenschaften in Deutschland selten insolvent werden – und sie verteuert Gründungen. Die Aufgabe ist eine Abwägung, keine Abschaffung.
 
 *Verantwortungseigentum:* Einführung der Gesellschaft mit gebundenem Vermögen – aber nur mit dem Kontroll-Lock aus dem vierten Kapitel, sonst schafft der Gesetzgeber ein weiteres Dynastie-Instrument.
 
@@ -78,23 +76,21 @@ Wer den Kanal will, muss zuerst ein paar hundert Leute ausbilden. Das steht in k
 
 *Netze:* Fortsetzung der Rekommunalisierung bei auslaufenden Konzessionen – aber von Anfang an mit dem Sterberecht für Betreiber aus dem dritten Kapitel statt mit dem Querverbund von gestern. Dazu die Prüfpflicht, ob eine genossenschaftliche statt einer rein kommunalen Trägerschaft möglich ist.
 
-*Beschaffung:* Umstellung der öffentlichen und gemeinwirtschaftlichen Vergabe auf Lebenszykluskosten. Zulässig nach Artikel 68 der Vergaberichtlinie und § 59 der Vergabeverordnung – es braucht kein Gesetz, nur Vergabestellen, die rechnen können. Die rechtliche Grenze gehört dazu: *Soziale und ökologische Anforderungen an den Auftragsgegenstand und an die Ausführungsbedingungen sind zulässig; die Bevorzugung bestimmter Trägerformen ist es nicht.* Der Sektor erzwingt Standards über Kriterien, nicht über Trägerpräferenz.
+*Beschaffung:* Umstellung der öffentlichen und gemeinwirtschaftlichen Vergabe auf Lebenszykluskosten. Zulässig nach Artikel 68 der Vergaberichtlinie und § 59 der Vergabeverordnung – es braucht kein Gesetz, nur Vergabestellen, die rechnen können. Die rechtliche Grenze gehört dazu: *Soziale und ökologische Anforderungen an den Auftragsgegenstand und an die Ausführungsbedingungen sind zulässig; die Bevorzugung bestimmter Trägerformen ist es nicht.*
 
 *Bürgerräte:* kommunale Losgremien mit Antragsrecht als Regelinstitution, mit dem Verfahrensdesign und den materiellen Teilnahmebedingungen aus dem siebten Kapitel.
 
 ### Und wenn das Fenster zufällt?
 
-Dieser Fall ist wahrscheinlich. Vier Jahre Gesetzgebung sind optimistisch, und die Welle wartet nicht.
+Dieser Fall ist wahrscheinlich, denn vier Jahre Gesetzgebung sind optimistisch, und die Welle wartet nicht.
 
 Dann greift ein Ersatzweg aus drei Teilen.
 
-*Erstens: die Reihenfolge umdrehen.* Beratungsinfrastruktur, Musterverträge, Standardsatzungen und Bankprodukte brauchen kein Gesetz. Sie können sofort beginnen, aus Verbandsmitteln, während die Steuernorm noch im parlamentarischen Verfahren ist. Wenn das Gesetz kommt, steht der Apparat schon.
+*Erstens: die Reihenfolge umdrehen.* Beratungsinfrastruktur, Musterverträge, Standardsatzungen und Bankprodukte brauchen kein Gesetz. Sie können sofort beginnen, aus Verbandsmitteln, während die Steuernorm noch im parlamentarischen Verfahren ist.
 
-*Zweitens: der zweite Kanal.* Wer die Erstübergabe verpasst, findet dieselben Betriebe fünf bis zehn Jahre später bei Beteiligungsgesellschaften wieder, deren Haltedauer abläuft – das Geschäftsmodell dieser Gesellschaften besteht darin, wieder zu verkaufen. Ein Andienungsrecht der Belegschaft *beim Weiterverkauf* erreicht dieselben Betriebe im zweiten Anlauf, unter ungünstigeren Bedingungen, aber es erreicht sie.
+*Zweitens: der zweite Kanal.* Wer die Erstübergabe verpasst, findet dieselben Betriebe fünf bis zehn Jahre später bei Beteiligungsgesellschaften wieder, deren Haltedauer abläuft – das Geschäftsmodell dieser Gesellschaften besteht darin, wieder zu verkaufen. Ein Andienungsrecht der Belegschaft *beim Weiterverkauf* erreicht dieselben Betriebe im zweiten Anlauf, wenn auch unter ungünstigeren Bedingungen.
 
 *Drittens: die Krisenfälle.* Marcora-artige Kofinanzierung ist von der Nachfolgewelle unabhängig und wird gebraucht, solange es Insolvenzen gibt – also immer.
-
-Das Fenster ist wichtig. Es ist nicht das einzige.
 
 ---
 

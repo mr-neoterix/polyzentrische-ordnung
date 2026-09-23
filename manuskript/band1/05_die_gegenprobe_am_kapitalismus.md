@@ -4,7 +4,7 @@
 
 ---
 
-Bis hierher hat dieses Buch getan, was in Deutschland niemandem wehtut: Es hat den Staatssozialismus geprüft und ihm ein schlechtes Zeugnis ausgestellt. Jetzt beginnt der unbequeme Teil.
+Bis hierher hat dieses Buch getan, was in Deutschland niemandem wehtut: Es hat den Staatssozialismus geprüft und ihm ein schlechtes Zeugnis ausgestellt.
 
 Die erste Regel lautet Symmetrie. Wenn die Prüfung ergeben hat, dass eine Ordnung daran scheitert, dass wirtschaftliche und politische Verfügungsgewalt in einem Zentrum zusammenlaufen und keine Korrektur von außen zulassen, dann ist das eine Aussage über eine *Bauform*, nicht über eine Weltanschauung. Und dann muss dieselbe Prüfung an der anderen Bauform vorgenommen werden – mit demselben Verfahren, ohne Rabatt.
 
@@ -16,7 +16,7 @@ Beginnen wir mit Fällen, die in der üblichen Erzählung nicht vorkommen.
 
 **Chile nach 1973.** Salvador Allende, seit 1970 gewählter Präsident, führte ein Programm durch, das Kupferbergbau entschädigungslos verstaatlichte, Banken nationalisierte und eine Agrarreform durchsetzte. Es traf auf Wirtschaftskrise, Inflation, ausbleibende Investitionen und massiven amerikanischen Druck, unter anderem in Gestalt einer Kreditblockade. Am 11. September 1973 endete es im Militärputsch. Was danach kam, war eines der marktradikalsten Wirtschaftsprogramme des zwanzigsten Jahrhunderts – Privatisierung, Deregulierung, Öffnung –, durchgeführt von einer Militärdiktatur, die Gewerkschaften zerschlug, Parteien verbot, die Presse zensierte und ihre Gegner ermordete.
 
-Wer behauptet, der Markt hege Macht ein, muss diesen Fall erklären. Es gab Preise. Es gab Eigentum. Es gab Konkurrenz. Es gab keine Einhegung, weil die Institutionen fehlten, die die Einhegung leisten: unabhängige Gerichte, freie Presse, organisierte Gegenmacht, die Möglichkeit, eine Regierung abzuwählen.
+Wer behauptet, der Markt hege Macht ein, muss diesen Fall erklären. Es gab Preise, Eigentum und Konkurrenz, aber keine Einhegung, weil die Institutionen fehlten, die die Einhegung leisten: unabhängige Gerichte, freie Presse, organisierte Gegenmacht, die Möglichkeit, eine Regierung abzuwählen.
 
 **Russland nach 1992.** Die Privatisierung der sowjetischen Wirtschaft brachte binnen weniger Jahre eine Eigentumskonzentration hervor, wie sie in Friedenszeiten kaum je erreicht worden ist – und aus ihr eine Klasse von Eigentümern, deren politischer Einfluss bald mit dem des Staates konkurrierte. Was danach folgte, war Unterwerfung in der Gegenrichtung: Der wiedererstarkte Staatsapparat integrierte die Vermögenden, statt sie zu begrenzen. Am Ende stand eine Ordnung, in der wirtschaftliche und politische Macht wieder in einem Zentrum zusammenlaufen – nur diesmal mit Privateigentum.
 
@@ -26,7 +26,7 @@ Drei Fälle, ein Ergebnis: Kapitalismus ohne bestimmte Zusatzinstitutionen hegt 
 
 Und ein vierter Fall gehört daneben, der nicht in diese Reihe passt und ohne den sie schief steht. Frankreich hatte 1981 alles, was Chile fehlte: unabhängige Gerichte, eine freie Presse, organisierte Gegenmacht und eine Regierung, die man abwählen konnte. François Mitterrand, im Mai jenes Jahres gewählt, verstaatlichte Banken und Industriekonzerne und fuhr ein keynesianisches Expansionsprogramm – höhere Staatsausgaben, um die Wirtschaft anzukurbeln. Binnen achtzehn Monaten wurde der Franc dreimal abgewertet, Kapital floss ab, und mit der dritten Abwertung am 21. März 1983 kehrte die Regierung zur Haushaltsdisziplin zurück – der *tournant de la rigueur*.
 
-Die verbreitete Erzählung nimmt diesem Fall die Schärfe, indem sie ihn übertreibt: Die Märkte hätten eine gewählte Regierung in die Knie gezwungen. Dagegen steht zweierlei. Die neuere Forschung bestreitet, dass der Kurswechsel überhaupt ein bewusster Bruch war; und ein Ausweg lag auf dem Tisch, nämlich der Austritt aus dem europäischen Währungssystem, der aus europapolitischen Gründen verworfen wurde. Wer sich zwischen zwei Wegen entscheidet, wird nicht gezwungen. Mit diesem Befund erledigt sich die Beschränkung gleichwohl nicht: Ein Land mit eigener Währung, offenem Kapitalverkehr und einem festen Wechselkurs in einem Verbund kann ein Programm nur so lange fahren, wie es den Wechselkurs hält. Und der Preis des Ausstiegs war so hoch, dass er nicht gezahlt wurde. Ob eine Regierung darin einen Zwang sah oder eine Gelegenheit, ist eine Frage nach Motiven, und solche Fragen beantwortet dieses Buch nicht. Belegt ist der Kanal, nicht die Kapitulation.
+Die verbreitete Erzählung nimmt diesem Fall die Schärfe, indem sie ihn übertreibt: Die Märkte hätten eine gewählte Regierung in die Knie gezwungen. Dagegen steht zweierlei. Die neuere Forschung bestreitet, dass der Kurswechsel überhaupt ein bewusster Bruch war; und ein Ausweg lag auf dem Tisch, nämlich der Austritt aus dem europäischen Währungssystem, der aus europapolitischen Gründen verworfen wurde. Wer sich zwischen zwei Wegen entscheidet, wird nicht gezwungen. Mit diesem Befund erledigt sich die Beschränkung gleichwohl nicht: Ein Land mit eigener Währung, offenem Kapitalverkehr und einem festen Wechselkurs in einem Verbund kann ein Programm nur so lange fahren, wie es den Wechselkurs hält. Und der Preis des Ausstiegs war so hoch, dass er nicht gezahlt wurde. Ob eine Regierung darin einen Zwang sah oder eine Gelegenheit, ist eine Frage nach Motiven, und solche Fragen beantwortet dieses Buch nicht.
 
 Für die Diagnose folgt daraus wenig und für den Weg viel: Chile zeigt, was ohne die einhegenden Institutionen geschieht, Frankreich, was mit ihnen noch immer möglich ist. Der Umsetzungspfad hat beides einzurechnen – den offenen Bruch und die Beschränkung, die keinen Urheber hat. Denn Frankreich ist der einzige der vier Fälle, in dem der Markt Macht tatsächlich begrenzt hat. Nur war es die Macht, die aus einer Wahl hervorgegangen war.
 
@@ -36,11 +36,11 @@ Damit ist die eigentliche Frage gestellt: Wenn nicht der Markt, was dann?
 
 Die Antwort ist eine Liste.
 
-*Konkurrenz mit harter Budgetbeschränkung.* Gemeint ist die reale Möglichkeit, unterzugehen; der Wettbewerb als Ideal ist etwas anderes. Ein Unternehmen, das falsch entscheidet, verschwindet, und mit ihm verschwindet die Macht seiner Eigentümer. Das ist die unpersönlichste Form der Machtbegrenzung, die es gibt: Niemand muss sie beschließen.
+*Konkurrenz mit harter Budgetbeschränkung.* Gemeint ist die reale Möglichkeit, unterzugehen; der Wettbewerb als Ideal ist etwas anderes. Ein Unternehmen, das falsch entscheidet, verschwindet, und mit ihm verschwindet die Macht seiner Eigentümer.
 
 *Ausweichmöglichkeiten.* Wer mit seinem Arbeitgeber, seiner Bank, seinem Vermieter, seiner Gemeinde unzufrieden ist, kann zu einem anderen wechseln. Das ist Hirschmans Exit, und seine Wirkung hängt nicht daran, dass viele gehen; sie hängt daran, dass viele gehen *könnten*.
 
-*Sphärentrennung.* Wirtschaftliche Macht kauft politische Macht nicht direkt. Ein Unternehmen ernennt keine Richter, kein Vermögender befiehlt einer Behörde. Diese Trennung ist durchlässig; dass es sie gibt, ist trotzdem ein Unterschied ums Ganze.
+*Sphärentrennung.* Wirtschaftliche Macht kauft politische Macht nicht direkt, auch wenn die Trennung durchlässig ist: Ein Unternehmen ernennt keine Richter, kein Vermögender befiehlt einer Behörde.
 
 *Rechtsstaat.* Regeln, die auch für Mächtige gelten, durchgesetzt von Gerichten, die nicht von den Betroffenen abhängen.
 
@@ -52,7 +52,7 @@ Und damit ist der zentrale Satz dieses Buches erreicht.
 
 **Die entscheidende Systemvariable ist nicht Kapitalismus gegen Sozialismus, sondern Polyzentrik gegen Monozentrik.**
 
-Der historische Kapitalismus des Westens hat Macht besser eingehegt als der Staatssozialismus, weil er in einigen Ländern und für einige Jahrzehnte mit polyzentrischen Institutionen verheiratet war. Sein Etikett hat damit nichts zu tun. Diese Ehe war kontingent, nicht notwendig. Chile, Russland und China zeigen, dass es sie nicht geben muss. Und umgekehrt: Die Monozentrik des Staatssozialismus war eine Bauentscheidung, keine begriffliche Folge des Gemeineigentums. Sie war eine leninistische Entscheidung, getroffen aus der Logik der Machtergreifung heraus.
+Der historische Kapitalismus des Westens hat Macht besser eingehegt als der Staatssozialismus, weil er in einigen Ländern und für einige Jahrzehnte mit polyzentrischen Institutionen verheiratet war. Diese Ehe war kontingent, nicht notwendig. Chile, Russland und China zeigen, dass es sie nicht geben muss. Und umgekehrt: Die Monozentrik des Staatssozialismus war eine Bauentscheidung, keine begriffliche Folge des Gemeineigentums. Sie war eine leninistische Entscheidung, getroffen aus der Logik der Machtergreifung heraus.
 
 ### Der Zeuge aus dem anderen Lager
 
@@ -72,9 +72,9 @@ Der erste Grund ist, dass die Konzentrationstendenz real ist. Sie ist nicht nur 
 
 Der zweite Grund ist, dass Regeln verfallen. Sie werden ausgehöhlt statt abgeschafft – langsam, im Detail, durch die Beharrlichkeit derer, denen sie im Weg stehen. Und daraus folgt die Konstruktionsentscheidung, die dieses Buch von einem ordoliberalen unterscheidet: Wo immer möglich, wird eine Regel durch eine Eigentumsstruktur ersetzt, weil eine Eigentumsstruktur einen Träger hat, der sie verteidigt, und eine Regel nur eine Behörde, die man aushungern kann.
 
-Vorerst steht ein Zwischenergebnis. Die Frage, mit der die politische Debatte seit hundertfünfzig Jahren geführt wird – Privateigentum oder Gemeineigentum –, ist nicht die entscheidende Frage. Sie ist eine Frage über Etiketten. Die entscheidende Frage lautet, ob eine Ordnung viele konkurrierende, sterbliche, beobachtbare Machtzentren hat oder eines, das keinen Gegner kennt.
+Vorerst steht ein Zwischenergebnis. Die Frage, mit der die politische Debatte seit hundertfünfzig Jahren geführt wird – Privateigentum oder Gemeineigentum –, ist nicht die entscheidende Frage.
 
-Beide historischen Großsysteme haben darauf keine haltbare Antwort gegeben. Der Staatssozialismus hat die Monozentrik zum Programm gemacht. Der Kapitalismus hat die Polyzentrik geerbt und lebt davon, sie langsam aufzubrauchen.
+Beide historischen Großsysteme haben auf die entscheidende Frage keine haltbare Antwort gegeben. Der Staatssozialismus hat die Monozentrik zum Programm gemacht. Der Kapitalismus hat die Polyzentrik geerbt und lebt davon, sie langsam aufzubrauchen.
 
 Warum das so ist und warum keine der beiden klassischen Antworten das Problem löst, ist der Gegenstand des dritten Teils.
 
