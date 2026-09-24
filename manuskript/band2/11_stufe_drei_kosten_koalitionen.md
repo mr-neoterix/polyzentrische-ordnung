@@ -10,7 +10,7 @@ Was in den ersten beiden Stufen nicht erreicht wird, erreichen auch schärfere I
 
 Wo natürliche Monopole in Privatbesitz nachweislich Renten extrahieren und die Instrumente der Stufen eins und zwei versagen, steht Artikel 15 des Grundgesetzes als geordnete letzte Möglichkeit bereit – Überführung in Gemeineigentum durch Gesetz, gegen Entschädigung. Schon als glaubwürdige Rückfalloption diszipliniert er, ohne angewendet zu werden: Ein Eigentümer, der weiß, dass es diesen Weg gibt, verhandelt anders über einen Verkauf.
 
-Ans Ende gehört sie wegen des Investitionsschutzes. Kauf im Nachfolgefall und Konzessionsrückfall bei Auslaufen sind schiedsfest – gegen sie lässt sich kein internationales Schiedsgericht anrufen. Vergesellschaftung ist es nur eingeschränkt, weil neben dem Grundgesetz ein Parallelrechtsweg für ausländische Eigentümer steht – bei Netzen und Energieanlagen bis in die 2040er Jahre, bei Wohnungsbeständen, soweit ein bilaterales Abkommen reicht.
+Ans Ende gehört sie wegen des Investitionsschutzes. Kauf im Nachfolgefall und Konzessionsrückfall bei Auslaufen sind schiedsfest – gegen sie lässt sich kein internationales Schiedsgericht anrufen. Vergesellschaftung ist es nur eingeschränkt, weil neben dem Grundgesetz ein Parallelrechtsweg für ausländische Eigentümer steht – im Energiesektor bis in die vierziger Jahre dieses Jahrhunderts, bei Wohnungsbeständen, soweit ein bilaterales Abkommen reicht.
 
 Drei Fragen gehören dazu, und alle drei sind Gegenstand des folgenden Kapitels: was aus dem Investitionsschutz für die Rechtspolitik folgt, welche Grenzen das Beihilfe-, Vergabe- und Binnenmarktrecht dem Pfad setzt und warum die europäische Antwort eine Exportstrategie sein muss, keine Verteidigungsstrategie.
 

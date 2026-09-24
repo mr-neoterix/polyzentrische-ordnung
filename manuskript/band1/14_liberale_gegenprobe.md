@@ -24,7 +24,7 @@ Der Belegschaftseigentümer legt Arbeitsplatz, Vermögen und oft Altersvorsorge 
 
 *Antwort:* Der Einwand ist berechtigt, und er bleibt es auch nach der Antwort. Die Designantwort steht in der Verfassung des Belegschaftssektors und ist im Verbundmodell von Mondragón erprobt: föderale Solidarfonds und die Umsetzung von Mitgliedern aus scheiternden in gesunde Genossenschaften. Die eigene Sozialversicherung des Verbunds, Lagun Aro, übernimmt diese Ordnung nicht; ihre Mitglieder bleiben in den allgemeinen Systemen. Dazu eine satzungsmäßige Obergrenze für den Anteil des Privatvermögens, der im eigenen Betrieb gebunden sein darf, die Trennung von Alterssicherung und Kapitalkonto und die Diversifikation über die Fondsfamilie.
 
-Die Risikokonzentration ist damit ein Argument für die Föderation, nicht gegen die Genossenschaft. Und sie hat eine Systemseite, die der Einwand meist nicht stellt und die dort unter dem gemeinsamen Schock behandelt wird: Eine Föderation, deren Betriebe, Bank, Fondshaus und Solidarfonds im selben Tal sitzen, streut das Risiko ihrer Mitglieder auf Träger, die es gemeinsam tragen. Dagegen stehen eine *Heimatquote*, die begrenzt, wie viel die Fonds im eigenen Land anlegen dürfen, die *Kreuzhaltung* geduldigen Kapitals aus anderen Ländern, Kredite im Konsortium mehrerer Banken und eine Rückversicherung, die Mitglieder deckt und keine Betriebe.
+Die Risikokonzentration ist damit ein Argument für die Föderation, nicht gegen die Genossenschaft. Und sie hat eine Systemseite, die der Einwand meist nicht stellt und die dort unter dem gemeinsamen Schock behandelt wird: Eine Föderation, deren Betriebe, Bank, Fondshaus und Solidarfonds im selben Tal sitzen, streut das Risiko ihrer Mitglieder auf Träger, die es gemeinsam tragen. Dagegen stehen die Heimatquote, die begrenzt, wie viel die Fonds im eigenen Land anlegen dürfen, die Kreuzhaltung geduldigen Kapitals aus anderen Ländern, Kredite im Konsortium mehrerer Banken und eine Rückversicherung, die Mitglieder deckt und keine Betriebe.
 
 ### 3. Der Kapitalmarkteinwand
 
@@ -58,7 +58,7 @@ Die Gegenfrage an den Einwand: Wenn das Etikett entschiede, müsste Mondragón d
 
 *Antwort:* Der Forschungsstand, wie ihn die Ökonomin Virginie Pérotin zusammengefasst hat, widerspricht – mindestens gleiche Produktivität, mindestens gleiche Überlebensraten, in der uruguayischen Messung, die das dreizehnte Kapitel beim Krisen-Einwand anführt, ein niedrigeres Risiko der Auflösung.
 
-Pérotin nennt die Einschränkung selbst, und sie stützt die Konstruktion: Der Vorteil stammt aus Ländern mit degenerations- und unterinvestitionssicheren Genossenschaftsverfassungen. Das Design entscheidet, nicht die Rechtsform – weshalb Kapitalkonten, Mitgliedschaftspfade und Föderation hier so viel Raum bekommen.
+Die Einschränkung, die Pérotin selbst nennt, stützt die Konstruktion: Der Vorteil stammt aus Ländern mit degenerations- und unterinvestitionssicheren Genossenschaftsverfassungen. Das Design entscheidet, nicht die Rechtsform – weshalb Kapitalkonten, Mitgliedschaftspfade und Föderation hier so viel Raum bekommen.
 
 ### 7. Der erste Public-Choice-Einwand: der Allmende-Sektor als Rentenmaschine
 
@@ -108,7 +108,7 @@ Und der Liberale bekommt eine Selbstbindung in die Hand, auf die er dieses Buch 
 
 ### 11. „Enteignungsdrohung schreckt Investoren ab."
 
-*Antwort:* Die Kernstrategie ist Kauf, keine Enteignung – im Nachfolgefall, bei auslaufenden Konzessionen, über die Erbschaftsteuer. Artikel 15 des Grundgesetzes steht als letzte Möglichkeit dort, wo natürliche Monopole nachweislich Renten extrahieren, gegen Entschädigung und nach Versagen milderer Mittel. Und wie das elfte Kapitel gezeigt hat, begrenzt das Investitionsschutzrecht diesen Weg ohnehin stärker als jede politische Rücksicht.
+*Antwort:* Die Kernstrategie ist Kauf, keine Enteignung – im Nachfolgefall, bei auslaufenden Konzessionen, über die Erbschaftsteuer. Artikel 15 des Grundgesetzes steht als letzte Möglichkeit dort, wo natürliche Monopole nachweislich Renten extrahieren, gegen Entschädigung und nach Versagen milderer Mittel. Und wie das elfte Kapitel gezeigt hat, steht diesem Weg bei ausländischen Eigentümern zusätzlich das Investitionsschutzrecht entgegen – im Energiesektor bis in die vierziger Jahre, bei Wohnungsbeständen, soweit ein bilaterales Abkommen reicht.
 
 Zugleich ist die Investorenwarnung selbst ein Machtargument und nach der Symmetrieregel zu behandeln wie jede offizielle Begründung: Sie wird von denen vorgetragen, die von der Nichtanwendung profitieren. Zu prüfen ist ihre empirische Basis, nicht ihre Rhetorik, und zwar Fall für Fall.
 
@@ -194,7 +194,7 @@ Was der Liberale allerdings nicht behalten darf, ist die Behauptung, der Status 
 
 *Jugoslawien, die vier Unterschiede und der Ward-Effekt:* Das gesellschaftliche Eigentum, die weiche Budgetgrenze und die monozentrische Politik sind mit Fundstellen in Kapitel 4 belegt, die vier Kapitalquellen und die Grenze bei kapitalintensiver Großindustrie in Band 2, Kapitel 2, Fagor in Kapitel 9. **Bestätigt.** Dass der Ward-Effekt an der Selbstverwaltung hängt und deshalb unter den vier Unterschieden fehlt, weil er die Eigenschaft benennt, die diese Ordnung mit jener teilt, ist **Wertung** dieses Buches. Sie folgt aus Wards Modell selbst, das die Firma über das Einkommen je Kopf und die selbst bestimmte Mitgliederzahl beschreibt, nicht über die Eigentumsform des Kapitals.
 
-*Pérotin und Burdín:* Virginie Pérotin, *What do we really know about worker co-operatives?*, Co-operatives UK, 2016; Gabriel Burdín, „Are Worker-Managed Firms More Likely to Fail Than Conventional Enterprises? Evidence from Uruguay", in: *ILR Review* 67 (2014), H. 1, S. 202–238 (Sozialversicherungsdaten 1996–2005, 22.315 Unternehmen, darunter 243 Genossenschaften). **Bestätigt** hinsichtlich der Fundstellen und der Richtung des Befunds; *mit Einschränkung* hinsichtlich Effektgröße und Stichprobenzahlen, die über Wiedergaben der Zusammenfassung gesichert sind (Einzelheiten in Band 2, Kapitel 6). Die Design-Einschränkung ist mitzuführen: Der Befund stammt aus Ländern mit degenerations- und unterinvestitionssicheren Genossenschaftsverfassungen; Wortlaut und Stelle dieser Bedingung bei Pérotin sind nicht eingesehen (Auftrag V22 in `PROCESS.md`).
+*Pérotin und Burdín:* siehe Kapitel 13 und Band 2, Kapitel 6. **Bestätigt** hinsichtlich Fundstellen und Richtung, mit der ausdrücklich mitzuführenden Design-Einschränkung.
 
 *Mondragón, Fagor:* siehe Kapitel 9. **Bestätigt.**
 

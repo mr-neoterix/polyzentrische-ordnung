@@ -36,7 +36,7 @@ Der entscheidende Vorzug dieses Pfades ist, dass er kaum etwas erfinden muss. Fa
 
 *Selbstverwaltung in der Sozialversicherung.* Deutschland hat seit über hundert Jahren Institutionen, die von Vertretern der Versicherten und der Arbeitgeber getragen werden. In der Krankenversicherung kommen konkurrierende Träger hinzu, ein Wechselrecht und ein tatsächlich angewandtes Insolvenzrecht – die polyzentrischste Struktur, die dieser Staat besitzt. Diese Selbstverwaltung ist zugleich der Baustein in der schlechtesten Verfassung, denn ihr Selbstverwaltungsorgan wird von gut einem Fünftel der Berechtigten bestellt, und ein großer Teil der Sitze wird gar nicht erst umkämpft. Der zweite Band behandelt beides im Kapitel über den Sozialstaat, weil dieser Baustein anders als die übrigen zuerst instand gesetzt werden muss, bevor er benutzt werden kann.
 
-*Föderalismus.* Er wird in Deutschland meist als Bremse beklagt. In diesem Entwurf ist er ein Konstruktionsvorteil: Er liefert die regionale Gliederung, die die Fondsfamilie – mehrere regional zugeschnittene Bürgerfonds statt eines einzigen – ohnehin braucht.
+*Föderalismus.* Er wird in Deutschland meist als Bremse beklagt. In diesem Entwurf ist er ein Konstruktionsvorteil: Er liefert die regionale Gliederung, die die Fondsfamilie ohnehin braucht.
 
 *Die KfW mit ihrem Nachfolgeinstrumentarium.* Die staatliche Förderbank fördert Unternehmensnachfolgen aus dem ERP-Sondervermögen – dem aus Marshallplan-Mitteln gespeisten European Recovery Program –, zentral über den ERP-Förderkredit Gründung und Nachfolge: zinsverbilligte Kredite bis 500.000 Euro für Gründung, Übernahme oder Erwerb einer tätigen Beteiligung, beantragt über die Hausbank. Für größere Vorhaben schließt der ERP-Förderkredit KMU an, das Programm für kleine und mittlere Unternehmen. Ein eigenes Programm für genossenschaftliche Übernahmen existiert nicht – und genau das ist die Lücke, die Stufe eins schließt.
 
@@ -72,7 +72,7 @@ Der Pfad hat drei Stufen, und ihre Reihenfolge ist Konstruktion, keine Bequemlic
 
 *Stufe eins* – sofort, im bestehenden Recht, drei bis vier Jahre – schafft den Kanal, durch den Betriebe in Belegschaftseigentum übergehen können, und nutzt ein Zeitfenster, das sich schließt.
 
-*Stufe zwei* – Jahre drei bis zehn – baut die Strukturen, die den Kanal speisen und die Eigentumsverteilung dauerhaft verändern: die Erbschaftsteuerreform, die Belegschaftstreuhand – der Träger, der die Belegschaftsanteile hält – und die Fondsfamilie. Sie braucht mehr Zeit, weil sie Verfassungsfragen berührt.
+*Stufe zwei* – Jahre drei bis zehn – baut die Strukturen, die den Kanal speisen und die Eigentumsverteilung dauerhaft verändern: die Erbschaftsteuerreform, die Belegschaftstreuhand und die Fondsfamilie. Sie braucht mehr Zeit, weil sie Verfassungsfragen berührt.
 
 *Stufe drei* – Jahre acht bis zwanzig – konsolidiert und behandelt die Fälle, in denen die milderen Instrumente versagen.
 
