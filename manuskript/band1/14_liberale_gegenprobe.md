@@ -122,7 +122,7 @@ Und es kommt schlimmer: Für die *Ordnung als Ganze* – ein Land mit drei konku
 
 *Antwort:* Zweierlei, und beides ist eine Einschränkung und keine Widerlegung.
 
-Erstens lässt sich die Beleglast verteilen, und das geschieht, wo es geht: Für die Föderationswirkung stehen die italienischen Genossenschaftskonsortien zur Verfügung, für die Übertragungswirkung des Steuerhebels die britischen Employee Ownership Trusts, für die Rettungsfälle die italienische Finanzgesellschaft CFI, die Belegschaftsübernahmen nach dem Marcora-Gesetz finanziert. Für Produktivität und Überleben stehen die uruguayischen Daten bei Burdín und Pérotins Forschungsüberblick zur Verfügung, für die Wohnungs- und Bankgenossenschaften der deutsche Bestand. Wo ein Element *nur* bei Mondragón belegt ist – etwa die Umsetzung von Mitgliedern zwischen Betrieben in großem Maßstab –, ist das gekennzeichnet.
+Erstens lässt sich die Beleglast verteilen, und das geschieht, wo es geht: Für die Föderationswirkung stehen die italienischen Genossenschaftskonsortien zur Verfügung, für die Übertragungen unter dem Steuerhebel die britischen Employee Ownership Trusts, für die Rettungsfälle die italienische Finanzgesellschaft CFI, die Belegschaftsübernahmen nach dem Marcora-Gesetz finanziert. Für Produktivität und Überleben stehen die uruguayischen Daten bei Burdín und Pérotins Forschungsüberblick zur Verfügung, für die Wohnungs- und Bankgenossenschaften der deutsche Bestand. Wo ein Element *nur* bei Mondragón belegt ist – etwa die Umsetzung von Mitgliedern zwischen Betrieben in großem Maßstab –, ist das gekennzeichnet.
 
 Zweitens wird die Gesamtaussage auf das reduziert, was sie ist: eine begründete Wette. Als Wette bekommt sie ein Datum und eine Regel, die vor der ersten Erhebung feststeht. Nach zehn Jahren wird die Verbreitung des Sektors gemessen, die Leistung seiner Betriebe im gematchten Vergleich, die Verteilung von Vermögen und Stimmrechten – und die Zahl der Ausnahmen von den eigenen Sterblichkeitsregeln. Denn Fehlertoleranz zeigt sich nicht daran, wie wenig scheitert; sie zeigt sich daran, ob Scheitern zugelassen wird. Jede dieser Größen hat ihr eigenes Urteil, wie der Umsetzungspfad des zweiten Bandes sie ausschreibt. Wächst der Sektor, während die Konzentration mit ihm wächst, ist die Wette in ihrem Zweck verloren, und werden die eigenen Schwellen immer öfter folgenlos gerissen, ist das Kriterium verloren, unter dem sie steht.
 
@@ -200,7 +200,7 @@ Was der Liberale allerdings nicht behalten darf, ist die Behauptung, der Status 
 
 *Lagun Aro:* die eigene Sozialversicherung des Mondragón-Verbunds, gegründet 1967, nachdem Genossenschaftsmitglieder im spanischen Recht als Selbständige eingeordnet worden waren und damit aus dem allgemeinen System fielen; heute neben den staatlichen Leistungen. **Bestätigt** dem Grunde nach, *mit Einschränkung:* Zeitpunkte der rechtlichen Einordnung werden uneinheitlich dargestellt. Dass diese Ordnung die eigene Versicherung nicht übernimmt und den Verbleib in den allgemeinen Systemen verlangt, begründet Band 2, Kapitel 8. **Wertung.**
 
-*Employee Ownership Trusts, Marcora/CFI:* siehe Kapitel 8 und Band 2, Kapitel 9. **Bestätigt.**
+*Employee Ownership Trusts, Marcora/CFI:* siehe Kapitel 8 und Band 2, Kapitel 9, dort mit dem Status jeder einzelnen Angabe.
 
 *Artikel 15 GG, Investitionsschutz:* siehe Kapitel 11. **Bestätigt.**
 

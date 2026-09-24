@@ -66,7 +66,7 @@ Der Groß-AG-Kanal des vierten Kapitels läuft dabei auf einer eigenen Uhr. Sein
 
 Der Nachfolgekanal ist überwiegend revolvierender Kredit, kein Zuschussprogramm: Bürgschaften, Haftungsfreistellungen und Refinanzierung über die KfW, ausgezahlt und zurückgezahlt.
 
-Der Steuerhebel kostet keine Kasse; er kostet verschobene Einnahmen. Betroffen sind Veräußerungsgewinne, die andernfalls in vielen Fällen ohnehin steuerlich gestaltet worden wären. Und im Nachfolgefall ist der Steuerhebel häufig eine Alternative zur Stilllegung, bei der der Staat gar nichts einnimmt und stattdessen Arbeitslosigkeit finanziert.
+Der Steuerhebel kostet Einnahmen. Als Stundung gebaut, schiebt er sie zunächst nur auf; endgültig verzichtet die Kasse nur in dem Maß, in dem die Übertragungen über zehn Jahre bestehen bleiben, und ein vorzeitiger Weiterverkauf holt die Steuer nach. Was er kostet und wie viele Übertragungen ohnehin stattgefunden hätten, misst die Evaluationsklausel des neunten Kapitels von Anfang an. Und im Nachfolgefall ist der Steuerhebel häufig eine Alternative zur Stilllegung, bei der der Staat allenfalls den kleineren Aufgabegewinn besteuert und stattdessen Arbeitslosigkeit finanziert.
 
 Die Erbschaftsteuerreform bringt Einnahmen in Anteilen statt in Geld. Sie verändert Eigentümerstrukturen, ohne einen Haushalt zu belasten.
 
@@ -137,3 +137,5 @@ Wer die Antwort hat, soll sie nennen; wer sie nicht hat, sollte mit dem langsame
 *Das Vergleichsportal der Datenstelle* samt seinen vier Bedingungen ist ein Konstruktionsvorschlag dieses Buches. **Wertung.**
 
 *Abschaltkriterium, gematchte Messung, die vier Größen der Zehnjahresbilanz samt vorab festgelegter Richtung und Schwelle und der Ausnahmequote als Messgröße der Fehlertoleranz, die Beschäftigten-Messgröße mit ihrer Falsifikationsregel (dazu die Anpassungsempirie in Kapitel 6 und der Maßstabs-Einwand in Band 1, Kapitel 13), die Stimmrechts-Messgröße für den definierten Kreis der größten Kapitalgesellschaften samt Kapitalkostenvergleich der Gesellschaften mit Konsortialblock (dazu der Groß-AG-Kanal in Kapitel 4), Wellen-Rollout mit Kontrollgruppe, Zwischenbilanz nach zehn Jahren, Sunset-Kalender für Investitionsschutzabkommen, die Export- statt Verteidigungsstrategie auf europäischer Ebene und die Analyse der Gewinner- und Verliererkoalition* sind Konstruktionsvorschläge und Einschätzungen dieses Buches. **Wertung.**
+
+*Aufgabegewinn:* § 16 Abs. 3 EStG (die Aufgabe eines Gewerbebetriebs gilt als Veräußerung), § 17 Abs. 4 EStG (Auflösung einer Kapitalgesellschaft). **Mit Einschränkung:** nach geltendem Recht wiedergegeben, der Normtext ist aus der Arbeitsumgebung nicht eingesehen (Auftrag V24 in `PROCESS.md`). Dass der Aufgabegewinn im Nachfolgefall meist kleiner ist als der Veräußerungsgewinn, ist **Wertung.**

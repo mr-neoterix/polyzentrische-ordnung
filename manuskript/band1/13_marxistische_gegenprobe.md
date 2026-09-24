@@ -246,7 +246,7 @@ Die Antwort darauf ist eine Feststellung: Erlösung stand nie auf dem Angebot de
 
 *Emilia-Romagna:* Lomuscio / Tortia / Cori, „Worker cooperatives in Italy: legislation, prevalence and recent trends", in: *Journal of Participation and Employee Ownership* 6 (2023), H. 2, S. 128–148. **Mit Einschränkung:** Die populäre Drittel-Angabe ist eine verbandsnahe Schätzung für den Gesamtsektor; je nach Abgrenzung reicht die Spanne von unter zehn bis rund dreißig bis vierzig Prozent – im Text ausdrücklich relativiert.
 
-*Mondragón, Employee Ownership Trusts:* siehe Kapitel 9 und 8. **Bestätigt.**
+*Mondragón, Employee Ownership Trusts:* siehe Kapitel 9 und 8, dort mit dem Status jeder einzelnen Angabe.
 
 *Miliband/Poulantzas und die Formel vom „ideellen Gesamtkapitalisten":* Ralph Miliband, *The State in Capitalist Society*, London 1969; Nicos Poulantzas, *Pouvoir politique et classes sociales*, Paris 1968; die Debatte wurde 1969–1976 in der *New Left Review* geführt. **Klarstellung:** Die Formel stammt von Friedrich Engels, *Anti-Dühring* (1878), MEW 20, S. 260 – nicht aus der Staatsdebatte der siebziger Jahre. **Bestätigt.**
 

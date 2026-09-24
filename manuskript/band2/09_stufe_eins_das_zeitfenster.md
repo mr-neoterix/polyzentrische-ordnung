@@ -22,13 +22,13 @@ Die Konstruktion als *Stundung mit Nachversteuerung* statt als Befreiung hat dre
 
 Und dann die Frage, die der britische Fall aufwirft: Wie baut man einen Hebel, dessen Ergebnisse bleiben, wenn er zurückgenommen wird, und dessen Kosten nicht unbemerkt wachsen? Vollständig gelingt das nicht. Was hilft, ist dreierlei.
 
-*Ein ausdrücklicher Bestandsschutz für abgeschlossene Übertragungen im Gesetz selbst,* so dass eine spätere Kürzung nur künftige Fälle trifft. Damit kann eine Regierung den Hebel abschaffen, aber nicht zurückdrehen.
+*Ein ausdrücklicher Bestandsschutz für abgeschlossene Übertragungen im Gesetz selbst,* so dass eine spätere Kürzung nur künftige Fälle trifft. Eine Stundung braucht ihn mehr als eine Befreiung, denn ihre Bedingungen sind noch Jahre offen. Abschaffen kann eine Regierung den Hebel dann jederzeit; zurückdrehen kann sie ihn für die abgeschlossenen Fälle nur mit einem eigenen, sichtbaren Beschluss, der sich am verfassungsrechtlichen Vertrauensschutz messen lassen muss.
 
 *Eine Evaluationsklausel mit Begründungszwang statt einer Verfallsklausel.* Eine Verfallsklausel – die Norm läuft nach acht Jahren automatisch aus – klingt nach Sorgfalt und ist ein Geschenk an die Gegner, weil sie nichts tun müssen. Eine Evaluationsklausel zwingt zur Messung und macht jede Kürzung zu einem Vorgang, in dem eine Regierung öffentlich gegen gemessene Ergebnisse argumentieren muss. Gemessen werden dabei auch die Kosten und der Anteil der Übertragungen, die ohne den Hebel stattgefunden hätten. Die Klausel wirkt deshalb in beide Richtungen: Sie schützt einen Hebel, der wirkt, vor einer Kürzung ohne Begründung, und sie macht sichtbar, wenn er mehr kostet, als er bewirkt.
 
 *Und die frühe Erzeugung von Trägern:* Genossenschaftsverbände, Kammern und Banken, deren Geschäft an dem Instrument hängt. Sie verteidigen den Hebel auch dort, wo er nur mitgenommen wird; gegen diese Seite ihres Interesses steht die Evaluationsklausel.
 
-Zum britischen Vorbild gehört die Selbstkritik. Employee Ownership Trusts sind *treuhänderisch gehalten, nicht mitgliedschaftlich regiert*: Ein Treuhänder hält das Unternehmen im Interesse der Belegschaft, aber die Belegschaft wählt nicht, entscheidet nicht und hat keine individuellen Kapitalkonten. Die britischen Zahlen belegen die *Übertragungsthese* – dass ein Steuerhebel Eigentum verschieben kann –, nicht die *Selbstverwaltungsthese*. Ein deutsches Modell sollte die Mitgliedschaftsverfassung mitliefern, die den Briten fehlt.
+Zum britischen Vorbild gehört die Selbstkritik. Employee Ownership Trusts sind *treuhänderisch gehalten, nicht mitgliedschaftlich regiert*: Ein Treuhänder hält das Unternehmen im Interesse der Belegschaft, aber die Belegschaft wählt nicht, entscheidet nicht und hat keine individuellen Kapitalkonten. Die britischen Zahlen stützen die *Übertragungsthese* – dass ein Steuerhebel Eigentum verschieben kann –, nicht die *Selbstverwaltungsthese*. Ein deutsches Modell sollte die Mitgliedschaftsverfassung mitliefern, die den Briten fehlt.
 
 ### Zweitens: die Finanzierung – und eine Unterscheidung, die meist verwischt wird
 
@@ -98,7 +98,7 @@ Dann greift ein Ersatzweg aus drei Teilen.
 
 *Veräußerungsgewinnbesteuerung:* § 16 Absatz 4 EStG – Freibetrag 45.000 Euro, Abschmelzung ab einem Veräußerungsgewinn von 136.000 Euro, vollständiger Wegfall bei 181.000 Euro, einmal im Leben, ab dem 55. Lebensjahr oder bei dauernder Berufsunfähigkeit. § 34 Absatz 3 EStG – auf Antrag ermäßigter Steuersatz von 56 Prozent des durchschnittlichen Steuersatzes, mindestens 14 Prozent. **Bestätigt.**
 
-*Employee Ownership Trusts:* siehe Band 1, Kapitel 8. **Bestätigt**, einschließlich des Zusatzes, dass EOTs treuhänderisch gehalten und nicht mitgliedschaftlich regiert sind.
+*Employee Ownership Trusts:* siehe Band 1, Kapitel 8, dort mit dem Status jeder einzelnen Angabe. **Bestätigt** ist der Zusatz, dass EOTs treuhänderisch gehalten und nicht mitgliedschaftlich regiert sind; gezählt ist ein Registerbestand, die Wirkung des Hebels ist nicht gemessen.
 
 *Marcora-Gesetz und CFI:* Legge 49/1985; CFI gegründet 1986, ursprünglich 3:1-Kofinanzierung, nach EU-beihilferechtlicher Beanstandung 2001 auf 1:1 reformiert. Drei-Jahres-Überlebensrate nach 2007 gegründeter Marcora-Buyouts 87 Prozent gegenüber 48 Prozent aller italienischen Unternehmen; über CFI insgesamt 257 Firmen mit rund 9.300 Arbeitsplätzen gerettet oder geschaffen. Marcelo Vieta, *The Italian Road to Recuperating Enterprises and the Legge Marcora Framework*, Euricse Working Paper Nr. 78|15 (2015); International Cooperative Alliance (2015). **Bestätigt.** *Wertung dieses Buches:* Die Überlebensrate ist durch zwei Selektionsstufen gefiltert und deshalb nicht auf Nachfolgefälle übertragbar.
 
@@ -112,4 +112,4 @@ Dann greift ein Ersatzweg aus drei Teilen.
 
 *Gesellschaft mit gebundenem Vermögen:* siehe Kapitel 4. **Bestätigt.**
 
-*Der neue Steuertatbestand als Stundung mit Nachversteuerung, die drei Sicherungen des Hebels, die Zwei-Instrumente-Unterscheidung, das Andienungs- und Gleichpreisrecht und der Ersatzplan für das verpasste Fenster* sind Konstruktionsvorschläge dieses Buches. **Wertung.**
+*Der neue Steuertatbestand als Stundung mit Nachversteuerung, die drei Sicherungen des Hebels, die Zwei-Instrumente-Unterscheidung, das Andienungs- und Gleichpreisrecht und der Ersatzplan für das verpasste Fenster* sind Konstruktionsvorschläge dieses Buches. **Wertung.** Wie weit der verfassungsrechtliche Vertrauensschutz eine laufende Stundung gegen eine spätere Kürzung sichert (unechte Rückwirkung), ist **offen.**

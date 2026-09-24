@@ -128,7 +128,7 @@ Also wird Eigenleistung eingebaut, statt sie zu behaupten – in einer Form, die
 
 Und wenn diese Elemente politisch nicht gewollt sind, hat das einen Preis: Der Fonds ist dann so abschaffbar wie die schwedischen Lohnempfängerfonds, und die Ordnung muss ihren Bestand aus dem Belegschaftssektor beziehen und nicht aus dem Fonds. **Eigentum verteidigt sich – aber nur, wenn es Eigentum ist.**
 
-Was unabhängig davon gilt und den Belastungstest besteht, ist die genossenschaftliche Übernahme selbst: Der übernommene Betrieb bleibt übernommen, auch wenn das Programm gestrichen wird – wie die britische Steuerentlastung für den Employee Ownership Trust 2025 halbiert wurde, während die 2.470 Unternehmen belegschaftseigen blieben.
+Was unabhängig davon gilt und den Belastungstest besteht, ist die genossenschaftliche Übernahme selbst: Der übernommene Betrieb bleibt übernommen, auch wenn das Programm gestrichen wird – wie die britische Steuerentlastung für den Employee Ownership Trust 2025 halbiert wurde, ohne die bestehenden belegschaftseigenen Unternehmen zu berühren.
 
 ### Der übrige Aufbau der Stufe zwei
 
@@ -158,6 +158,6 @@ Er folgt derselben Logik.
 
 *Eigentumsschutz sozialrechtlicher Anwartschaften:* Artikel 14 Absatz 1 GG schützt Ansprüche und Anwartschaften nur, soweit sie auf nicht unerheblicher Eigenleistung beruhen; ständige Rechtsprechung, unter anderem BVerfGE 53, 257; 100, 1; 116, 96. **Bestätigt dem Grundsatz nach.** *Ausdrücklicher Vorbehalt:* Die Übertragung auf eine gesetzlich zugeteilte Fondsanwartschaft ist eine Schlussfolgerung dieses Buches, keine Rechtsprechung.
 
-*Employee Ownership Trusts:* siehe Band 1, Kapitel 8. **Bestätigt.**
+*Employee Ownership Trusts:* siehe Band 1, Kapitel 8, dort mit dem Status jeder einzelnen Angabe. Die Halbierung gilt nur für Veräußerungen ab dem 26.11.2025; **bestätigt** nach der amtlichen Kurzbeschreibung.
 
 *Die Umkehrung der Zuordnung (Belegschaftstreuhand hält den Anteil, Fonds erhält ein Ertragsrecht), das ruhende Stimmrecht, der Rechtsformbaustein Belegschaftstreuhand, die dreistufige Ausschüttungsregel, das Korridor-Bewertungsverfahren, die Länderfamilie, die Konsolidierungssperre samt Rechenpflicht, das Wechselverfahren und die Sterberegel für die Fonds* sind Konstruktionsvorschläge dieses Buches. **Wertung.**

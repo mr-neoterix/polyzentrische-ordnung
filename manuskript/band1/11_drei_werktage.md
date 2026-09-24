@@ -66,7 +66,7 @@ Daraus folgt eine Reihenfolge der Instrumente, und über sie entscheidet nicht d
 
 ### Belege
 
-*Employee Ownership Trusts (britischer Steuerhebel):* siehe Kapitel 8. **Bestätigt.**
+*Employee Ownership Trusts (britischer Steuerhebel):* siehe Kapitel 8, dort mit dem Status jeder einzelnen Angabe; **bestätigt** sind Registerzahlen und Datum der Halbierung, offen ist, wie viele der Unternehmen über den Hebel entstanden sind.
 
 *Fagor:* siehe Kapitel 9.
 
