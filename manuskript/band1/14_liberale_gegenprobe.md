@@ -58,7 +58,7 @@ Die Gegenfrage an den Einwand: Wenn das Etikett entschiede, müsste Mondragón d
 
 *Antwort:* Der Forschungsstand, wie ihn die Ökonomin Virginie Pérotin zusammengefasst hat, widerspricht – mindestens gleiche Produktivität, mindestens gleiche Überlebensraten, in der uruguayischen Messung, die das dreizehnte Kapitel beim Krisen-Einwand anführt, ein niedrigeres Risiko der Auflösung.
 
-Die Einschränkung, die Pérotin selbst nennt, stützt die Konstruktion: Der Vorteil stammt aus Ländern mit degenerations- und unterinvestitionssicheren Genossenschaftsverfassungen. Das Design entscheidet, nicht die Rechtsform – weshalb Kapitalkonten, Mitgliedschaftspfade und Föderation hier so viel Raum bekommen.
+Die Einschränkung, die Pérotin selbst nennt, stützt die Konstruktion: Der Vorteil stammt aus Ländern, deren Genossenschaftsverfassungen die Verwandlung in ein gewöhnliches Unternehmen und die Unterinvestition verhindern. Das Design entscheidet, nicht die Rechtsform – weshalb Kapitalkonten, Mitgliedschaftspfade und Föderation in der Verfassung des Belegschaftssektors im zweiten Band so viel Raum bekommen.
 
 ### 7. Der erste Public-Choice-Einwand: der Allmende-Sektor als Rentenmaschine
 
@@ -88,7 +88,7 @@ Wer Ordnungen entwirft, betreibt Anmaßung von Wissen. Institutionen sind gewach
 
 *Antwort:* Der Einwand trifft jeden Entwurf, auch diesen, und die einzige seriöse Reaktion ist eine Bauweise, die ihn einkalkuliert.
 
-Deshalb ist diese Ordnung eine Rahmensetzung mit Wettbewerb im Inneren, kein Bauplan. Es dekretiert keine Sektorgrößen; es verändert relative Preise und Rechtsformen und lässt messen, was daraus wird. Deshalb hat es Abschaltkriterien, veröffentlichte Kennzahlen und die Regel, dass Modelle sterben dürfen. Deshalb steht am Ende kein Zielzustand.
+Deshalb ist diese Ordnung eine Rahmensetzung mit Wettbewerb im Inneren, kein Bauplan. Sie dekretiert keine Sektorgrößen; sie verändert relative Preise und Rechtsformen und lässt messen, was daraus wird. Deshalb hat sie Abschaltkriterien, veröffentlichte Kennzahlen und die Regel, dass Modelle sterben dürfen. Deshalb steht am Ende kein Zielzustand.
 
 ### 10. Der Bedürfnis-Einwand: Wer entscheidet, was echt ist?
 
@@ -130,7 +130,7 @@ Die Verbundlösung ist an einem Fall erprobt und an vielen behauptet.
 
 ### 13. Der Juristokratie-Einwand: Sie verletzen Ihre eigene Regel
 
-Der vorletzte Einwand zielt auf die politische Architektur, die der zweite Band baut: Zuständigkeiten, die eine Ebene einklagen kann, und eine Regel für alle, die niemand abwählen kann – sie dürfen Regeln anwenden, aber nicht setzen. Der Einwand hat die unangenehme Eigenschaft, dieses Buch mit genau diesem Satz zu schlagen.
+Der vorletzte Einwand zielt auf die politische Architektur, die der zweite Band baut: Zuständigkeiten, die eine Ebene einklagen kann, und die Regel, dass Regeln anwenden, aber nicht setzen darf, wer nicht abgewählt werden kann. Der Einwand hat die unangenehme Eigenschaft, dieses Buch mit genau diesem Satz zu schlagen.
 
 Er lautet: Sie enden überall im Gericht. Die Gemeinde klagt gegen den Bund, die überstimmte Ebene gegen die Verlagerung ihrer Zuständigkeit, der Anschlussnehmer gegen den Betreiber, der Betroffene gegen den fernen Staat. Damit verlagern Sie politische Entscheidungen zu Richtern, die niemand gewählt hat – und nach Ihrer eigenen Regel darf, wer nicht abwählbar ist, Regeln anwenden, aber nicht setzen. Ein Gericht, das über die Verteilung von Zuständigkeiten entscheidet, setzt Regeln, und damit haben Sie eine Konstruktionsregel formuliert und im selben Atemzug gebrochen.
 

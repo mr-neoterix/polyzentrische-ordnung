@@ -70,7 +70,7 @@ Zwei Zahlenwelten, die um ein Vielfaches auseinanderliegen. Das ist eine Frage d
 
 Nimmt man die konservativere Zahl des Instituts für Mittelstandsforschung und rechnet über ein Jahrzehnt, geht es um eine Größenordnung von etwa 350.000 bis 400.000 übernahmewürdigen Betriebsübergaben. Wenn davon *ein Prozent* den Belegschaftsweg geht, sind das rund 3.500 bis 4.000 Betriebe. Bei *drei Prozent* etwa 10.000 bis 12.000. Bei *zehn Prozent* rund 35.000 bis 40.000. Rechnet man mit der durchschnittlichen Beschäftigtenzahl kleiner Mittelständler, die im niedrigen zweistelligen Bereich liegt, ergibt das im Ein-Prozent-Fall einige zehntausend Beschäftigte, im Zehn-Prozent-Fall die Größenordnung mehrerer hunderttausend.
 
-Welche Quote realistisch ist, weiß niemand, und deshalb gehört der einzige verfügbare Erfahrungswert daneben: Das Vereinigte Königreich zählte nach elf Jahren *vollständiger* Steuerbefreiung rund 2.470 belegschaftseigene Unternehmen. Wer zehn Prozent unterstellt, unterstellt eine Wirkung, die deutlich über der bisher irgendwo gemessenen liegt.
+Welche Quote realistisch ist, weiß niemand, und deshalb gehört der einzige verfügbare Erfahrungswert daneben: Das Vereinigte Königreich zählte nach elf Jahren *vollständiger* Steuerbefreiung rund 2.470 belegschaftseigene Unternehmen. Wer zehn Prozent unterstellt, unterstellt deutlich mehr, als bisher irgendwo beobachtet worden ist.
 
 Die Botschaft dieser Rechnung ist eine Zumutung für jeden, der eine schnelle Transformation erwartet. Der Belegschaftssektor wird in zwei Jahrzehnten eine relevante Minderheit sein, kein Mehrheitssektor. Der private Marktsektor bleibt für eine Generation der größte Arbeitgeber des Landes.
 
