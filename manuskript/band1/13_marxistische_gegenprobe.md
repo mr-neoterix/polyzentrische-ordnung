@@ -222,7 +222,7 @@ Am Ende steht zwischen diesem Buch und dem Einwand ein ausweisbarer Tausch: Der 
 
 ### Und der Vorwurf, das sei alles nur Sozialdemokratie mit besserer Prosa
 
-Der Unterschied ist der Kern des achten Kapitels: *Sozialdemokratie reguliert Eigentum, diese Ordnung verteilt es um.* Die deutsche Sozialdemokratie hat den Beweis selbst geliefert. Die Mitbestimmung ist eine Regel, und sie wurde ausgehöhlt. Sparkassen und Genossenschaften sind Eigentum, und sie stehen noch; wo die Rücklagen ungebunden waren, wie bei den britischen Building Societies, haben die Mitglieder sie aufgeteilt, und deshalb bindet diese Ordnung das Vermögen ihres Sektors.
+Der Unterschied ist der Kern des achten Kapitels: *Sozialdemokratie reguliert Eigentum, diese Ordnung verteilt es um.* Die deutsche Sozialdemokratie hat den Beweis selbst geliefert. Die Mitbestimmung ist eine Regel, und sie wurde ausgehöhlt. Sparkassen und Genossenschaften sind Eigentum, und sie stehen noch; dass auch Eigentum fällt, wo seine Rücklagen beim gemeinsamen Auszug den Mitgliedern zufallen, zeigen die britischen Building Societies, und deshalb bindet diese Ordnung das Vermögen ihres Sektors auch an diesem Ausgang.
 
 ### Was dem Marxisten bleibt
 
