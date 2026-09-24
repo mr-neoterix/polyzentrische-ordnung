@@ -39,7 +39,7 @@ verlag = "Marcel Richtsteiger"
 # schon. Sie erscheint in beiden PDFs und im E-Book, also öffentlich.
 # Bleibt das Feld leer, steht die Verlagszeile ohne Anschrift, und jeder
 # Lauf warnt: So ist der Innenteil noch nicht einreichbar.
-anschrift = ""
+anschrift = "Zeschwitzer Str. 29, 04564 Böhlen"
 
 # Der Druckort wechselt bei KDP mit dem Ort der Bestellung; Amazon druckt
 # ihn auf die letzte Seite jedes Exemplars. Die Zeile steht nur im

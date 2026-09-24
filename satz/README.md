@@ -245,14 +245,13 @@ Papier, Lizenz und die Adresse des offenen Verzeichnisses, Verlag,
 Anschrift und Druckort, der Hinweis auf die Deutsche Nationalbibliothek
 und die ISBN je Band und Ausgabe.
 
-**Die Anschrift ist noch leer, und das muss sie nicht bleiben.** Die
-Landespressegesetze verlangen auf jedem Druckwerk, das in Deutschland
-erscheint, Namen und Anschrift des Verlegers, beim Selbstverlag also des
-Verfassers; ein Postfach genügt nicht, die Anschrift eines
-Impressumsdienstes schon. Solange das Feld leer ist, steht die
+**Die Anschrift ist Pflicht.** Die Landespressegesetze verlangen auf jedem
+Druckwerk, das in Deutschland erscheint, Namen und Anschrift des
+Verlegers, beim Selbstverlag also des Verfassers; ein Postfach genügt
+nicht, die Anschrift eines Impressumsdienstes schon. Sie erscheint in
+allen Dateien, also öffentlich. Wird das Feld geleert, steht die
 Verlagszeile ohne Anschrift, und jeder Lauf warnt, dass Innenteil und
-E-Book so noch nicht einreichbar sind. Die Anschrift erscheint in allen
-Dateien, also öffentlich.
+E-Book so nicht einreichbar sind.
 
 Den Druckort nennt das Impressum nicht mit Namen: KDP druckt je nach
 Bestellort an verschiedenen Orten und druckt den tatsächlichen auf die
