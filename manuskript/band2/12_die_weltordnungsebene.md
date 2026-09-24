@@ -56,9 +56,9 @@ Bemerkenswert ist dabei, dass ein Kläger für die Zuständigkeitsordnung bereit
 
 Dem Investitionsschutz ist der dritte Werktag im elften Kapitel des ersten Bandes bereits begegnet.
 
-Neben dem Grundgesetz steht ein Parallelrechtsweg. Völkerrechtliche Verträge erlauben ausländischen Investoren, einen Staat vor einem internationalen Schiedsgericht zu verklagen, wenn dessen Maßnahmen ihre Investition entwerten – und diese Schiedsgerichte messen am vollen Marktwert, nicht an der Entschädigungsabwägung des Artikels 14 des Grundgesetzes. Vattenfall verlangte im ICSID-Verfahren wegen des Atomausstiegs rund 4,7 Milliarden Euro; der Vergleich vom März 2021 kostete den Bund 1,425 Milliarden an Vattenfall und 880 Millionen an RWE. Deutschland ist aus dem Energiecharta-Vertrag ausgetreten, wirksam im Juni 2025, aber dessen Sunset-Klausel schützt Altinvestitionen weitere zwanzig Jahre, und bilaterale Investitionsschutzabkommen kommen hinzu.
+Neben dem Grundgesetz steht ein Parallelrechtsweg. Völkerrechtliche Verträge erlauben ausländischen Investoren, einen Staat vor einem internationalen Schiedsgericht zu verklagen, wenn dessen Maßnahmen ihre Investition entwerten – und die Verträge, nach denen diese Schiedsgerichte urteilen, bemessen die Entschädigung für eine Enteignung am vollen Marktwert, nicht an der Entschädigungsabwägung des Artikels 14 des Grundgesetzes. Wegen des Atomausstiegs verlangte Vattenfall im ICSID-Verfahren rund 4,7 Milliarden Euro, auf einem Weg, den die deutschen Betreiber nicht hatten; den Ausgleich selbst verlangte schon das Grundgesetz, und der Vergleich vom März 2021, der beide Streitwege beendete, brachte Vattenfall 1,425 Milliarden. Deutschland ist aus dem Energiecharta-Vertrag ausgetreten, wirksam am 20. Dezember 2023, aber dessen Sunset-Klausel schützt Altinvestitionen im Energiesektor weitere zwanzig Jahre, und bilaterale Investitionsschutzabkommen kommen hinzu.
 
-Bis in die vierziger Jahre dieses Jahrhunderts gilt damit für ausländische Eigentümer ein anderes Recht als für inländische, und zwar gerade in den Sektoren, um die es hier geht.
+Bis in die vierziger Jahre dieses Jahrhunderts gilt damit für ausländische Eigentümer von Netzen und Energieanlagen ein anderes Recht als für inländische, und bei Wohnungsbeständen gilt es, soweit ein bilaterales Abkommen den Anteilseigner erfasst.
 
 Diese Regeln rosten nicht. Sie dienen einem konzentrierten Interesse, ihre Durchsetzung liegt bei den Begünstigten selbst, und ihre Änderung erfordert die Zustimmung aller Vertragsparteien. Man vergleiche das mit der deutschen Mitbestimmung, die niemand abgeschafft hat und die trotzdem verfällt. Der Unterschied liegt in der Antwort auf die Frage, wer ein Interesse an der Verteidigung hat – und das ist der Befund, auf dem dieses ganze Buch aufgebaut ist, hier gegen seinen eigenen Entwurf gewendet.
 
@@ -218,13 +218,13 @@ Dieses Kapitel benennt vier Aufgaben und löst zwei davon halb.
 
 *Und die Frage nach den vier fehlenden Bauteilen:* Zwei von ihnen haben ein vorhandenes Muster, an dem sich weiterarbeiten ließe – der Träger in der Individualbeschwerde und den beiden Klimaentscheidungen, die geordnete Sterblichkeit im kanadischen Trennungsverfahren. Zwei haben keines: Für Exit und Voice der Betroffenen einer fremden Staatsgewalt gibt es kein Vorbild, und für den gemeinsamen Rechtsraum gibt es eines, das nur bis zur Grenze der Freiwilligkeit reicht.
 
-Die Weltordnungsebene steht am Schluss dieses Bandes und schließt ihn doch nicht ab; sie ist das erste Kapitel eines anderen Buches.
+Mit der Weltordnungsebene endet die Bauanleitung, ohne abgeschlossen zu sein; sie ist das erste Kapitel eines anderen Buches.
 
 ---
 
 ### Belege
 
-*Investitionsschutz:* ICSID-Verfahren ARB/12/12 (Vattenfall gegen Bundesrepublik Deutschland), Forderung von rund 4,7 Mrd. Euro wegen des Atomausstiegs; außergerichtlicher Vergleich März 2021 mit 1,425 Mrd. Euro an Vattenfall und 880 Mio. Euro an RWE, förmliche Verfahrensbeendigung November 2021. Austritt Deutschlands aus dem Energiecharta-Vertrag wirksam im Juni 2025; Sunset-Klausel mit zwanzigjährigem Schutz für Altinvestitionen; hinzu kommen bilaterale Investitionsschutzabkommen. **Bestätigt.**
+*Investitionsschutz:* ICSID-Verfahren ARB/12/12 (Vattenfall gegen Bundesrepublik Deutschland), Forderung rund 4,7 Mrd. Euro, eingestellt am 09.11.2021 ohne Schiedsspruch; der Vergleich vom März 2021 regelte zugleich den Ausgleich, den das Bundesverfassungsgericht 2016 und 2020 nach Art. 14 GG verlangt hatte (BVerfGE 143, 246; 155, 378). Marktwertmaßstab des Energiecharta-Vertrags (Art. 13 Abs. 1), Beschränkung auf Investoren anderer Vertragsparteien (Art. 26) und auf den Energiesektor (Art. 1 Nr. 6), Austritt Deutschlands wirksam am 20.12.2023 mit Fortgeltung für Altinvestitionen bis zum 20.12.2043, die Rechtsprechung des Gerichtshofs zur Anwendbarkeit innerhalb der Union und die bilateralen Abkommen: Einzelnachweise in Band 1, Kapitel 11. **Bestätigt**, *mit Einschränkung* wie dort. Ob das Schiedsverfahren den Vergleich erhöht hat, ist **offen.**
 
 *Kapitalverkehrsfreiheit:* Artikel 63 AEUV gilt im Verhältnis zwischen Mitgliedstaaten und ebenso gegenüber Drittstaaten. **Bestätigt** als geltende Vertragslage.
 

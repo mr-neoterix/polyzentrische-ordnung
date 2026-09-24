@@ -12,9 +12,9 @@
 
 ## Über dieses Buch
 
-Dies ist der zweite Band eines Werkes, das eine Wirtschafts- und Gesellschaftsverfassung herzuleiten versucht, statt sie zu behaupten. Der erste Band führt das Argument: Er geht von der Frage aus, ob die DDR pleite war, prüft an einer Reihe von Ländern mit Plan und mit Markt, woran Ordnungen gescheitert sind, und zeichnet die Ordnung, die daraus folgt, im Umriss – drei Sektoren, die nebeneinander konkurrieren, und die Tests, die jeder Schritt auf dem Weg dorthin bestehen muss. Er enthält auch die beiden Gegenproben, in denen die Ordnung am stärksten marxistischen und am stärksten liberalen Einwand geprüft wird, und das Verzeichnis dessen, was sie nicht leistet.
+Dies ist der zweite Band eines Werkes, das eine Wirtschafts- und Gesellschaftsverfassung herzuleiten versucht, statt sie zu behaupten. Der erste Band führt das Argument: Er geht von der Frage aus, ob die DDR pleite war, prüft an einer Reihe von Ländern mit Plan und mit Markt, woran Ordnungen gescheitert sind, und zeichnet die Ordnung, die daraus folgt, im Umriss – drei Sektoren, die nebeneinander konkurrieren, und die Tests, die jeder Schritt auf dem Weg dorthin bestehen muss. Er enthält auch die beiden Gegenproben, in denen die Ordnung am stärksten marxistischen und am stärksten liberalen Einwand geprüft wird, und das Verzeichnis der Grenzen, an die das Argument stößt.
 
-Dieser Band ist die Bauanleitung. Er geht die Ordnung Bauteil für Bauteil durch: die Verfassung des Belegschaftssektors, den Allmende-Sektor mit seinem Sterberecht, den Privatsektor und die Sterblichkeit des Vermögens, die Kreislaufdimension, Arbeit und Sorge, die politische Architektur und den Sozialstaat, danach den Umsetzungspfad in drei Stufen und am Ende die Weltordnungsebene, an der dieser Weg endet. Das ist Konstruktionsarbeit bis auf den Paragraphen. Geschrieben ist sie für den, der prüfen will, ob ein Bauteil hält – in einem Genossenschaftsverband oder einer Kommune, in der Steuerberatung, in der Verwaltung oder in der Rechtswissenschaft. Wer vom Fach ist, kann die Erklärungen überspringen, die für die anderen dastehen.
+Dieser Band ist die Bauanleitung. Er geht die Ordnung Bauteil für Bauteil durch: die Verfassung des Belegschaftssektors, den Allmende-Sektor mit seinem Sterberecht, den Privatsektor und die Sterblichkeit des Vermögens, die Kreislaufdimension, Arbeit und Sorge, die politische Architektur und den Sozialstaat, danach den Umsetzungspfad in drei Stufen und die Weltordnungsebene, an der dieser Weg endet. Am Schluss steht das Verzeichnis dessen, was diese Bauteile nicht leisten. Das ist Konstruktionsarbeit bis auf den Paragraphen. Geschrieben ist sie für den, der prüfen will, ob ein Bauteil hält – in einem Genossenschaftsverband oder einer Kommune, in der Steuerberatung, in der Verwaltung oder in der Rechtswissenschaft. Wer vom Fach ist, kann die Erklärungen überspringen, die für die anderen dastehen.
 
 Der Band setzt das Argument des ersten voraus, und damit er trotzdem für sich lesbar ist, fasst sein erstes Kapitel es zusammen: die Regeln, nach denen gearbeitet wird, die neun Befunde der Diagnose, auf die jedes spätere Kapitel zurückverweist, die Werkzeuge, die aus ihnen folgen, und den Umriss der Ordnung. Wer den ersten Band kennt, beginnt mit der Verfassung des Belegschaftssektors. Eine Kapitelnummer ohne Zusatz meint in diesem Band immer ein Kapitel dieses Bandes; wo ein Verweis in den ersten Band führt, sagt er es.
 
@@ -74,6 +74,10 @@ Was hier steht, ist deshalb ein Stand. Das Verzeichnis, aus dem dieses Buch gese
 **Teil IV – Die äußere Ebene**
 
 *12. Die Weltordnungsebene.* Wo der Umsetzungspfad endet und die Ordnung nicht: drei ungleiche Angriffsflächen, der Investitionsschutz als Regelwerk, das nicht rostet, und ein europäischer Rechtsraum, der gebaut und einseitig möbliert ist. Der Marktzugang als Hebel und die Frage nach der Weltregierung. Dazu der Einwand, der die Kernthese dieses Buches an ihrer eigenen Stelle trifft – das internationale System ist polyzentrisch und zugleich die gewalttätigste Ordnung der Welt –, und die Prüfung des Gedankens, eine Ordnung mit verteilter Macht trete nach außen friedlicher auf und ziehe Nachbarn nach sich. Das Kapitel benennt seine eigene Fortsetzung.
+
+**Teil V – Der ehrliche Rest**
+
+*13. Offene Flanken der Bauteile.* Der zweite Teil des Ehrlichkeits-Ledgers: was die Bauteile dieses Bandes nicht leisten, in denselben drei Klassen wie im ersten Band – Grenzen der Reichweite, Stellen ohne Träger, Fragen, über die niemand etwas weiß.
 
 ---
 

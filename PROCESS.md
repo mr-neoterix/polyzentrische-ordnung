@@ -168,6 +168,26 @@ Die Abgrenzung in einem Satz: **Das Ledger sagt, was dieses Buch nicht kann; die
 
 ---
 
+### V18 – Primärquellen der Leserkritik vom 24.09.2026
+**Angelegt:** 24.09.2026.
+**Gegenstand:** Die Berichtigungen nach der Kritik eines Lesers am ersten Band stützen sich auf Befunde, die aus der Arbeitsumgebung nur über übereinstimmende Wiedergaben der Websuche gesichert werden konnten. Im Einzelnen: *Energiecharta-Vertrag* – deutscher Austritt wirksam 20.12.2023 (einzelne deutsche Pressemitteilungen nennen den 21.12.2023; Eingang der Notifikation genannt mit 19.12.2022), Fortgeltung bis 20.12.2043, Austritt der Union und Euratoms 28.06.2025, Art. 1 Nr. 6, 13, 26 und 47 ECT, EuGH C-741/19. *Atomausstieg* – BVerfGE 143, 246 (Randnummern zu Vattenfalls Grundrechtsberechtigung), BVerfGE 155, 378, Einigung vom 05.03.2021 und öffentlich-rechtlicher Vertrag vom 25.03.2021 (Berechnungsgrundlage der Einzelbeträge), ICSID-Einstellungsbeschluss vom 09.11.2021, die BMWi-Auskunft von 2020 (4,38 Mrd. netto, rund 6,1 Mrd. mit Zinsen). *Vietnam* – die FAOSTAT-Reihe „Rice, paddy" 1985–1995 samt Datenkennzeichen, die GSO-Jahrbuchtabelle, Young u. a. 2002, Pingali/Võ Tòng Xuân 1992 am Volltext, Exportmenge 1989. *Organisationswissenschaft und Kybernetik* – Tanner 2008, Sukrow 2019, Stock 2024, Schönpflug 2015 am Volltext, Hagers Rede auf dem 10. Plenum (April 1969), der Auflösungsbeschluss der Akademie (nach Nachschlagewerken Oktober 1971). *Volze* – Seitenangaben der Aufsätze von 1991, 1996 und 1999 an Heft und Band; für 1999 nennen die Auszüge des Suchindex die Schlussseiten 183, 187 und 177.
+**Was fehlt:** die Prüfung am Primärdokument. Die Seiten des Energiecharta-Sekretariats, von Rat und Kommission, des Bundesverfassungsgerichts, von ICSID, FAO, GSO und der Verlage waren durch den Ausgangsfilter gesperrt.
+**Was ihn schließt:** Abruf der genannten Dokumente aus einer Umgebung ohne Filter.
+**Folge, falls offen:** gering. Richtung und Größenordnung jedes Befunds sind mehrfach übereinstimmend belegt, und die Belegapparate führen die Einschränkung; offen bleiben Tagesangaben, Randnummern, Seiten und die Frage, ob die Berechnung des Vergleichs von 2021 einen Schiedsaufschlag erkennen lässt.
+**Betroffene Stellen:** `manuskript/band1/02_war_die_ddr_pleite.md`, `03_die_verhinderte_reform.md`, `04_das_muster_ueber_die_faelle.md`, `11_drei_werktage.md` (jeweils Belege), `manuskript/band2/01_was_der_erste_band_gezeigt_hat.md`, `manuskript/band2/12_die_weltordnungsebene.md` (Belege), `quellen_und_glossar.md`, `PROJEKTSTAND.md`.
+
+---
+
+### V19 – Reichweite der bilateralen Investitionsschutzabkommen für Wohnungsbestände
+**Angelegt:** 24.09.2026.
+**Gegenstand:** Der dritte Werktag des ersten Bandes und die Weltordnungsebene des zweiten führen die Wand des Investitionsschutzes für Wohnungsbestände seit dem 24.09.2026 nur noch über bilaterale Abkommen, weil der Energiecharta-Vertrag allein den Energiesektor erfasst.
+**Was fehlt:** welche bilateralen Abkommen der Bundesrepublik die Anteilseigner einer börsennotierten deutschen Wohnungsgesellschaft erfassen (mittelbare Beteiligungen, Staatsangehörigkeit der Anleger, Umweg über Holdinggesellschaften), wie lange ihre Nachwirkungsfristen laufen, ob die Abkommen innerhalb der Union nach dem Beendigungsübereinkommen von 2020 erloschen sind, und wie Schiedsgerichte den Komstroy-Einwand der Union behandeln.
+**Was ihn schließt:** eine Auswertung der deutschen Investitionsschutzverträge (UNCTAD Investment Policy Hub) und der Schiedspraxis zu innerunionalen Verfahren.
+**Folge, falls offen:** mittel. Die Reihenfolge der Instrumente – Kauf vor Vergesellschaftung – bleibt richtig, solange ein einziges Abkommen einen Anteilseigner erfasst; wie hoch die Wand für den Wohnungsbestand tatsächlich ist, sagt das Buch nicht.
+**Betroffene Stellen:** `manuskript/band1/11_drei_werktage.md`, `manuskript/band2/01_was_der_erste_band_gezeigt_hat.md`, `manuskript/band2/11_stufe_drei_kosten_koalitionen.md`, `manuskript/band2/12_die_weltordnungsebene.md`, `polyzentrische_ordnung.md` (Sektion III), `PROJEKTSTAND.md`.
+
+---
+
 ### K11 – Ebene der Überschrift „Wie dieses Buch entstanden ist"
 **Angelegt:** 01.09.2026.
 **Gegenstand:** Der Entstehungsabschnitt vom 29.08.2026 steht in `manuskript/band1/00_inhalt.md` als `###` und damit innerhalb von „Über dieses Buch". Der Satz macht daraus eine Zwischenüberschrift ohne eigene Seite; eine eigene Seite bekäme er als `##`, weil allein der `\vorspann`-Befehl umbricht. Beides ist vertretbar: Der Abschnitt handelt vom Buch und passt unter dessen Überschrift, er ist aber auch der einzige Text des Vorspanns, der von der Herstellung statt vom Gegenstand spricht.

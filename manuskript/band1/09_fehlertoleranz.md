@@ -44,7 +44,7 @@ Was bleibt, ist ein Satz: **Scheitert ein Modell, stirbt das Modell – nicht da
 
 ### Zwischenbilanz der Diagnose
 
-Damit ist der diagnostische Teil abgeschlossen. Bevor der konstruktive beginnt, sei zusammengezogen, was der diagnostische ergeben hat – als Prüfliste, an der sich alles Weitere messen lassen muss.
+Damit ist der diagnostische Teil abgeschlossen. Bevor der konstruktive beginnt, sei zusammengezogen, was der diagnostische ergeben hat – als Prüfliste, an der sich alles Weitere messen lassen muss. Ihre neun Sätze heißen im Folgenden Befunde, und wo das Buch auf einen von ihnen zurückgreift, nennt es ihn mit seiner Nummer.
 
 *Erstens:* Die DDR war strukturell erschöpft und nicht akut insolvent. Sie verzehrte ihre Substanz, weil ihr die beiden Geräte fehlten, die Substanzverzehr sichtbar machen: Preise und Insolvenz.
 

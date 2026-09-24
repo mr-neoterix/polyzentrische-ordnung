@@ -6,7 +6,7 @@
 
 Ein Ordnungsentwurf, der nur von Eigentumsformen redet, hat die Hälfte der Fragen nicht gestellt. Dieses Kapitel stellt die übrigen: Wovon leben die Menschen? Was geschieht mit denen, die nicht Eigentümer sein wollen? Wer macht die Arbeit, über die niemand redet? Und was passiert, wenn die nächste Krise kommt?
 
-### Niemand wird Eigentümer
+### Niemand muss Eigentümer werden
 
 Niemand wird in dieser Ordnung zum Eigentümer gezwungen. Wer Lohn und Vertrag der Mitgliedschaft und dem Risiko vorzieht, findet beides im privaten und im öffentlichen Sektor, und die Freizügigkeit zwischen den Sektoren ist Teil der Konstruktion, nicht ihre Störung. Das zweite Kapitel hat den guten Grund genannt, aus dem viele Menschen genau das tun werden: Wer Arbeitsplatz und Vermögen im selben Betrieb bündelt, konzentriert sein Risiko in einer Weise, die niemand ihm vorwerfen darf.
 
