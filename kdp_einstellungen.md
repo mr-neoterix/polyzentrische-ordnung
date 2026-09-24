@@ -1,8 +1,8 @@
 # KDP-Einstellungen für beide Bände
 
-Alles, was beim Einreichen der beiden Bände bei Kindle Direct Publishing (KDP) in die Formulare gehört, für das Taschenbuch und für das E-Book. Geordnet ist es nach den drei Seiten, die KDP für jedes Buch zeigt: *Details*, *Inhalt* und *Preisgestaltung*. Stand: 24.09.2026, Ausgabe 3.4.
+Alles, was beim Einreichen der beiden Bände bei Kindle Direct Publishing (KDP) in die Formulare gehört, für das Taschenbuch und für das E-Book. Geordnet ist es nach den drei Seiten, die KDP für jedes Buch zeigt: *Details*, *Inhalt* und *Preisgestaltung*. Stand: 24.09.2026, Ausgabe 3.5.
 
-Die Dateien kommen aus der jeweils jüngsten [Veröffentlichung](https://github.com/mr-neoterix/polyzentrische-ordnung/releases/latest); ihre Namen tragen die Ausgabenummer. Seitenzahl und Rückenbreite nennt der Text jeder Veröffentlichung. Ändert sich der Umfang eines Bandes, müssen Innenteil **und** Umschlag neu hochgeladen werden, denn der Rücken wächst mit.
+Die Dateien kommen aus der jeweils jüngsten [Veröffentlichung](https://github.com/mr-neoterix/polyzentrische-ordnung/releases/latest); ihre Namen tragen die Ausgabenummer. Seitenzahl und Rückenbreite nennt der Text jeder Veröffentlichung. Ändert sich der Umfang eines Bandes, müssen Innenteil **und** Umschlag neu hochgeladen werden, denn der Rücken wächst mit. Der Innenteil des ersten Bandes trägt die ISBN im Impressum erst ab Ausgabe 3.5; ältere Innenteile dieses Bandes nicht mehr hochladen.
 
 Maßgeblich für die Klappentexte sind `satz/umschlag/band1.md` und `satz/umschlag/band2.md`; hier stehen sie nur zum Kopieren. Wer sie dort ändert, zieht sie hier nach.
 
@@ -10,15 +10,16 @@ Maßgeblich für die Klappentexte sind `satz/umschlag/band1.md` und `satz/umschl
 
 | | Band 1 – Das Argument | Band 2 – Die Bauanleitung |
 |---|---|---|
+| ISBN des Taschenbuchs | 979-8-1750-2041-1 | noch keine |
 | Seiten | 190 | 240 |
 | Rücken (weißes Papier) | 10,9 mm | 13,7 mm |
 | Druckkosten bei Amazon.de | 3,03 € | 3,63 € |
 | Preis des E-Books, mit MwSt. | 3,99 € | 3,99 € |
 | Tantieme je verkauftem E-Book | 2,53 bis 2,58 € | 2,53 bis 2,58 € |
-| Innenteil | `…-band-1-kdp-innenteil-3.4.pdf` | `…-band-2-kdp-innenteil-3.4.pdf` |
-| Umschlag | `…-band-1-kdp-umschlag-3.4.pdf` | `…-band-2-kdp-umschlag-3.4.pdf` |
-| E-Book | `…-band-1-3.4.epub` | `…-band-2-3.4.epub` |
-| Titelbild des E-Books | `…-band-1-ebook-titelbild-3.4.jpg` | `…-band-2-ebook-titelbild-3.4.jpg` |
+| Innenteil | `…-band-1-kdp-innenteil-3.5.pdf` | `…-band-2-kdp-innenteil-3.5.pdf` |
+| Umschlag | `…-band-1-kdp-umschlag-3.5.pdf` | `…-band-2-kdp-umschlag-3.5.pdf` |
+| E-Book | `…-band-1-3.5.epub` | `…-band-2-3.5.epub` |
+| Titelbild des E-Books | `…-band-1-ebook-titelbild-3.5.jpg` | `…-band-2-ebook-titelbild-3.5.jpg` |
 
 Alle Dateinamen beginnen mit `polyzentrische-ordnung`.
 
@@ -48,7 +49,7 @@ Diese Seite ist für Taschenbuch und E-Book dieselbe. Wer zuerst das Taschenbuch
 
 *Reihe:* Sind beide Bände angelegt, werden sie in KDP unter „Reihe“ zu einer Reihe verbunden. Taschenbuch und E-Book desselben Bandes verknüpft Amazon selbst.
 
-*Ausgabennummer:* Die Ausgabenummer des Repositoriums („Ausgabe 3.4“) zählt Quellstände und keine Auflagen. Bei KDP bleibt das Feld leer.
+*Ausgabennummer:* Die Ausgabenummer des Repositoriums („Ausgabe 3.5“) zählt Quellstände und keine Auflagen. Bei KDP bleibt das Feld leer.
 
 ## Beschreibung
 
@@ -143,20 +144,20 @@ Sieben je Buch, für Taschenbuch und E-Book dieselben. KDP rät von Wörtern ab,
 
 | Feld | Einstellung |
 |---|---|
-| ISBN | kostenlose ISBN von KDP oder eigene, siehe unten |
+| ISBN | kostenlose ISBN von KDP; Band 1 hat 979-8-1750-2041-1, Band 2 bekommt eine eigene |
 | Druckoptionen: Tinte und Papier | Schwarzweiß auf weißem Papier |
 | Druckoptionen: Format | 13,97 × 21,59 cm (5,5 × 8,5 Zoll) |
 | Druckoptionen: Anschnitt | kein Anschnitt („No bleed“) |
 | Druckoptionen: Einband | matt; wer Abrieb auf dem dunklen Grund scheut, nimmt glänzend |
-| Manuskript | `…-kdp-innenteil-3.4.pdf` |
-| Buchcover | „Einen bereits vorhandenen Umschlag hochladen“, Datei `…-kdp-umschlag-3.4.pdf` |
+| Manuskript | `…-kdp-innenteil-3.5.pdf` |
+| Buchcover | „Einen bereits vorhandenen Umschlag hochladen“, Datei `…-kdp-umschlag-3.5.pdf` |
 | Umschlag enthält Barcode | **nicht** anhaken: KDP druckt den Barcode selbst in das weiße Feld der Rückseite |
 | KI-generierte Inhalte | Ja, siehe unten |
 | Vorschau | Druckvorschau von KDP durchsehen, vor der Veröffentlichung ein Probeexemplar bestellen |
 
 *Papier:* Es muss dasselbe sein wie `papier` in `satz/veroeffentlichung.toml`, derzeit „weiss“, sonst stimmt der Rücken nicht. Wer bei KDP „creme“ wählt, stellt die Datei vorher um und wartet die nächste Ausgabe ab.
 
-*ISBN:* Die kostenlose ISBN von KDP führt als Verlag „Independently published“ und gilt nur für KDP. Eine eigene ISBN (in Deutschland über die MVB) nennt den Verfasser als Verlag, taugt auch für andere Vertriebswege und gehört dann in `satz/veroeffentlichung.toml`, damit sie im Impressum steht. In beiden Fällen druckt KDP den Barcode.
+*ISBN:* Der erste Band hat die kostenlose ISBN von KDP; nimmt der zweite dieselbe Art, bekommt er eine eigene. Mit ihr führt Amazon als Verlag „Independently published“, auf Deutsch „Unabhängig veröffentlicht“, und sie gilt nur für das Taschenbuch bei KDP. Im Buch muss sie nicht stehen, denn KDP druckt sie mit dem Barcode auf die Rückseite. Steht sie im Impressum, muss sie genau der vergebenen entsprechen, denn KDP vergleicht Titel, Autor, ISBN, Imprint und Sprache im Innenteil mit den Angaben im Formular. Sie steht deshalb in `satz/veroeffentlichung.toml` und von dort nur im Impressum des Innenteils, weder in der freien Leseausgabe noch im E-Book. Die Verlagszeile heißt „Selbstverlag:“, wie das Pressegesetz den Fall nennt; ein eigener Verlagsname wiche vom Imprint ab. Sobald KDP die ISBN des zweiten Bandes vergibt, gehört sie unter `[band2]` in dieselbe Datei, und erst der Innenteil der folgenden Ausgabe wird hochgeladen.
 
 *Fest nach dem Veröffentlichen* sind Format, Druckfarbe und ISBN; das Papier eines Schwarzweißbuchs lässt sich nur eingeschränkt wechseln. Wer eines davon ändern will, legt eine neue Ausgabe an.
 
@@ -178,8 +179,8 @@ Das Buch sagt im Abschnitt „Wie dieses Buch entstanden ist“ selbst, dass sei
 | Feld | Einstellung |
 |---|---|
 | Digitale Rechteverwaltung (DRM) | Nein |
-| Manuskript | `…-3.4.epub` |
-| Buchcover | eigenes Titelbild hochladen, Datei `…-ebook-titelbild-3.4.jpg` (1600 × 2560 Pixel) |
+| Manuskript | `…-3.5.epub` |
+| Buchcover | eigenes Titelbild hochladen, Datei `…-ebook-titelbild-3.5.jpg` (1600 × 2560 Pixel) |
 | KI-generierte Inhalte | wie beim Taschenbuch |
 | ISBN | leer lassen: KDP vergibt eine eigene Kennung, und eine ISBN spräche dafür, dass das E-Book unter die Buchpreisbindung fällt (siehe dort) |
 | Vorschau | Online-Vorschau von KDP durchsehen |
@@ -256,6 +257,7 @@ Dann ist der Preis von 3,99 € neben dem freien EPUB nach beiden Lesarten zulä
 3. Probeexemplar beider Taschenbücher bestellt und geprüft: Rücken, Farben, Barcodefeld, Satzspiegel.
 4. KI-Angabe gesetzt, KDP Select abgewählt.
 5. Buchpreisbindung: Das E-Book geht nur zu KDP und ohne ISBN, `isbn_ebook` ist leer. Die Ladenpreise der Taschenbücher stehen fest, damit sie am Tag der Veröffentlichung in `README.md` stehen können.
+6. ISBN: Im Impressum des hochgeladenen Innenteils steht dieselbe ISBN wie im Formular (Band 1: 979-8-1750-2041-1, ab Ausgabe 3.5), und die Verlagszeile heißt „Selbstverlag:“.
 
 ## Nach dem Veröffentlichen
 
@@ -269,3 +271,5 @@ Dann ist der Preis von 3,99 € neben dem freien EPUB nach beiden Lesarten zulä
 Hilfeseiten von KDP, abgerufen am 24.09.2026: [Kategorien](https://kdp.amazon.com/en_US/help/topic/G200652170), [Schlüsselwörter](https://kdp.amazon.com/en_US/help/topic/G201298500), [Beschreibung](https://kdp.amazon.com/en_US/help/topic/G201189630), [Titel und Metadaten](https://kdp.amazon.com/en_US/help/topic/G201097560), [Inhaltsrichtlinien und KI](https://kdp.amazon.com/en_US/help/topic/G200672390), [Druckkosten](https://kdp.amazon.com/en_US/help/topic/G201834340), [Tantieme Taschenbuch](https://kdp.amazon.com/en_US/help/topic/G201834330), [Mehrwertsteuer bei Druckbüchern](https://kdp.amazon.com/en_US/help/topic/GPQL5W3J6WNRCZTV), [Tantieme E-Book](https://kdp.amazon.com/en_US/help/topic/G200644210), [Preisgrenzen E-Book](https://kdp.amazon.com/en_US/help/topic/G200634560), [Preisregeln E-Book](https://kdp.amazon.com/en_US/help/topic/G200634500), [DRM](https://kdp.amazon.com/en_US/help/topic/GDDXGH9VR22ACM8U), [Erweiterter Vertrieb](https://kdp.amazon.com/en_US/help/topic/GQTT4W3T5AYK7L45), [Druckoptionen](https://kdp.amazon.com/en_US/help/topic/G201834180). Die Kategorien stammen aus dem Kategoriebaum der Bestsellerlisten von Amazon.de, abgerufen am selben Tag. Die Zustellkosten von 0,12 € je MB nennt das Rechenbeispiel für Amazon.de auf der Seite zu den Preisregeln.
 
 Zur Buchpreisbindung, abgerufen am 24.09.2026: [Buchpreisbindungsgesetz](https://www.gesetze-im-internet.de/buchprg/), [Gesetzesbegründung zu den E-Books, BT-Drs. 18/8043](https://dserver.bundestag.de/btd/18/080/1808043.pdf), [Christian Sprang zu Selbstverlegern bei literaturcafe.de](https://www.literaturcafe.de/preisbindung-fuer-self-publisher-ein-lesetipp-zum-leidigen-thema/), [OLG Dresden, 14 U 341/18](https://www.online-und-recht.de/urteile/abgabe-eines-preisgebundenen-buches-nicht-immer-verstoss-gegen-buchpreisbindung-oberlandesgericht-dresden-20180626/), [VLB zur Buchpreisbindung](https://vlb.de/hilfe/das-vlb-und-die-buchpreisbindung), [KDP: Buchpreis festlegen](https://kdp.amazon.com/de_DE/help/topic/G200641280), [oekom zu Open Access](https://www.oekom.de/service/open-access/c-311), [Börsenverein zur Buchpreisbindung](https://www.boersenverein.de/beratung-service/recht/buchpreisbindung/).
+
+Zu ISBN und Impressum, abgerufen am 24.09.2026: [KDP: ISBN und Imprint](https://kdp.amazon.com/de_DE/help/topic/G201834170), [KDP: Angaben im Innenteil müssen mit dem Formular übereinstimmen](https://kdp.amazon.com/en_US/help/topic/G201834260), [Sächsisches Pressegesetz, § 6 Impressum](https://www.revosax.sachsen.de/vorschrift/4197-SaechsPresseG). Die Gliederung der ISBN folgt der Bereichstabelle der Internationalen ISBN-Agentur (Präfix 979-8, Verlagsnummern 1700000 bis 1799999 vierstellig).
