@@ -33,6 +33,15 @@ verzeichnis = "https://github.com/mr-neoterix/polyzentrische-ordnung"
 # Beim Selbstverlag ist der Verfasser der Verleger.
 verlag = "Marcel Richtsteiger"
 
+# Ob das Buch im Selbstverlag erscheint. Dann heißt die Zeile im Impressum
+# „Selbstverlag:“ statt „Verlag:“, wie das Pressegesetz den Fall nennt:
+# Beim Selbstverlag stehen Name und Anschrift des Verfassers an der Stelle
+# des Verlegers (§ 6 Abs. 1 SächsPresseG). Das passt auch zur kostenlosen
+# ISBN von KDP, mit der Amazon als Verlag „Independently published“ führt;
+# KDP vergleicht die Angaben im Innenteil mit denen im Formular, und ein
+# eigener Verlagsname wiche davon ab.
+selbstverlag = true
+
 # Die ladungsfähige Anschrift des Verlegers. Die Landespressegesetze
 # verlangen sie auf jedem Druckwerk, das in Deutschland erscheint; ein
 # Postfach genügt nicht, die Anschrift eines Impressumsdienstes (c/o)
@@ -52,13 +61,21 @@ druck = "siehe Eindruck auf der letzten Seite"
 dnb_hinweis = false
 
 [band1]
-# Die ISBN des Taschenbuchs und des E-Books, mit Bindestrichen. KDP vergibt
-# für das Taschenbuch auf Wunsch eine kostenlose; das E-Book braucht keine.
-# Steht hier eine, muss es dieselbe sein wie bei KDP. Leer: Die Zeile
-# entfällt.
-isbn_taschenbuch = ""
+# Die ISBN des Taschenbuchs und des E-Books, mit Bindestrichen; der Lauf
+# prüft die Prüfziffer. Die des Taschenbuchs steht nur im Impressum des
+# Innenteils für den Druck und muss dieselbe sein wie bei KDP. Eine
+# kostenlose ISBN von KDP gilt nur für das Taschenbuch bei KDP, und die
+# freie Leseausgabe ist eine andere Veröffentlichung; sie trägt deshalb
+# keine. Das E-Book bleibt ohne ISBN, denn mit einer fiele es
+# voraussichtlich unter die Buchpreisbindung (siehe kdp_einstellungen.md).
+# Leer: Die Zeile entfällt.
+#
+# Band 1: kostenlose ISBN von KDP, vergeben am 24.09.2026.
+isbn_taschenbuch = "979-8-1750-2041-1"
 isbn_ebook = ""
 
 [band2]
+# Die ISBN des Taschenbuchs vergibt KDP beim Anlegen des Bandes; sie ist
+# eine andere als die des ersten.
 isbn_taschenbuch = ""
 isbn_ebook = ""

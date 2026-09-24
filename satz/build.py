@@ -285,6 +285,7 @@ class Angaben:
     lizenz_url: str
     verzeichnis: str
     verlag: str
+    selbstverlag: bool
     anschrift: str
     druck: str
     dnb_hinweis: bool
@@ -292,6 +293,13 @@ class Angaben:
 
     def isbn_fuer(self, band: int, ausgabe: str) -> str:
         return self.isbn.get((band, ausgabe), "")
+
+
+def isbn13_gueltig(ziffern: str) -> bool:
+    """Prüfziffer einer ISBN-13: Gewichte abwechselnd 1 und 3, Summe durch zehn teilbar."""
+    if len(ziffern) != 13 or not ziffern.isdigit():
+        return False
+    return sum(int(z) * (3 if i % 2 else 1) for i, z in enumerate(ziffern)) % 10 == 0
 
 
 def lies_angaben(pfad: Path = ANGABEN) -> Angaben:
@@ -321,6 +329,7 @@ def lies_angaben(pfad: Path = ANGABEN) -> Angaben:
         lizenz_url=wert("werk", "lizenz_url", str),
         verzeichnis=wert("werk", "verzeichnis", str).rstrip("/"),
         verlag=wert("impressum", "verlag", str),
+        selbstverlag=wert("impressum", "selbstverlag", bool, False),
         anschrift=wert("impressum", "anschrift", str, ""),
         druck=wert("impressum", "druck", str, ""),
         dnb_hinweis=wert("impressum", "dnb_hinweis", bool, False),
@@ -334,6 +343,11 @@ def lies_angaben(pfad: Path = ANGABEN) -> Angaben:
                     raise Fehler(
                         f"{pfad.name}: [band{band}] isbn_{ausgabe} = „{nummer}“ hat "
                         "nicht dreizehn Stellen."
+                    )
+                if not isbn13_gueltig(ziffern):
+                    raise Fehler(
+                        f"{pfad.name}: [band{band}] isbn_{ausgabe} = „{nummer}“ hat "
+                        "eine falsche Prüfziffer."
                     )
                 angaben.isbn[(band, ausgabe)] = nummer
 
@@ -720,9 +734,12 @@ def pandoc(*argumente: str, eingabe: str | None = None) -> str:
 # Das Impressum
 # --------------------------------------------------------------------------
 # Es steht in drei Erzeugnissen und ist in allen dreien fast dasselbe: im
-# Innenteil für den Druck mit der Zeile zum Druckort, in der Leseausgabe
-# ohne sie, im E-Book mit der ISBN des E-Books. Gebaut wird es als Markdown,
-# damit Pandoc es für das PDF in LaTeX und für das E-Book in XHTML setzt.
+# Innenteil für den Druck mit der Zeile zum Druckort und der ISBN des
+# Taschenbuchs, in der Leseausgabe ohne beide, im E-Book mit der ISBN des
+# E-Books. Eine ISBN bezeichnet genau eine Ausgabe, und eine kostenlose von
+# KDP darf nur beim Taschenbuch von KDP stehen; die freie Leseausgabe ist
+# eine andere Veröffentlichung. Gebaut wird es als Markdown, damit Pandoc es
+# für das PDF in LaTeX und für das E-Book in XHTML setzt.
 
 
 def impressum(band: Band, angaben: Angaben, lauf: Lauf, art: str) -> str:
@@ -736,10 +753,12 @@ def impressum(band: Band, angaben: Angaben, lauf: Lauf, art: str) -> str:
         f"[{ohne_schema(angaben.lizenz_url)}]({angaben.lizenz_url})."
     )
 
-    zeilen = [f"Verlag: {angaben.verlag}" + (f", {angaben.anschrift}" if angaben.anschrift else "")]
+    bezeichnung = "Selbstverlag" if angaben.selbstverlag else "Verlag"
+    zeilen = [f"{bezeichnung}: {angaben.verlag}" + (f", {angaben.anschrift}" if angaben.anschrift else "")]
     if art == "druck" and angaben.druck:
         zeilen.append(f"Druck: {angaben.druck}")
-    isbn = angaben.isbn_fuer(band.nummer, "ebook" if art == "ebook" else "taschenbuch")
+    ausgabe = {"druck": "taschenbuch", "ebook": "ebook"}.get(art)
+    isbn = angaben.isbn_fuer(band.nummer, ausgabe) if ausgabe else ""
     if isbn:
         zeilen.append(f"ISBN {isbn}")
     # Pandocs harter Zeilenumbruch: ein Rückstrich am Zeilenende.

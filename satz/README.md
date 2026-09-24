@@ -251,15 +251,24 @@ Verlegers, beim Selbstverlag also des Verfassers; ein Postfach genügt
 nicht, die Anschrift eines Impressumsdienstes schon. Sie erscheint in
 allen Dateien, also öffentlich. Wird das Feld geleert, steht die
 Verlagszeile ohne Anschrift, und jeder Lauf warnt, dass Innenteil und
-E-Book so nicht einreichbar sind.
+E-Book so nicht einreichbar sind. Mit `selbstverlag = true` heißt die
+Zeile „Selbstverlag:“ statt „Verlag:“, wie das Pressegesetz den Fall
+nennt; das passt zur kostenlosen ISBN von KDP, mit der Amazon als Verlag
+„Independently published“ führt.
 
 Den Druckort nennt das Impressum nicht mit Namen: KDP druckt je nach
 Bestellort an verschiedenen Orten und druckt den tatsächlichen auf die
 letzte Seite jedes Exemplars. Der Hinweis auf die Deutsche
 Nationalbibliothek bleibt aus, bis die Pflichtexemplare abgeliefert und
-verzeichnet sind. Eine ISBN ist für das Taschenbuch bei KDP kostenlos zu
-haben, das E-Book braucht keine; wer eine einträgt, muss dieselbe bei KDP
-angeben.
+verzeichnet sind.
+
+*Die ISBN* bezeichnet genau eine Ausgabe. Die des Taschenbuchs steht
+deshalb nur im Innenteil für den Druck und muss dieselbe sein wie bei KDP;
+eine kostenlose ISBN von KDP darf ohnehin nur dort stehen. Die freie
+Leseausgabe trägt keine. Das E-Book braucht keine und bleibt ohne, denn mit
+einer fiele es voraussichtlich unter die Buchpreisbindung
+(`kdp_einstellungen.md`). Der Lauf prüft die Prüfziffer und bricht bei
+einer falschen ab.
 
 ## Bei KDP einreichen
 
@@ -451,9 +460,10 @@ ab.
 *Das Impressum steht auf der Rückseite des Titelblatts*, im E-Book auf der
 Seite hinter der Titelseite. Gepflegt wird es nicht in einer Vorlage: Das
 Satzskript setzt es aus der Titelei, dem Quellstand und
-`veroeffentlichung.toml` zusammen – Rechteangabe und Lizenz, Verlag mit
-Anschrift, im Innenteil der Druckort, die ISBN, wo es eine gibt, und die
-Herkunft aus dem offenen Verzeichnis samt Quellstand. Die Jahreszahl kommt
+`veroeffentlichung.toml` zusammen – Rechteangabe und Lizenz, Verlag oder
+Selbstverlag mit Anschrift, im Innenteil der Druckort und die ISBN des
+Taschenbuchs, im E-Book die des E-Books, wo es eine gibt, und die Herkunft
+aus dem offenen Verzeichnis samt Quellstand. Die Jahreszahl kommt
 aus dem Datum des Quellstands und nicht aus der Uhr des Bauläufers, damit
 ein späterer Satz derselben Fassung dieselbe Zahl trägt.
 
