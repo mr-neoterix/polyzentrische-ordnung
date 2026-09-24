@@ -42,9 +42,9 @@ An dieser Stelle ist allerdings eine Anleihe zu deklarieren, die sonst ungedeckt
 
 Sie lautet: Die Abschaffung des Staates beseitigt Macht nicht, sie verlagert sie an den, der lokal Gewalt organisieren kann. Das ist derselbe Einwand, den dieses Buch gegen Marx erhebt, nur in die andere Richtung gewendet.
 
-So einfach liegt der Fall allerdings nicht. Der Anarchismus hat ein Argument auf seiner Seite, das dieses Buch ernst nimmt: Die Menschheit ist die längste Zeit ihrer Geschichte ohne Staaten ausgekommen, und die staatenlosen Ordnungen waren kein Chaos. Dieser Einwand wird in der marxistischen Gegenprobe ausgeführt und beantwortet, und die Antwort fällt bewusst schwach aus. Dieses Buch behauptet nicht, dass Staaten notwendig sind. Es stellt fest, dass niemand einen Weg ohne sie hat.
+So einfach liegt der Fall allerdings nicht. Der Anarchismus hat ein Argument auf seiner Seite, das dieses Buch ernst nimmt: Die Menschheit ist die längste Zeit ihrer Geschichte ohne Staaten ausgekommen, und die staatenlosen Ordnungen waren kein Chaos. Dieser Einwand wird in der marxistischen Gegenprobe ausgeführt und beantwortet, und die Antwort fällt bewusst schwach aus.
 
-Damit bleibt ein Dissens, den bessere Argumente nicht auflösen; er lässt sich nur ausweisen: Wer den Staat für die Quelle des Problems hält, hat eine andere Ausgangsannahme, nicht ein schlechteres Argument. Als bleibenden Widerspruch führt ihn das Ehrlichkeits-Ledger am Ende dieses Bandes – das Verzeichnis dessen, was diese Ordnung nicht leistet.
+Damit bleibt ein Dissens, den bessere Argumente nicht auflösen; er lässt sich nur ausweisen. Als bleibenden Widerspruch führt ihn das Ehrlichkeits-Ledger am Ende dieses Bandes – das Verzeichnis dessen, was diese Ordnung nicht leistet.
 
 Und schließlich: Dies ist kein Text mit Happy End. Er verspricht keinen Zustand, in dem das Machtproblem gelöst wäre, weil Knappheit, Konflikt und legitime Meinungsverschiedenheit nicht verschwinden. Man kann das ein tragisches Weltbild nennen, aber es ist ein tragisches Weltbild mit Arbeitsauftrag: keine Erlösung, permanente Reparatur.
 

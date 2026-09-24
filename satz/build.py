@@ -234,8 +234,17 @@ def deutsche_anfuehrung(text: str) -> str:
 
 
 def typografie(text: str) -> str:
-    """Alle Eingriffe am Fließtext, die Pandoc nicht selbst vornimmt."""
-    return gestellte_ziffern(deutsche_anfuehrung(text))
+    """Alle Eingriffe am Fließtext, die Pandoc nicht selbst vornimmt.
+
+    Dazu gehört der schmale Abstand, wo ein einfaches und ein doppeltes
+    Anführungszeichen aufeinandertreffen („‚System‘“): Pandoc setzte ihn
+    selbst, solange es die Zeichen in TeX-Umschreibungen übersetzte, und
+    seit es das nicht mehr tut (siehe LATEX), steht er hier.
+    """
+    text = gestellte_ziffern(deutsche_anfuehrung(text))
+    for paar in ("‘“", "„‚"):
+        text = text.replace(paar, paar[0] + r"\thinspace{}" + paar[1])
+    return text
 
 
 def typografie_epub(text: str) -> str:
@@ -714,6 +723,17 @@ def pandoc_hauptversion() -> int:
     return int(treffer.group(1)) if treffer else 0
 
 
+# Pandoc schreibt LaTeX ohne seine Erweiterung „smart“. Mit ihr übersetzt
+# es typografische Zeichen zurück in die alten TeX-Umschreibungen, das
+# schließende Anführungszeichen etwa in zwei Gravis (``). Hinter einem
+# Frage- oder Ausrufezeichen bildet der erste Gravis mit ihm die TeX-Ligatur
+# für ¿ oder ¡, und aus „Ein großer Bluff?“ wurde „Bluff¿‘“; die leere Gruppe,
+# die Pandoc dazwischensetzt, trennt unter LuaTeX keine Ligatur. Ohne
+# „smart“ bleiben Anführungszeichen, Striche und Auslassungspunkte die
+# Zeichen, die in den Quellen stehen, und die Schrift setzt sie selbst.
+LATEX = "--to=latex-smart"
+
+
 def pandoc(*argumente: str, eingabe: str | None = None) -> str:
     lauf = subprocess.run(
         ["pandoc", *argumente],
@@ -969,7 +989,7 @@ def setze_pdf(band: Band, angaben: Angaben, lauf: Lauf, art: str, bund_mm: float
     pandoc(
         str(quelle),
         "--from=markdown+raw_tex-auto_identifiers",
-        "--to=latex",
+        LATEX,
         "--template", str(VORLAGE),
         "--top-level-division=chapter",
         f"--resource-path={band.verzeichnis}",
@@ -1077,7 +1097,7 @@ def setze_umschlagbogen(band: Band, angaben: Angaben, lauf: Lauf, art: str, seit
         zeile = lies_titelei((bandverzeichnis(nummer) / INHALT).read_text(encoding="utf-8"))["band"]
         zeile = als_latex(zeile)
         reihe.append(rf"\textbf{{{zeile}}}" if nummer == band.nummer else zeile)
-    klappentext = pandoc("--from=markdown", "--to=latex", eingabe=lies_umschlagtext(band.nummer)) if druck else ""
+    klappentext = pandoc("--from=markdown", LATEX, eingabe=lies_umschlagtext(band.nummer)) if druck else ""
     nachweis = (
         rf"© {lauf.jahr} {als_latex(titelei['autor'])} · {als_latex(angaben.lizenz_kurz)}\\"
         rf"Offenes Manuskript:\\{als_latex(ohne_schema(angaben.verzeichnis))}"
