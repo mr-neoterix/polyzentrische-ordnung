@@ -1,0 +1,64 @@
+# Angaben zur Veröffentlichung
+#
+# Was im Impressum, auf dem Umschlag und in den Metadaten des E-Books steht,
+# aber nicht im Manuskript: Format und Papier des Taschenbuchs, Verlag und
+# Anschrift, Lizenz und die ISBN je Band. Das Satzskript liest diese Datei
+# bei jedem Lauf; wer hier etwas ändert, ändert es für alle Erzeugnisse
+# beider Bände zugleich.
+
+[format]
+# Das Endformat des Buchblocks in Zoll. 5,5 × 8,5 Zoll (13,97 × 21,59 cm)
+# ist ein Standardformat von KDP und liegt dem deutschen Sachbuchformat von
+# 13,5 × 21,5 cm am nächsten. Die Ränder stehen in vorlage.tex; wer das
+# Format wechselt, prüft sie dort mit. Ein Format, das KDP nicht als
+# Standard führt, setzt der Lauf trotzdem, meldet es aber.
+breite = 5.5
+hoehe = 8.5
+
+# Das Papier des Innenteils, wie es bei KDP gewählt wird: "weiss" oder
+# "creme". Davon hängt die Rückenbreite ab – 0,002252 Zoll je Seite auf
+# weißem, 0,0025 Zoll auf cremefarbenem Papier. Wer bei KDP anders wählt
+# als hier, bekommt einen Umschlag mit falschem Rücken.
+papier = "weiss"
+
+[werk]
+lizenz = "Creative Commons Namensnennung 4.0 International (CC BY 4.0)"
+lizenz_kurz = "CC BY 4.0"
+lizenz_url = "https://creativecommons.org/licenses/by/4.0/deed.de"
+# Das offene Verzeichnis, aus dem gesetzt wird. Es steht im Impressum und
+# auf der Rückseite des Umschlags.
+verzeichnis = "https://github.com/mr-neoterix/polyzentrische-ordnung"
+
+[impressum]
+# Beim Selbstverlag ist der Verfasser der Verleger.
+verlag = "Marcel Richtsteiger"
+
+# Die ladungsfähige Anschrift des Verlegers. Die Landespressegesetze
+# verlangen sie auf jedem Druckwerk, das in Deutschland erscheint; ein
+# Postfach genügt nicht, die Anschrift eines Impressumsdienstes (c/o)
+# schon. Sie erscheint in beiden PDFs und im E-Book, also öffentlich.
+# Bleibt das Feld leer, steht die Verlagszeile ohne Anschrift, und jeder
+# Lauf warnt: So ist der Innenteil noch nicht einreichbar.
+anschrift = ""
+
+# Der Druckort wechselt bei KDP mit dem Ort der Bestellung; Amazon druckt
+# ihn auf die letzte Seite jedes Exemplars. Die Zeile steht nur im
+# Innenteil für den Druck.
+druck = "siehe Eindruck auf der letzten Seite"
+
+# Der Hinweis auf die Deutsche Nationalbibliothek. Er ist erst wahr, wenn
+# die Pflichtexemplare abgeliefert und verzeichnet sind; bis dahin bleibt
+# er aus.
+dnb_hinweis = false
+
+[band1]
+# Die ISBN des Taschenbuchs und des E-Books, mit Bindestrichen. KDP vergibt
+# für das Taschenbuch auf Wunsch eine kostenlose; das E-Book braucht keine.
+# Steht hier eine, muss es dieselbe sein wie bei KDP. Leer: Die Zeile
+# entfällt.
+isbn_taschenbuch = ""
+isbn_ebook = ""
+
+[band2]
+isbn_taschenbuch = ""
+isbn_ebook = ""

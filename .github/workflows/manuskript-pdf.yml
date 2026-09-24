@@ -1,10 +1,12 @@
-name: Manuskript-PDF
+name: Manuskript setzen
 
 # Bei jeder Änderung am Manuskript werden beide Bände neu gesetzt – das
 # Argument aus manuskript/band1/ und die Bauanleitung aus manuskript/band2/.
-# Die beiden PDFs hängen als Artefakt am Lauf und lassen sich dort
-# herunterladen; auf dem Hauptzweig erscheinen sie gemeinsam in einer
-# Veröffentlichung unter einer Nummer.
+# Aus jedem Band entstehen fünf Dateien: die Leseausgabe als PDF, für das
+# Taschenbuch bei KDP Innenteil und Umschlag, für das E-Book bei KDP das
+# EPUB und sein Titelbild. Alle hängen als Artefakt am Lauf; auf dem
+# Hauptzweig erscheinen sie gemeinsam in einer Veröffentlichung unter einer
+# Nummer.
 #
 # Wer hier je einen Schritt einbaut, der aus dem Lauf heraus committet:
 # kein `[skip ci]` in die Commit-Botschaft. Zusammengeführt wird per Squash,
@@ -42,9 +44,13 @@ on:
 # stehen. Am 02.09.2026 von 1 auf 2 gehoben; die erste Reihe endete mit 1.31.
 # Am 23.09.2026 von 2 auf 3 gehoben, mit der Teilung in zwei Bände; die
 # zweite Reihe endete mit 2.2, und jede Ausgabe der dritten Reihe besteht aus
-# zwei PDFs.
+# zwei PDFs, seit dem 24.09.2026 aus je fünf Dateien für jeden Band.
 env:
   HAUPTNUMMER: '3'
+  # EPUBCheck, der Prüfer des W3C für EPUB-Dateien. Die Version ist fest,
+  # und die Prüfsumme sichert, dass genau diese Datei geladen wird.
+  EPUBCHECK_VERSION: '5.3.0'
+  EPUBCHECK_SHA256: '6c07e68584b2e2ce2f89fe06e1246dfead3eb36b46b340e7d93524f29dcff6c5'
 
 permissions:
   contents: read
@@ -58,7 +64,7 @@ jobs:
   satz:
     name: Buch setzen
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
     # Schreibrecht braucht allein der letzte Schritt: die Veröffentlichung.
     permissions:
       contents: write
@@ -130,16 +136,16 @@ jobs:
             echo "kennung=${kennung}"
             echo "marke=${marke}"
             echo "veroeffentlichen=${veroeffentlichen}"
-            echo "datei1=build/polyzentrische-ordnung-band-1-${kennung}.pdf"
-            echo "datei2=build/polyzentrische-ordnung-band-2-${kennung}.pdf"
           } >> "$GITHUB_OUTPUT"
           echo "Diese Ausgabe: ${kennung}"
 
       # Brot- und Serifenlose stehen in satz/schriften/; ein Schriftpaket
-      # steht deshalb nicht mehr in dieser Liste. fonts-texgyre ist mit Heros
-      # weggefallen – es war allein fuer die Serifenlose da. Die Mono bleibt
-      # aus dem TeX-Baum: lmmono10-regular.otf kommt aus fonts-lmodern, und
-      # das zieht texlive-latex-base ohnehin als Abhaengigkeit herein.
+      # steht deshalb nicht in dieser Liste. Die Mono bleibt aus dem
+      # TeX-Baum: lmmono10-regular.otf kommt aus fonts-lmodern, und das zieht
+      # texlive-latex-base ohnehin als Abhaengigkeit herein. TikZ fuer den
+      # Umschlag kommt aus texlive-pictures, pdftoppm fuer das Titelbild des
+      # E-Books und pdfinfo fuer die Seitenzahl aus poppler-utils. Java fuer
+      # EPUBCheck bringt der Bauläufer mit.
       - name: Satzwerkzeuge einrichten
         run: |
           sudo apt-get update -qq
@@ -150,7 +156,21 @@ jobs:
             texlive-latex-recommended \
             texlive-lang-german \
             texlive-fonts-recommended \
+            texlive-pictures \
             poppler-utils
+
+      - name: EPUBCheck holen
+        run: |
+          set -euo pipefail
+          archiv="$RUNNER_TEMP/epubcheck.zip"
+          curl -sSfL -o "$archiv" \
+            "https://github.com/w3c/epubcheck/releases/download/v${EPUBCHECK_VERSION}/epubcheck-${EPUBCHECK_VERSION}.zip"
+          echo "${EPUBCHECK_SHA256}  ${archiv}" | sha256sum --check --strict
+          unzip -q "$archiv" -d "$RUNNER_TEMP"
+          jar="$RUNNER_TEMP/epubcheck-${EPUBCHECK_VERSION}/epubcheck.jar"
+          java -jar "$jar" --version
+          # Das Satzskript prüft jedes E-Book, sobald es diese Variable sieht.
+          echo "EPUBCHECK=${jar}" >> "$GITHUB_ENV"
 
       # Die Vorlage spricht die Schriftdateien über ihre Namen an. Stimmen
       # die nicht, bricht erst LuaTeX ab und nennt eine Zeilennummer. Dieser
@@ -178,9 +198,14 @@ jobs:
           # Die Mono ist die einzige Schrift, die nicht im Verzeichnis liegt.
           # Sie haengt an fonts-lmodern, das kein Schritt hier verlangt,
           # sondern texlive-latex-base mitbringt – faellt diese Abhaengigkeit
-          # weg, soll es hier auffallen und nicht erst in LuaTeX.
+          # weg, soll es hier auffallen und nicht erst in LuaTeX. Dasselbe gilt
+          # fuer TikZ, das allein der Umschlag braucht.
           if ! kpsewhich lmmono10-regular.otf > /dev/null 2>&1; then
             echo "FEHLT: lmmono10-regular.otf (Paket fonts-lmodern)."
+            fehlt=1
+          fi
+          if ! kpsewhich tikz.sty > /dev/null 2>&1; then
+            echo "FEHLT: tikz.sty (Paket texlive-pictures)."
             fehlt=1
           fi
           if [ "$fehlt" = "1" ]; then
@@ -192,56 +217,128 @@ jobs:
           fi
           echo "Alle erwarteten Schnitte vorhanden."
 
-      # Zwei Bände, zwei Läufe. Scheitert der erste, bricht der Schritt ab,
-      # bevor der zweite beginnt – ein halber Satz wird nicht veröffentlicht.
+      # Ein Lauf für beide Bände und alle Erzeugnisse. Scheitert einer, bricht
+      # der Schritt ab – ein halber Satz wird nicht veröffentlicht. Was der
+      # Lauf gesetzt hat, samt Seitenzahl, Rückenbreite und Warnungen, steht
+      # danach in build/ausgabe.json.
       - name: Bände setzen
-        run: |
-          set -e
-          python3 satz/build.py --band 1 --ausgabe '${{ steps.nummer.outputs.datei1 }}'
-          python3 satz/build.py --band 2 --ausgabe '${{ steps.nummer.outputs.datei2 }}'
+        env:
+          KENNUNG: ${{ steps.nummer.outputs.kennung }}
+        run: python3 satz/build.py --kennung "$KENNUNG"
 
+      # Zusammenfassung des Laufs und Text der Veröffentlichung, beide aus
+      # build/ausgabe.json. Die Seitenzahlen prüft pdfinfo noch einmal an den
+      # fertigen Dateien nach, unabhängig vom Satzskript.
       - name: Ergebnis vermerken
         env:
-          PDF1: ${{ steps.nummer.outputs.datei1 }}
-          PDF2: ${{ steps.nummer.outputs.datei2 }}
           KENNUNG: ${{ steps.nummer.outputs.kennung }}
         run: |
-          seiten1=$(pdfinfo "$PDF1" | awk '/^Pages:/ {print $2}')
-          seiten2=$(pdfinfo "$PDF2" | awk '/^Pages:/ {print $2}')
-          groesse1=$(du -h "$PDF1" | cut -f1)
-          groesse2=$(du -h "$PDF2" | cut -f1)
-          {
-            echo "### Manuskript gesetzt"
-            echo
-            echo "| | Band 1: Das Argument | Band 2: Die Bauanleitung |"
-            echo "|---|---|---|"
-            echo "| Ausgabe | ${KENNUNG} | ${KENNUNG} |"
-            echo "| Seiten | ${seiten1} | ${seiten2} |"
-            echo "| Umfang | ${groesse1} | ${groesse2} |"
-            echo
-            echo "Quellstand \`${GITHUB_SHA:0:7}\`. Beide PDFs hängen als Artefakt **manuskript-pdf-${KENNUNG}** an diesem Lauf."
-          } | tee -a "$GITHUB_STEP_SUMMARY"
+          set -euo pipefail
+          python3 - <<'PY'
+          import json, os, re, subprocess
+          bericht = json.load(open("build/ausgabe.json", encoding="utf-8"))
+          kennung = os.environ["KENNUNG"]
+          quelle = os.environ["GITHUB_SHA"][:7]
+          fmt = bericht["format"]
+          papier = {"weiss": "weißem", "creme": "cremefarbenem"}[fmt["papier"]]
 
-      - name: PDFs als Artefakt ablegen
+          def komma(zahl):
+              return f"{zahl}".replace(".", ",")
+
+          def name(band):
+              # „Band 1, Das Argument“ aus der Bandzeile „Erster Band: Das Argument“
+              return f"Band {band['band']}, {band['bandzeile'].partition(':')[2].strip()}"
+
+          def pdfseiten(datei):
+              info = subprocess.run(["pdfinfo", f"build/{datei}"], capture_output=True, text=True, check=True).stdout
+              return int(next(z.split()[1] for z in info.splitlines() if z.startswith("Pages:")))
+
+          zeilen = [f"| | {' | '.join(name(b) for b in bericht['baende'])} |",
+                    "|---|" + "---|" * len(bericht["baende"])]
+          def zeile(name, werte):
+              zeilen.append(f"| {name} | " + " | ".join(werte) + " |")
+          zeile("Ausgabe", [kennung for _ in bericht["baende"]])
+          zeile("Seiten", [f"{pdfseiten(b['dateien']['innenteil'])}" for b in bericht["baende"]])
+          def zoll(wert):
+              return komma(f"{wert:.4f}")
+          zeile("Rücken", [f"{komma(b['ruecken_mm'])} mm ({zoll(b['ruecken_zoll'])} Zoll)" for b in bericht["baende"]])
+          zeile("Umschlagbogen", [f"{zoll(b['bogen_zoll'][0])} × {zoll(b['bogen_zoll'][1])} Zoll" for b in bericht["baende"]])
+          tabelle = "\n".join(zeilen)
+          warnungen = "".join(f"\n- {w}" for w in bericht["warnungen"])
+
+          zusammenfassung = (
+              f"### Manuskript gesetzt\n\n{tabelle}\n\n"
+              f"Format {komma(fmt['breite_cm'])} × {komma(fmt['hoehe_cm'])} cm "
+              f"({komma(fmt['breite_zoll'])} × {komma(fmt['hoehe_zoll'])} Zoll), "
+              f"Innenteil schwarzweiß auf {papier} Papier. Quellstand `{quelle}`. "
+              f"Alle Dateien hängen als Artefakt **manuskript-{kennung}** an diesem Lauf.\n"
+          )
+          if warnungen:
+              zusammenfassung += f"\n**Warnungen des Satzlaufs:**{warnungen}\n"
+          with open(os.environ["GITHUB_STEP_SUMMARY"], "a", encoding="utf-8") as datei:
+              datei.write(zusammenfassung)
+          print(zusammenfassung)
+
+          # Die Standzeile heißt „Manuskript. Stand: …“; hier genügt der Stand.
+          def standzeile(band):
+              return re.sub(r"^Manuskript\.\s*", "", band["stand"]) or "ohne Stand"
+          staende = sorted({standzeile(b) for b in bericht["baende"]})
+          stand = staende[0] if len(staende) == 1 else ", ".join(
+              f"Band {b['band']} {standzeile(b)}" for b in bericht["baende"])
+          lesen = "\n".join(
+              f"- {name(b)}: `{b['dateien']['lesen']}` ({pdfseiten(b['dateien']['lesen'])} Seiten) "
+              f"und `{b['dateien']['ebook']}`" for b in bericht["baende"])
+          druck = "\n".join(
+              f"- {name(b)}: Innenteil `{b['dateien']['innenteil']}` ({b['seiten']} Seiten), "
+              f"Umschlag `{b['dateien']['umschlag']}` (Rücken {komma(b['ruecken_mm'])} mm)"
+              for b in bericht["baende"])
+          ebook = "\n".join(
+              f"- {name(b)}: `{b['dateien']['ebook']}` mit Titelbild `{b['dateien']['titelbild']}`"
+              for b in bericht["baende"])
+          notiz = f"""Das Manuskript in zwei Bänden – Ausgabe {kennung}, {stand}.
+
+          **Zum Lesen:**
+
+          {lesen}
+
+          Unter festen Namen liegen dieselben Dateien noch einmal bei (`polyzentrische-ordnung-band-1.pdf`, `…-band-1.epub` und so fort), damit die Dauerverweise auf die jeweils letzte Ausgabe gültig bleiben.
+
+          **Für das Taschenbuch bei KDP** – Format {komma(fmt['breite_cm'])} × {komma(fmt['hoehe_cm'])} cm ({komma(fmt['breite_zoll'])} × {komma(fmt['hoehe_zoll'])} Zoll), Innenteil schwarzweiß auf {papier} Papier, ohne Beschnitt:
+
+          {druck}
+
+          **Für das E-Book bei KDP:**
+
+          {ebook}
+          """
+          if warnungen:
+              notiz += f"\n**Warnungen des Satzlaufs:**{warnungen}\n"
+          notiz += (
+              f"\nGesetzt aus `{quelle}`. Jeder Satz des Hauptzweigs bekommt eine eigene Veröffentlichung; "
+              "die Nummer zählt um eins hoch und steht in den Dateinamen. Geändert wird im Markdown unter "
+              "`manuskript/band1/` und `manuskript/band2/`, nicht in diesen Dateien.\n"
+          )
+          open("build/notiz.md", "w", encoding="utf-8").write(notiz)
+          PY
+
+      - name: Dateien als Artefakt ablegen
         uses: actions/upload-artifact@v4
         with:
-          name: manuskript-pdf-${{ steps.nummer.outputs.kennung }}
+          name: manuskript-${{ steps.nummer.outputs.kennung }}
           path: |
-            ${{ steps.nummer.outputs.datei1 }}
-            ${{ steps.nummer.outputs.datei2 }}
+            build/polyzentrische-ordnung-*
+            build/ausgabe.json
           if-no-files-found: error
 
       # Ein Artefakt ist nur mit Anmeldung erreichbar und verfällt. Damit das
       # Buch von außen sichtbar bleibt, bekommt jeder Satz des Hauptzweigs
       # eine eigene Veröffentlichung unter der Marke seiner Nummer, mit
-      # beiden Bänden. Die jüngste ist zugleich die „latest"; die
-      # Dauerverweise führen also weiterhin auf den letzten Stand.
+      # allen Dateien beider Bände. Die jüngste ist zugleich die „latest";
+      # die Dauerverweise führen also weiterhin auf den letzten Stand.
       - name: Veröffentlichung anlegen
         if: steps.nummer.outputs.veroeffentlichen == 'ja'
         env:
           GH_TOKEN: ${{ github.token }}
-          PDF1: ${{ steps.nummer.outputs.datei1 }}
-          PDF2: ${{ steps.nummer.outputs.datei2 }}
           KENNUNG: ${{ steps.nummer.outputs.kennung }}
           MARKE: ${{ steps.nummer.outputs.marke }}
         run: |
@@ -255,46 +352,46 @@ jobs:
           else
             stand="Band 1 ${stand1:-ohne Stand}, Band 2 ${stand2:-ohne Stand}"
           fi
-          seiten1=$(pdfinfo "$PDF1" | awk '/^Pages:/ {print $2}')
-          seiten2=$(pdfinfo "$PDF2" | awk '/^Pages:/ {print $2}')
 
-          # Derselbe Satz noch einmal unter festen Namen: Die Verweise auf
-          # „latest/download/polyzentrische-ordnung-band-1.pdf" und
-          # „…-band-2.pdf" bleiben damit gültig, obwohl die eigentlichen
-          # Dateien ihre Nummer tragen.
-          fester_name1=build/polyzentrische-ordnung-band-1.pdf
-          fester_name2=build/polyzentrische-ordnung-band-2.pdf
-          cp "$PDF1" "$fester_name1"
-          cp "$PDF2" "$fester_name2"
+          # Die nummerierten Dateien beider Bände, dazu Leseausgabe und E-Book
+          # noch einmal unter festen Namen: Die Verweise auf
+          # „latest/download/polyzentrische-ordnung-band-1.pdf" und die
+          # übrigen bleiben damit gültig, obwohl die eigentlichen Dateien
+          # ihre Nummer tragen. Die Dateien für KDP bekommen keinen festen
+          # Namen – wer sie hochlädt, soll wissen, welche Ausgabe es ist.
+          dateien=()
+          for band in 1 2; do
+            for zusatz in "" "-kdp-innenteil" "-kdp-umschlag" "-ebook-titelbild"; do
+              endung=pdf
+              [ "$zusatz" = "-ebook-titelbild" ] && endung=jpg
+              dateien+=("build/polyzentrische-ordnung-band-${band}${zusatz}-${KENNUNG}.${endung}")
+            done
+            dateien+=("build/polyzentrische-ordnung-band-${band}-${KENNUNG}.epub")
+            for endung in pdf epub; do
+              cp "build/polyzentrische-ordnung-band-${band}-${KENNUNG}.${endung}" \
+                 "build/polyzentrische-ordnung-band-${band}.${endung}"
+              dateien+=("build/polyzentrische-ordnung-band-${band}.${endung}")
+            done
+          done
+          for datei in "${dateien[@]}"; do
+            [ -f "$datei" ] || { echo "Es fehlt: $datei" >&2; exit 1; }
+          done
 
           titel="Manuskript ${KENNUNG}"
           if [ -n "$stand" ]; then
             titel="${titel} (${stand})"
           fi
-          notiz=$(printf '%s\n' \
-            "Das Manuskript in zwei Bänden – Ausgabe ${KENNUNG}, ${stand:-ohne Standangabe}." \
-            "" \
-            "- Band 1, Das Argument: ${seiten1} Seiten" \
-            "- Band 2, Die Bauanleitung: ${seiten2} Seiten" \
-            "" \
-            "Gesetzt aus \`${GITHUB_SHA:0:7}\`. Jeder Satz des Hauptzweigs bekommt eine eigene" \
-            "Veröffentlichung; die Nummer zählt um eins hoch und steht in den Dateinamen." \
-            "" \
-            "Derselbe Satz liegt zusätzlich unter den festen Namen" \
-            "\`polyzentrische-ordnung-band-1.pdf\` und \`polyzentrische-ordnung-band-2.pdf\` bei," \
-            "damit die Dauerverweise auf die jeweils letzte Ausgabe gültig bleiben." \
-            "" \
-            "Geändert wird im Markdown unter \`manuskript/band1/\` und \`manuskript/band2/\`, nicht im PDF.")
 
-          gh release create "$MARKE" "$PDF1" "$PDF2" "$fester_name1" "$fester_name2" \
+          gh release create "$MARKE" "${dateien[@]}" \
             --repo "$GITHUB_REPOSITORY" \
             --target "$GITHUB_SHA" \
             --title "$titel" \
-            --notes "$notiz" \
+            --notes-file build/notiz.md \
             --latest
 
-      # Scheitert der Satz, ist der zusammengesetzte Quelltext das, woran man
-      # den Fehler sieht – deshalb wird er dann mitgegeben.
+      # Scheitert der Satz, ist der Zwischenstand das, woran man den Fehler
+      # sieht – Quelltext, LaTeX-Datei und Protokoll je Band und Erzeugnis
+      # liegen in build/zwischenstand/ –, deshalb wird er dann mitgegeben.
       - name: Zwischenstand bei Fehlschlag ablegen
         if: failure()
         uses: actions/upload-artifact@v4
