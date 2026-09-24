@@ -44,6 +44,10 @@
 
 \usepackage{fontspec}
 \usepackage[ngerman]{babel}
+% microtype gleicht den Blocksatz des Umschlagtexts aus: Zeichen am Rand
+% ragen ein wenig hinaus, und die Laufweite darf minimal atmen, damit die
+% Wortabstände auf der schmalen Spalte nicht aufreißen.
+\usepackage{microtype}
 \usepackage{tikz}
 \usepackage[
   paperwidth=\UBogenbreite in,
@@ -115,13 +119,12 @@
 \newdimen\UTextbreite
 \UTextbreite=\dimexpr\UBreite in - 2\URand\relax
 
-% Ein Umbruch mit Flatterrand, der trotzdem trennt: \raggedright erlaubt dem
-% Zeilenende unendlich viel Luft und trennt deshalb nie, und auf schmaler
-% Spalte flattert das deutsche Kompositum dann ausladend.
-\newcommand{\Flatter}{%
-  \rightskip=0pt plus 2.5em
-  \parfillskip=0pt plus 1fil
-  \spaceskip=\fontdimen2\font minus \fontdimen4\font
+% Der Umschlagtext steht im Blocksatz mit Silbentrennung, wie der Fließtext
+% des Buches. Auf der Spalte von gut elf Zentimetern tragen die deutschen
+% Komposita das nur mit etwas Notdehnung; ohne sie liefe eine Zeile über
+% den Rand, statt dass ihre Wortabstände ein wenig wachsen.
+\newcommand{\Blocksatz}{%
+  \emergencystretch=1.5em
 }
 
 \newsavebox\UTitelkasten
@@ -154,7 +157,7 @@
   % Die Farbe gehört in den Kasten selbst: Was vorab gesetzt ist, färbt der
   % Knoten, der es später aufnimmt, nicht mehr um.
   \sbox\UKlappe{\parbox[t]{\UTextbreite}{%
-    \color{schrift}\fontsize{10.5pt}{14.6pt}\selectfont\Flatter
+    \color{schrift}\fontsize{10.5pt}{14.6pt}\selectfont\Blocksatz
     \setlength{\parskip}{6pt}%
     \UKlappentext\par}}
   \sbox\UWerk{\parbox[b]{\UTextbreite}{%

@@ -1235,7 +1235,14 @@ def epub_metadaten(band: Band, angaben: Angaben, lauf: Lauf) -> dict:
         # ein Lesegerät hält eine neue Ausgabe nicht für ein neues Buch.
         ableitung = uuid.uuid5(uuid.NAMESPACE_URL, f"{angaben.verzeichnis}#band-{band.nummer}")
         kennung = {"scheme": "URN", "text": f"urn:uuid:{ableitung}"}
-    beschreibung = lies_umschlagtext(band.nummer) + "\n"
+    # Die Beschreibung ist in EPUB reiner Text. Als Markdown mit Absätzen
+    # übergeben, klebte Pandoc die Absätze ohne Leerzeichen aneinander;
+    # deshalb ein einziger Absatz ohne Auszeichnung.
+    beschreibung = " ".join(
+        absatz.replace("\n", " ").strip()
+        for absatz in re.sub(r"\*+", "", lies_umschlagtext(band.nummer)).split("\n\n")
+        if absatz.strip()
+    )
     return {
         "title": deutsche_anfuehrung(titelei["titel"]),
         "author": [titelei["autor"]],
