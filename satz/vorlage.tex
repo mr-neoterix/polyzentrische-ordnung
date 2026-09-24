@@ -1,6 +1,15 @@
 % Pandoc-Vorlage für das Manuskript „Die polyzentrische Ordnung“, beide Bände.
 % Was einen Band vom anderen unterscheidet – Bandzeile auf der Titelseite,
-% Quellverzeichnis im Impressum –, kommt als Variable aus dem Satzskript.
+% Impressum –, kommt als Variable aus dem Satzskript, ebenso das Format und
+% die Breite des Bundes.
+%
+% Aus derselben Vorlage entstehen zwei PDFs, seitengleich: die Leseausgabe
+% für den Bildschirm und der Innenteil für den Druck bei KDP. Die Variable
+% druck schaltet drei Dinge um, und nur diese: Der Innenteil wird in
+% Graustufen gesetzt, weil er schwarzweiß gedruckt wird; er bekommt keine
+% Lesezeichen und keine Verweisflächen, weil KDP Dateien mit Anmerkungen und
+% Lesezeichen ablehnt; und sein Impressum nennt den Druckort. Umbruch und
+% Seitenzahlen bleiben dieselben, eine Seitenangabe gilt also in beiden.
 %
 % Gesetzt wird mit LuaLaTeX. Die Vorlage ersetzt die mitgelieferte Vorlage
 % von Pandoc absichtlich vollständig: Der Text ist reine Prosa ohne Formeln,
@@ -15,36 +24,52 @@
 % ohne Kolumnentitel und ohne Zahl.
 \documentclass[
   fontsize=10pt,
-  paper=148mm:210mm,
+  paper=$papierbreite$:$papierhoehe$,
   twoside,
   open=right,
   cleardoublepage=empty,
   parskip=false,
+$if(druck)$
+  bookmarkpackage=false,
+$endif$
 ]{scrbook}
 
 \usepackage{fontspec}
 \usepackage[ngerman]{babel}
 \usepackage{microtype}
+% Im Innenteil rechnet xcolor jede Farbe in einen Grauwert um. Gedruckt wird
+% schwarzweiß, und so steht in der Datei schon, was auf dem Papier ankommt,
+% statt dass die Druckerei eine Farbe nach eigener Regel übersetzt.
+$if(druck)$
+\usepackage[gray]{xcolor}
+% Ohne Objektströme stehen Seitenmaß und Anmerkungen im Klartext in der
+% Datei; das Satzskript prüft dort nach, ob der Innenteil KDP-tauglich ist.
+\pdfvariable objcompresslevel=0
+$else$
 \usepackage{xcolor}
-% Buchformat 14,8 × 21,0 cm. Der Satzspiegel ist gegenüber dem früheren
-% A4-Stand mitgeschrumpft: 108 mm Zeilenbreite tragen bei 10 pt Pagella rund
-% zweiundsechzig Zeichen und damit eine noch lesbare Zeile; unten steht mehr
-% Rand als oben, damit die Seite nicht kippt. Die Zeichenzahl stammt aus der
-% Pagella-Zeit und ist an Alegreya nicht nachgezählt; wer am Satzspiegel
-% dreht, zählt sie vorher am gesetzten Bogen nach. Bekannt ist nur die
-% Richtung: Alegreya läuft enger und setzt denselben Text auf 414 statt
-% 440 Seiten.
+$endif$
+% Das Format kommt aus satz/veroeffentlichung.toml: 5,5 × 8,5 Zoll
+% (13,97 × 21,59 cm), ein Standardformat von KDP und dem deutschen
+% Sachbuchformat von 13,5 × 21,5 cm am nächsten. Bis zum 24.09.2026 stand
+% hier A5; der Satzspiegel ist dabei nur so weit nachgezogen, wie das
+% schmalere und etwas höhere Blatt verlangt. 102,7 mm Zeilenbreite tragen
+% bei 10 pt Alegreya eine lesbare Zeile, knapp fünf Prozent weniger als die
+% 108 mm auf A5; dafür ist die Kolumne sechs Millimeter höher, und beide
+% Bände behalten ihren Umfang, 190 und 240 Seiten wie auf A5 (Stand
+% 24.09.2026). Unten steht mehr Rand als oben, damit die Seite nicht kippt.
 %
-% Seit dem zweiseitigen Satz heißen die seitlichen Ränder nicht mehr links
-% und rechts, sondern innen und außen, und sie sind ungleich: Der Bund
-% schluckt einen Teil des inneren Randes, also bekommt er ihn zugelegt.
-% Zusammen bleiben es dieselben 40 mm, die Zeilenbreite also dieselben
-% 108 mm; nur der Textblock rückt auf jeder Seite ein Stück von der Mitte
-% des Bogens weg.
+% Die seitlichen Ränder heißen innen und außen, und sie sind ungleich: Der
+% Bund schluckt einen Teil des inneren Randes, also bekommt er ihn zugelegt.
+% Die Breite des Bundes setzt das Satzskript ein. Die Vorlage hält 20 mm,
+% mehr als KDP bis 700 Seiten verlangt (bis 300 Seiten 12,7 mm, bis 500
+% Seiten 15,9 mm, bis 700 Seiten 19,1 mm); wird ein Band dicker, setzt der
+% Lauf ihn mit dem verlangten Bund neu. Außen, oben und unten verlangt KDP
+% mindestens 6,4 mm – auch Kolumnentitel und Seitenzahl bleiben weit
+% innerhalb davon.
 \usepackage[
-  paperwidth=148mm, paperheight=210mm,
+  paperwidth=$papierbreite$, paperheight=$papierhoehe$,
   twoside=true,
-  top=18mm, bottom=22mm, inner=22mm, outer=18mm,
+  top=18mm, bottom=22mm, inner=$bund$, outer=17mm,
   headsep=6mm, footskip=12mm,
 ]{geometry}
 
@@ -173,8 +198,19 @@ $endif$
 % --------------------------------------------------------------------------
 % Verweise
 % --------------------------------------------------------------------------
+% Im Innenteil läuft hyperref im Entwurfsmodus und ohne Lesezeichen: Die
+% Befehle bleiben verfügbar, es entstehen aber weder Verweisflächen noch
+% Lesezeichen – beides nimmt KDP nicht an. Der Entwurfsmodus allein genügt
+% dafür nicht, er schaltet nur die Verweise ab; und scrbook lädt zu hyperref
+% von sich aus das Paket bookmark, das Lesezeichen an hyperref vorbei
+% anlegt – deshalb oben die Klassenoption bookmarkpackage=false. Am Umbruch
+% ändert das alles nichts.
 
 \usepackage[
+$if(druck)$
+  draft,
+  bookmarks=false,
+$endif$
   unicode,
   colorlinks=true,
   linkcolor=akzent,
@@ -294,7 +330,8 @@ $endif$
   % nicht zuverlässig: Dort fiel der Seitenumbruch bisweilen auf die Glue nach
   % dem Strich und ließ ihn allein am Fuß der Seite zurück. Das \hfill\null füllt
   % die kurze Strichzeile, damit sie nicht als „underfull“ gemeldet wird.
-  \noindent\textcolor{leise}{\rule{0.3\linewidth}{0.4pt}}\hfill\null\\*[0.9em]%
+  % Der Strich ist 0,75 pt stark: Dünnere Linien druckt KDP nicht sicher.
+  \noindent\textcolor{leise}{\rule{0.3\linewidth}{0.75pt}}\hfill\null\\*[0.9em]%
   {\normalfont\scshape\color{akzent}Belege}\par
   \nobreak\vspace{0.5em}%
   \begingroup
@@ -354,33 +391,20 @@ $endif$
 % Die Rückseite des Titelblatts – die erste linke Seite des Buches und das
 % Impressum. Es steht am Fuß der Seite, klein und in der leisen Farbe, wie
 % es in Büchern üblich ist: Wer es sucht, findet es; wer es nicht sucht,
-% liest darüber hinweg. Der Rechteinhaber ist der Verfasser der Titelei,
-% das Jahr kommt aus dem Quellstand – beides wird nicht hier gepflegt.
+% liest darüber hinweg.
+%
+% Der Text kommt fertig aus dem Satzskript, das ihn aus der Titelei, dem
+% Quellstand und satz/veroeffentlichung.toml zusammensetzt: Rechteangabe und
+% Lizenz, Verlag mit Anschrift, im Innenteil der Druckort, die ISBN, wo es
+% eine gibt, und die Herkunft aus dem offenen Verzeichnis. Gepflegt wird er
+% dort, nicht hier – dasselbe Impressum steht auch im E-Book.
 \thispagestyle{empty}
 \null\vfill
 {\footnotesize\color{leise}\raggedright
   \setlength{\parskip}{0.7em}%
   \setlength{\parindent}{0pt}%
-  Bibliografische Information der Deutschen Nationalbibliothek: Die Deutsche
-  Nationalbibliothek verzeichnet diese Publikation in der Deutschen
-  Nationalbibliografie; detaillierte bibliografische Daten sind im Internet
-  über dnb.dnb.de abrufbar.\par
-
-  Die automatisierte Analyse des Werkes, um daraus Informationen insbesondere
-  über Muster, Trends und Korrelationen gemäß §~44b UrhG („Text und Data
-  Mining“) zu gewinnen, ist untersagt.\par
-
-  $if(autor)$© $jahr$ $autor$\par$endif$
-
-  Verlag: BoD~· Books on Demand GmbH, Überseering 33, 22297 Hamburg,
-  bod@bod.de\\
-  Druck: Libri Plureos GmbH, Friedensallee 273, 22763 Hamburg\par
-
-  Diese Fassung wurde aus den Kapiteldateien in \texttt{$if(quelle)$$quelle$$else$manuskript/$endif$} gesetzt.
-  Sie ist ein Erzeugnis des Satzlaufs, nicht die Quelle: Geändert wird im
-  Markdown, nicht im PDF.\par
-  $if(fassung)$Quellstand: \texttt{$fassung$}$if(satzdatum)$, $satzdatum$$endif$.\par$endif$
-}
+$impressum$
+\par}
 \cleardoublepage
 
 \pagestyle{scrheadings}
@@ -388,5 +412,10 @@ $endif$
 \tableofcontents
 
 $body$
+
+% Der Umfang endet auf einer geraden Seite. KDP füllt eine ungerade
+% Seitenzahl ohnehin auf; so stimmt die Seitenzahl der Datei mit der
+% gedruckten überein, und aus ihr rechnet der Umschlag seinen Rücken.
+\cleardoublepage
 
 \end{document}

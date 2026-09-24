@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+$-- Pandoc-Vorlage für das E-Book (EPUB 3), beide Bände.
+$--
+$-- Pandoc wendet sie auf jede Datei des E-Books an. Sie ist Pandocs eigene
+$-- Vorlage mit einer anderen Titelseite: Titel, Untertitel, Bandzeile,
+$-- Verfasser und Stand wie auf der Titelseite des Buches, dahinter auf einer
+$-- eigenen Seite das Impressum – im gedruckten Buch die Rückseite des
+$-- Titelblatts. Beides kommt als Metadatum aus dem Satzskript.
+$--
+$-- Die Titelbildseite, die Pandoc aus dem Zweig coverpage baut, entfernt das
+$-- Satzskript nach dem Lauf wieder: Die Kindle-Richtlinien lassen neben dem
+$-- Titelbild keine eigene Seite dafür zu.
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops"$if(lang)$ lang="$lang$" xml:lang="$lang$"$endif$>
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <title>$pagetitle$</title>
+$for(css)$
+  <link rel="stylesheet" type="text/css" href="$css$" />
+$endfor$
+</head>
+<body$if(coverpage)$ id="cover"$endif$$if(body-type)$ epub:type="$body-type$"$endif$>
+$if(titlepage)$
+<section epub:type="titlepage" class="titelseite">
+  <h1 class="titel">$title$</h1>
+$if(untertitel)$
+  <p class="untertitel">$untertitel$</p>
+$endif$
+$if(bandzeile)$
+  <p class="bandzeile">$bandzeile$</p>
+$endif$
+$for(author)$
+  <p class="verfasser">$author$</p>
+$endfor$
+$if(standzeile)$
+  <p class="stand">$standzeile$</p>
+$endif$
+</section>
+$if(impressum)$
+<section epub:type="copyright-page" class="impressum">
+$impressum$
+</section>
+$endif$
+$else$
+$if(coverpage)$
+<div id="cover-image">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="100%" height="100%" viewBox="0 0 $cover-image-width$ $cover-image-height$" preserveAspectRatio="xMidYMid">
+<image width="$cover-image-width$" height="$cover-image-height$" xlink:href="../media/$cover-image$" />
+</svg>
+</div>
+$else$
+$body$
+$endif$
+$endif$
+</body>
+</html>

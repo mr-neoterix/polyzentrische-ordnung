@@ -1,0 +1,296 @@
+% Umschlag für „Die polyzentrische Ordnung“, beide Bände.
+%
+% Diese Datei ist keine Pandoc-Vorlage. Das Satzskript schreibt ihr einen
+% Kopf aus \def-Zeilen voran – Maße, Farbmodell, Texte – und setzt das Ganze
+% mit LuaLaTeX in einem Lauf. Gezeichnet wird in Zoll, weil KDP in Zoll
+% vermisst; der Ursprung liegt unten links auf dem Bogen, samt Beschnitt.
+%
+% Zwei Arten entstehen aus derselben Zeichnung:
+%
+% *Druck* (\UDruck = 1): der Umschlag des Taschenbuchs für KDP, ein einziger
+% Bogen aus Rückseite, Rücken und Vorderseite, rundum mit 0,125 Zoll
+% Beschnitt. Die Rückenbreite folgt aus der Seitenzahl des Innenteils und
+% wird bei jedem Satz neu gerechnet; die Vorlage kennt nur ihr Ergebnis,
+% \URuecken. Farben im CMYK-Modell, weil gedruckt wird.
+%
+% *E-Book* (\UDruck = 0): das Titelbild des E-Books, nur die Vorderseite,
+% ohne Beschnitt, im Seitenverhältnis 1 : 1,6, das KDP für E-Book-Umschläge
+% empfiehlt. Farben im RGB-Modell, weil Kindle kein CMYK kennt. Die
+% Vorderseite ist deshalb in Anteilen der Höhe gebaut: Dieselbe Zeichnung
+% trägt 8,5 und 8,8 Zoll.
+%
+% Was KDP vorschreibt und hier eingehalten wird: Text mindestens 0,125 Zoll
+% innerhalb der Schnittkante (hier überall mehr), Rückentext nur bei mehr
+% als 79 Seiten und mit mindestens 0,0625 Zoll Luft zu beiden Falzen – das
+% Satzskript rechnet die Schriftgröße danach aus und lässt den Rückentext
+% weg, wo er nicht passt –, ein weißes Feld von 2 × 1,2 Zoll für den
+% Barcode unten an der Rückseite, 0,25 Zoll vom Rücken und von der unteren
+% Schnittkante. In dieses Feld darf nichts gedruckt werden; KDP setzt den
+% Barcode selbst hinein. Keine Transparenz – die hellen Kreise sind
+% ausgemischte Volltöne, keine Deckkraftstufen –, weil KDP flache Dateien
+% verlangt, und keine Linie unter 0,75 pt.
+
+% fix-cm macht die Computer-Modern-Schriften stufenlos skalierbar. Sie
+% kommen auf dem Umschlag gar nicht vor, aber LaTeX richtet für jede
+% Schriftgröße auch die Mathematikschriften ein und meldete beim 35-Punkt-
+% Titel sonst drei Ersetzungen, die niemand zu suchen braucht.
+\RequirePackage{fix-cm}
+\documentclass{article}
+
+% Das Farbmodell kommt aus dem Kopf. \edef, weil LaTeX Paketoptionen nicht
+% selbst expandiert.
+\edef\UPaketoptionen{\noexpand\usepackage[\UFarbmodell]{xcolor}}
+\UPaketoptionen
+
+\usepackage{fontspec}
+\usepackage[ngerman]{babel}
+\usepackage{tikz}
+\usepackage[
+  paperwidth=\UBogenbreite in,
+  paperheight=\UBogenhoehe in,
+  margin=0pt,
+  nohead, nofoot,
+]{geometry}
+
+% Ohne Objektströme steht die MediaBox im Klartext in der Datei. Das
+% Satzskript liest sie dort nach und prüft, ob der Bogen das Maß hat, das
+% KDP aus der Seitenzahl erwartet.
+\pdfvariable objcompresslevel=0
+
+\setmainfont{Alegreya}[
+  Path = \USchriften,
+  Extension = .otf,
+  UprightFont = *-Regular,
+  ItalicFont = *-Italic,
+  BoldFont = *-Bold,
+  BoldItalicFont = *-BoldItalic,
+  SmallCapsFont = AlegreyaSC-Regular,
+  Ligatures = TeX,
+]
+
+% --------------------------------------------------------------------------
+% Farben
+% --------------------------------------------------------------------------
+% Jeder Band hat seinen Grund: der erste ein gedecktes Schieferblau, das die
+% Akzentfarbe des Innenteils aufnimmt, der zweite ein dunkles Ziegelrot. Die
+% Farbmenge des Grundes bleibt unter 240 Prozent, damit der Druck nicht
+% absäuft.
+%
+% Jede Farbe steht zweimal, als CMYK für den Druck und als RGB für das
+% Titelbild; xcolor nimmt die Angabe, die zum Farbmodell des Laufs passt.
+% Umrechnen ließe xcolor sie auch, aber nach einer Formel, die dunkle Töne
+% ins Schwarzblaue verschiebt. Die RGB-Werte sind stattdessen die, als die
+% ein gewöhnliches Farbprofil die CMYK-Werte wiedergibt: So sieht das
+% Titelbild aus wie das gedruckte Buch. Wer eine Farbe ändert, ändert beide.
+
+\ifcase\UBand\relax
+  \definecolor{grund}{cmyk/rgb}{0.60,0.40,0.40,0.50/0.259,0.322,0.333}% kein Band 0
+\or
+  \definecolor{grund}{cmyk/rgb}{0.75,0.50,0.35,0.45/0.188,0.290,0.357}
+\or
+  \definecolor{grund}{cmyk/rgb}{0.30,0.75,0.80,0.45/0.451,0.224,0.153}
+\else
+  \definecolor{grund}{cmyk/rgb}{0.60,0.40,0.40,0.50/0.259,0.322,0.333}
+\fi
+\definecolor{schrift}{cmyk/rgb}{0,0.02,0.06,0.02/0.976,0.957,0.914}
+\definecolor{gold}{cmyk/rgb}{0.12,0.24,0.55,0.08/0.812,0.690,0.478}
+\definecolor{papierweiss}{cmyk/rgb}{0,0,0,0/1,1,1}
+\colorlet{kreislinie}{gold!58!grund}
+\colorlet{kreisflaeche}{schrift!9!grund}
+\colorlet{leisegold}{gold!80!grund}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\topskip}{0pt}
+\frenchspacing
+
+% --------------------------------------------------------------------------
+% Maße, die TeX selbst ausrechnet
+% --------------------------------------------------------------------------
+% Der Satzspiegel der Vorder- und Rückseite: 0,58 Zoll Rand zu jeder
+% Schnittkante. TikZ rechnet mit Zahlen in Zoll (\rand in der Zeichnung),
+% die Kästen darunter mit TeX-Maßen; beide meinen dasselbe.
+\newdimen\URand
+\URand=0.58in
+\newdimen\UTextbreite
+\UTextbreite=\dimexpr\UBreite in - 2\URand\relax
+
+% Ein Umbruch mit Flatterrand, der trotzdem trennt: \raggedright erlaubt dem
+% Zeilenende unendlich viel Luft und trennt deshalb nie, und auf schmaler
+% Spalte flattert das deutsche Kompositum dann ausladend.
+\newcommand{\Flatter}{%
+  \rightskip=0pt plus 2.5em
+  \parfillskip=0pt plus 1fil
+  \spaceskip=\fontdimen2\font minus \fontdimen4\font
+}
+
+\newsavebox\UTitelkasten
+\newsavebox\UKlappe
+\newsavebox\UWerk
+\newdimen\UTitelgroesse
+\newdimen\URest
+
+\makeatletter
+\begin{document}
+
+% Der Titel steht in zwei Zeilen, umbrochen vor dem letzten Wort. Er bekommt
+% 35 Punkt, es sei denn, seine längere Zeile wäre dann breiter als der
+% Satzspiegel – dann so viel weniger, dass sie genau hineinpasst.
+\sbox\UTitelkasten{\fontsize{35pt}{37pt}\selectfont\bfseries
+  \begin{tabular}{@{}l@{}}\UTitelzeilen\end{tabular}}
+\ifdim\wd\UTitelkasten>\UTextbreite
+  \UTitelgroesse=\dimexpr 35pt*\UTextbreite/\wd\UTitelkasten\relax
+\else
+  \UTitelgroesse=35pt
+\fi
+\edef\UTitelschrift{\noexpand\fontsize{\the\UTitelgroesse}%
+  {\the\dimexpr\UTitelgroesse*106/100\relax}\noexpand\selectfont\noexpand\bfseries}
+
+\ifnum\UDruck=1
+  % Der Umschlagtext und die Werkangabe darunter werden vorab gesetzt und
+  % vermessen. Reicht der Platz zwischen dem oberen Rand und der Werkangabe
+  % nicht, schreibt TeX eine Zeile ins Protokoll, die das Satzskript als
+  % Warnung weitergibt – der Text liefe sonst stumm in die Werkangabe.
+  % Die Farbe gehört in den Kasten selbst: Was vorab gesetzt ist, färbt der
+  % Knoten, der es später aufnimmt, nicht mehr um.
+  \sbox\UKlappe{\parbox[t]{\UTextbreite}{%
+    \color{schrift}\fontsize{10.5pt}{14.6pt}\selectfont\Flatter
+    \setlength{\parskip}{6pt}%
+    \UKlappentext\par}}
+  \sbox\UWerk{\parbox[b]{\UTextbreite}{%
+    \color{gold}\rule{0.9in}{1pt}\par\vspace{7pt}%
+    \fontsize{10pt}{13.5pt}\selectfont\UReihe\par}}
+  \URest=\dimexpr \UHoehe in - 0.78in - \ht\UKlappe - \dp\UKlappe
+    - 2.05in - \ht\UWerk - \dp\UWerk - 0.25in\relax
+  \ifdim\URest<0pt
+    \typeout{UMSCHLAG-UEBERLAUF: \strip@pt\dimexpr-\URest\relax}
+  \fi
+\fi
+\makeatother
+
+\noindent
+\begin{tikzpicture}[x=1in, y=1in, line cap=round, line join=round]
+  \useasboundingbox (0,0) rectangle (\UBogenbreite,\UBogenhoehe);
+
+  % Der Grund läuft über den ganzen Bogen, Beschnitt eingeschlossen. Über
+  % den Falz hinweg bleibt er dieselbe Fläche: KDP lässt dem Falz 0,0625
+  % Zoll Spiel, und ein durchgehender Grund verzeiht es.
+  \fill[grund] (0,0) rectangle (\UBogenbreite,\UBogenhoehe);
+
+  % Die Vorderseite: Ursprung unten links an der Schnittkante.
+  \pgfmathsetmacro{\fx}{\UBeschnitt + \UVorderseiteLinks}
+  \pgfmathsetmacro{\fy}{\UBeschnitt}
+  \pgfmathsetmacro{\w}{\UBreite}
+  \pgfmathsetmacro{\h}{\UHoehe}
+  \pgfmathsetmacro{\rand}{0.58}
+
+  % ----------------------------------------------------------------------
+  % Das Zeichen: Kreise mit je einem Mittelpunkt. Viele Zentren, keines in
+  % der Mitte, keines um Längen das größte – das Motiv ist der Titel. Lage
+  % in Anteilen der Seite, Halbmesser in Zoll; die Anordnung ist gesetzt und
+  % nicht gewürfelt, damit jeder Satz dasselbe Bild zeigt. Zwei Kreise laufen
+  % über die Schnittkante in den Beschnitt, auf dem Druckbogen bis an den
+  % Rücken, nie darüber.
+  % ----------------------------------------------------------------------
+  \begin{scope}
+    \clip (\fx,\fy-\UBeschnitt)
+      rectangle (\fx+\w+\UBeschnitt,\fy+\h+\UBeschnitt);
+    \foreach \ax/\ay/\r/\voll in {
+        0.19/0.505/0.50/1,
+        0.43/0.575/0.30/0,
+        0.63/0.470/0.74/0,
+        0.905/0.585/0.38/1,
+        0.33/0.395/0.24/0,
+        0.83/0.365/0.46/0,
+        0.085/0.340/0.16/0,
+        0.50/0.325/0.12/1,
+        1.03/0.450/0.30/0,
+        0.255/0.640/0.13/0%
+      }{
+      \pgfmathsetmacro{\mx}{\fx + \ax*\w}
+      \pgfmathsetmacro{\my}{\fy + \ay*\h}
+      \ifnum\voll=1
+        \fill[kreisflaeche] (\mx,\my) circle[radius=\r];
+      \fi
+      \draw[kreislinie, line width=1.1pt] (\mx,\my) circle[radius=\r];
+      \fill[gold] (\mx,\my) circle[radius=0.034];
+    }
+  \end{scope}
+
+  % ----------------------------------------------------------------------
+  % Vorderseite: Titel, Untertitel, Band, Verfasser
+  % ----------------------------------------------------------------------
+  \node[anchor=north west, inner sep=0pt, align=left, text=schrift,
+        font=\UTitelschrift]
+    at (\fx+\rand, \fy+0.905*\h) {\UTitelzeilen};
+
+  % flush left ist der echte Flatterrand ohne Trennung; TikZs left trennt
+  % und dehnt die Wortabstände, und ein getrennter Untertitel sieht nach
+  % Versehen aus.
+  \node[anchor=north west, inner sep=0pt, text width=\UTextbreite,
+        align=flush left, text=gold]
+    at (\fx+\rand, \fy+0.735*\h) {%
+      \fontsize{14.5pt}{18.5pt}\selectfont\itshape\UUntertitel\par};
+
+  \node[anchor=south west, inner sep=0pt, text width=\UTextbreite,
+        align=flush left]
+    at (\fx+\rand, \fy+0.155*\h) {%
+      {\color{gold}\fontsize{12.5pt}{14pt}\selectfont\scshape
+        \addfontfeatures{LetterSpace=6}\UBandzahl\par}%
+      \vspace{3pt}%
+      {\color{schrift}\fontsize{21pt}{24pt}\selectfont\UBandtitel\par}};
+
+  \node[anchor=south west, inner sep=0pt, text width=\UTextbreite,
+        align=flush left, text=schrift]
+    at (\fx+\rand, \fy+0.062*\h) {%
+      \fontsize{14pt}{16pt}\selectfont\scshape
+      \addfontfeatures{LetterSpace=4}\UAutor\par};
+
+  % ----------------------------------------------------------------------
+  % Rücken und Rückseite gibt es nur auf dem Druckbogen.
+  % ----------------------------------------------------------------------
+  \ifnum\UDruck=1
+
+    % Rücken: Verfasser unten, Titel in der Mitte, Band oben, von unten
+    % nach oben zu lesen, wie es in deutschen Büchern üblich ist.
+    \ifnum\URueckentext=1
+      \pgfmathsetmacro{\rx}{\UBeschnitt + \UBreite + \URuecken/2}
+      \node[rotate=90, anchor=mid west, inner sep=0pt, text=schrift]
+        at (\rx, \UBeschnitt+0.55) {%
+          \fontsize{\URueckengroesse pt}{\URueckengroesse pt}\selectfont\scshape
+          \addfontfeatures{LetterSpace=4}\UAutor};
+      \node[rotate=90, anchor=mid, inner sep=0pt, text=schrift]
+        at (\rx, \UBeschnitt+\UHoehe/2) {%
+          \fontsize{\URueckengroesse pt}{\URueckengroesse pt}\selectfont\bfseries
+          \UTitel};
+      \node[rotate=90, anchor=mid east, inner sep=0pt, text=gold]
+        at (\rx, \UBeschnitt+\UHoehe-0.55) {%
+          \fontsize{\URueckengroesse pt}{\URueckengroesse pt}\selectfont\scshape
+          \addfontfeatures{LetterSpace=4}\URueckenband};
+    \fi
+
+    % Rückseite: Ursprung unten links an der Schnittkante.
+    \pgfmathsetmacro{\bx}{\UBeschnitt}
+    \pgfmathsetmacro{\by}{\UBeschnitt}
+
+    \node[anchor=north west, inner sep=0pt, text=schrift]
+      at (\bx+\rand, \by+\h-0.78) {\usebox\UKlappe};
+
+    % Die Werkangabe: in welchem Band man liest und welcher dazugehört.
+    \node[anchor=south west, inner sep=0pt, text=gold]
+      at (\bx+\rand, \by+2.05) {\usebox\UWerk};
+
+    % Nachweis links unten, neben dem Barcodefeld, in festen Zeilen: Die
+    % Adresse des Verzeichnisses darf nicht am Bindestrich umbrechen.
+    \node[anchor=south west, inner sep=0pt, align=flush left, text=leisegold,
+          font=\fontsize{8.5pt}{11pt}\selectfont]
+      at (\bx+\rand, \by+0.30) {\UNachweis};
+
+    % Das Barcodefeld: 2 × 1,2 Zoll, 0,25 Zoll vom Rücken und von der
+    % unteren Schnittkante, weiß und leer.
+    \fill[papierweiss]
+      (\bx+\w-0.25-2.0, \by+0.25) rectangle (\bx+\w-0.25, \by+0.25+1.2);
+
+  \fi
+\end{tikzpicture}
+\end{document}

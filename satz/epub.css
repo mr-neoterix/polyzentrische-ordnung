@@ -1,0 +1,196 @@
+/*
+  Stylesheet des E-Books, beide Bände.
+
+  Es schreibt keine Schrift vor und keine feste Größe: Welche Schrift und
+  welchen Grad ein Lesegerät nimmt, bestimmt der Leser. Festgelegt ist nur,
+  was das Buch als Buch erkennbar macht – Einzug statt Leerzeile zwischen
+  den Absätzen, die Kapitelmarke über dem Titel, der Belegapparat kleiner
+  und mit Abstand statt Einzug, das Impressum auf eigener Seite.
+
+  Für Kindle gilt dabei: keine versteckten Elemente (display: none bricht
+  die Umwandlung ab, wenn es im Inhaltsverzeichnis steht), keine festen
+  Pixelmaße, keine Positionierung. Alle Größen stehen in em.
+*/
+
+p {
+  margin: 0;
+  text-indent: 1.2em;
+  text-align: justify;
+  orphans: 2;
+  widows: 2;
+}
+
+/* Der erste Absatz nach einer Überschrift beginnt ohne Einzug, wie im Buch. */
+h1 + p, h2 + p, h3 + p, h4 + p, hr + p, blockquote + p {
+  text-indent: 0;
+}
+
+h1, h2, h3, h4 {
+  font-weight: bold;
+  text-align: left;
+  text-indent: 0;
+  line-height: 1.25;
+  -webkit-hyphens: none;
+  hyphens: none;
+  page-break-after: avoid;
+  page-break-inside: avoid;
+}
+
+/* Erste Ebene: die Abschnitte des Vorspanns und die Teile. */
+h1 {
+  font-size: 1.6em;
+  margin: 2.5em 0 1.2em 0;
+  page-break-before: always;
+}
+
+h1.teil {
+  font-size: 1.5em;
+  text-align: center;
+  margin-top: 6em;
+}
+
+/* Zweite Ebene: die Kapitel, mit der Kapitelmarke als eigener Zeile. */
+h2 {
+  font-size: 1.5em;
+  margin: 3em 0 1.6em 0;
+  page-break-before: always;
+}
+
+h2 .kapitelzahl {
+  display: block;
+  font-size: 0.6em;
+  font-weight: normal;
+  font-variant: small-caps;
+  letter-spacing: 0.08em;
+  margin-bottom: 0.6em;
+}
+
+/* Dritte und vierte Ebene: die Abschnitte der Kapitel und des Apparats. */
+h3 {
+  font-size: 1.15em;
+  margin: 1.8em 0 0.6em 0;
+}
+
+h4 {
+  font-size: 1em;
+  margin: 1.2em 0 0.4em 0;
+}
+
+blockquote {
+  margin: 1em 1.5em;
+}
+
+blockquote p {
+  text-indent: 0;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid #999999;
+  width: 30%;
+  margin: 1.5em auto;
+}
+
+code {
+  font-family: monospace;
+  font-size: 0.9em;
+}
+
+sup, sub {
+  font-size: 0.75em;
+  line-height: 0;
+}
+
+/* Der Belegapparat am Kapitelende: kleiner, mit Abstand statt Einzug. */
+section.belege {
+  margin-top: 2.5em;
+  font-size: 0.85em;
+}
+
+section.belege h3 {
+  font-size: 1.1em;
+  font-weight: normal;
+  font-variant: small-caps;
+  letter-spacing: 0.05em;
+  border-top: 1px solid #999999;
+  padding-top: 0.8em;
+}
+
+section.belege p {
+  text-indent: 0;
+  text-align: left;
+  margin: 0 0 0.6em 0;
+}
+
+section.belege a, section.belege code {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+/* Die Titelseite. */
+section.titelseite {
+  text-align: center;
+}
+
+section.titelseite h1 {
+  font-size: 2em;
+  text-align: center;
+  margin: 3em 0 0.8em 0;
+  page-break-before: avoid;
+}
+
+section.titelseite p {
+  text-indent: 0;
+  text-align: center;
+  margin: 0 0 1em 0;
+}
+
+p.untertitel {
+  font-style: italic;
+  font-size: 1.1em;
+}
+
+p.bandzeile {
+  font-variant: small-caps;
+  letter-spacing: 0.06em;
+  margin-top: 2em;
+}
+
+p.verfasser {
+  font-size: 1.1em;
+  margin-top: 3em;
+}
+
+p.stand {
+  font-size: 0.85em;
+  margin-top: 3em;
+}
+
+/* Das Impressum: eigene Seite, klein. */
+section.impressum {
+  page-break-before: always;
+  font-size: 0.8em;
+  margin-top: 4em;
+}
+
+section.impressum p {
+  text-indent: 0;
+  text-align: left;
+  margin: 0 0 0.9em 0;
+}
+
+/* Das Inhaltsverzeichnis. */
+nav#toc ol, nav#landmarks ol {
+  padding: 0;
+  margin-left: 1em;
+}
+
+nav#toc ol li, nav#landmarks ol li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav#toc > ol > li {
+  margin-top: 0.6em;
+}
