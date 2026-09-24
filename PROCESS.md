@@ -188,6 +188,26 @@ Die Abgrenzung in einem Satz: **Das Ledger sagt, was dieses Buch nicht kann; die
 
 ---
 
+### V20 – Replikationsdebatte zu Gilens/Page am Volltext
+**Angelegt:** 24.09.2026.
+**Gegenstand:** die Kritik an Gilens/Page 2014 – Enns 2015 samt Erwiderung von Gilens und Replik von Enns, Bashir 2015 samt Erwiderung von Gilens 2016, Branham/Soroka/Wlezien 2017, die gemeinsame Antwort von Gilens und Page in der *Washington Post* vom 23.05.2016 –, die Band 1, Kapitel 6, Band 2, Kapitel 12 und Befund 7 des Thesenpapiers seit dem 24.09.2026 führen.
+**Was fehlt:** die Einsicht in die Volltexte; Cambridge Core, SAGE, Wiley, OUP und die *Washington Post* waren durch den Ausgangsfilter gesperrt. Offen sind die Seiten der Erwiderung von Gilens und der Replik von Enns (der Suchnachweis nennt für beide 1072–1074), die Abgrenzung der „ökonomischen Eliten" in der Originalstudie und Bashirs Mechanismus im Einzelnen; dazu die deutsche Entsprechung (Elsässer/Hense/Schäfer, *Zeitschrift für Politikwissenschaft* 2017), die das Buch nicht führt, bis sie geprüft ist.
+**Was ihn schließt:** Volltextabruf.
+**Folge, falls offen:** gering für das Argument, das nur die schwächere Fassung braucht; mittel für die Genauigkeit der Wiedergabe der Kritik.
+**Betroffene Stellen:** `manuskript/band1/06_marx_diagnose_und_irrtum.md`, `manuskript/band2/12_die_weltordnungsebene.md`, `polyzentrische_ordnung.md` (Befund 7), `quellen_und_glossar.md` (Abschnitte D und M).
+
+---
+
+### V21 – Kriegsschocks und große Kompression am Volltext
+**Angelegt:** 24.09.2026.
+**Gegenstand:** Band 1, Kapitel 6 führt seit dem 24.09.2026 den Einwand, die Kompressionsphase sei vor allem ein Werk von Krise und Krieg gewesen, mit Konzession und Antwort; dasselbe tragen das Ledger (Band 1, Kapitel 15, Skalierungswette), Befund 7 und Sektion VI des Thesenpapiers. Gestützt ist das auf Scheidel 2017, Pikettys Satz zu 1910–1950 und Piketty/Saez 2003.
+**Was fehlt:** Seitenangaben aller drei Werke, die Endseite des QJE-Aufsatzes, der deutsche Wortlaut bei Piketty und Scheidels eigene Position zur Erhaltung der Kompression nach 1950. Verlag, OUP, NBER, SSRN, berkeley.edu, pse.ens.fr und das Internet Archive waren durch den Ausgangsfilter gesperrt.
+**Was ihn schließt:** Abruf der Einleitungen Scheidels und Pikettys und des Aufsatzes von Piketty/Saez.
+**Folge, falls offen:** gering. Die Datierung des Abbaus tragen beide Quellen übereinstimmend; fiele die Erhaltungsdeutung, bliebe der Befund, dass die Konzentration nach 1950 nicht zurückkehrte, und die Deutung wäre als offen zu führen.
+**Betroffene Stellen:** `manuskript/band1/06_marx_diagnose_und_irrtum.md`, `manuskript/band1/15_offene_flanken.md`, `polyzentrische_ordnung.md` (Befund 7, Sektion VI), `quellen_und_glossar.md` (Abschnitt AE).
+
+---
+
 ### K11 – Ebene der Überschrift „Wie dieses Buch entstanden ist"
 **Angelegt:** 01.09.2026.
 **Gegenstand:** Der Entstehungsabschnitt vom 29.08.2026 steht in `manuskript/band1/00_inhalt.md` als `###` und damit innerhalb von „Über dieses Buch". Der Satz macht daraus eine Zwischenüberschrift ohne eigene Seite; eine eigene Seite bekäme er als `##`, weil allein der `\vorspann`-Befehl umbricht. Beides ist vertretbar: Der Abschnitt handelt vom Buch und passt unter dessen Überschrift, er ist aber auch der einzige Text des Vorspanns, der von der Herstellung statt vom Gegenstand spricht.

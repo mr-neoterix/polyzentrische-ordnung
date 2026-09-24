@@ -66,7 +66,7 @@ Euckens Einsicht deckt die halbe Argumentation dieses Buches. Der Streit beginnt
 
 ### Warum das Buch trotzdem nicht bei „mehr Wettbewerb" endet
 
-Man könnte an dieser Stelle aufhören und ein ordoliberales Programm schreiben: strenges Kartellrecht, harte Insolvenzen, unabhängige Institutionen, Sphärentrennung. Vieles davon steht auch in diesem Buch. Aber es reicht aus zwei Gründen nicht.
+Man könnte an dieser Stelle aufhören und ein ordoliberales Programm schreiben: strenges Kartellrecht, harte Insolvenzen, unabhängige Institutionen, Sphärentrennung. Vieles davon steht auch hier. Aber es reicht aus zwei Gründen nicht.
 
 Der erste Grund ist, dass die Konzentrationstendenz real ist. Sie ist nicht nur eine Möglichkeit, gegen die man Regeln setzen kann; sie hat eine eigene Dynamik, die Marx als Erster systematisch beschrieben hat und die auch nach seinem Tod nicht verschwunden ist. Das nächste Kapitel prüft, was von seiner Analyse trägt.
 

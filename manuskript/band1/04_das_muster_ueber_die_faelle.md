@@ -14,7 +14,7 @@ Das zweite Kapitel hat ihn schon benutzt: die *weiche Budgetbeschränkung*, die 
 
 Erstens Investitionshunger: Wer nicht scheitern kann, fordert unbegrenzt Investitionsmittel an, denn eine Fehlinvestition kostet ihn nichts, eine unterbliebene aber Ansehen. Zweitens Hortung: Wer weiß, dass Material knapp und Nachschub unsicher ist, legt Vorräte an, die er nicht braucht – und macht dadurch das Material für alle anderen knapper. Drittens, als Summe von beidem, chronischer Mangel. Die Mangelwirtschaft des Staatssozialismus war ein Anreizproblem: Produziert wurde nicht zu wenig; angefordert und gehortet wurde zu viel.
 
-Mit Eigentumsformen hat der Begriff nichts zu tun. Eine weiche Budgetbeschränkung kann überall entstehen, wo eine Instanz Verluste auffängt, weil das Scheitern politisch teurer wäre als das Auffangen. Sie wird uns in diesem Buch noch dreimal begegnen: bei deutschen Stadtwerken, bei deutschen Landesbanken und bei einer Institution, die dieses Buch selbst vorschlägt.
+Mit Eigentumsformen hat der Begriff nichts zu tun. Eine weiche Budgetbeschränkung kann überall entstehen, wo eine Instanz Verluste auffängt, weil das Scheitern politisch teurer wäre als das Auffangen. Sie kehrt noch dreimal wieder: bei deutschen Stadtwerken, bei deutschen Landesbanken und bei einer Institution, die dieses Buch selbst vorschlägt.
 
 ### Jugoslawien: der Betrieb, der niemandem gehört
 
@@ -46,7 +46,7 @@ Das amerikanische Handelsembargo gegen Vietnam wurde am 3. Februar 1994 aufgehob
 
 Ordnet man die beiden Größen in einem einfachen Schema an – Binnenreform ja oder nein, Weltmarktzugang ja oder nein –, entstehen vier Felder, und drei davon sind historisch besetzt. Binnenreform ohne Marktzugang: Vietnam ab 1988, mit Erfolg. Marktzugang ohne Binnenreform: das ist die Lage vieler rohstoffexportierender Länder, und sie erzeugt Renten für wenige, keine Entwicklung. Weder noch: die DDR der achtziger Jahre. Das vierte Feld, beides zugleich, ist der Normalfall der erfolgreichen Aufholländer. Was das Schema lehrt, ist eine Reihenfolge: Die Institutionen im Inneren entscheiden darüber, ob der Zugang nach außen etwas nützt, nicht umgekehrt.
 
-Für dieses Buch ist das eine Warnung an sich selbst. Wer eine Ordnung entwirft, ist versucht, ihre Probleme durch günstige Außenbedingungen zu lösen.
+Das ist eine Warnung in eigener Sache. Wer eine Ordnung entwirft, ist versucht, ihre Probleme durch günstige Außenbedingungen zu lösen.
 
 ### Kuba: wovon ein System lebt, das nicht funktioniert
 
