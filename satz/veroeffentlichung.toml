@@ -75,7 +75,7 @@ isbn_taschenbuch = "979-8-1750-2041-1"
 isbn_ebook = ""
 
 [band2]
-# Die ISBN des Taschenbuchs vergibt KDP beim Anlegen des Bandes; sie ist
-# eine andere als die des ersten.
-isbn_taschenbuch = ""
+# Band 2: kostenlose ISBN von KDP, vergeben am 24.09.2026; es gilt dasselbe
+# wie beim ersten Band.
+isbn_taschenbuch = "979-8-1767-5694-4"
 isbn_ebook = ""
