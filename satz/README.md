@@ -193,11 +193,11 @@ deutschen Büchern üblich: Verfasser, Titel, Band.
 
 **Der Text der Rückseite steht in `umschlag/band1.md` und
 `umschlag/band2.md`.** Er ist zugleich die Beschreibung in den Metadaten
-des E-Books und passt in das Feld „Beschreibung“ bei KDP. Übernommen ist
-er wörtlich aus dem Abschnitt „Über dieses Buch“ des jeweiligen Bandes;
-wer einen eigenen Klappentext will, ersetzt ihn dort. Die Rückseite trägt
-etwa 230 Wörter. Wird der Text länger, als der Platz über der Werkangabe
-reicht, meldet der Lauf, um wie viele Millimeter.
+des E-Books und passt in das Feld „Beschreibung“ bei KDP. Gesetzt wird er
+im Blocksatz mit Silbentrennung. Jede Aussage darin steht so im Buch; wer
+ihn ändert, hält sich daran. Die Rückseite trägt etwa 230 Wörter. Wird der
+Text länger, als der Platz über der Werkangabe reicht, meldet der Lauf, um
+wie viele Millimeter.
 
 ## Das E-Book
 
