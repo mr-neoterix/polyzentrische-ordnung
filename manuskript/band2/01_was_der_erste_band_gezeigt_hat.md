@@ -140,7 +140,7 @@ Die beiden großen Gegenproben – die marxistische mit zwölf Einwänden, die l
 
 *Drei Sektoren, Sortierkriterium, Nachfolgewelle und Bandrechnung:* siehe Band 1, Kapitel 10. Die Zahlen von KfW und IfM sind **bestätigt**; die Bandrechnung und die Sortierung nach dem Sterblichkeitsfall sind **Wertung.**
 
-*Drei Werktage, Artikel 15 GG und Investitionsschutz:* siehe Band 1, Kapitel 11. **Bestätigt.** Die Ausgestaltung der Werktage ist **Wertung.**
+*Drei Werktage, Artikel 15 GG und Investitionsschutz:* siehe Band 1, Kapitel 11. **Bestätigt**, beim Investitionsschutz *mit Einschränkung* wie dort (Aufträge V18 und V19 in `PROCESS.md`). Die Ausgestaltung der Werktage ist **Wertung.**
 
 *Sechs Tests, Belastungstest und die Reihenfolge der drei Stufen:* siehe Band 1, Kapitel 12. **Wertung.**
 

@@ -112,7 +112,7 @@ Wer die Antwort hat, soll sie nennen; wer sie nicht hat, sollte mit dem langsame
 
 *Artikel 15 GG:* siehe Band 1, Kapitel 11. **Bestätigt.**
 
-*Investitionsschutz, Energiecharta-Vertrag, Sunset-Klausel:* siehe Band 1, Kapitel 11. **Bestätigt.**
+*Investitionsschutz, Energiecharta-Vertrag, Sunset-Klausel:* siehe Band 1, Kapitel 11. **Bestätigt**, *mit Einschränkung* wie dort; welche bilateralen Abkommen den Anteilseigner eines Wohnungsbestands erfassen, ist **offen** (Auftrag V19 in `PROCESS.md`).
 
 *Chile 1973 und Mitterrand 1983:* Bundeszentrale für politische Bildung zum Militärputsch vom 11.09.1973; zum *tournant de la rigueur* Mathieu Fulla, „The Neoliberal Turn that Never Was", in: *Contemporary European History* (2023). **Bestätigt** hinsichtlich Putsch, Verstaatlichungen und des Schwenks im März 1983; *mit Einschränkung:* „Kapitalflucht/Investitionsstreik" ist für Frankreich gut belegt, für Chile nur indirekt gefasst; die neuere Forschung relativiert die Deutung des Schwenks als bewussten Bruch.
 

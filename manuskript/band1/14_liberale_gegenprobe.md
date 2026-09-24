@@ -116,7 +116,7 @@ Zugleich ist die Investorenwarnung selbst ein Machtargument und nach der Symmetr
 
 Er zielt auf die Beleglage des ganzen Entwurfs.
 
-Fast jede Designantwort dieser Ordnung, vom Umriss des zehnten Kapitels bis zur Bauanleitung des zweiten Bandes, hat ihren empirischen Beleg in einem einzigen Verbund einer einzigen Region eines einzigen Landes. Sekundärgenossenschaften, Föderation, Solidarfonds, Kapitalkonten, eigene Bank, eigene Sozialversicherung (Lagun Aro), Umsetzung von Mitgliedern, harte Budgetgrenze im Fagor-Fall, offene Mitgliedschaft – Mondragón, entstanden aus einer besonderen baskischen Geschichte. Ein Fall ist kein Muster, und die eigene Methodenregel verlangt Muster über Fälle.
+Fast jede Designantwort dieser Ordnung, vom Umriss des zehnten Kapitels bis zur Bauanleitung des zweiten Bandes, hat ihren empirischen Beleg in einem einzigen Verbund einer einzigen Region eines einzigen Landes. Sekundärgenossenschaften, Föderation, Solidarfonds, Kapitalkonten, eigene Bank, Umsetzung von Mitgliedern, harte Budgetgrenze im Fagor-Fall, offene Mitgliedschaft – Mondragón, entstanden aus einer besonderen baskischen Geschichte. Ein Fall ist kein Muster, und die eigene Methodenregel verlangt Muster über Fälle.
 
 Und es kommt schlimmer: Für die *Ordnung als Ganze* – ein Land mit drei konkurrierenden Eigentumssektoren – existiert überhaupt kein Beleg, nur eine Extrapolation. Die Frage ist nicht, ob Genossenschaften funktionieren; das ist beantwortet. Die Frage ist, ob ein Land mit drei Sektoren stabil bleibt oder ob eine Form die anderen verdrängt.
 
