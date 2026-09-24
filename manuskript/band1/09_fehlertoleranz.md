@@ -62,7 +62,7 @@ Damit ist der diagnostische Teil abgeschlossen. Bevor der konstruktive beginnt, 
 
 *Achtens:* Das entscheidende Konstruktionskriterium ist Fehlertoleranz. Gute Ordnungen vermeiden Fehler nicht, sie überleben sie.
 
-*Neuntens:* Fesseln allein genügen nicht. Regulierung lässt die Machtquelle intakt und rostet; Eigentumsstrukturen schaffen Träger mit Eigeninteresse an ihrem Bestand. Ein Eigentümer verteidigt seinen Bestand von selbst; eine Regel steht nur, solange jemand für sie einsteht.
+*Neuntens:* Fesseln allein genügen nicht. Regulierung lässt die Machtquelle intakt und rostet; Eigentumsstrukturen, deren Vermögen an ihren Bestand gebunden ist, schaffen Träger mit Eigeninteresse an diesem Bestand. Ein solcher Eigentümer verteidigt seinen Bestand von selbst; eine Regel steht nur, solange jemand für sie einsteht.
 
 Neun Sätze, und keiner von ihnen ist ein Wert, aus dem sich eine Ordnung ableiten ließe. Es sind Beobachtungen über Fälle, die schiefgingen. Was daraus folgt, ist eine haltbarere Gesellschaft und keine gerechte – und der Unterschied ist wichtig genug, um ihn beim Namen zu nennen.
 

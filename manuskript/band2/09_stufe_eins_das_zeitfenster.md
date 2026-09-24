@@ -20,13 +20,13 @@ Für den Verkauf eines Betriebs mit 180 Beschäftigten ist das ein Trinkgeld. We
 
 Die Konstruktion als *Stundung mit Nachversteuerung* statt als Befreiung hat drei Vorteile. Sie ist fiskalisch billiger, weil die Steuer nur bei dauerhaftem Erfolg entfällt. Sie ist missbrauchsfester, weil der Steuervorteil an den Fortbestand der Struktur geknüpft ist und nicht an einen Vorgang. Und sie ist präziser: Der Staat zahlt für einen Bestand, nicht für eine Rechtsform.
 
-Und dann die Frage der Rost-These: Wie baut man einen Hebel, der nicht rostet? Man kann es nicht vollständig. Was hilft, ist dreierlei.
+Und dann die Frage, die der britische Fall aufwirft: Wie baut man einen Hebel, dessen Ergebnisse bleiben, wenn er zurückgenommen wird, und dessen Kosten nicht unbemerkt wachsen? Vollständig gelingt das nicht. Was hilft, ist dreierlei.
 
 *Ein ausdrücklicher Bestandsschutz für abgeschlossene Übertragungen im Gesetz selbst,* so dass eine spätere Kürzung nur künftige Fälle trifft. Damit kann eine Regierung den Hebel abschaffen, aber nicht zurückdrehen.
 
-*Eine Evaluationsklausel mit Begründungszwang statt einer Verfallsklausel.* Eine Verfallsklausel – die Norm läuft nach acht Jahren automatisch aus – klingt nach Sorgfalt und ist ein Geschenk an die Gegner, weil sie nichts tun müssen. Eine Evaluationsklausel zwingt zur Messung und macht jede Kürzung zu einem Vorgang, in dem eine Regierung öffentlich gegen gemessene Ergebnisse argumentieren muss.
+*Eine Evaluationsklausel mit Begründungszwang statt einer Verfallsklausel.* Eine Verfallsklausel – die Norm läuft nach acht Jahren automatisch aus – klingt nach Sorgfalt und ist ein Geschenk an die Gegner, weil sie nichts tun müssen. Eine Evaluationsklausel zwingt zur Messung und macht jede Kürzung zu einem Vorgang, in dem eine Regierung öffentlich gegen gemessene Ergebnisse argumentieren muss. Gemessen werden dabei auch die Kosten und der Anteil der Übertragungen, die ohne den Hebel stattgefunden hätten. Die Klausel wirkt deshalb in beide Richtungen: Sie schützt einen Hebel, der wirkt, vor einer Kürzung ohne Begründung, und sie macht sichtbar, wenn er mehr kostet, als er bewirkt.
 
-*Und die frühe Erzeugung von Trägern:* Genossenschaftsverbände, Kammern und Banken, deren Geschäft an dem Instrument hängt.
+*Und die frühe Erzeugung von Trägern:* Genossenschaftsverbände, Kammern und Banken, deren Geschäft an dem Instrument hängt. Sie verteidigen den Hebel auch dort, wo er nur mitgenommen wird; gegen diese Seite ihres Interesses steht die Evaluationsklausel.
 
 Zum britischen Vorbild gehört die Selbstkritik. Employee Ownership Trusts sind *treuhänderisch gehalten, nicht mitgliedschaftlich regiert*: Ein Treuhänder hält das Unternehmen im Interesse der Belegschaft, aber die Belegschaft wählt nicht, entscheidet nicht und hat keine individuellen Kapitalkonten. Die britischen Zahlen belegen die *Übertragungsthese* – dass ein Steuerhebel Eigentum verschieben kann –, nicht die *Selbstverwaltungsthese*. Ein deutsches Modell sollte die Mitgliedschaftsverfassung mitliefern, die den Briten fehlt.
 
@@ -112,4 +112,4 @@ Dann greift ein Ersatzweg aus drei Teilen.
 
 *Gesellschaft mit gebundenem Vermögen:* siehe Kapitel 4. **Bestätigt.**
 
-*Der neue Steuertatbestand als Stundung mit Nachversteuerung, der Rostschutz in drei Teilen, die Zwei-Instrumente-Unterscheidung, das Andienungs- und Gleichpreisrecht und der Ersatzplan für das verpasste Fenster* sind Konstruktionsvorschläge dieses Buches. **Wertung.**
+*Der neue Steuertatbestand als Stundung mit Nachversteuerung, die drei Sicherungen des Hebels, die Zwei-Instrumente-Unterscheidung, das Andienungs- und Gleichpreisrecht und der Ersatzplan für das verpasste Fenster* sind Konstruktionsvorschläge dieses Buches. **Wertung.**

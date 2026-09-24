@@ -62,7 +62,7 @@ Was hier steht, ist deshalb ein Stand. Das Verzeichnis, aus dem dieses Buch gese
 
 *7. Der Endzustand, der das Problem wegdefiniert.* Knappheit, Konflikt und die Frage, was aus der Verwaltung von Sachen wird, sobald Menschen über sie streiten. Ostroms Gegenmodell und die Freiheit als Praxis.
 
-*8. Warum Regeln rosten und Eigentum sich wehrt.* Olsons Logik der kollektiven Handlung an drei Fällen: der deutschen Mitbestimmung, den Sparkassen und einem britischen Steuergesetz, das nach elf Jahren halbiert wurde.
+*8. Warum Regeln rosten und Eigentum sich wehrt.* Olsons Logik der kollektiven Handlung an vier Fällen: der deutschen Mitbestimmung, den Sparkassen, einem britischen Steuerhebel, der nach elf Jahren halbiert wurde, und den britischen Building Societies. Dazu die Bedingung, unter der Eigentum seine Form verteidigt.
 
 *9. Fehlertoleranz.* Die Frage, ob eine Ordnung ihre Fehler überlebt, an der DDR und an Mondragón – und was 2013 mit Fagor geschah. Zwischenbilanz der Diagnose in neun Befunden, auf die alles Spätere zurückverweist.
 

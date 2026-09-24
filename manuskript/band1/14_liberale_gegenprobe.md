@@ -56,7 +56,7 @@ Die Gegenfrage an den Einwand: Wenn das Etikett entschiede, müsste Mondragón d
 
 ### 6. „Genossenschaften sind unproduktiv."
 
-*Antwort:* Der Forschungsstand, wie ihn die Ökonomin Virginie Pérotin zusammengefasst hat, widerspricht – mindestens gleiche Produktivität, mindestens gleiche Überlebensraten, in kontrollierten Untersuchungen niedrigere Auflösungsraten.
+*Antwort:* Der Forschungsstand, wie ihn die Ökonomin Virginie Pérotin zusammengefasst hat, widerspricht – mindestens gleiche Produktivität, mindestens gleiche Überlebensraten, in der uruguayischen Messung, die das dreizehnte Kapitel beim Krisen-Einwand anführt, ein niedrigeres Risiko der Auflösung.
 
 Pérotin nennt die Einschränkung selbst, und sie stützt die Konstruktion: Der Vorteil stammt aus Ländern mit degenerations- und unterinvestitionssicheren Genossenschaftsverfassungen. Das Design entscheidet, nicht die Rechtsform – weshalb Kapitalkonten, Mitgliedschaftspfade und Föderation hier so viel Raum bekommen.
 
@@ -136,7 +136,7 @@ Er lautet: Sie enden überall im Gericht. Die Gemeinde klagt gegen den Bund, die
 
 *Antwort:* Die Spannung ist echt, und sie wird nicht wegdefiniert. Drei Entgegnungen und eine Konzession.
 
-*Erstens die Beschränkung des Prüfungsgegenstands.* Gegenstand der Subsidiaritätsklage, mit der eine Ebene sich gegen die Verlagerung ihrer Zuständigkeit nach oben wehrt, ist die Begründung, nicht die Zweckmäßigkeit: nachprüfbar ist, ob die Behauptung, eine Aufgabe sei oben besser aufgehoben, an Tatsachen anschließt, und nicht, ob sie es ist. Das ist die Bauart, in der Verwaltungsrecht seit je funktioniert, und sie hält den Richter davon ab, die Abwägung selbst vorzunehmen. Ob sie ihn dauerhaft davon abhält, ist eine andere Frage – siehe die Konzession.
+*Erstens die Beschränkung des Prüfungsgegenstands.* Gegenstand der Subsidiaritätsklage, mit der eine Ebene sich gegen die Verlagerung ihrer Zuständigkeit nach oben wehrt, ist die Begründung, nicht die Zweckmäßigkeit. Nachprüfbar ist, ob die Behauptung, eine Aufgabe sei oben besser aufgehoben, an Tatsachen anschließt, und nicht, ob sie es ist. Das ist die Bauart, in der Verwaltungsrecht seit je funktioniert, und sie hält den Richter davon ab, die Abwägung selbst vorzunehmen. Ob sie ihn dauerhaft davon abhält, ist eine andere Frage – siehe die Konzession.
 
 *Zweitens die Frage nach der Alternative.* Der Einwand stellt Gericht gegen Demokratie. Tatsächlich steht die Wahl zwischen dem Gericht und der oberen Ebene selbst – denn wenn niemand die Verlagerung überprüfen kann, entscheidet über die Zuständigkeit derjenige, der sie an sich zieht.
 
@@ -194,7 +194,7 @@ Was der Liberale allerdings nicht behalten darf, ist die Behauptung, der Status 
 
 *Jugoslawien, die vier Unterschiede und der Ward-Effekt:* Das gesellschaftliche Eigentum, die weiche Budgetgrenze und die monozentrische Politik sind mit Fundstellen in Kapitel 4 belegt, die vier Kapitalquellen und die Grenze bei kapitalintensiver Großindustrie in Band 2, Kapitel 2, Fagor in Kapitel 9. **Bestätigt.** Dass der Ward-Effekt an der Selbstverwaltung hängt und deshalb unter den vier Unterschieden fehlt, weil er die Eigenschaft benennt, die diese Ordnung mit jener teilt, ist **Wertung** dieses Buches. Sie folgt aus Wards Modell selbst, das die Firma über das Einkommen je Kopf und die selbst bestimmte Mitgliederzahl beschreibt, nicht über die Eigentumsform des Kapitals.
 
-*Pérotin und Burdín:* Virginie Pérotin, *What do we really know about worker co-operatives?*, Co-operatives UK, 2016; Gabriel Burdín zur Auflösungsrate uruguayischer Genossenschaften (22.315 Unternehmen, darunter 243 Genossenschaften, 1996–2005). **Bestätigt**, mit der ausdrücklich mitzuführenden Design-Einschränkung: Der Befund stammt aus Ländern mit degenerations- und unterinvestitionssicheren Genossenschaftsverfassungen (Band 2, Kapitel 6).
+*Pérotin und Burdín:* Virginie Pérotin, *What do we really know about worker co-operatives?*, Co-operatives UK, 2016; Gabriel Burdín, „Are Worker-Managed Firms More Likely to Fail Than Conventional Enterprises? Evidence from Uruguay", in: *ILR Review* 67 (2014), H. 1, S. 202–238 (Sozialversicherungsdaten 1996–2005, 22.315 Unternehmen, darunter 243 Genossenschaften). **Bestätigt** hinsichtlich der Fundstellen und der Richtung des Befunds; *mit Einschränkung* hinsichtlich Effektgröße und Stichprobenzahlen, die über Wiedergaben der Zusammenfassung gesichert sind (Einzelheiten in Band 2, Kapitel 6). Die Design-Einschränkung ist mitzuführen: Der Befund stammt aus Ländern mit degenerations- und unterinvestitionssicheren Genossenschaftsverfassungen; Wortlaut und Stelle dieser Bedingung bei Pérotin sind nicht eingesehen (Auftrag V22 in `PROCESS.md`).
 
 *Mondragón, Fagor:* siehe Kapitel 9. **Bestätigt.**
 
