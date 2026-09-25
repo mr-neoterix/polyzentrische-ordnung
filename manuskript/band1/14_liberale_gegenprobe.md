@@ -136,7 +136,7 @@ Er lautet: Sie enden überall im Gericht. Die Gemeinde klagt gegen den Bund, die
 
 *Antwort:* Die Spannung ist echt, und sie wird nicht wegdefiniert. Drei Entgegnungen und eine Konzession.
 
-*Erstens die Beschränkung des Prüfungsgegenstands.* Gegenstand der Subsidiaritätsklage, mit der eine Ebene sich gegen die Verlagerung ihrer Zuständigkeit nach oben wehrt, ist die Begründung, nicht die Zweckmäßigkeit. Nachprüfbar ist, ob die Behauptung, eine Aufgabe sei oben besser aufgehoben, an Tatsachen anschließt, und nicht, ob sie es ist. Das ist die Bauart, in der Verwaltungsrecht seit je funktioniert, und sie hält den Richter davon ab, die Abwägung selbst vorzunehmen. Ob sie ihn dauerhaft davon abhält, ist eine andere Frage – siehe die Konzession.
+*Erstens die Beschränkung des Prüfungsgegenstands.* Gegenstand der Subsidiaritätsklage, mit der eine Ebene sich gegen die Verlagerung ihrer Zuständigkeit nach oben wehrt, ist die Begründung, nicht die Zweckmäßigkeit. Nachprüfbar ist, ob die Behauptung, eine Aufgabe sei oben besser aufgehoben, an Tatsachen anschließt, und nicht, ob sie es ist. Das ist die Bauart, in der Verwaltungsrecht seit je funktioniert und in der das Bundesverfassungsgericht seit 2002 die Erforderlichkeit von Bundesgesetzen prüft, und sie hält den Richter davon ab, die Abwägung selbst vorzunehmen. Ob sie ihn dauerhaft davon abhält, ist eine andere Frage – siehe die Konzession.
 
 *Zweitens die Frage nach der Alternative.* Der Einwand stellt Gericht gegen Demokratie. Tatsächlich steht die Wahl zwischen dem Gericht und der oberen Ebene selbst – denn wenn niemand die Verlagerung überprüfen kann, entscheidet über die Zuständigkeit derjenige, der sie an sich zieht.
 

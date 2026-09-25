@@ -6,7 +6,7 @@
 
 **Marcel Richtsteiger**
 
-*Manuskript. Stand: 24. September 2026.*
+*Manuskript. Stand: 25. September 2026.*
 
 ---
 
@@ -16,7 +16,7 @@ Dies ist der zweite Band eines Werkes, das eine Wirtschafts- und Gesellschaftsve
 
 Dieser Band ist die Bauanleitung. Er geht die Ordnung Bauteil für Bauteil durch: die Verfassung des Belegschaftssektors, den Allmende-Sektor mit seinem Sterberecht, den Privatsektor und die Sterblichkeit des Vermögens, die Kreislaufdimension, Arbeit und Sorge, die politische Architektur und den Sozialstaat. Danach folgen der Umsetzungspfad in drei Stufen und die Weltordnungsebene, an der dieser Weg endet. Am Schluss steht das Verzeichnis dessen, was diese Bauteile nicht leisten. Der Band ist Konstruktionsarbeit bis auf den Paragraphen. Geschrieben ist sie für den, der prüfen will, ob ein Bauteil hält – in einem Genossenschaftsverband oder einer Kommune, in der Steuerberatung, in der Verwaltung oder in der Rechtswissenschaft. Wer vom Fach ist, kann die Erklärungen überspringen, die für die anderen dastehen.
 
-Der Band setzt das Argument des ersten voraus, und damit er trotzdem für sich lesbar ist, fasst sein erstes Kapitel es zusammen: die Regeln, nach denen gearbeitet wird, die neun Befunde der Diagnose, auf die jedes spätere Kapitel zurückverweist, die Werkzeuge, die aus ihnen folgen, und den Umriss der Ordnung. Wer den ersten Band kennt, beginnt mit der Verfassung des Belegschaftssektors. Eine Kapitelnummer ohne Zusatz meint in diesem Band immer ein Kapitel dieses Bandes; wo ein Verweis in den ersten Band führt, sagt er es.
+Der Band setzt das Argument des ersten voraus, und damit er trotzdem für sich lesbar ist, fasst ein Einstiegskapitel es zusammen: die Regeln, nach denen gearbeitet wird, die neun Befunde der Diagnose, auf die spätere Kapitel zurückverweisen, die Werkzeuge, die aus ihnen folgen, und den Umriss der Ordnung. Wer den ersten Band kennt, beginnt mit der Verfassung des Belegschaftssektors. Eine Kapitelnummer ohne Zusatz meint in diesem Band immer ein Kapitel dieses Bandes; wo ein Verweis in den ersten Band führt, sagt er es.
 
 Zwei Regeln durchziehen das Buch. Die erste heißt Symmetrie: Was für den einen Fall gilt, gilt für den anderen. Wer der SED nicht glaubt, muss auch dem Bundesverband der Deutschen Industrie nicht glauben; wer die Planwirtschaft an ihren Ergebnissen misst, muss den Markt an seinen messen. Die zweite heißt Gegenprobe: Jede These wird an ihrem stärksten Gegner geprüft, nicht an ihrem bequemsten Beleg – und zwar an beiden Gegnern, dem marxistischen und dem liberalen. Wer eine These nur von einer Seite prüft, lobt sie.
 
@@ -49,7 +49,7 @@ Was hier steht, ist deshalb ein Stand. Das Verzeichnis, aus dem dieses Buch gese
 
 **Teil II – Die Bauteile der Ordnung**
 
-*2. Die Verfassung des Belegschaftssektors.* Die beiden Traditionslinien, in denen die Konstruktion steht – die deutsche und die, an deren Ende Mondragón steht –, und was sie trennt. Dann die Bauteile einzeln: Vermögensbindung und individuelle Kapitalkonten, die offene Mitgliedschaft und die Frage, wer auf ihre Einhaltung klagen kann, der Zuschnitt der Einheiten, die Herkunft des Kapitals, der Preis, den die Mitglieder zahlen, und was die Föderation nicht streut: der Schock, der alle zugleich trifft.
+*2. Die Verfassung des Belegschaftssektors.* Die beiden Traditionslinien, in denen die Konstruktion steht – die deutsche und die, an deren Ende Mondragón steht –, und was sie trennt. Dann die Bauteile einzeln: Vermögensbindung und individuelle Kapitalkonten, die offene Mitgliedschaft und die Frage, wer auf ihre Einhaltung klagen kann, der Zuschnitt der Einheiten, die Herkunft des Kapitals, der Preis, den die Mitglieder zahlen, was die Föderation nicht streut: der Schock, der alle zugleich trifft, und was der kleine Betrieb von alledem tragen kann.
 
 *3. Der Allmende-Sektor und sein Sterberecht.* Was an die Stelle der Insolvenz tritt, wo es keine geben kann: Wer ein Netz, ein Wasserwerk oder einen Wohnungsbestand in gemeinwirtschaftlicher Trägerschaft schlecht führt, geht davon nicht pleite. Der Wohnungsbestand als Sonderfall des Sektors, der Fall der Wohnungsgemeinnützigkeit, den es schon gegeben hat – und die Frage, wie man einen Eigentümer erreicht, der weder stirbt noch verkauft.
 
@@ -59,7 +59,7 @@ Was hier steht, ist deshalb ein Stand. Das Verzeichnis, aus dem dieses Buch gese
 
 *6. Arbeit, Sorge, Krise und Weltmarkt.* Wovon Menschen leben. Der Lohnboden, den der Sektor selbst nicht setzt; die Sorgearbeit, die sich denselben vier Prüffragen stellen muss wie jeder andere Bereich dieses Buches; die Frage, was aus einer Streuung über Arbeitsplätze wird, wenn die Arbeit automatisiert wird – und was diese Ordnung in der Krise tut.
 
-*7. Die politische Architektur und die Bedingung des Exits.* Was an die Stelle des Eigentums tritt, wenn eine Zuständigkeit niemandem gehört. Subsidiarität, aus dem anthropologischen Befund hergeleitet und mit umgekehrter Beweislast. Ein Sterberecht für Verwaltungen und die Frage, wen man wieder los wird. Die Medienvielfalt als Eigentumsfrage neben der Aufsichtsfrage. Dazu Losgremien, Daten und Hirschmans doppelte Lehre.
+*7. Die politische Architektur und die Bedingung des Exits.* Was an die Stelle des Eigentums tritt, wenn eine Zuständigkeit niemandem gehört. Subsidiarität, aus dem anthropologischen Befund hergeleitet und mit umgekehrter Beweislast, und die Klage, die sie braucht, neben ihren europäischen und deutschen Vorlagen. Ein Sterberecht für Verwaltungen und die Frage, wen man wieder los wird. Die Medienvielfalt als Eigentumsfrage neben der Aufsichtsfrage. Dazu Losgremien, Daten und Hirschmans doppelte Lehre.
 
 *8. Der Sozialstaat als Bauteil.* Die Voraussetzung, die jedes andere Kapitel benutzt und keines geprüft hat. Kranken- und Rentenversicherung als Kontrastpaar, eine Selbstverwaltung, der 2009 die eigene Einnahme genommen wurde, drei Stufen der Sicherung und die Frage, wer eine Einrichtung verteidigt, auf der alles Übrige ruht.
 
@@ -69,7 +69,7 @@ Was hier steht, ist deshalb ein Stand. Das Verzeichnis, aus dem dieses Buch gese
 
 *10. Stufe zwei: Erbschaftsteuer, Belegschaftstreuhand, Fondsfamilie.* Eine Steuer, die kein Geld nimmt, und die fünf Wände, an die der Gedanke stößt: Stimmrechte, Gesellschaftsrecht, Ausschüttung, Bewertung, Finanzverfassung. Warum es mehrere Fonds sein müssen und was geschieht, wenn einer von ihnen schlecht arbeitet.
 
-*11. Stufe drei, die Kosten und die Koalitionen.* Was der Weg kostet, wer verliert, und woran man erkennt, dass er gescheitert ist – vier Größen mit Schwellen, die vor der ersten Erhebung feststehen müssen, und wer die Zahlen zu sehen bekommt.
+*11. Stufe drei, die Kosten und die Koalitionen.* Was der Weg kostet, wer verliert, und woran man erkennt, dass er gescheitert ist – vier Größen mit Schwellen, die vor der ersten Erhebung feststehen müssen, wer die Zahlen zu sehen bekommt und wer sie rechnet.
 
 **Teil IV – Die äußere Ebene**
 

@@ -54,8 +54,6 @@ Damit ist die Flanke benannt, die dieses Kapitel offenlässt. *Effizienz gegen L
 
 Und es gibt eine zweite, unangenehmere Flanke. Wenn haltbare Produkte ihre Märkte sättigen, versiegt die private Finanzierung der nächsten Innovationsgeneration – man kann nicht gleichzeitig den Ersatzumsatz vernichten und erwarten, dass er weiter die Forschung bezahlt. Dieses Buch hat darauf keine Antwort, nur ein Verfahren: Die entkoppelten Prämien werden in einem begrenzten Produktbereich als Modellversuch mit veröffentlichten Messgrößen gefahren, statt als Prinzip behauptet zu werden.
 
-Das Superfest-Glas zerbrach nicht am Markt; es zerbrach am Eigentümer, der am Zerbrechen verdiente.
-
 ### Achtzig Zahnbürsten
 
 Ein Einwand bestreitet beide Fragen zugleich. Er kommt von links und rechnet in Ressourcen.

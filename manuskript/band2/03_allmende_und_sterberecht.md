@@ -52,7 +52,7 @@ Die Antwort besteht darin, die Datenerhebung institutionell von der Betriebsfüh
 
 *Ein Klagerecht Dritter* gegen offensichtlich unplausible Meldungen – damit ein konzentriertes Interesse an der Wahrheit entsteht statt einer Behörde, die man aushungern kann.
 
-Und methodisch: Man übernimmt den bestehenden Effizienzvergleich der Anreizregulierung, statt ein neues Verfahren zu erfinden. Er ist erprobt, und seine Streitpunkte sind bekannt – was mehr wert ist als die Unschuld eines neuen Instruments.
+Und methodisch: Man übernimmt den bestehenden Effizienzvergleich der Anreizregulierung, statt ein neues Verfahren zu erfinden. Er ist erprobt, und seine Streitpunkte sind bekannt – was mehr wert ist als die Unschuld eines neuen Instruments. Erprobt sind dabei seine Verfahren; neu ist die Abrechnung, die die Bundesnetzagentur 2025 für die nächste Regulierungsperiode selbst festgelegt hat, und mit ihr die Frage, wer eine solche Methode setzen darf.
 
 ### Das Nachfolgerproblem: ein Sterberecht ohne Erben
 
@@ -212,7 +212,7 @@ Der Preis dieser Konstruktion ist echt. Ein einklagbarer Anspruch verschiebt ein
 
 *Landesbanken:* siehe Band 1, Kapitel 8. **Größenordnung bestätigt, Einzelzahlen quellenabhängig.**
 
-*Effizienzvergleich der Netzbetreiber:* Anreizregulierungsverordnung seit 2007, Anwendung seit 2009; § 12 ARegV regelt den Effizienzvergleich vor jeder Regulierungsperiode, mit Dateneinhüllungsanalyse und stochastischer Effizienzgrenzenanalyse. **Bestätigt.**
+*Effizienzvergleich der Netzbetreiber:* Anreizregulierungsverordnung seit 2007, Anwendung seit 2009; bis zur vierten Regulierungsperiode regelt § 12 ARegV mit Anlage 3 den Effizienzvergleich vor jeder Periode, mit Dateneinhüllungsanalyse und stochastischer Effizienzgrenzenanalyse auf zwei Kostenbasen und Verwendung des höheren Werts (§ 12 Abs. 3 und 4a), Mindesteffizienzwert 60 Prozent (Abs. 4). Die Verordnung tritt mit Ablauf des 31.12.2028 außer Kraft; ab der fünften Periode (Gas 2028, Strom 2029) gelten die Festlegungen der Bundesnetzagentur vom 08.12.2025 (GBK-25-02-1#2 und GBK-25-02-2#1) mit modifizierter Bestabrechnung und einem Mindesteffizienzwert von 70 Prozent. Streit über Datenbasis, Vergleichsgruppen und Methode: BGH, Beschlüsse vom 09.10.2012 – EnVR 88/10, vom 21.01.2014 – EnVR 12/12, vom 26.09.2023 – EnVR 43/22. **Bestätigt.** Zur Methodenzuständigkeit siehe Kapitel 7, zur Bestabrechnung Kapitel 11.
 
 *Wegenutzungsverträge und Netzübernahme:* § 46 EnWG – Höchstlaufzeit zwanzig Jahre, diskriminierungsfreie Vergabe; nach § 46 Absatz 2 Satz 4 bemisst sich die wirtschaftlich angemessene Vergütung für die Netzübereignung am objektivierten Ertragswert. Bundesweit rund 20.000 Konzessionsverträge für Strom und Gas. **Bestätigt.** *Wertung:* Die Einschätzung, dass die Regelung Rechtsstreitigkeiten nicht vermeidet, stammt aus anwaltlicher Fachliteratur.
 

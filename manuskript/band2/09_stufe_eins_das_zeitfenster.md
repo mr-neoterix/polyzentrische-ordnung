@@ -62,13 +62,13 @@ Das ist zugleich die Antwort auf den liberalen Einwand, ein Vorkaufsrecht enteig
 
 Eine Belegschaftsübernahme ist ein Unternehmenskauf. Sie wirft Rechtsform-, Bewertungs-, Finanzierungs-, Steuer- und Verfassungsfragen auf, sie braucht Verträge, Gutachten, Satzungen und Bankgespräche. Der Engpass dieses Pfades ist die Zahl der Menschen, die solche Transaktionen begleiten können.
 
-Was gebraucht wird, ist unspektakulär: Genossenschaftsverbände mit Gründungsberatung, Kammern, die den Weg kennen, Steuerberater mit Musterlösungen, standardisierte Satzungen, standardisierte Kapitalkontenmodelle, Musterverträge für Verkäuferdarlehen, Bewertungsleitfäden. Die Satzungen enthalten die Mindestkapitalklausel, die gestreckte Auszahlung und die Mitgliedschaftsquote aus dem zweiten Kapitel.
+Was gebraucht wird, ist unspektakulär: Genossenschaftsverbände mit Gründungsberatung, Kammern, die den Weg kennen, Steuerberater mit Musterlösungen, standardisierte Satzungen, standardisierte Kapitalkontenmodelle, Musterverträge für Verkäuferdarlehen, Bewertungsleitfäden. Die Satzungen enthalten die Mindestkapitalklausel, die gestreckte Auszahlung und das Mitgliedschaftsangebot nach der Probezeit aus dem zweiten Kapitel, und für den kleinen Betrieb weist die geprüfte Satzung nach, was sonst laufend gemeldet würde.
 
 Wer den Kanal will, muss zuerst ein paar hundert Leute ausbilden.
 
 ### Der Rest der Stufe eins
 
-*Genossenschaftsrecht:* Entbürokratisierung von Gründung und Prüfungswesen, digitale Verfahren, Augenmaß bei der Pflichtmitgliedschaft jeder eingetragenen Genossenschaft in einem Prüfungsverband nach § 54 des Genossenschaftsgesetzes. Diese Pflichtmitgliedschaft sichert Qualität – sie ist einer der Gründe, warum Genossenschaften in Deutschland selten insolvent werden – und sie verteuert Gründungen. Die Aufgabe ist eine Abwägung, keine Abschaffung.
+*Genossenschaftsrecht:* Entbürokratisierung von Gründung und Prüfungswesen nach der Größenstaffel des zweiten Kapitels, digitale Verfahren, Augenmaß bei der Pflichtmitgliedschaft jeder eingetragenen Genossenschaft in einem Prüfungsverband nach § 54 des Genossenschaftsgesetzes. Diese Pflichtmitgliedschaft sichert Qualität – sie ist einer der Gründe, warum Genossenschaften in Deutschland selten insolvent werden – und sie verteuert Gründungen. Die Aufgabe ist eine Abwägung, keine Abschaffung.
 
 *Verantwortungseigentum:* Einführung der Gesellschaft mit gebundenem Vermögen – aber nur mit dem Kontroll-Lock aus dem vierten Kapitel, sonst schafft der Gesetzgeber ein weiteres Dynastie-Instrument.
 

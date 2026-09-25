@@ -76,7 +76,7 @@ Die übliche Frage jeder Ordnungsdebatte lautet, welches System die wenigsten Fe
 
 In der DDR hing alles mit allem zusammen, und deshalb fiel am Ende alles auf einmal. Ein Betrieb konnte nicht untergehen, weil sein Untergang ein Urteil über den Plan gewesen wäre und der Plan ein Urteil über die Partei. In einem monozentrischen System ist jeder Einzelfehler ein Systemfehler; also muss es jeden Fehler leugnen, die geleugneten Fehler sammeln sich, und der Zusammenbruch kommt spät und auf einmal.
 
-Der Gegenbeleg kommt aus dem Baskenland. Mondragón, 1956 aus einer kleinen Werkstatt entstanden, ist heute der größte Arbeitergenossenschaftsverbund der Welt, mit rund siebzigtausend Beschäftigten, eigener Bank und eigenem Sozialversicherungssystem. Sein Gründungsmitglied Fagor, ein Hersteller von Haushaltsgeräten, stellte im Oktober 2013 den Insolvenzantrag – rund 5.700 Beschäftigte, 1,1 Milliarden Euro Schulden. Der Verbund hatte Fagor zuvor mit rund 300 Millionen Euro gestützt und lehnte ab, als Fagor weitere 180 Millionen forderte.
+Der Gegenbeleg kommt aus dem Baskenland. Mondragón, 1956 aus einer kleinen Werkstatt entstanden, ist heute der größte Arbeitergenossenschaftsverbund der Welt, mit rund siebzigtausend Beschäftigten, eigener Bank und eigenem Sozialversicherungssystem. Sein Gründungsmitglied Fagor, ein Hersteller von Haushaltsgeräten, stellte im Oktober 2013 den Insolvenzantrag – rund 5.700 Beschäftigte, 1,1 Milliarden Euro Schulden. Der Verbund hatte Fagor zuvor mit rund 300 Millionen Euro gestützt und lehnte ab, als Fagor für einen letzten Rettungsplan weitere rund 170 Millionen brauchte.
 
 Ein Element scheiterte; die Föderation hielt die Budgetbeschränkung hart, gegen ihr eigenes Gründungsmitglied, und das Ganze überlebte. Ein Teil der Mitglieder wurde über Solidarfonds und durch Umsetzung in andere Genossenschaften des Verbunds aufgefangen. Nur war die Aufnahmekapazität endlich, und die Beschäftigten der ausländischen Töchter waren gar nicht geschützt, weil sie in Betrieben arbeiteten, die einer Genossenschaft gehörten, ohne selbst Mitglieder zu sein. Der Fall trägt beide Lehren: die Fehlertoleranz als Konstruktionserfolg und die *Insider-Outsider-Grenze* – die Trennlinie zwischen den geschützten Mitgliedern und den ungeschützten Nichtmitgliedern – als die größte offene Flanke der ganzen Architektur.
 
@@ -136,7 +136,7 @@ Die beiden großen Gegenproben – die marxistische mit zwölf Einwänden, die l
 
 *Olson, Mitbestimmung, Sparkassen, Landesbanken, Employee Ownership Trusts, Building Societies:* siehe Band 1, Kapitel 6 und 8. **Bestätigt**; bei den Landesbanken ist nur die Größenordnung gesichert, die Einzelzahlen sind abgrenzungsabhängig, und die Angaben zu den Building Societies sind dort **mit Einschränkung** geführt.
 
-*Mondragón und Fagor:* siehe Band 1, Kapitel 9. **Bestätigt dem Grunde nach**; die Zahl der umgesetzten Mitglieder ist dort als nicht gesichert ausgewiesen.
+*Mondragón und Fagor:* siehe Band 1, Kapitel 9. **Bestätigt dem Grunde nach**; beim Betrag des abgelehnten Rettungsplans und bei der Zahl der umgesetzten Mitglieder – bis 2021 gut die Hälfte – *mit Einschränkung*.
 
 *Drei Sektoren, Sortierkriterium, Nachfolgewelle und Bandrechnung:* siehe Band 1, Kapitel 10. Die Zahlen von KfW und IfM sind **bestätigt**; die Bandrechnung und die Sortierung nach dem Sterblichkeitsfall sind **Wertung.**
 
