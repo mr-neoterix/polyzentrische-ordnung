@@ -104,7 +104,7 @@ sup, sub {
 /* Der Belegapparat am Kapitelende: kleiner, mit Abstand statt Einzug. */
 section.belege {
   margin-top: 2.5em;
-  font-size: 0.85em;
+  font-size: 0.75em;
 }
 
 section.belege h3 {

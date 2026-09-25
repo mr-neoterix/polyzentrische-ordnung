@@ -510,7 +510,8 @@ umnummeriert und die Überschriften stehen lässt, liest es im Lauf als
 Hinweis.
 
 *Der Belegapparat steht am Schluss* unter einer Überschrift `Belege`. Er
-wird kleiner und mit Abstand statt Einzug gesetzt, damit er als Apparat und
+wird kleiner – zwei Grade unter der Grundschrift, 8 pt bei 10 pt, im E-Book
+0,75 em – und mit Abstand statt Einzug gesetzt, damit er als Apparat und
 nicht als Fließtext gelesen wird. Ein Kapitel ohne Belege wird gesetzt, aber
 im Lauf angemerkt.
 
