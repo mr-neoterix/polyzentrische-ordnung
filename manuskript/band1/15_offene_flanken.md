@@ -102,7 +102,7 @@ Die Quellen sind einzeln geprüft und am Ende jedes Kapitels mit ihrem Verifikat
 
 *Der chinesische Fall:* Die drei datierten Rückverwandlungen, der Beförderungsbefund und Gerschenkron stehen mit Fundstellen in Kapitel 4; die Produktivitätsschätzungen, die Anteile in Photovoltaik und Batteriefertigung, die Institutionenrangliste des *Nature Index* und die Prognose von Acemoglu und Robinson in Kapitel 14. **Offen** ist die Frage selbst – und offen ist sie in dem Sinn, in dem dieses Verzeichnis das Wort gebraucht: Der Fall läuft, die Entscheidungsregel steht, das Ergebnis steht aus.
 
-*Eigentumsschutz von Anwartschaften:* Die Bindung des verfassungsrechtlichen Schutzes an nicht unerhebliche Eigenleistung ist in Band 2, Kapitel 10 belegt, die befristete Versicherungsleistung, die Grundsicherung und die Rechtsprechung zum Existenzminimum in Band 2, Kapitel 8. **Bestätigt.** Dass Eigentumslogik Sicherheit nach Vorleistung verteilt, ist **Wertung** dieses Buches.
+*Eigentumsschutz von Anwartschaften:* Die Bindung des verfassungsrechtlichen Schutzes an nicht unerhebliche Eigenleistung ist in Band 2, Kapitel 10 belegt, die befristete Versicherungsleistung, die Grundsicherung und die Rechtsprechung zum Existenzminimum in Band 2, Kapitel 8. **Bestätigt.** Dass Eigentumslogik Sicherheit nach Vorleistung verteilt und dass diese Ordnung dagegen nur Anspruchssicherung setzen kann, ist **Wertung** dieses Buches.
 
 *Bakunin:* siehe Kapitel 1. Der Dissens über die Rolle des Staates wird hier als Dissens geführt, nicht als entschiedene Frage.
 

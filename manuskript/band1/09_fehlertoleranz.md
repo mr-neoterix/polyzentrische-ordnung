@@ -80,4 +80,4 @@ Wie sie aussieht, steht im vierten Teil.
 
 *Auslandsbeschäftigte ohne Mitgliedschaft:* Nach dem Jahresbericht 2024 rund 10.000 Auslandsbeschäftigte, für 2019 etwa 14.500 – in der Forschung als offenes Strukturproblem behandelt: Ignacio Bretos / Anjel Errasti / Carmen Marcuello, „Multinational Expansion of Worker Cooperatives and Their Employment Practices", in: *ILR Review* (2019); Arando / Errasti u. a., „The Mondragon Worker Cooperatives' Employment Record 1983–2019", in: *Journal of Labor and Society* 26 (2023), H. 3. **Bestätigt**, mit der Maßgabe, die Zahl als „über zehntausend" zu führen.
 
-*Die neun Sätze der Zwischenbilanz* fassen die Kapitel 2 bis 8 zusammen; ihre Belege stehen dort.
+*Die neun Sätze der Zwischenbilanz* fassen die Kapitel 2 bis 8 und den ersten Teil dieses Kapitels zusammen; ihre Belege stehen dort.

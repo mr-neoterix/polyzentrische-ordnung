@@ -283,6 +283,46 @@ Die Abgrenzung in einem Satz: **Das Ledger sagt, was dieses Buch nicht kann; die
 
 ---
 
+### V29 – Kapitalabfluss aus Frankreich 1981 bis 1983 an einer eigenen Fundstelle
+**Angelegt:** 25.09.2026.
+**Gegenstand:** Band 2, Kapitel 11 nennt für den Kurswechsel Mitterrands im März 1983 drei Franc-Abwertungen und Kapitalflucht, Kapitel 12 führt den Kapitalkanal als Beschränkung ohne Motiv. Band 1, Kapitel 5 bestätigt im Belegapparat Wahl, Verstaatlichungen, Abwertungen und Kurswechsel, den Kapitalabfluss aber nicht eigens; er ist nur in Überblicksdarstellungen gesichert. Bis zum 25.09.2026 stand im Fließtext „massiver Kapitalflucht" und im Beleg „gut belegt".
+**Was fehlt:** eine eigene Fundstelle für den Kapitalabfluss 1981 bis 1983, möglichst mit Größenordnung (Devisenreserven der Banque de France, Verschärfung der Devisenkontrollen).
+**Was ihn schließt:** eine wirtschaftshistorische Darstellung mit Zahlen oder die Monatsberichte der Banque de France.
+**Folge, falls offen:** gering. Das Argument des Kapitels hängt am Kanal und nicht an seiner Stärke, und ein Motiv wird nicht zugeschrieben.
+**Betroffene Stellen:** `manuskript/band2/11_stufe_drei_kosten_koalitionen.md`, `12_die_weltordnungsebene.md`; `manuskript/band1/05_die_gegenprobe_am_kapitalismus.md`.
+
+---
+
+### V30 – Zahl der mosambikanischen Vertragsarbeiter und Walzers Essay am Volltext
+**Angelegt:** 25.09.2026.
+**Gegenstand:** Band 2, Kapitel 2 führte „über zwanzigtausend" mosambikanische Vertragsarbeiter in der DDR nach bpb/Deutschland Archiv (Interview vom 24.10.2016); die hib-Meldung des Bundestags vom 26.04.2023 nennt nach der SED-Opferbeauftragten etwa 17.000 für 1979 bis 1989. Seit dem 25.09.2026 steht im Fließtext keine Zahl mehr, der Beleg führt beide. Im selben Kapitel ist die Wilde zugeschriebene Pointe von den zu vielen Abenden über Quote Investigator auf Walzers Essay von 1968 zurückgeführt; der Essay selbst ist nicht eingesehen.
+**Was fehlt:** ob die beiden Zahlen verschiedene Abgrenzungen zählen (Einreisen gegen gleichzeitigen Höchststand, Arbeiter gegen Auszubildende); der Volltext von Walzer, *Dissent* 15 (1968), H. 3, S. 243–247.
+**Was ihn schließt:** die Statistik der Staatlichen Plankommission oder eine Studie zur Vertragsarbeit; der Abruf des Essays.
+**Folge, falls offen:** gering. Das Argument, Einbehalt und Verrechnung, hängt an keiner der beiden Zahlen.
+**Betroffene Stellen:** `manuskript/band2/02_verfassung_des_belegschaftssektors.md`; `quellen_und_glossar.md` (Madgermanes, Wilde-Zitat).
+
+---
+
+### V31 – Lieferkettenregulierung: Omnibus-Richtlinie und Änderung des LkSG
+**Angelegt:** 25.09.2026.
+**Gegenstand:** Band 2, Kapitel 12 führt die Entkernung der europäischen Lieferkettenrichtlinie durch die Omnibus-I-Änderung und die geplante Streichung im deutschen Lieferkettengesetz.
+**Was fehlt:** die Änderungsrichtlinie am Amtsblatt – Nummer (EU) 2026/470, Datum, Veröffentlichung am 26.02.2026, Inkrafttreten am 18.03.2026, Schwellen von 5.000 Beschäftigten und 1,5 Mrd. Euro, Wegfall der harmonisierten zivilrechtlichen Haftung, Anwendung ab 26.07.2029 –, bisher nur über Kanzleimitteilungen gesichert; dazu der Stand des Gesetzes zur Änderung des LkSG (Regierungsentwurf BT-Drs. 21/2474, Kabinettsbeschluss 03.09.2025, erste Lesung 16.01.2026): verabschiedet, Bundesrat, verkündet, Fundstelle.
+**Was ihn schließt:** EUR-Lex und das Bundesgesetzblatt. Ist das Gesetz verkündet, kann der Fließtext von „beschlossen" auf die Streichung selbst umgestellt werden, und der Beleg bekommt die Fundstelle.
+**Folge, falls offen:** gering; der Befund über die Anknüpfung an der Vertragsbeziehung hängt nicht an den Daten.
+**Betroffene Stellen:** `manuskript/band2/12_die_weltordnungsebene.md`; `quellen_und_glossar.md` (Lieferkettenregulierung).
+
+---
+
+### V32 – Steuern und Zweckbindungen im Investitionsschutz
+**Angelegt:** 25.09.2026.
+**Gegenstand:** Das Ledger der Bauteile (Band 2, Kapitel 13, „Was die Abgabe auf Großbestände wirklich bewirkt", dritte Frage) sagte, allgemeine, nicht diskriminierende Steuern würden in Investitionsschutzverfahren „regelmäßig" anders behandelt als Zugriffe auf einzelne Eigentümer, und Zweckbindungen würden „regelmäßig angegriffen". Beides ist im Manuskript nicht belegt und steht im Belegeintrag als offen.
+**Was fehlt:** UNCTAD, *Expropriation: A Sequel*, UNCTAD Series on Issues in International Investment Agreements II, New York/Genf 2012 (Abschnitt zu Steuermaßnahmen und konfiskatorischer Besteuerung), und mindestens ein Schiedsspruch zur Besteuerung als Enteignung (etwa Feldman v. Mexico, EnCana v. Ecuador); für die Zweckbindung eine Fundstelle oder die Streichung des „regelmäßig".
+**Was ihn schließt:** Abruf der Studie und der Schiedssprüche.
+**Folge, falls offen:** mittel für die dritte Frage des Eintrags. Die Richtung ist nach der Websuche gestützt, das Wort „regelmäßig" nicht; seit dem 25.09.2026 steht im Fließtext deshalb „anders behandelt werden dürften" und bei den Zweckbindungen „angreifbar". Wer die Belege findet, kann beides wieder schärfen.
+**Betroffene Stellen:** `manuskript/band2/13_offene_flanken_der_bauteile.md`.
+
+---
+
 ### K11 – Ebene der Überschrift „Wie dieses Buch entstanden ist"
 **Angelegt:** 01.09.2026.
 **Gegenstand:** Der Entstehungsabschnitt vom 29.08.2026 steht in `manuskript/band1/00_inhalt.md` als `###` und damit innerhalb von „Über dieses Buch". Der Satz macht daraus eine Zwischenüberschrift ohne eigene Seite; eine eigene Seite bekäme er als `##`, weil allein der `\vorspann`-Befehl umbricht. Beides ist vertretbar: Der Abschnitt handelt vom Buch und passt unter dessen Überschrift, er ist aber auch der einzige Text des Vorspanns, der von der Herstellung statt vom Gegenstand spricht.
@@ -323,6 +363,8 @@ Was hier steht, ist kein Auftrag, sondern eine Warnung: Diese Fragen sind einmal
 *Rangzuweisungen an Einwände stehen im Antworttext, nicht in der Überschrift, und je Sache nur einmal.* Bis zum 23.09.2026 trug die marxistische Gegenprobe zwei Wertungen in Überschriften („ein besonders scharfer Einwand" bei Marx gegen Lassalle, „und er ist der beste in diesem Kapitel" beim Staatlichkeits-Einwand), die liberale dagegen ihre eine im Antworttext („Der Einwand ist der beste in diesem Kapitel" beim China-Einwand). Dazu nannte das siebte Kapitel des ersten Bandes den Staatlichkeits-Einwand schon „den besten, den die linke Tradition gegen diesen Entwurf hat" – dieselbe Sache zweimal bewertet. Der Autor hat entschieden: Die Überschriften sind neutral, die Wertung steht in beiden Gegenproben am selben Ort, im Text nach der Darstellung des Einwands, und im siebten Kapitel heißt der Einwand nur noch „ernst". Wer bei einer Durchsicht eine Wertung in einer Einwands-Überschrift vermisst, setzt sie nicht wieder ein.
 
 *Das Thesenpapier wird bei der Kürzung nicht nachgezogen.* Die Kürzungsrunde vom 23.09.2026 hat im Manuskript Rangzuweisungen, Vorabverdikte und Metasätze gestrichen, die das Thesenpapier teils wortgleich führt (in Sektion V „der schärfste Einwand" und „Der wirksamste Zug in dieser Debatte ist immanent", in Sektion VI „ein zweiter Eintrag derselben Tiefe" und „der naheliegendste Trost"). Der Autor hat am selben Tag entschieden, dass es dabei bleibt. Die Konsistenzpflicht gilt tragenden Konstruktionen, und eine reine Stiländerung erzeugt keine Divergenz, die auszuweisen wäre. Das ist dieselbe Linie wie beim Vorgriff-Rückbau vom 27.08.2026 und beim Rückbau der Antithese vom 01.09.2026.
+
+*Hayek schreibt „food", und er nennt die Anbieter nicht als Hauptquelle der Wünsche.* In „The Non Sequitur of the ‚Dependence Effect'" (*Southern Economic Journal* 27, 1961) sind die angeborenen Bedürfnisse „food, shelter, and sex"; Band 1, Kapitel 14 sagt sinngemäß „Hunger", das Quellenverzeichnis „Nahrung", und beides ist als Wiedergabe zulässig, als wörtliches Zitat keines. Alle übrigen Wünsche lernt man nach Hayek, weil man andere sie genießen sieht; die Anstrengungen der Produzenten sind nur ein Element dieser Umgebung. Bis zum 25.09.2026 stand in Band 2, Kapitel 5 und im Quellenverzeichnis, die Wünsche würden „meist von denen geweckt, die sie anbieten", und der Beleg bestätigte das. Es heißt jetzt „auch von denen, die es anbieten".
 
 ---
 

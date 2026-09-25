@@ -126,6 +126,8 @@ Was an diesen Bauteilen offen ist, verzeichnen die *Offenen Flanken der Bauteile
 
 *Die Unterscheidung von Nutzer- und Belegschaftsgenossenschaft* folgt der Trägerfrage des Genossenschaftsgesetzes: Mitglied ist, wessen Erwerb oder Wirtschaft die Genossenschaft fördern soll – im einen Fall die Arbeitenden, im anderen die Wohnenden oder Angeschlossenen. Das Reichsgesetz trat am 1. Oktober 1889 in Kraft und gilt novelliert fort; siehe die Belege von Band 2, Kapitel 2. **Bestätigt.** Die Zuordnung der Sektoren nach dem Sterblichkeitsfall statt nach der Rechtsform ist Konstruktionsentscheidung dieses Buches. **Wertung.**
 
+*Ostrom und die verschachtelten Strukturen:* Elinor Ostrom und ihre Designprinzipien sind in Kapitel 5 und 7 belegt, die Herkunft des Begriffs der Polyzentrik in Band 2, Kapitel 7. **Bestätigt.** Die Übertragung auf alle drei Sektoren ist **Wertung.**
+
 *Natürliche Monopole, Renten, Konsumentensouveränität:* wirtschaftswissenschaftliche Standardbegriffe, im Text erklärt.
 
 *Was der zweite Band außerdem baut:* Der Abschnitt fasst Konstruktionen zusammen, die Band 2, Kapitel 2 bis 12 ausführen und belegen; die Zahlen, die er nennt – die Schwelle von 3.000 Wohnungen und der Berliner Volksentscheid von 2021, die fünf Anträge nach dem schottischen Land Reform Act, die Anteile der Beschäftigten bei Eiffage und Bouygues und die 4,8 Prozent im Durchschnitt der vierzig größten französischen Gesellschaften –, stehen dort mit Fundstelle und Verifikationsstatus. Die Zusammenfassung selbst ist **Wertung.**
