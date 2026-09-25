@@ -1,6 +1,6 @@
 # PROCESS.md – Register der offenen Handwerksaufträge
 
-Stand: 01.09.2026.
+Stand: 25.09.2026.
 
 *Zählung und Pfade:* Die Kapitelangaben folgen der durchgehenden Zählung 1 bis 27, die bis zum 23.09.2026 galt; seither erscheint das Manuskript in zwei Bänden mit eigener Zählung. Die Konkordanz steht in `AGENTS.md` unter „Vier Zählungen nicht vermischen". Die Dateipfade unter `manuskript/` sind am selben Tag auf die neuen Bandverzeichnisse umgestellt worden; die Kapitelnummern in den Einträgen nicht.
 
@@ -240,6 +240,46 @@ Die Abgrenzung in einem Satz: **Das Ledger sagt, was dieses Buch nicht kann; die
 **Was ihn schließt:** Abruf aus einer Umgebung ohne Filter.
 **Folge, falls offen:** gering für die Deutung, die an Datum, Umfang und Inhalt der Regeln hängt; mittel für die Größenordnung. Gezählt ist ein Bestand, gemessen ist keine Wirkung: Der Anteil der Mitnahme ist offen, und nach einer ungeprüften Sekundärangabe sind Employee Ownership Trusts nur gut drei Viertel der belegschaftseigenen Unternehmen im Register. Die Formeln „2.470 Übertragungen in elf Jahren" und „binnen elf Jahren" sind deshalb am 24.09.2026 zu „nach elf Jahren" neutralisiert worden (Band 1, Kapitel 8, 10, 11 und 13; Band 2, Kapitel 1; Thesenpapier Befund 9, Sektionen IV und V); wer die Zusammensetzung klärt, kann sie wieder schärfen. Das Paket bestand aus drei Vergünstigungen (Kapitalertragsteuer, Erbschaftsteuer, steuerfreie Boni bis 3.600 Pfund); ob die Bonusbefreiung bei der Halbierung unverändert blieb, ist nur über eine Praktikerdarstellung gesichert.
 **Betroffene Stellen:** `manuskript/band1/08_warum_regeln_rosten.md`, `10_drei_sektoren.md`, `11_drei_werktage.md`, `13_marxistische_gegenprobe.md`; `manuskript/band2/01_was_der_erste_band_gezeigt_hat.md`, `09_stufe_eins_das_zeitfenster.md`; `polyzentrische_ordnung.md` (Befund 9, Sektionen IV und V); `quellen_und_glossar.md`; `PROJEKTSTAND.md`.
+
+---
+
+### V25 – Streit über die Methode im Effizienzvergleich der Netze
+**Angelegt:** 25.09.2026.
+**Gegenstand:** Band 2, Kapitel 3, 7, 11 und 13 führen den Effizienzvergleich der Anreizregulierung als Beleg dafür, dass über eine Rechenweise vor allem die Gemessenen streiten, weil sie an ihr ein konzentriertes Interesse haben, und dass die Bestabrechnung ihnen ein Veto über die günstigste Rechnung gab. Getragen wird das von den Festlegungen der Bundesnetzagentur vom 08.12.2025, die das selbst schreiben, und von drei BGH-Beschlüssen auf Beschwerden von Netzbetreibern.
+**Was fehlt:** die Zahl der Beschwerdeverfahren gegen Effizienzwerte je Regulierungsperiode und die Frage, ob je ein Netznutzer, ein Verbraucherverband oder ein Netzkunde gegen eine Festlegung der Methode vorgegangen ist und ob er dafür nach § 75 EnWG beschwerdebefugt wäre. Außerdem der Ausgang etwaiger Beschwerden gegen die Festlegungen vom Dezember 2025.
+**Was ihn schließt:** Auskunft der Bundesnetzagentur oder Auswertung der Entscheidungssammlungen des OLG Düsseldorf und des BGH.
+**Folge, falls offen:** gering. Dass die Gemessenen streiten, ist an den Beschlüssen belegt; dass die Netznutzer es nicht tun, steht im Text als Befund über das Interesse und nicht als Zählung. Wer eine Beschwerde von Netznutzern findet, schwächt den Satz im Ledger der Bauteile ab.
+**Betroffene Stellen:** `manuskript/band2/03_allmende_und_sterberecht.md`, `07_politische_architektur_und_exit.md`, `11_stufe_drei_kosten_koalitionen.md`, `13_offene_flanken_der_bauteile.md`; `polyzentrische_ordnung.md` (Sektionen III, IV, VI); `quellen_und_glossar.md` Abschnitt AF.
+
+---
+
+### V26 – Belege der Staffel des kleinen Betriebs am Volltext
+**Angelegt:** 25.09.2026.
+**Gegenstand:** Der Abschnitt „Der kleine Betrieb" in Band 2, Kapitel 2 stützt Zusammenrechnung, Glättung und die liberale Gegenprobe auf Rechtsprechung und Studien, von denen drei nur über Wiedergaben und Zusammenfassungen geprüft sind.
+**Was fehlt:** das Urteil HaTeFo (EuGH, C-110/13) am Volltext; Koller/Schnabel/Wagner (2011) und Bauer/Bender/Bonin (2007) am Volltext; die Verbandsbeiträge kleiner Genossenschaften neben den Prüfungskosten; eine neuere Schätzung der Beschäftigten in Übergabebetrieben, die die Zahlen des IfM von 2018 fortschreibt.
+**Was ihn schließt:** Abruf der Volltexte; Beitragsordnungen zweier Prüfungsverbände.
+**Folge, falls offen:** gering. Die Staffel ist Konstruktionsvorschlag; die Belege tragen ihre Muster und die Gegenprobe, nicht ihre Notwendigkeit. Wer bei Koller u. a. oder Bauer u. a. stärkere Wirkungen der deutschen Schwellen findet, schärft die liberale Gegenprobe.
+**Betroffene Stellen:** `manuskript/band2/02_verfassung_des_belegschaftssektors.md`, `13_offene_flanken_der_bauteile.md`; `manuskript/band1/10_drei_sektoren.md`; `quellen_und_glossar.md` Abschnitt AF.
+
+---
+
+### V27 – Ausgang der ersten Subsidiaritätsklage eines Parlaments
+**Angelegt:** 25.09.2026.
+**Gegenstand:** Band 2, Kapitel 7 und 13 und das Thesenpapier führen die Subsidiaritätsklage des Unionsrechts als vorhanden und wirkungsarm: einmal im Namen eines nationalen Parlaments erhoben, vom Ausschuss der Regionen nie, und nie mit einer Nichtigerklärung. Die Rechtssache C-553/24 ist anhängig, die Schlussanträge vom 04.06.2026 schlagen die Abweisung vor.
+**Was fehlt:** das Urteil in C-553/24; die Urteile Vodafone (C-58/08), Estland (C-508/13) und Polen (C-358/14) am Volltext; der Stand beim Ausschuss der Regionen nach April 2025.
+**Was ihn schließt:** das Urteil und der Abruf der drei Urteile. Gibt der Gerichtshof der Klage statt, auch nur teilweise wegen des Subsidiaritätsprinzips, sind die Sätze „nie für nichtig erklärt" in Kapitel 7, im Ledger der Bauteile, im Thesenpapier und im Quellenverzeichnis zu ändern, und die Klage verliert ihre Rolle als Beleg für den leerlaufenden Maßstab.
+**Folge, falls offen:** gering, solange das Urteil aussteht; hoch, falls es anders ausgeht als vorgeschlagen.
+**Betroffene Stellen:** `manuskript/band2/07_politische_architektur_und_exit.md`, `12_die_weltordnungsebene.md`, `13_offene_flanken_der_bauteile.md`; `manuskript/band1/10_drei_sektoren.md`; `polyzentrische_ordnung.md`; `quellen_und_glossar.md` Abschnitte K und AF.
+
+---
+
+### V28 – Fagor: abgelehnter Betrag und Verbleib der Mitglieder am Primärdokument
+**Angelegt:** 25.09.2026.
+**Gegenstand:** Band 1, Kapitel 9, Band 2, Kapitel 1 und 2 und das Quellenverzeichnis führten, dass der Verbund Fagor weitere 180 Mio. Euro verweigerte und rund 95 Prozent der Mitglieder umgesetzt wurden. Seit dem 25.09.2026 steht: Der Generalrat lehnte Ende Oktober 2013 den Rettungsplan ab, für den Fagor rund 170 Mio. Euro brauchte (englischsprachige Darstellungen nennen 180), und von rund 2.000 Mitgliedern erhielten bis Anfang 2021 1.070 eine Umsetzung, 881 gingen in Ruhestand, Vorruhestand oder schieden aus.
+**Was fehlt:** die Erklärung der Mondragón Corporación vom 30./31.10.2013 im Wortlaut; der Volltext von Santos-Larrazabal/Basterretxea (2022), insbesondere die Abgrenzung der 881 und die Lage der Übrigen; ob die rund 300 Mio. Euro Stützung davor eine Summe mehrerer Jahre ist.
+**Was ihn schließt:** Abruf der Erklärung und des Aufsatzes.
+**Folge, falls offen:** gering. Die Aussage, der Verbund habe die letzte Stützung verweigert und gut die Hälfte umgesetzt, hängt nicht an der Differenz zwischen 170 und 180.
+**Betroffene Stellen:** `manuskript/band1/09_fehlertoleranz.md`; `manuskript/band2/01_was_der_erste_band_gezeigt_hat.md`, `02_verfassung_des_belegschaftssektors.md`; `polyzentrische_ordnung.md`; `quellen_und_glossar.md` Abschnitte F und AC.
 
 ---
 
