@@ -62,13 +62,13 @@ Das ist zugleich die Antwort auf den liberalen Einwand, ein Vorkaufsrecht enteig
 
 Eine Belegschaftsübernahme ist ein Unternehmenskauf. Sie wirft Rechtsform-, Bewertungs-, Finanzierungs-, Steuer- und Verfassungsfragen auf, sie braucht Verträge, Gutachten, Satzungen und Bankgespräche. Der Engpass dieses Pfades ist die Zahl der Menschen, die solche Transaktionen begleiten können.
 
-Was gebraucht wird, ist unspektakulär: Genossenschaftsverbände mit Gründungsberatung, Kammern, die den Weg kennen, Steuerberater mit Musterlösungen, standardisierte Satzungen, standardisierte Kapitalkontenmodelle, Musterverträge für Verkäuferdarlehen, Bewertungsleitfäden. Die Satzungen enthalten die Mindestkapitalklausel, die gestreckte Auszahlung und die Mitgliedschaftsquote aus dem zweiten Kapitel.
+Was gebraucht wird, ist unspektakulär: Genossenschaftsverbände mit Gründungsberatung, Kammern, die den Weg kennen, Steuerberater mit Musterlösungen, standardisierte Satzungen, standardisierte Kapitalkontenmodelle, Musterverträge für Verkäuferdarlehen, Bewertungsleitfäden. Die Satzungen enthalten die Mindestkapitalklausel, die gestreckte Auszahlung und das Mitgliedschaftsangebot nach der Probezeit aus dem zweiten Kapitel, und für den kleinen Betrieb weist die geprüfte Satzung nach, was sonst laufend gemeldet würde.
 
 Wer den Kanal will, muss zuerst ein paar hundert Leute ausbilden.
 
 ### Der Rest der Stufe eins
 
-*Genossenschaftsrecht:* Entbürokratisierung von Gründung und Prüfungswesen, digitale Verfahren, Augenmaß bei der Pflichtmitgliedschaft jeder eingetragenen Genossenschaft in einem Prüfungsverband nach § 54 des Genossenschaftsgesetzes. Diese Pflichtmitgliedschaft sichert Qualität – sie ist einer der Gründe, warum Genossenschaften in Deutschland selten insolvent werden – und sie verteuert Gründungen. Die Aufgabe ist eine Abwägung, keine Abschaffung.
+*Genossenschaftsrecht:* Entbürokratisierung von Gründung und Prüfungswesen nach der Größenstaffel des zweiten Kapitels, digitale Verfahren, Augenmaß bei der Pflichtmitgliedschaft jeder eingetragenen Genossenschaft in einem Prüfungsverband nach § 54 des Genossenschaftsgesetzes. Diese Pflichtmitgliedschaft sichert Qualität – sie ist einer der Gründe, warum Genossenschaften in Deutschland selten insolvent werden – und sie verteuert Gründungen. Die Aufgabe ist eine Abwägung, keine Abschaffung.
 
 *Verantwortungseigentum:* Einführung der Gesellschaft mit gebundenem Vermögen – aber nur mit dem Kontroll-Lock aus dem vierten Kapitel, sonst schafft der Gesetzgeber ein weiteres Dynastie-Instrument.
 
@@ -98,7 +98,7 @@ Dann greift ein Ersatzweg aus drei Teilen.
 
 *Veräußerungsgewinnbesteuerung:* § 16 Absatz 4 EStG – Freibetrag 45.000 Euro, Abschmelzung ab einem Veräußerungsgewinn von 136.000 Euro, vollständiger Wegfall bei 181.000 Euro, einmal im Leben, ab dem 55. Lebensjahr oder bei dauernder Berufsunfähigkeit. § 34 Absatz 3 EStG – auf Antrag ermäßigter Steuersatz von 56 Prozent des durchschnittlichen Steuersatzes, mindestens 14 Prozent. **Bestätigt.**
 
-*Employee Ownership Trusts:* siehe Band 1, Kapitel 8, dort mit dem Status jeder einzelnen Angabe. **Bestätigt** ist der Zusatz, dass EOTs treuhänderisch gehalten und nicht mitgliedschaftlich regiert sind; gezählt ist ein Registerbestand, die Wirkung des Hebels ist nicht gemessen.
+*Employee Ownership Trusts:* siehe Band 1, Kapitel 8, dort mit Fundstellen und Status der Zahlen und Normen. **Bestätigt** ist, dass EOTs treuhänderisch gehalten und nicht mitgliedschaftlich regiert sind. Dass die britischen Zahlen die Übertragungsthese stützen und für die Selbstverwaltungsthese nichts belegen, ist **Wertung**; gezählt ist ein Registerbestand, die Wirkung des Hebels ist nicht gemessen.
 
 *Marcora-Gesetz und CFI:* Legge 49/1985; CFI gegründet 1986, ursprünglich 3:1-Kofinanzierung, nach EU-beihilferechtlicher Beanstandung 2001 auf 1:1 reformiert. Drei-Jahres-Überlebensrate nach 2007 gegründeter Marcora-Buyouts 87 Prozent gegenüber 48 Prozent aller italienischen Unternehmen; über CFI insgesamt 257 Firmen mit rund 9.300 Arbeitsplätzen gerettet oder geschaffen. Marcelo Vieta, *The Italian Road to Recuperating Enterprises and the Legge Marcora Framework*, Euricse Working Paper Nr. 78|15 (2015); International Cooperative Alliance (2015). **Bestätigt.** *Wertung dieses Buches:* Die Überlebensrate ist durch zwei Selektionsstufen gefiltert und deshalb nicht auf Nachfolgefälle übertragbar.
 

@@ -404,7 +404,9 @@ def lies_titelei(text: str) -> dict[str, str]:
     untertitel = re.search(r"^### (.+)$", kopf, re.M)
     band = re.search(r"^#### (.+)$", kopf, re.M)
     autor = re.search(r"^\*\*(.+?)\*\*$", kopf, re.M)
-    stand = re.search(r"^\*(Manuskript\.[^*]+)\*$", kopf, re.M)
+    # Bis zum 25.09.2026 hieß die Zeile „Manuskript. Stand: …“; beide Formen
+    # werden gelesen, auf die Titelseite kommt nur der Stand.
+    stand = re.search(r"^\*(?:Manuskript\.\s*)?(Stand:[^*]+)\*$", kopf, re.M)
     if not titel:
         raise Fehler(f"{INHALT}: keine Titelzeile (# …) gefunden.")
     return {

@@ -1,6 +1,6 @@
 # PROCESS.md – Register der offenen Handwerksaufträge
 
-Stand: 01.09.2026.
+Stand: 25.09.2026.
 
 *Zählung und Pfade:* Die Kapitelangaben folgen der durchgehenden Zählung 1 bis 27, die bis zum 23.09.2026 galt; seither erscheint das Manuskript in zwei Bänden mit eigener Zählung. Die Konkordanz steht in `AGENTS.md` unter „Vier Zählungen nicht vermischen". Die Dateipfade unter `manuskript/` sind am selben Tag auf die neuen Bandverzeichnisse umgestellt worden; die Kapitelnummern in den Einträgen nicht.
 
@@ -243,6 +243,86 @@ Die Abgrenzung in einem Satz: **Das Ledger sagt, was dieses Buch nicht kann; die
 
 ---
 
+### V25 – Streit über die Methode im Effizienzvergleich der Netze
+**Angelegt:** 25.09.2026.
+**Gegenstand:** Band 2, Kapitel 3, 7, 11 und 13 führen den Effizienzvergleich der Anreizregulierung als Beleg dafür, dass über eine Rechenweise vor allem die Gemessenen streiten, weil sie an ihr ein konzentriertes Interesse haben, und dass die Bestabrechnung ihnen ein Veto über die günstigste Rechnung gab. Getragen wird das von den Festlegungen der Bundesnetzagentur vom 08.12.2025, die das selbst schreiben, und von drei BGH-Beschlüssen auf Beschwerden von Netzbetreibern.
+**Was fehlt:** die Zahl der Beschwerdeverfahren gegen Effizienzwerte je Regulierungsperiode und die Frage, ob je ein Netznutzer, ein Verbraucherverband oder ein Netzkunde gegen eine Festlegung der Methode vorgegangen ist und ob er dafür nach § 75 EnWG beschwerdebefugt wäre. Außerdem der Ausgang etwaiger Beschwerden gegen die Festlegungen vom Dezember 2025, und ob das Urteil C-718/18 über die Methode der Netzentgelte hinaus auch einen Vergleich erfasst, an dem der Wechsel der Betriebsführung hängt – davon hängt ab, ob der Allmende-Sektor diesen Vergleich von der Entgeltmethode trennen und unter die Verordnung der Datenstelle stellen könnte. Gesichert ist seit der Schlussprüfung vom 25.09.2026, dass die Anreizregulierungsverordnung mit Zustimmung des Bundesrates erlassen ist (Eingangsformel).
+**Was ihn schließt:** Auskunft der Bundesnetzagentur oder Auswertung der Entscheidungssammlungen des OLG Düsseldorf und des BGH.
+**Folge, falls offen:** gering. Dass die Gemessenen streiten, ist an den Beschlüssen belegt; dass die Netznutzer es nicht tun, steht seit dem 25.09.2026 nur noch als „nicht bekannt" im Text. Ob der Vergleich für den Betreiberwechsel vom Unionsrecht erfasst ist, entscheidet über einen Satz im Ledger der Bauteile.
+**Betroffene Stellen:** `manuskript/band2/03_allmende_und_sterberecht.md`, `07_politische_architektur_und_exit.md`, `11_stufe_drei_kosten_koalitionen.md`, `13_offene_flanken_der_bauteile.md`; `polyzentrische_ordnung.md` (Sektionen III, IV, VI); `quellen_und_glossar.md` Abschnitt AF.
+
+---
+
+### V26 – Belege der Staffel des kleinen Betriebs am Volltext
+**Angelegt:** 25.09.2026.
+**Gegenstand:** Der Abschnitt „Der kleine Betrieb" in Band 2, Kapitel 2 stützt Zusammenrechnung, Glättung und die liberale Gegenprobe auf Rechtsprechung und Studien, von denen drei nur über Wiedergaben und Zusammenfassungen geprüft sind.
+**Was fehlt:** das Urteil HaTeFo (EuGH, C-110/13) am Volltext; Koller/Schnabel/Wagner (2011) und Bauer/Bender/Bonin (2007) am Volltext; die Verbandsbeiträge kleiner Genossenschaften neben den Prüfungskosten; eine neuere Schätzung der Beschäftigten in Übergabebetrieben, die die Zahlen des IfM von 2018 fortschreibt.
+**Was ihn schließt:** Abruf der Volltexte; Beitragsordnungen zweier Prüfungsverbände.
+**Folge, falls offen:** gering. Die Staffel ist Konstruktionsvorschlag; die Belege tragen ihre Muster und die Gegenprobe, nicht ihre Notwendigkeit. Wer bei Koller u. a. oder Bauer u. a. stärkere Wirkungen der deutschen Schwellen findet, schärft die liberale Gegenprobe.
+**Betroffene Stellen:** `manuskript/band2/02_verfassung_des_belegschaftssektors.md`, `13_offene_flanken_der_bauteile.md`; `manuskript/band1/10_drei_sektoren.md`; `quellen_und_glossar.md` Abschnitt AF.
+
+---
+
+### V27 – Ausgang der ersten Subsidiaritätsklage eines Parlaments
+**Angelegt:** 25.09.2026.
+**Gegenstand:** Band 2, Kapitel 7 und 13 und das Thesenpapier führen die Subsidiaritätsklage des Unionsrechts als vorhanden und wirkungsarm: einmal im Namen eines nationalen Parlaments erhoben, vom Ausschuss der Regionen nie, und nie mit einer Nichtigerklärung. Die Rechtssache C-553/24 ist anhängig, die Schlussanträge vom 04.06.2026 schlagen die Abweisung vor.
+**Was fehlt:** das Urteil in C-553/24; die Urteile Vodafone (C-58/08), Estland (C-508/13) und Polen (C-358/14) am Volltext; der Stand beim Ausschuss der Regionen nach April 2025.
+**Was ihn schließt:** das Urteil und der Abruf der drei Urteile. Gibt der Gerichtshof der Klage statt, auch nur teilweise wegen des Subsidiaritätsprinzips, sind die Sätze „nie für nichtig erklärt" in Kapitel 7, im Ledger der Bauteile, im Thesenpapier und im Quellenverzeichnis zu ändern, und die Klage verliert ihre Rolle als Beleg für den leerlaufenden Maßstab.
+**Folge, falls offen:** gering, solange das Urteil aussteht; hoch, falls es anders ausgeht als vorgeschlagen.
+**Betroffene Stellen:** `manuskript/band2/07_politische_architektur_und_exit.md`, `12_die_weltordnungsebene.md`, `13_offene_flanken_der_bauteile.md`; `manuskript/band1/10_drei_sektoren.md`; `polyzentrische_ordnung.md`; `quellen_und_glossar.md` Abschnitte K und AF.
+
+---
+
+### V28 – Fagor: abgelehnter Betrag und Verbleib der Mitglieder am Primärdokument
+**Angelegt:** 25.09.2026.
+**Gegenstand:** Band 1, Kapitel 9, Band 2, Kapitel 1 und 2 und das Quellenverzeichnis führten, dass der Verbund Fagor weitere 180 Mio. Euro verweigerte und rund 95 Prozent der Mitglieder umgesetzt wurden. Seit dem 25.09.2026 steht: Der Generalrat lehnte Ende Oktober 2013 den Rettungsplan ab, für den Fagor rund 170 Mio. Euro brauchte (englischsprachige Darstellungen nennen 180), und von rund 2.000 Mitgliedern erhielten bis Anfang 2021 1.070 eine Umsetzung, 881 gingen in Ruhestand, Vorruhestand oder schieden aus.
+**Was fehlt:** die Erklärung der Mondragón Corporación vom 30./31.10.2013 im Wortlaut; der Volltext von Santos-Larrazabal/Basterretxea (2022), insbesondere die Abgrenzung der 881 – sie umfassen auch unbezahlten Urlaub, der kein Ausscheiden ist – und die Lage der Übrigen; ob die rund 300 Mio. Euro Stützung davor eine Summe mehrerer Jahre ist.
+**Was ihn schließt:** Abruf der Erklärung und des Aufsatzes.
+**Folge, falls offen:** gering. Die Aussage, der Verbund habe die letzte Stützung verweigert und gut die Hälfte umgesetzt, hängt nicht an der Differenz zwischen 170 und 180.
+**Betroffene Stellen:** `manuskript/band1/09_fehlertoleranz.md`; `manuskript/band2/01_was_der_erste_band_gezeigt_hat.md`, `02_verfassung_des_belegschaftssektors.md`; `polyzentrische_ordnung.md`; `quellen_und_glossar.md` Abschnitte F und AC.
+
+---
+
+### V29 – Kapitalabfluss aus Frankreich 1981 bis 1983 an einer eigenen Fundstelle
+**Angelegt:** 25.09.2026.
+**Gegenstand:** Band 2, Kapitel 11 nennt für den Kurswechsel Mitterrands im März 1983 drei Franc-Abwertungen und Kapitalflucht, Kapitel 12 führt den Kapitalkanal als Beschränkung ohne Motiv. Band 1, Kapitel 5 bestätigt im Belegapparat Wahl, Verstaatlichungen, Abwertungen und Kurswechsel, den Kapitalabfluss aber nicht eigens; er ist nur in Überblicksdarstellungen gesichert. Bis zum 25.09.2026 stand im Fließtext „massiver Kapitalflucht" und im Beleg „gut belegt".
+**Was fehlt:** eine eigene Fundstelle für den Kapitalabfluss 1981 bis 1983, möglichst mit Größenordnung (Devisenreserven der Banque de France, Verschärfung der Devisenkontrollen).
+**Was ihn schließt:** eine wirtschaftshistorische Darstellung mit Zahlen oder die Monatsberichte der Banque de France.
+**Folge, falls offen:** gering. Das Argument des Kapitels hängt am Kanal und nicht an seiner Stärke, und ein Motiv wird nicht zugeschrieben.
+**Betroffene Stellen:** `manuskript/band2/11_stufe_drei_kosten_koalitionen.md`, `12_die_weltordnungsebene.md`; `manuskript/band1/05_die_gegenprobe_am_kapitalismus.md`.
+
+---
+
+### V30 – Zahl der mosambikanischen Vertragsarbeiter und Walzers Essay am Volltext
+**Angelegt:** 25.09.2026.
+**Gegenstand:** Band 2, Kapitel 2 führte „über zwanzigtausend" mosambikanische Vertragsarbeiter in der DDR nach bpb/Deutschland Archiv (Interview vom 24.10.2016); die hib-Meldung des Bundestags vom 26.04.2023 nennt nach der SED-Opferbeauftragten etwa 17.000 für 1979 bis 1989. Seit dem 25.09.2026 steht im Fließtext keine Zahl mehr, der Beleg führt beide. Im selben Kapitel ist die Wilde zugeschriebene Pointe von den zu vielen Abenden über Quote Investigator auf Walzers Essay von 1968 zurückgeführt; der Essay selbst ist nicht eingesehen.
+**Was fehlt:** ob die beiden Zahlen verschiedene Abgrenzungen zählen (Einreisen gegen gleichzeitigen Höchststand, Arbeiter gegen Auszubildende); der Volltext von Walzer, *Dissent* 15 (1968), H. 3, S. 243–247.
+**Was ihn schließt:** die Statistik der Staatlichen Plankommission oder eine Studie zur Vertragsarbeit; der Abruf des Essays.
+**Folge, falls offen:** gering. Das Argument, Einbehalt und Verrechnung, hängt an keiner der beiden Zahlen.
+**Betroffene Stellen:** `manuskript/band2/02_verfassung_des_belegschaftssektors.md`; `quellen_und_glossar.md` (Madgermanes, Wilde-Zitat).
+
+---
+
+### V31 – Lieferkettenregulierung: Omnibus-Richtlinie und Änderung des LkSG
+**Angelegt:** 25.09.2026.
+**Gegenstand:** Band 2, Kapitel 12 führt die Entkernung der europäischen Lieferkettenrichtlinie durch die Omnibus-I-Änderung und die geplante Streichung im deutschen Lieferkettengesetz.
+**Was fehlt:** die Änderungsrichtlinie am Amtsblatt – Nummer (EU) 2026/470, Datum, Veröffentlichung am 26.02.2026, Inkrafttreten am 18.03.2026, Schwellen von 5.000 Beschäftigten und 1,5 Mrd. Euro, Wegfall der harmonisierten zivilrechtlichen Haftung, Anwendung ab 26.07.2029 –, bisher nur über Kanzleimitteilungen gesichert; dazu der Stand des Gesetzes zur Änderung des LkSG (Regierungsentwurf BT-Drs. 21/2474, Kabinettsbeschluss 03.09.2025, erste Lesung 16.01.2026): verabschiedet, Bundesrat, verkündet, Fundstelle.
+**Was ihn schließt:** EUR-Lex und das Bundesgesetzblatt. Ist das Gesetz verkündet, kann der Fließtext von „beschlossen" auf die Streichung selbst umgestellt werden, und der Beleg bekommt die Fundstelle.
+**Folge, falls offen:** gering; der Befund über die Anknüpfung an der Vertragsbeziehung hängt nicht an den Daten.
+**Betroffene Stellen:** `manuskript/band2/12_die_weltordnungsebene.md`; `quellen_und_glossar.md` (Lieferkettenregulierung).
+
+---
+
+### V32 – Steuern und Zweckbindungen im Investitionsschutz
+**Angelegt:** 25.09.2026.
+**Gegenstand:** Das Ledger der Bauteile (Band 2, Kapitel 13, „Was die Abgabe auf Großbestände wirklich bewirkt", dritte Frage) sagte, allgemeine, nicht diskriminierende Steuern würden in Investitionsschutzverfahren „regelmäßig" anders behandelt als Zugriffe auf einzelne Eigentümer, und Zweckbindungen würden „regelmäßig angegriffen". Beides ist im Manuskript nicht belegt und steht im Belegeintrag als offen.
+**Was fehlt:** UNCTAD, *Expropriation: A Sequel*, UNCTAD Series on Issues in International Investment Agreements II, New York/Genf 2012 (Abschnitt zu Steuermaßnahmen und konfiskatorischer Besteuerung), und mindestens ein Schiedsspruch zur Besteuerung als Enteignung (etwa Feldman v. Mexico, EnCana v. Ecuador); für die Zweckbindung eine Fundstelle oder die Streichung des „regelmäßig".
+**Was ihn schließt:** Abruf der Studie und der Schiedssprüche.
+**Folge, falls offen:** mittel für die dritte Frage des Eintrags. Die Richtung ist nach der Websuche gestützt, das Wort „regelmäßig" nicht; seit dem 25.09.2026 steht im Fließtext deshalb „anders behandelt werden dürften" und bei den Zweckbindungen „angreifbar". Wer die Belege findet, kann beides wieder schärfen.
+**Betroffene Stellen:** `manuskript/band2/13_offene_flanken_der_bauteile.md`.
+
+---
+
 ### K11 – Ebene der Überschrift „Wie dieses Buch entstanden ist"
 **Angelegt:** 01.09.2026.
 **Gegenstand:** Der Entstehungsabschnitt vom 29.08.2026 steht in `manuskript/band1/00_inhalt.md` als `###` und damit innerhalb von „Über dieses Buch". Der Satz macht daraus eine Zwischenüberschrift ohne eigene Seite; eine eigene Seite bekäme er als `##`, weil allein der `\vorspann`-Befehl umbricht. Beides ist vertretbar: Der Abschnitt handelt vom Buch und passt unter dessen Überschrift, er ist aber auch der einzige Text des Vorspanns, der von der Herstellung statt vom Gegenstand spricht.
@@ -283,6 +363,8 @@ Was hier steht, ist kein Auftrag, sondern eine Warnung: Diese Fragen sind einmal
 *Rangzuweisungen an Einwände stehen im Antworttext, nicht in der Überschrift, und je Sache nur einmal.* Bis zum 23.09.2026 trug die marxistische Gegenprobe zwei Wertungen in Überschriften („ein besonders scharfer Einwand" bei Marx gegen Lassalle, „und er ist der beste in diesem Kapitel" beim Staatlichkeits-Einwand), die liberale dagegen ihre eine im Antworttext („Der Einwand ist der beste in diesem Kapitel" beim China-Einwand). Dazu nannte das siebte Kapitel des ersten Bandes den Staatlichkeits-Einwand schon „den besten, den die linke Tradition gegen diesen Entwurf hat" – dieselbe Sache zweimal bewertet. Der Autor hat entschieden: Die Überschriften sind neutral, die Wertung steht in beiden Gegenproben am selben Ort, im Text nach der Darstellung des Einwands, und im siebten Kapitel heißt der Einwand nur noch „ernst". Wer bei einer Durchsicht eine Wertung in einer Einwands-Überschrift vermisst, setzt sie nicht wieder ein.
 
 *Das Thesenpapier wird bei der Kürzung nicht nachgezogen.* Die Kürzungsrunde vom 23.09.2026 hat im Manuskript Rangzuweisungen, Vorabverdikte und Metasätze gestrichen, die das Thesenpapier teils wortgleich führt (in Sektion V „der schärfste Einwand" und „Der wirksamste Zug in dieser Debatte ist immanent", in Sektion VI „ein zweiter Eintrag derselben Tiefe" und „der naheliegendste Trost"). Der Autor hat am selben Tag entschieden, dass es dabei bleibt. Die Konsistenzpflicht gilt tragenden Konstruktionen, und eine reine Stiländerung erzeugt keine Divergenz, die auszuweisen wäre. Das ist dieselbe Linie wie beim Vorgriff-Rückbau vom 27.08.2026 und beim Rückbau der Antithese vom 01.09.2026.
+
+*Hayek schreibt „food", und er nennt die Anbieter nicht als Hauptquelle der Wünsche.* In „The Non Sequitur of the ‚Dependence Effect'" (*Southern Economic Journal* 27, 1961) sind die angeborenen Bedürfnisse „food, shelter, and sex"; Band 1, Kapitel 14 sagt sinngemäß „Hunger", das Quellenverzeichnis „Nahrung", und beides ist als Wiedergabe zulässig, als wörtliches Zitat keines. Alle übrigen Wünsche lernt man nach Hayek, weil man andere sie genießen sieht; die Anstrengungen der Produzenten sind nur ein Element dieser Umgebung. Bis zum 25.09.2026 stand in Band 2, Kapitel 5 und im Quellenverzeichnis, die Wünsche würden „meist von denen geweckt, die sie anbieten", und der Beleg bestätigte das. Es heißt jetzt „auch von denen, die es anbieten".
 
 ---
 
