@@ -447,7 +447,8 @@ Kapitel einschiebt, nummeriert die Dateien um.
 *Die Titelei steht im Kopf von `00_inhalt.md`*, also vor dem ersten
 Abschnitt: der Titel als `#`, der Untertitel als `###`, die Bandzeile als
 `####` („Erster Band: Das Argument“), der Verfasser als einzige fett gesetzte
-Zeile, der Stand als kursive Zeile `*Manuskript. Stand: …*`. Titel,
+Zeile, der Stand als kursive Zeile `*Stand: …*` (bis zum 25.09.2026
+`*Manuskript. Stand: …*`, das Satzskript liest beide Formen). Titel,
 Bandzeile, Untertitel und Verfasser wandern auch in die Metadaten der PDFs
 und des E-Books und auf den Umschlag; die Bandzeile steht auf der
 Titelseite unter dem Untertitel und wird auf dem Umschlag am Doppelpunkt

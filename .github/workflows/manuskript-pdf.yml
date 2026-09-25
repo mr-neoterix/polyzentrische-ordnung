@@ -279,7 +279,7 @@ jobs:
               datei.write(zusammenfassung)
           print(zusammenfassung)
 
-          # Die Standzeile heißt „Manuskript. Stand: …“; hier genügt der Stand.
+          # Die Standzeile heißt „Stand: …“ (bis zum 25.09.2026 „Manuskript. Stand: …“).
           def standzeile(band):
               return re.sub(r"^Manuskript\.\s*", "", band["stand"]) or "ohne Stand"
           staende = sorted({standzeile(b) for b in bericht["baende"]})
@@ -345,8 +345,8 @@ jobs:
           set -eu
           # Jeder Band führt seine eigene Standzeile. Stimmen beide überein,
           # steht sie einmal im Titel der Veröffentlichung; sonst beide.
-          stand1=$(sed -n 's/^\*Manuskript\. \(Stand: .*\)\.\*$/\1/p' manuskript/band1/00_inhalt.md | head -1)
-          stand2=$(sed -n 's/^\*Manuskript\. \(Stand: .*\)\.\*$/\1/p' manuskript/band2/00_inhalt.md | head -1)
+          stand1=$(sed -n 's/^\*\(Manuskript\. \)\{0,1\}\(Stand: .*\)\.\*$/\2/p' manuskript/band1/00_inhalt.md | head -1)
+          stand2=$(sed -n 's/^\*\(Manuskript\. \)\{0,1\}\(Stand: .*\)\.\*$/\2/p' manuskript/band2/00_inhalt.md | head -1)
           if [ "$stand1" = "$stand2" ]; then
             stand="$stand1"
           else
