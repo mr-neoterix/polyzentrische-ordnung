@@ -11,6 +11,11 @@ länger, als der Platz über der Werkangabe reicht, meldet der Satzlauf es.
 Entworfen am 24.09.2026. Jede Aussage darin steht so im Buch, Kernbefund
 und Schlussformel sogar wörtlich. Wer ihn ändert, hält sich an dieselbe
 Regel.
+
+Der Satz „denn Eigentum hat einen Träger, der es verteidigt“ nennt die
+Bedingung des gebundenen Vermögens nicht, die das Buch verlangt. Das ist
+Absicht: Der Klappentext darf ungenauer sein als das Buch (Entscheidung des
+Autors vom 25.09.2026).
 -->
 
 **Der Staatssozialismus ist an konzentrierter Macht gescheitert. Ist die Marktwirtschaft davor sicher?**

@@ -269,8 +269,21 @@ formen = ["Privatsektor", "privater Marktsektor", "private Marktsektor", "privat
 erklaerung = "als Organ mit einer Funktion"
 
 [[band1]]
+stichwort = "property-owning democracy"
+erklaerung = "John Rawls hat sie als"
+
+[[band1]]
+stichwort = "Rente"
+formen = ["Rente", "Renten"]
+erklaerung = "und Rente heißt dort ein Einkommen"
+
+[[band1]]
 stichwort = "Rost-These"
 erklaerung = "die Rost-These nennt"
+
+[[band1]]
+stichwort = "Rückversicherung"
+erklaerung = "die Mitglieder deckt und keine Betriebe"
 
 [[band1]]
 stichwort = "Schnittstellenpflicht"
@@ -281,6 +294,15 @@ erklaerung = "nach dem Muster der europäischen Ladebuchse"
 stichwort = "Schock, gemeinsamer"
 formen = ["gemeinsame Schock", "gemeinsamen Schock"]
 erklaerung = "in dem die Betriebe einer Region und Branche zugleich"
+
+[[band1]]
+stichwort = "Sekundärgenossenschaft"
+formen = ["Sekundärgenossenschaft", "Sekundärgenossenschaften"]
+erklaerung = "deren Mitglieder mehrere Stadtwerke sind"
+
+[[band1]]
+stichwort = "Sicherheitsdilemma"
+erklaerung = "in dem jede Rüstung des einen Staates"
 
 [[band1]]
 stichwort = "Sterberecht"
@@ -347,6 +369,11 @@ erklaerung = "Radikale Innovation entsteht typischerweise"
 [[band1]]
 stichwort = "Wettrüsten"
 erklaerung = "das jeder mitmacht, weil der Konkurrent es tut"
+
+[[band1]]
+stichwort = "Wohnungsgemeinnützigkeit"
+formen = ["Wohnungsgemeinnützigkeit", "Wohnungsgemeinnützigkeitsgesetz"]
+erklaerung = "band das Wohnungsgemeinnützigkeitsgesetz rund"
 
 [[band1]]
 stichwort = "Zehnjahresbilanz"
@@ -489,6 +516,10 @@ erklaerung = "Eigentumsgesichert ist die Rentenanwartschaft"
 stichwort = "Employee Ownership Trust"
 formen = ["Employee Ownership Trust", "Employee Ownership Trusts"]
 erklaerung = "Treuhänder, die ein Unternehmen für seine gesamte"
+
+[[band2]]
+stichwort = "Endzustand"
+erklaerung = "in dem das Machtproblem erledigt wäre"
 
 [[band2]]
 stichwort = "Engpass"
@@ -801,6 +832,10 @@ erklaerung = "Das ist die Subsidiarität in ihrer klassischen Fassung"
 [[band2]]
 stichwort = "Subsidiaritätsklage"
 erklaerung = "kann die Verlagerung mit einer Subsidiaritätsklage angreifen"
+
+[[band2]]
+stichwort = "Systemvariable"
+erklaerung = "Die eigentliche Systemvariable heißt"
 
 [[band2]]
 stichwort = "Tätigkeitsquote"

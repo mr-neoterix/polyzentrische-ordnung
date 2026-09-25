@@ -404,41 +404,13 @@ Die Abgrenzung in einem Satz: **Das Ledger sagt, was dieses Buch nicht kann; die
 
 ---
 
-### K11 – Ebene der Überschrift „Wie dieses Buch entstanden ist"
-**Angelegt:** 01.09.2026.
-**Gegenstand:** Der Entstehungsabschnitt vom 29.08.2026 steht in `manuskript/band1/00_inhalt.md` als `###` und damit innerhalb von „Über dieses Buch". Der Satz macht daraus eine Zwischenüberschrift ohne eigene Seite; eine eigene Seite bekäme er als `##`, weil allein der `\vorspann`-Befehl umbricht. Beides ist vertretbar: Der Abschnitt handelt vom Buch und passt unter dessen Überschrift, er ist aber auch der einzige Text des Vorspanns, der von der Herstellung statt vom Gegenstand spricht.
-**Was fehlt:** eine Entscheidung des Autors. Der Backlog führte sie bis zum 01.09.2026 gar nicht als Frage: Er behauptete „vier Vorspannabschnitte statt drei", einen Zählstand, den kein Lauf je gemeldet hat. Die Stelle ist dort berichtigt.
-**Nebenbefund, der die Frage schärft:** Es ist die **einzige Überschrift dritter Ebene im ganzen Buch**. Der Satz zieht die Überschriften der Kapiteldateien auf die Abschnittsebene hoch, die Inhaltsdatei nimmt er, wie sie ist; im erzeugten Quelltext steht deshalb genau ein `###`, und es ist dieses. Eine Ebene, die sonst nirgends vorkommt, ist entweder Absicht oder Versehen, und das ist der Kern der Frage.
-**Was ihn schließt:** entweder die Umstellung auf `##` samt Gegenlesen des Laufs (er meldete dann drei gesetzte Vorspannabschnitte statt zweier – die Zahl ist seit dem 01.09.2026 um eins kleiner, weil der Aufbau gelesen und nicht mehr gesetzt wird, siehe K12 in Abschnitt III –, und die Standzeile bliebe unberührt) oder die ausdrückliche Entscheidung, dass die Unterordnung gewollt ist – dann wandert der Eintrag nach Abschnitt II, damit die Frage nicht bei der nächsten Durchsicht neu aufgemacht wird.
-**Folge, falls offen:** gering und rein formal. Kein Befund, kein Beleg und keine Konstruktion hängt daran; der Abschnitt steht im Buch und wird gesetzt. Was bliebe, ist eine Ebene ohne Geschwister.
-**Nachtrag vom 25.09.2026:** Seit der Teilung steht der Abschnitt gleichlautend auch im Vorspann des zweiten Bandes, und seit diesem Tag sind beide Fassungen byteidentisch. Die Entscheidung gilt deshalb für beide Inhaltsdateien; auch die Überarbeitung des Abschnitts am 25.09.2026 (Verfasserschaft aus Frage, Entscheidung und Verantwortung) hat die Ebene ausdrücklich nicht angefasst.
-**Betroffene Stellen:** `manuskript/band1/00_inhalt.md`, `manuskript/band2/00_inhalt.md`.
-
----
-
-### K15 – Die erste Erklärung von „Rente" im ersten Band
-**Angelegt:** 25.09.2026.
-**Gegenstand:** Das vierte Kapitel des ersten Bandes gebraucht den ökonomischen Begriff der Rente, also eines Ertrags, den eine Stellung abwirft und nicht eine Leistung, dreimal („Insider-Renten", „Renten für wenige", „von externen Renten"), erklärt wird er erst im zehnten Kapitel. Im Umfeld von Sparkassen und Sozialversicherung liegt die Lesart „Altersrente" nahe; das achte Kapitel und das Ledger umgehen den Begriff deshalb seit dem 25.09.2026 („ein Vorteil, den andere bezahlen"). Das widerspricht der Regel, einen Fachbegriff beim ersten Auftreten zu erklären, und der Festlegung, dass jeder Begriff in Band 1 genau einmal erklärt wird.
-**Was fehlt:** die Entscheidung, ob die Erklärung an die erste Stelle im vierten Kapitel wandert und im zehnten entfällt. Das Register führt den Begriff nicht; wer ihn aufnimmt, legt die Erklärungsstelle dort fest.
-**Was ihn schließt:** die Verlegung der Glosse und ein Satzlauf ohne Registerwarnung.
-**Folge, falls offen:** gering; ein Leser ohne Vorbildung stolpert an drei Stellen.
-**Betroffene Stellen:** `manuskript/band1/04_das_muster_ueber_die_faelle.md`, `10_drei_sektoren.md`.
-
----
-
-### K16 – Umfang der Registerliste des ersten Bandes
-**Angelegt:** 25.09.2026.
-**Gegenstand:** Das Register des ersten Bandes führt 70 Stichwörter statt der vorgesehenen 45 bis 60, weil der Auftrag jeden genannten Begriff verlangte, der im Band vorkommt; Band 2 steht mit 120 an der Obergrenze, und dort fehlen deshalb *Systemvariable* und *Endzustand*. Kandidaten zum Streichen, die nur in einem Kapitel stehen: Andienungsrecht, Doppelstiftung, Föderalismustest, Kaderturnier, Kompression, Konsolidierungssperre, Kontroll-Lock, NÖS, Nutzergenossenschaft, Schnittstellenpflicht, Zehnjahresbilanz, Gesamtfaktorproduktivität. Kandidaten zum Aufnehmen: Sicherheitsdilemma, Rückversicherung, Sekundärgenossenschaft, Wohnungsgemeinnützigkeit, property-owning democracy. Halbfett steht bei *Fehlertoleranz* die Heimatstelle im neunten Kapitel, obwohl die erste Erklärung seit dem 25.09.2026 im vierten steht; der Hinweis über dem Register („eine Seite, auf der dieser Band ihn erklärt") deckt das.
-**Was fehlt:** eine Entscheidung des Autors über Umfang und Vorrangregel der Erklärungsstelle; dazu die Frage, ob das E-Book das Register als `epub:type="index"` statt `appendix` führen soll, was ein eigenes Inhaltsmodell und eine Prüfung mit EPUBCheck verlangt.
-**Was ihn schließt:** die Entscheidung und ein Satzlauf ohne Warnung.
-**Folge, falls offen:** keine; der Satz ist fehlerfrei, und ein zu langes Register schadet niemandem.
-**Betroffene Stellen:** `satz/register.toml`, `satz/build.py`.
-
----
-
 ## II. Geprüft und entschieden
 
 Was hier steht, ist kein Auftrag, sondern eine Warnung: Diese Fragen sind einmal geklärt worden und sehen aus, als wären sie es nicht.
+
+*„Wie dieses Buch entstanden ist" bleibt eine Überschrift dritter Ebene.* Vom Autor am 25.09.2026 entschieden (vormals K11): Der Abschnitt steht in beiden Vorspannen als `###` unter „Über dieses Buch" und wird als Zwischenüberschrift ohne eigene Seite gesetzt. Dass er die einzige Überschrift dritter Ebene im Buch ist, ist damit Absicht und kein Versehen.
+
+*Der Klappentext darf ungenauer sein als das Buch.* Vom Autor am 25.09.2026 entschieden: Der Satz auf der Rückseite des ersten Bandes, „denn Eigentum hat einen Träger, der es verteidigt", bleibt ohne die Bedingung des gebundenen Vermögens, die der Kernbegriff im Buch verlangt. Die Selbstbindung des Kernbegriffs gilt für den Buchtext und das Thesenpapier, nicht für den Klappentext; wer den Klappentext ändert, hält sich aber weiter an die Regel in seinem Kopf, dass jede Aussage darin so im Buch steht.
 
 *Datum des Steuerreformgesetzes 1990.* Es ist das Gesetz **vom 25.07.1988** (BGBl. I S. 1093), mit Wirkung der Aufhebung zum 01.01.1990. Ein Teil der steuerrechtlichen Kommentarliteratur nennt „25.7.1989"; das ist mit der Fundstelle im Bundesgesetzblatt und mit der Verfügung der OFD Frankfurt/M. vom 23.09.2013 (S 2730 A – 15 – St 53) nicht vereinbar. Die Jahreszahl 1988 gilt und wird nicht ohne neuen Beleg geändert.
 
@@ -495,6 +467,10 @@ Was hier steht, ist kein Auftrag, sondern eine Warnung: Diese Fragen sind einmal
 ---
 
 ## III. Erledigt
+
+*25.09.2026 – K15, die erste Erklärung von „Rente" im ersten Band.* Die Erklärung steht jetzt an der ersten Stelle im vierten Kapitel, bei den Insider-Renten („Rente heißt dort ein Einkommen, das aus einer Stellung stammt statt aus Leistung"); das zehnte Kapitel verweist zurück („eine Rente im Sinne des vierten Kapitels"). Das Register des ersten Bandes führt das Stichwort mit der Erklärungsstelle im vierten Kapitel.
+
+*25.09.2026 – K16, Umfang der Registerliste.* Vom Autor nach Vorschlag entschieden: nichts gestrichen, weil ein langes Register niemandem schadet. Aufgenommen sind im ersten Band Sicherheitsdilemma, Rückversicherung, Sekundärgenossenschaft, Wohnungsgemeinnützigkeit, property-owning democracy und Rente (jetzt 76 Stichwörter), im zweiten Systemvariable und Endzustand (jetzt 122). Bei Fehlertoleranz bleibt die Heimatstelle im neunten Kapitel halbfett; das E-Book behält seinen Registertyp.
 
 *25.09.2026 – K14, die Zählung der Neuberechnungen beim Existenzminimum.* Am Tag der Anlage geschlossen. Alle fünf Stellen führen jetzt zwei erzwungene Neuberechnungen, 2010 bei der Grundsicherung (BVerfGE 125, 175) und 2012 bei den Leistungen nach dem Asylbewerberleistungsgesetz (BVerfGE 132, 134), und eine Zurückhaltung „bei der Bemessung" seither, belegt mit dem Beschluss vom 23.07.2014 (BVerfGE 137, 34), der die neu berechneten Regelbedarfe als „derzeit noch" verfassungsgemäß billigte: Band 1, Kapitel 14 (Fließtext und Beleg), Band 2, Kapitel 8 (Fließtext und Beleg) und 13, das Thesenpapier (Sektion VI) und der Kernbegriff „Klagbar ist die Methode, nicht der Betrag". Das Urteil zu den Leistungsminderungen im Arbeitslosengeld II vom 05.11.2019 (BVerfGE 152, 68) ist nicht in die Reihe aufgenommen, weil es die Minderung und nicht die Bemessung betrifft; das ist **Wertung.** Die Selbstbindung des Kernbegriffs ist gewahrt: weder wirksame Kontrolle noch leerlaufende Formel.
 
