@@ -38,9 +38,9 @@ Alle acht Prinzipien setzen voraus, dass Eigennutz, Trittbrettfahren und Konflik
 
 Gemeineigentum funktioniert also dauerhaft dort, wo die Institutionen permanent mit Eigennutz und Konflikt rechnen, und das ist der Gegenentwurf zum Endzustand.
 
-Ostroms Fälle liefern damit den empirischen Beweis für etwas, das der Marxismus theoretisch für unmöglich hielt: dauerhaft funktionierendes Gemeineigentum ohne Staat, ohne Markt und ohne die Abschaffung des Eigeninteresses. Und sie liefern zugleich die Begründung dafür, warum der Staatssozialismus es nicht schaffte. Zu viel Gemeineigentum hatte er nicht; zu wenig Institutionen hatte er, die mit dem Menschen rechnen, der es nutzt.
+Ostroms Fälle liefern damit den empirischen Beweis für etwas, das der Marxismus theoretisch für unmöglich hielt: dauerhaft funktionierendes Gemeineigentum, das weder privatisiert noch verstaatlicht ist und ohne die Abschaffung des Eigeninteresses auskommt. Und sie liefern zugleich die Begründung dafür, warum der Staatssozialismus es nicht schaffte. Zu viel Gemeineigentum hatte er nicht; zu wenig Institutionen hatte er, die mit dem Menschen rechnen, der es nutzt.
 
-Damit ist allerdings eine Frage aufgeworfen, die dieses Kapitel nicht beantworten kann. Wenn Gemeinschaften ihre Angelegenheiten über Jahrhunderte ohne Staat regeln – und die Menschheit hat das über den weitaus größten Teil ihrer Geschichte getan –, warum baut dieses Buch dann eine Ordnung, die den Staat an jeder Stelle benutzt? Der Einwand ist ernst. Die kurze Antwort lautet, dass Ostroms Befund skalenabhängig ist, also an der Größe der Gemeinschaft hängt: Was ihre Prinzipien beim Wachsen verlangen – verschachtelte Einheiten –, ist der Anfang von etwas, das dem Staat ähnelt; die lange steht in der marxistischen Gegenprobe.
+Damit ist allerdings eine Frage aufgeworfen, die dieses Kapitel nicht beantworten kann. Wenn Gemeinschaften ihre Angelegenheiten über Jahrhunderte selbst regeln – und die Menschheit hat den weitaus größten Teil ihrer Geschichte ganz ohne Staaten gelebt –, warum baut dieses Buch dann eine Ordnung, die den Staat an jeder Stelle benutzt? Der Einwand ist ernst. Die kurze Antwort lautet, dass Ostroms Befund skalenabhängig ist, also an der Größe der Gemeinschaft hängt: Was ihre Prinzipien beim Wachsen verlangen – verschachtelte Einheiten –, ist der Anfang von etwas, das dem Staat ähnelt; die lange steht in der marxistischen Gegenprobe.
 
 ### Freiheit als Praxis
 
@@ -66,12 +66,14 @@ Aus diesem Kapitel folgen zwei Regeln, die alles Weitere binden.
 
 ### Belege
 
-*Engels, „Verwaltung von Sachen":* Friedrich Engels, *Herrn Eugen Dührings Umwälzung der Wissenschaft* (*Anti-Dühring*, 1878), dritter Abschnitt; MEW 20, S. 262. Wortlaut der Passage bestätigt („An die Stelle der Regierung über Personen tritt die Verwaltung von Sachen und die Leitung von Produktionsprozessen"). **Bestätigt** im Wortlaut; die Seitenangabe ist am 20.08.2026 über mehrere voneinander unabhängige Fundstellennachweise übereinstimmend bestätigt worden, eine Einsichtnahme in die gedruckte Dietz-Ausgabe steht weiterhin aus.
+*Engels, „Verwaltung von Sachen":* Friedrich Engels, *Herrn Eugen Dührings Umwälzung der Wissenschaft* (*Anti-Dühring*, 1878), dritter Abschnitt; MEW 20, S. 262. Wortlaut der Passage bestätigt („An die Stelle der Regierung über Personen tritt die Verwaltung von Sachen und die Leitung von Produktionsprozessen"). **Bestätigt** im Wortlaut; die Seitenangabe ist über mehrere voneinander unabhängige Fundstellennachweise übereinstimmend bestätigt, in die gedruckte Dietz-Ausgabe ist nicht eingesehen.
 
 *Ostrom:* Elinor Ostrom, *Governing the Commons. The Evolution of Institutions for Collective Action*, Cambridge University Press 1990; deutsch: *Die Verfassung der Allmende*, Tübingen: Mohr Siebeck 1999. Acht Gestaltungsprinzipien, darunter klar definierte Grenzen, Überwachung, abgestufte Sanktionen, Konfliktmechanismen und verschachtelte Einheiten. **Bestätigt.**
 
+*Staatenlose Vorgeschichte:* Belege zum Alter der Gattung und zur Entstehung der ersten Staaten in Kapitel 13, beim Staatlichkeits-Einwand.
+
 *Tragik der Allmende:* Garrett Hardin, „The Tragedy of the Commons", in: *Science* 162 (1968) – im Text als Position referiert, gegen die Ostrom argumentiert.
 
-*Madison:* Alexander Hamilton / James Madison / John Jay, *The Federalist Papers*, Nr. 51 (1788), erschienen unter dem Pseudonym „Publius". Volltexte u. a. beim Avalon Project der Yale Law School. **Bestätigt**; *Fußnote:* Die Autorschaft einzelner Federalist-Nummern ist zwischen Madison und Hamilton umstritten, Nr. 51 wird ganz überwiegend Madison zugeschrieben.
+*Madison:* Alexander Hamilton / James Madison / John Jay, *The Federalist Papers*, Nr. 51 (1788), erschienen unter dem Pseudonym „Publius". Volltexte u. a. beim Avalon Project der Yale Law School. **Bestätigt**; *Fußnote:* Die Autorschaft einzelner Federalist-Nummern ist zwischen Madison und Hamilton umstritten, Nr. 51 wird ganz überwiegend Madison zugeschrieben. Die Verbindung von Madisons Formel mit der Polyzentrik hat vor diesem Buch Vincent Ostrom gezogen: Die Verfassungslehre von Hamilton und Madison erfülle „the defining conditions for polycentricity", und „Ambition can be used to counter ambition" (Vincent Ostrom, „Polycentricity", 1972, S. 5 und 13; Fundstelle in den Belegen zu Kapitel 5); seine Lesart der Federalist-Aufsätze steht in *The Political Theory of a Compound Republic*, Blacksburg: Center for Study of Public Choice 1971. **Bestätigt** am Text von 1972, das Buch von 1971 bibliographisch. Ausgewiesen ist ein Vorrang.
 
 *Knappheitsarten (Positionsgüter, Zeit, ökologische Budgets):* Systematisierung dieses Buches. **Wertung.**

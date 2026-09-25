@@ -4,7 +4,7 @@
 
 ---
 
-Jede Ordnungsdebatte kreist um dieselbe verkehrte Frage. Sie lautet: Welches System macht die wenigsten Fehler?
+Ordnungsdebatten kreisen oft um dieselbe verkehrte Frage. Sie lautet: Welches System macht die wenigsten Fehler?
 
 Die entscheidende Frage ist, ob ein System seine Fehler überlebt, und nicht, wie viele es macht. Fehler sind in großen Gesellschaften nicht zu vermeiden, weil niemand die Informationen hat, um sie im Voraus zu erkennen: keine Planbehörde, kein Vorstand, kein Bürgerrat, kein Markt. Alle Beteiligten entscheiden unter Unsicherheit, also regelmäßig auch falsch.
 
@@ -73,6 +73,8 @@ Wie sie aussieht, steht im vierten Teil.
 ---
 
 ### Belege
+
+*Die Frage, ob eine Ordnung ihre Fehler überlebt:* Den Tausch der Frage hat vor diesem Buch Douglass North vorgenommen. In *Institutions, Institutional Change and Economic Performance* (Cambridge University Press 1990, S. 80) stellt er der allokativen Effizienz die *adaptive efficiency* gegenüber, die Bereitschaft einer Gesellschaft, Wissen zu erwerben, Neues zu versuchen, Risiken einzugehen und ihre Probleme über die Zeit zu lösen. In seinem Nobelvortrag „Economic Performance through Time" (1993; *American Economic Review* 84, 1994, H. 3, S. 359–368) heißt es: „It is adaptive rather than allocative efficiency which is the key to long run growth"; erfolgreiche Ordnungen hätten flexible Institutionen entwickelt, die Schocks überstehen. **Bestätigt** hinsichtlich Werk, Vortrag und Fundstellen; **mit Einschränkung** der Wortlaut beider Stellen und die Seitenangabe von 1990, die über Suchnachweise und Sekundärdarstellungen gesichert sind, weil der Text des Vortrags aus der Arbeitsumgebung nicht abrufbar war. Ausgewiesen ist ein Vorrang. North misst die Anpassungsfähigkeit am langfristigen Wachstum; dieses Buch fragt, ob eine Ordnung das Scheitern ihrer Teile übersteht und daraus lernt. Diese Abgrenzung ist **Wertung.**
 
 *Mondragón:* Gegründet 1956 durch José María Arizmendiarrieta im baskischen Mondragón (Arrasate); größte Arbeitergenossenschafts-Föderation der Welt, mit eigener Bank (Caja Laboral, heute Laboral Kutxa). Jahresbericht 2024: 70.085 Beschäftigte, 11,2 Mrd. Euro Umsatz. **Bestätigt.** *Mit Einschränkung:* Die verbreitete Angabe „rund 80.000 Beschäftigte" trifft den Stand um 2019 (über 81.000), nicht 2024.
 

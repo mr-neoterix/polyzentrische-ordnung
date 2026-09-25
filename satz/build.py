@@ -23,10 +23,11 @@ Leseausgabe und Innenteil setzt LuaLaTeX nach der Vorlage in satz/vorlage.tex,
 den Umschlag nach satz/umschlag.tex; das E-Book baut Pandoc nach
 satz/epub-vorlage.xhtml und satz/epub.css. Was nicht im Manuskript steht –
 Format, Papier, Impressum, ISBN –, steht in satz/veroeffentlichung.toml, der
-Text der Umschlagrückseite in satz/umschlag/. Ohne Angabe setzt der Lauf
-beide Bände und alle Erzeugnisse.
+Text der Umschlagrückseite in satz/umschlag/, die Stichwörter des Registers
+in satz/register.toml. Ohne Angabe setzt der Lauf beide Bände und alle
+Erzeugnisse.
 
-Drei Dinge macht das Skript dabei, die Pandoc allein nicht könnte:
+Vier Dinge macht das Skript dabei, die Pandoc allein nicht könnte:
 
 *Kapitelköpfe:* Jede Kapiteldatei beginnt mit „# Neuntes Kapitel" und
 „## Fehlertoleranz" – zwei Überschriften für einen Kopf. Sie werden zu einem
@@ -47,6 +48,12 @@ gibt es kein Inhaltsverzeichnis, das ein Satzlauf erzeugt.
 („), das schließende als geraden Zoll ("). Für den Satz wird daraus das
 deutsche Paar „…“ beziehungsweise ‚…‘.
 
+*Register:* Am Ende jedes Bandes steht ein Register der Begriffe, ohne
+Erklärungen, nur mit Fundstellen. Die Stichwörter stehen in
+satz/register.toml; gesucht wird im Fließtext der Kapitel, und an jeder
+Fundstelle setzt der Lauf eine unsichtbare Marke. Im PDF wird daraus eine
+Seitenzahl, im E-Book ein Verweis. Die Quellen bleiben dabei unberührt.
+
 Aufruf:
 
     python3 satz/build.py                          # alles, beide Bände, nach build/
@@ -62,6 +69,7 @@ from __future__ import annotations
 
 import argparse
 import datetime
+import functools
 import json
 import math
 import os
@@ -70,6 +78,7 @@ import shutil
 import subprocess
 import sys
 import tomllib
+import unicodedata
 import uuid
 import zipfile
 from dataclasses import dataclass, field
@@ -87,6 +96,7 @@ EPUB_VORLAGE = SATZ / "epub-vorlage.xhtml"
 EPUB_STIL = SATZ / "epub.css"
 ANGABEN = SATZ / "veroeffentlichung.toml"
 UMSCHLAGTEXTE = SATZ / "umschlag"
+REGISTER = SATZ / "register.toml"
 # Die Schriftschnitte liegen im Verzeichnis, nicht im TeX-Baum: So setzt
 # jeder Rechner mit denselben Dateien, und der Bauläufer braucht kein
 # Schriftpaket. Den Pfad bekommen die Vorlagen als Variable herein.
@@ -571,6 +581,8 @@ class Band:
     vorspann: list[tuple[str, str]]
     teile: list[tuple[str, list[int]]]
     kapitel: list[Kapitel]
+    # Die Stichwörter des Registers mit ihren Fundstellen, siehe baue_register.
+    register: list[Registereintrag] = field(default_factory=list)
 
     def teil_von(self, nummer: int) -> str | None:
         for teiltitel, nummern in self.teile:
@@ -659,7 +671,455 @@ def lies_band(nummer: int) -> Band:
         f"Band {nummer}: {len(band.kapitel)} Kapitel in {len(teile)} Teilen, "
         f"{len(band.vorspann)} Vorspannabschnitte gesetzt, {AUFBAU} nur gelesen."
     )
+    baue_register(band)
     return band
+
+
+# --------------------------------------------------------------------------
+# Register
+# --------------------------------------------------------------------------
+# Am Ende jedes Bandes steht ein Register der Begriffe. Es nennt Fundstellen
+# und erklärt nichts: Jede Erklärung, die dort stünde, wäre eine weitere
+# Fassung eines Begriffs neben der im Text, und zwei Fassungen driften.
+#
+# Die Stichwörter stehen je Band in satz/register.toml, jedes mit den
+# Wortformen, nach denen gesucht wird, und wahlweise mit einer wörtlichen
+# Wortfolge aus dem Satz, der den Begriff in diesem Band erklärt. Gesucht
+# wird nur im Fließtext der Kapitel – nicht im Vorspann, nicht in den
+# Überschriften, nicht im Belegapparat. Erfasst wird je Kapitel die erste
+# Nennung und dazu die Erklärungsstelle. An jede dieser Stellen setzt der
+# Lauf eine unsichtbare Marke: im PDF einen Eintrag in die .aux-Datei, aus
+# dem nach dem Satz die Seitenzahl kommt, im E-Book einen Anker, auf den das
+# Register verweist. Die Quellen bleiben unberührt, wie bei den
+# Anführungszeichen.
+#
+# Findet der Lauf eine Wortform oder eine Erklärungsstelle nicht, warnt er.
+# Das ist der Zweck der wörtlichen Wortfolge: Wer den erklärenden Satz
+# umschreibt, erfährt es beim nächsten Satz und nicht erst vom Leser, der
+# auf der genannten Seite nichts findet. Ebenso warnt er, wenn im Fließtext
+# eine gebeugte Form eines Stichworts steht, die die Liste nicht führt, und
+# ihretwegen ein Kapitel fehlt oder die erste Nennung zu spät steht. Sonst
+# bliebe das Übersehen einer Beugung ohne Folge, denn die genaue Suche
+# findet nur, was in der Liste steht.
+
+
+@dataclass
+class Stichwort:
+    anzeige: str
+    sortierung: str
+    formen: list[str]
+    erklaerung: str
+    # Wortformen, die aussehen wie eine Beugung des Stichworts und etwas
+    # anderes meinen; die Beugungsprüfung übergeht sie.
+    ausnahmen: list[str] = field(default_factory=list)
+
+
+@dataclass
+class Marke:
+    """Eine Fundstelle: wo im Kapiteltext, und ob es die Erklärung ist."""
+
+    kennung: str
+    kapitel: int
+    stelle: int
+    erklaerung: bool
+
+
+@dataclass
+class Registereintrag:
+    stichwort: Stichwort
+    marken: list[Marke]
+
+
+@functools.cache
+def lies_register() -> tuple[dict[str, str], dict[int, tuple[Stichwort, ...]]]:
+    """Liest satz/register.toml: den Hinweis über dem Register und die Listen.
+
+    Fehlt die Datei, bekommt kein Band ein Register, und der Lauf sagt es.
+    Auch ein Fehler in der Datei bricht den Satz nicht ab: Ist sie kein
+    gültiges TOML, erscheinen die Bände ohne Register; ist ein einzelner
+    Eintrag falsch, entfällt er. In beiden Fällen warnt der Lauf.
+    """
+    if not REGISTER.is_file():
+        hinweis(f"Hinweis: {REGISTER.name} fehlt, die Bände bleiben ohne Register.")
+        return {}, {}
+    try:
+        daten = tomllib.loads(REGISTER.read_text(encoding="utf-8"))
+    except tomllib.TOMLDecodeError as fehler:
+        warne(f"{REGISTER.name} ist kein gültiges TOML ({fehler}); die Bände bleiben ohne Register.")
+        return {}, {}
+
+    vorbemerkung = {}
+    for art in ("pdf", "ebook"):
+        text = daten.get("hinweis", {}).get(art, "")
+        vorbemerkung[art] = text.strip() if isinstance(text, str) else ""
+
+    listen: dict[int, tuple[Stichwort, ...]] = {}
+    erlaubt = {"stichwort", "sortierung", "formen", "erklaerung", "ausnahmen"}
+    for band in BAENDE:
+        eintraege = []
+        for nummer, roh in enumerate(daten.get(f"band{band}", []), start=1):
+            ort = f"{REGISTER.name}, [[band{band}]] Nr. {nummer}"
+            anzeige = roh.get("stichwort") if isinstance(roh, dict) else None
+            if not isinstance(anzeige, str) or not anzeige.strip():
+                warne(f"{ort}: ohne stichwort, entfällt.")
+                continue
+            fremd = sorted(set(roh) - erlaubt)
+            if fremd:
+                warne(f"{ort} („{anzeige}“): unbekannte Angabe {', '.join(fremd)}.")
+            formen = roh.get("formen", [anzeige])
+            if isinstance(formen, str):
+                formen = [formen]
+            if not isinstance(formen, list) or not all(isinstance(f, str) and f.strip() for f in formen):
+                warne(f"{ort} („{anzeige}“): formen muss eine Liste von Wortfolgen sein, entfällt.")
+                continue
+            ausnahmen = roh.get("ausnahmen", [])
+            if isinstance(ausnahmen, str):
+                ausnahmen = [ausnahmen]
+            if not isinstance(ausnahmen, list) or not all(isinstance(a, str) and a.strip() for a in ausnahmen):
+                warne(f"{ort} („{anzeige}“): ausnahmen muss eine Liste von Wortfolgen sein, entfällt.")
+                continue
+            sortierung = roh.get("sortierung", "")
+            erklaerung = roh.get("erklaerung", "")
+            if not isinstance(sortierung, str) or not isinstance(erklaerung, str):
+                warne(f"{ort} („{anzeige}“): sortierung und erklaerung müssen Text sein, entfällt.")
+                continue
+            eintraege.append(Stichwort(
+                anzeige=anzeige.strip(),
+                sortierung=sortierung.strip() or anzeige.strip(),
+                formen=[f.strip() for f in formen],
+                erklaerung=" ".join(erklaerung.split()),
+                ausnahmen=[" ".join(a.split()) for a in ausnahmen],
+            ))
+        listen[band] = tuple(eintraege)
+    return vorbemerkung, listen
+
+
+def suchtext(text: str) -> str:
+    """Der Kapiteltext, so wie das Register ihn durchsucht.
+
+    Was nicht Fließtext ist, wird durch Leerzeichen gleicher Länge ersetzt:
+    Überschriften, Code, Kommentare und die Adressen hinter Verweisen. So
+    bleibt jede Stelle, die die Suche findet, dieselbe Stelle im Original.
+    """
+    def leer(treffer: re.Match) -> str:
+        return re.sub(r"[^\n]", " ", treffer.group())
+
+    text = re.sub(r"<!--.*?-->", leer, text, flags=re.S)
+    text = re.sub(r"^#{1,6}\s.*$", leer, text, flags=re.M)
+    text = re.sub(r"`[^`\n]*`", leer, text)
+    return re.sub(r"\]\([^)\n]*\)", leer, text)
+
+
+@functools.cache
+def suchmuster(wortfolge: str) -> re.Pattern:
+    """Das Suchmuster für eine Wortform oder eine Erklärungsstelle.
+
+    Gesucht wird genau, mit Groß- und Kleinschreibung und an Wortgrenzen:
+    „Engpass“ findet „Engpass-Argument“, nicht aber „Engpasses“. Zwischen
+    zwei Wörtern darf ein Zeilenumbruch stehen, und wo ein Wort an ein
+    anderes oder an ein Satzzeichen stößt, darf eine Auszeichnung anfangen
+    oder enden („*weiche* Budgetbeschränkung“, „der *Asset Lock*, mit“).
+    """
+    auszeichnung = r"[*_]*"
+
+    def wort(teil: str) -> str:
+        return auszeichnung.join(re.escape(stueck) for stueck in re.findall(r"\w+|\W+", teil))
+
+    woerter = [wort(teil) for teil in wortfolge.split()]
+    zwischen = auszeichnung + r"\s+" + auszeichnung
+    return re.compile(r"(?<!\w)" + zwischen.join(woerter) + r"(?!\w)")
+
+
+# Die Endungen, um die eine gebeugte Form von der geführten abweichen darf,
+# und die Umlaute, die eine Beugung in den Stamm bringt („Treuhand“,
+# „Treuhänden“).
+BEUGUNGSENDUNGEN = ("e", "en", "er", "ern", "es", "em", "n", "ns", "r", "m", "s")
+UMLAUTE = {"a": "ä", "o": "ö", "u": "ü", "A": "Ä", "O": "Ö", "U": "Ü"}
+
+
+def umgelautet(wort: str) -> str | None:
+    """Das Wort mit umgelautetem letzten Vokal, wenn er ein a, o, u oder au ist."""
+    for i in range(len(wort) - 1, -1, -1):
+        zeichen = wort[i]
+        if zeichen.lower() not in "aeiouäöü":
+            continue
+        if zeichen not in UMLAUTE:
+            return None
+        if zeichen in "uU" and i > 0 and wort[i - 1] in "aA":
+            return wort[: i - 1] + UMLAUTE[wort[i - 1]] + wort[i:]
+        return wort[:i] + UMLAUTE[zeichen] + wort[i + 1 :]
+    return None
+
+
+@functools.cache
+def beugungsmuster(wortfolge: str) -> re.Pattern:
+    """Das Suchmuster für gebeugte Formen einer Wortfolge.
+
+    Jedes Wort darf um eine der üblichen Endungen länger sein und seinen
+    letzten Vokal umlauten; das erste Wort darf am Satzanfang groß stehen,
+    und das erste Wort einer Wortgruppe klein, wenn es in der Liste nur am
+    Satzanfang groß steht („Harte Budgetbeschränkungen“). Das Muster
+    findet mehr als das Deutsche kennt, aber gesucht wird damit nur in
+    Texten, in denen die genaue Suche schon versagt hat.
+    """
+    auszeichnung = r"[*_]*"
+    teile = wortfolge.split()
+
+    def anfang(stueck: str, gross: bool, klein: bool) -> str:
+        zeichen = {stueck[0]}
+        if gross:
+            zeichen.add(stueck[0].upper())
+        if klein:
+            zeichen.add(stueck[0].lower())
+        if len(zeichen) == 1:
+            return re.escape(stueck)
+        return "[" + "".join(sorted(zeichen)) + "]" + re.escape(stueck[1:])
+
+    woerter = []
+    for nummer, teil in enumerate(teile):
+        stuecke = re.findall(r"\w+|\W+", teil)
+        mit_buchstaben = [i for i, s in enumerate(stuecke) if re.match(r"\w", s)]
+        if not mit_buchstaben:
+            woerter.append(re.escape(teil))
+            continue
+        muster = []
+        for i, stueck in enumerate(stuecke):
+            erstes = nummer == 0 and i == 0
+            gross = erstes and stueck[0].islower()
+            klein = erstes and stueck[0].isupper() and len(teile) > 1
+            if i == mit_buchstaben[-1]:
+                staemme = [stueck] + [u for u in (umgelautet(stueck),) if u]
+                alternativen = "|".join(anfang(s, gross, klein) for s in staemme)
+                muster.append(f"(?:{alternativen})(?:{'|'.join(BEUGUNGSENDUNGEN)})?")
+            else:
+                muster.append(anfang(stueck, gross, klein) if i == 0 else re.escape(stueck))
+        woerter.append(auszeichnung.join(muster))
+    zwischen = auszeichnung + r"\s+" + auszeichnung
+    return re.compile(r"(?<!\w)" + zwischen.join(woerter) + r"(?!\w)")
+
+
+def ohne_auszeichnung(text: str) -> str:
+    return " ".join(re.sub(r"[*_]", "", text).split())
+
+
+def baue_register(band: Band) -> None:
+    """Sucht die Stichwörter eines Bandes und legt ihre Marken fest."""
+    _, listen = lies_register()
+    stichwoerter = listen.get(band.nummer, ())
+    if not stichwoerter:
+        return
+    texte = {kapitel.nummer: suchtext(kapitel.text) for kapitel in band.kapitel}
+    ungenutzt: list[str] = []
+    ungefuehrt: list[str] = []
+    for index, wort in enumerate(stichwoerter, start=1):
+        marken: list[Marke] = []
+        gefunden: set[str] = set()
+        bekannt = {ohne_auszeichnung(f) for f in wort.formen + wort.ausnahmen}
+        erklaert: tuple[int, int] | None = None
+        if wort.erklaerung:
+            orte = [
+                (kapitel.nummer, treffer.start())
+                for kapitel in band.kapitel
+                for treffer in suchmuster(wort.erklaerung).finditer(texte[kapitel.nummer])
+            ]
+            if not orte:
+                warne(
+                    f"Band {band.nummer}, Register: Die Erklärungsstelle zu „{wort.anzeige}“ "
+                    f"(„{wort.erklaerung}“) steht nicht im Fließtext; das Stichwort erscheint "
+                    "ohne hervorgehobene Seite."
+                )
+            else:
+                if len(orte) > 1:
+                    warne(
+                        f"Band {band.nummer}, Register: Die Erklärungsstelle zu „{wort.anzeige}“ "
+                        f"(„{wort.erklaerung}“) steht {len(orte)}-mal im Fließtext; genommen ist die "
+                        f"erste, im {orte[0][0]}. Kapitel."
+                    )
+                erklaert = orte[0]
+                marken.append(Marke(f"r{band.nummer}-{index}-e", erklaert[0], erklaert[1], True))
+
+        for kapitel in band.kapitel:
+            erste = None
+            for form in wort.formen:
+                treffer = suchmuster(form).search(texte[kapitel.nummer])
+                if treffer:
+                    gefunden.add(form)
+                    if erste is None or treffer.start() < erste:
+                        erste = treffer.start()
+            if erste is not None:
+                marken.append(Marke(f"r{band.nummer}-{index}-{kapitel.nummer}", kapitel.nummer, erste, False))
+
+            # Eine gebeugte Form, die die Liste nicht führt, vor der ersten
+            # erfassten Stelle des Kapitels oder in einem Kapitel ohne eine.
+            erfasst = [stelle for stelle in (erste,) if stelle is not None]
+            if erklaert and erklaert[0] == kapitel.nummer:
+                erfasst.append(erklaert[1])
+            grenze = min(erfasst) if erfasst else None
+            frueher = None
+            for form in wort.formen:
+                for treffer in beugungsmuster(form).finditer(texte[kapitel.nummer]):
+                    if grenze is not None and treffer.start() >= grenze:
+                        break
+                    if ohne_auszeichnung(treffer.group()) in bekannt:
+                        continue
+                    if frueher is None or treffer.start() < frueher.start():
+                        frueher = treffer
+                    break
+            if frueher is not None:
+                folge = "das Kapitel fehlt im Register" if grenze is None else "vor der ersten erfassten Stelle"
+                ungefuehrt.append(
+                    f"„{ohne_auszeichnung(frueher.group())}“ im {kapitel.nummer}. Kapitel "
+                    f"({wort.anzeige}; {folge})"
+                )
+
+        if not marken:
+            warne(f"Band {band.nummer}, Register: „{wort.anzeige}“ steht nirgends im Fließtext und entfällt.")
+            continue
+        ungenutzt += [f"„{form}“ ({wort.anzeige})" for form in wort.formen if form not in gefunden]
+        band.register.append(Registereintrag(wort, marken))
+
+    if ungenutzt:
+        warne(
+            f"Band {band.nummer}, Register: nicht im Fließtext gefunden – "
+            + "; ".join(ungenutzt) + "."
+        )
+    if ungefuehrt:
+        warne(
+            f"Band {band.nummer}, Register: gebeugte Formen im Fließtext, die die Liste nicht "
+            "führt; als Form eintragen oder, wo sie etwas anderes meinen, als Ausnahme – "
+            + "; ".join(ungefuehrt) + "."
+        )
+    hinweis(f"Band {band.nummer}: Register mit {len(band.register)} Stichwörtern.")
+
+
+# Die Marke im Quelltext: für das PDF ein LaTeX-Befehl, der die Seite in die
+# .aux-Datei schreibt, für das E-Book ein leerer Anker. Beide stehen als
+# Pandoc-Inline, das auch am Absatzanfang ein Inline bleibt: der LaTeX-Befehl
+# als Rohtext mit Formatangabe, der Anker als leere Spanne mit Kennung.
+MARKEN = {
+    "latex": "`\\regmarke{{{}}}`{{=latex}}",
+    "epub": "[]{{#{}}}",
+}
+
+
+def mit_marken(band: Band, kapitel: Kapitel, art: str) -> str:
+    """Der Kapiteltext mit den Marken des Registers, art „latex“ oder „epub“.
+
+    Eine Marke steht unmittelbar vor dem Wort, in dem der Treffer liegt.
+    Ist das Wort zusammengesetzt („Ehrlichkeits-Ledger“), steht sie vor dem
+    ganzen Wort. Beginnt dort eine Auszeichnung, ein Anführungszeichen, eine
+    Klammer oder ein Verweis, rückt sie davor, damit Pandoc die Auszeichnung
+    weiter als solche erkennt.
+    """
+    stellen: dict[int, list[str]] = {}
+    for eintrag in band.register:
+        for marke in eintrag.marken:
+            if marke.kapitel == kapitel.nummer:
+                stellen.setdefault(marke.stelle, []).append(marke.kennung)
+    text = kapitel.text
+    for stelle in sorted(stellen, reverse=True):
+        anfang = stelle
+        if anfang > 0 and text[anfang - 1] == "-":
+            while anfang > 0 and (text[anfang - 1] == "-" or text[anfang - 1].isalnum()):
+                anfang -= 1
+        while anfang > 0 and text[anfang - 1] in "*_„‚([":
+            anfang -= 1
+        text = text[:anfang] + "".join(MARKEN[art].format(k) for k in stellen[stelle]) + text[anfang:]
+    return text
+
+
+def sortierschluessel(text: str) -> tuple[str, str]:
+    """Deutsche Sortierung: ä wie a, ö wie o, ü wie u, ß wie ss.
+
+    Groß- und Kleinschreibung zählen nicht, Bindestriche und Satzzeichen
+    auch nicht. Bei Gleichstand entscheidet die Schreibung selbst.
+    """
+    schluessel = text.lower().replace("ß", "ss")
+    schluessel = unicodedata.normalize("NFKD", schluessel)
+    schluessel = "".join(z for z in schluessel if not unicodedata.combining(z))
+    schluessel = " ".join(re.sub(r"[^0-9a-z]+", " ", schluessel).split())
+    return schluessel, text
+
+
+def registerzeilen(band: Band) -> list[tuple[str, Registereintrag]]:
+    """Die Einträge in der Reihenfolge des Registers, jeder mit seinem Anfangsbuchstaben."""
+    eintraege = sorted(band.register, key=lambda e: sortierschluessel(e.stichwort.sortierung))
+    return [(sortierschluessel(e.stichwort.sortierung)[0][:1], e) for e in eintraege]
+
+
+def lies_registerseiten(aux: Path) -> dict[str, str]:
+    """Die Seiten der Marken, wie der letzte Satz sie in die .aux-Datei schrieb."""
+    if not aux.is_file():
+        return {}
+    text = aux.read_text(encoding="utf-8", errors="replace")
+    return dict(re.findall(r"^\\regseite\{([^}]*)\}\{([^}]*)\}", text, re.M))
+
+
+def register_tex(band: Band, seiten: dict[str, str]) -> str:
+    """Der Inhalt des Registers für das PDF, mit den Seiten aus der .aux-Datei.
+
+    Je Stichwort die Seiten aufsteigend, jede nur einmal; die Seite der
+    Erklärungsstelle halbfett. Marken ohne Seite – vor dem ersten Satz sind
+    es alle – bleiben weg.
+    """
+    zeilen: list[str] = []
+    buchstabe = None
+    for anfang, eintrag in registerzeilen(band):
+        fundstellen: dict[str, bool] = {}
+        for marke in eintrag.marken:
+            seite = seiten.get(marke.kennung)
+            if seite:
+                fundstellen[seite] = fundstellen.get(seite, False) or marke.erklaerung
+        if not fundstellen:
+            continue
+        if buchstabe is not None and anfang != buchstabe:
+            zeilen.append(r"\registerbuchstabe")
+        buchstabe = anfang
+        folge = sorted(fundstellen, key=lambda s: (0, int(s), "") if s.isdigit() else (1, 0, s))
+        angaben = ", ".join(
+            (r"\registerseitefett" if fundstellen[s] else r"\registerseite") + f"{{{s}}}" for s in folge
+        )
+        zeilen.append(rf"\registerzeile{{{als_latex(eintrag.stichwort.anzeige)}}}{{{angaben}}}")
+    return "\n".join(zeilen) + "\n"
+
+
+def register_markdown(band: Band) -> str:
+    """Das Register des E-Books: je Stichwort die Kapitel, jedes ein Verweis.
+
+    Ein E-Book hat keine Seiten; an ihre Stelle tritt das Kapitel. Jedes
+    Kapitel steht einmal, verwiesen wird auf die erste Nennung darin; im
+    Kapitel der Erklärungsstelle auf diese, halbfett. Pandoc löst die
+    Verweise auf die Dateien der Kapitel auf.
+
+    Ausgezeichnet ist der Abschnitt als appendix, was ihn in den Anhang des
+    Buches stellt. Die Angabe index gehört zu einem eigenen Inhaltsmodell der
+    EPUB-Register, mit ausgezeichneten Listen für Begriffe und Fundstellen,
+    das diese schlichte Form nicht erfüllt.
+    """
+    vorbemerkung, _ = lies_register()
+    zeilen = ["# Register {#register .register epub:type=appendix}", ""]
+    if vorbemerkung.get("ebook"):
+        zeilen += ["::: registerhinweis", "", typografie_epub(vorbemerkung["ebook"]), "", ":::", ""]
+    buchstabe = None
+    for anfang, eintrag in registerzeilen(band):
+        ziele: dict[int, tuple[str, bool]] = {}
+        for marke in eintrag.marken:
+            if marke.erklaerung or marke.kapitel not in ziele:
+                ziele[marke.kapitel] = (marke.kennung, marke.erklaerung)
+        if anfang != buchstabe:
+            if buchstabe is not None:
+                zeilen += [":::", ""]
+            zeilen += ["::: registergruppe", ""]
+            buchstabe = anfang
+        verweise = ", ".join(
+            f"[**{nummer}**](#{kennung})" if fett else f"[{nummer}](#{kennung})"
+            for nummer, (kennung, fett) in sorted(ziele.items())
+        )
+        stichwort = re.sub(r"([\\*_\[\]<>`#])", r"\\\1", deutsche_anfuehrung(eintrag.stichwort.anzeige))
+        zeilen += [f"{stichwort} – Kapitel {verweise}", ""]
+    if buchstabe is not None:
+        zeilen += [":::", ""]
+    return "\n".join(zeilen) + "\n"
 
 
 # --------------------------------------------------------------------------
@@ -867,7 +1327,7 @@ def baue_quelltext(band: Band, angaben: Angaben, lauf: Lauf, art: str, bund_mm: 
             f"{{{als_latex(kapitel.titel)}}}"
         )
         zeilen.append("")
-        zeilen.append(typografie(setze_ueberschriften(kapitel.text)).strip())
+        zeilen.append(typografie(setze_ueberschriften(mit_marken(band, kapitel, "latex"))).strip())
         zeilen.append("")
         if kapitel.belege:
             zeilen.append("\\belegeanfang")
@@ -876,6 +1336,14 @@ def baue_quelltext(band: Band, angaben: Angaben, lauf: Lauf, art: str, bund_mm: 
             zeilen.append("")
             zeilen.append("\\belegeende")
             zeilen.append("")
+
+    # Das Register nach dem letzten Kapitel. Seine Zeilen liest die Vorlage
+    # aus buch.reg, die setze_pdf nach jedem Satz aus den Seiten der Marken
+    # schreibt; hier steht nur der Kopf.
+    if band.register:
+        vorbemerkung, _ = lies_register()
+        zeilen.append(f"\\registerteil{{Register}}{{{als_latex(vorbemerkung.get('pdf', ''))}}}")
+        zeilen.append("")
 
     return "\n".join(zeilen) + "\n"
 
@@ -893,12 +1361,18 @@ def tex_umgebung(epoche: str) -> dict[str, str]:
     return umgebung
 
 
-def setze_tex(tex: Path, epoche: str, laeufe: int = 4) -> int:
+def setze_tex(tex: Path, epoche: str, laeufe: int = 5, nach_lauf=None) -> int:
     """Setzt eine LaTeX-Datei, bis Inhaltsverzeichnis und Verweise stehen.
 
     Der erste Lauf schreibt das Verzeichnis, der zweite setzt es ein – und
     weil es im Vorspann Platz nimmt, rücken die Seitenzahlen dahinter, was
     einen dritten Lauf verlangen kann. Gibt die Seitenzahl zurück.
+
+    nach_lauf wird nach jedem Lauf gerufen und sagt, ob es eine Datei
+    geändert hat, die der nächste Lauf einliest; dann folgt noch einer. So
+    kommt das Register herein: Die Seiten seiner Marken stehen nach dem
+    ersten Lauf fest, denn der Hauptteil zählt ab eins und hängt weder am
+    Inhaltsverzeichnis noch am Register, das hinter ihm steht.
     """
     verzeichnis = tex.parent
     toc = tex.with_suffix(".toc")
@@ -922,10 +1396,20 @@ def setze_tex(tex: Path, epoche: str, laeufe: int = 4) -> int:
                 f"Das vollständige Protokoll liegt in {protokoll}."
             )
         jetzt = toc.read_bytes() if toc.exists() else b""
-        nochmal = "Rerun" in text or "rerun" in text
+        # Eine Aufforderung zum nächsten Lauf, von LaTeX, hyperref oder
+        # rerunfilecheck. Nicht mitzählen darf die Zeile, mit der sich
+        # rerunfilecheck beim Laden vorstellt („… Rerun checks for auxiliary
+        # files“) – sie steht in jedem Protokoll, und solange sie zählte,
+        # lief die Schleife immer bis zum letzten Lauf.
+        nochmal = bool(re.search(r"(?im)^(?!package: ).*\brerun\b", text))
+        if nach_lauf is not None and nach_lauf():
+            nochmal = True
         if nummer > 1 and jetzt == vorher and not nochmal:
             break
         vorher = jetzt
+    else:
+        if laeufe > 1:
+            warne(f"{tex.name}: Nach {laeufe} Läufen stehen Inhaltsverzeichnis und Register noch nicht fest.")
     seiten = re.search(r"Output written on .*?\((\d+) pages?", text, re.S)
     if not seiten:
         raise Fehler(f"LuaLaTeX hat in {tex.name} keine Seite geschrieben.")
@@ -998,7 +1482,32 @@ def setze_pdf(band: Band, angaben: Angaben, lauf: Lauf, art: str, bund_mm: float
         f"--variable=schriftverzeichnis={SCHRIFTEN}/",
         "--output", str(tex),
     )
-    seiten = setze_tex(tex, epoche=git("log", "-1", "--format=%ct"))
+
+    # Das Register liest die Vorlage aus buch.reg. Nach jedem Lauf wird die
+    # Datei aus den Seiten neu geschrieben, die der Lauf in buch.aux
+    # hinterlassen hat; ändert sie sich, folgt ein weiterer Lauf.
+    aux = tex.with_suffix(".aux")
+    reg = tex.with_suffix(".reg")
+    reg.unlink(missing_ok=True)
+
+    def register_nachziehen() -> bool:
+        if not band.register:
+            return False
+        neu = register_tex(band, lies_registerseiten(aux))
+        if reg.exists() and reg.read_text(encoding="utf-8") == neu:
+            return False
+        reg.write_text(neu, encoding="utf-8")
+        return True
+
+    seiten = setze_tex(tex, epoche=git("log", "-1", "--format=%ct"), nach_lauf=register_nachziehen)
+    if band.register:
+        gesetzt = lies_registerseiten(aux)
+        ohne_seite = [m.kennung for e in band.register for m in e.marken if m.kennung not in gesetzt]
+        if ohne_seite:
+            warne(
+                f"Band {band.nummer}, Register: {len(ohne_seite)} Marken haben im Satz keine Seite "
+                f"bekommen ({', '.join(ohne_seite[:5])}{' …' if len(ohne_seite) > 5 else ''})."
+            )
     erzeugnis = "lesen" if art == "lesen" else "innenteil"
     ziel = lauf.ziel / dateiname(band.nummer, erzeugnis, lauf.kennung)
     shutil.copyfile(tex.with_suffix(".pdf"), ziel)
@@ -1225,7 +1734,8 @@ def baue_epub_quelltext(band: Band) -> str:
     Abschnitte auf der dritten. Jedes Kapitel wird eine eigene Datei im
     EPUB. Die Kapitelmarke („9. Kapitel“) steht als eigene Zeile im Kopf;
     im Inhaltsverzeichnis wird sie mit Gedankenstrich vor den Titel gesetzt,
-    wie im PDF – das erledigt die Nachbearbeitung.
+    wie im PDF – das erledigt die Nachbearbeitung. Am Schluss steht das
+    Register, mit Kapiteln statt Seiten.
     """
     zeilen: list[str] = []
     for nummer, (titel, rumpf) in enumerate(band.vorspann, start=1):
@@ -1249,7 +1759,7 @@ def baue_epub_quelltext(band: Band) -> str:
             f"{{#kapitel-{kapitel.nummer} .kapitel epub:type=chapter}}"
         )
         zeilen.append("")
-        zeilen.append(typografie_epub(setze_ueberschriften(kapitel.text, 3)).strip())
+        zeilen.append(typografie_epub(setze_ueberschriften(mit_marken(band, kapitel, "epub"), 3)).strip())
         zeilen.append("")
         if kapitel.belege:
             zeilen += [
@@ -1262,6 +1772,8 @@ def baue_epub_quelltext(band: Band) -> str:
                 ":::",
                 "",
             ]
+    if band.register:
+        zeilen.append(register_markdown(band))
     return "\n".join(zeilen) + "\n"
 
 
@@ -1487,7 +1999,13 @@ def pruefe_epub(pfad: Path) -> None:
 def setze_band(nummer: int, angaben: Angaben, lauf: Lauf, erzeugnisse: set[str]) -> dict:
     """Setzt die gewählten Erzeugnisse eines Bandes und gibt ihre Daten zurück."""
     band = lies_band(nummer)
-    daten: dict = {"band": nummer, "bandzeile": band.titelei["band"], "stand": band.titelei["stand"], "dateien": {}}
+    daten: dict = {
+        "band": nummer,
+        "bandzeile": band.titelei["band"],
+        "stand": band.titelei["stand"],
+        "registerstichwoerter": len(band.register),
+        "dateien": {},
+    }
 
     bund = BUND_MM
     if "innenteil" in erzeugnisse:

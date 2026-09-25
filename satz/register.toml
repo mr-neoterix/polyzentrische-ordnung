@@ -1,0 +1,932 @@
+# Das Register am Ende jedes Bandes.
+#
+# Das Register nennt Fundstellen und erklärt nichts. Jede Erklärung, die hier
+# stünde, wäre eine weitere Fassung eines Begriffs neben der im Text, und zwei
+# Fassungen driften. Gesetzt wird es vom Satzskript (satz/build.py), gesucht
+# wird im Fließtext der Kapitel – nicht im Vorspann, nicht in den Überschriften,
+# nicht im Belegapparat. Genannt wird je Kapitel die erste Nennung und dazu die
+# Erklärungsstelle, diese halbfett; im E-Book steht das Kapitel statt der Seite.
+# Jeder Band hat seine eigene Liste, und sie nennt nur Stellen dieses Bandes.
+#
+# Ein Eintrag hat bis zu fünf Angaben:
+#
+#   stichwort   – wie das Stichwort im Register steht. Wortgruppen aus
+#                 Eigenschaftswort und Hauptwort stehen umgestellt
+#                 („Budgetbeschränkung, weiche“), feste Fügungen nicht.
+#   formen      – die Wortformen, nach denen im Fließtext gesucht wird, genau so,
+#                 wie sie dort stehen: mit Groß- und Kleinschreibung, an
+#                 Wortgrenzen, jede Beugung einzeln („Engpass“ findet nicht
+#                 „Engpasses“, wohl aber „Engpass-Argument“). Fehlt die Angabe,
+#                 wird nach dem Stichwort selbst gesucht.
+#   erklaerung  – eine kurze wörtliche Wortfolge aus dem Satz, der den Begriff in
+#                 diesem Band erklärt, ohne Sternchen und Anführungszeichen. Sie
+#                 muss im Fließtext des Bandes genau einmal vorkommen. Erklärt
+#                 der Band den Begriff an mehreren Stellen, etwa knapp bei einer
+#                 frühen Nennung und ausführlich an seiner Heimatstelle, führt
+#                 die Liste eine davon; die übrigen erscheinen als gewöhnliche
+#                 Seiten. Deshalb sagt der Satz über dem Register „eine Seite“.
+#   sortierung  – wahlweise ein eigener Sortierschlüssel. Sonst sortiert das
+#                 Stichwort, deutsch: ä wie a, ö wie o, ü wie u, ß wie ss.
+#   ausnahmen   – wahlweise Wortformen, die aussehen wie eine Beugung des
+#                 Stichworts und etwas anderes meinen (siehe unten).
+#
+# Findet der Lauf eine Wortform oder eine Erklärungsstelle nicht, warnt er, und
+# die Warnung steht in build/ausgabe.json und im Text der Veröffentlichung. Wer
+# einen erklärenden Satz umschreibt, zieht hier die Wortfolge nach. Ebenso warnt
+# er, wenn im Fließtext eine gebeugte Form steht, die die Liste nicht führt
+# („Wettrüstens“ zu „Wettrüsten“), und ihretwegen ein Kapitel fehlt oder die
+# erste Nennung zu spät steht. Meint die Form den Begriff, gehört sie unter
+# formen; meint sie etwas anderes, unter ausnahmen.
+
+[hinweis]
+pdf = "Genannt ist je Kapitel die erste Seite, auf der ein Begriff im Text des Kapitels steht, halbfett eine Seite, auf der dieser Band ihn erklärt."
+ebook = "Genannt ist je Kapitel die erste Stelle, an der ein Begriff im Text des Kapitels steht, halbfett ein Kapitel, in dem dieser Band ihn erklärt."
+
+# --------------------------------------------------------------------------
+# Erster Band: Das Argument
+# --------------------------------------------------------------------------
+
+[[band1]]
+stichwort = "Abgabe auf große Wohnungsbestände"
+erklaerung = "steigt oberhalb der Schwelle mit dem Bestand"
+
+[[band1]]
+stichwort = "Abschaltkriterium"
+formen = ["Abschaltkriterium", "Abschaltkriterien", "Abschaltkriteriums"]
+erklaerung = "was geschieht, wenn sie gerissen wird"
+
+[[band1]]
+stichwort = "Allmende-Sektor"
+formen = ["Allmende-Sektor", "Allmende-Sektors"]
+erklaerung = "Er umfasst Netze"
+
+[[band1]]
+stichwort = "Andienungsrecht"
+erklaerung = "Sie darf zum gleichen Preis erwerben wie ein Dritter"
+
+[[band1]]
+stichwort = "anspruchsgesichert"
+formen = ["anspruchsgesichert", "Anspruchssicherung"]
+erklaerung = "auf einer Stufe zwischen der bloßen Regel und dem Eigentum"
+
+[[band1]]
+stichwort = "Asset Lock"
+erklaerung = "der Asset Lock, mit dem im zweiten Band"
+
+[[band1]]
+stichwort = "Auslandsbedingung"
+erklaerung = "reicht als Auslandsbedingung"
+
+[[band1]]
+stichwort = "Ausnahmequote"
+erklaerung = "darunter die Ausnahmequote, die zählt"
+
+[[band1]]
+stichwort = "Bedürfnistribunal"
+erklaerung = "die echte von unechten Wünschen"
+
+[[band1]]
+stichwort = "Belastungstest"
+erklaerung = "Es heißt Belastungstest und lautet"
+
+[[band1]]
+stichwort = "Belegschaftssektor"
+formen = ["Belegschaftssektor", "Belegschaftssektors"]
+erklaerung = "Er umfasst Betriebe im Eigentum ihrer Belegschaften"
+
+[[band1]]
+stichwort = "Belegschaftstreuhand"
+erklaerung = "übernimmt eine Belegschaftstreuhand"
+
+[[band1]]
+stichwort = "Budgetbeschränkung, harte"
+formen = ["harte Budgetbeschränkung", "harter Budgetbeschränkung", "Harte Budgetbeschränkungen", "harte Budgetgrenze"]
+erklaerung = "die Möglichkeit, wirklich zu scheitern"
+
+[[band1]]
+stichwort = "Budgetbeschränkung, weiche"
+formen = ["weiche Budgetbeschränkung", "weichen Budgetbeschränkung", "weichen Budgetgrenze"]
+erklaerung = "unter dem es seither läuft"
+
+[[band1]]
+stichwort = "Building Societies"
+formen = ["Building Societies", "Building Society"]
+erklaerung = "waren Spar- und Hypothekeninstitute auf Gegenseitigkeit"
+
+[[band1]]
+stichwort = "Datenstelle"
+erklaerung = "Die Kennzahlen zieht eine Datenstelle"
+
+[[band1]]
+stichwort = "Doppelstiftung"
+erklaerung = "einer Familie die Stimmen über Generationen"
+
+[[band1]]
+stichwort = "Employee Ownership Trust"
+formen = ["Employee Ownership Trust", "Employee Ownership Trusts"]
+erklaerung = "ist eine Treuhandkonstruktion"
+
+[[band1]]
+stichwort = "Endzustand"
+formen = ["Endzustand", "Endzustandsdenken", "Endzustandsdenkens"]
+erklaerung = "ein Zustand sei erreichbar, in dem das Machtproblem erledigt ist"
+
+[[band1]]
+stichwort = "Engpass"
+erklaerung = "nennt die Sache den Engpass"
+
+[[band1]]
+stichwort = "Exit und Voice"
+formen = ["Exit", "Voice"]
+erklaerung = "bei Hirschman: Exit"
+
+[[band1]]
+stichwort = "Fehlertoleranz"
+erklaerung = "sein oberstes Ordnungskriterium"
+
+[[band1]]
+stichwort = "Föderalismustest"
+erklaerung = "Wer zahlt, wer verwaltet"
+
+[[band1]]
+stichwort = "Fondsanwartschaft"
+erklaerung = "ist eine erworbene Aussicht auf Auszahlungen"
+
+[[band1]]
+stichwort = "Fondsfamilie"
+erklaerung = "Die Familie besteht aus nach Ländern geschnittenen Häusern"
+
+[[band1]]
+stichwort = "Funktionstest"
+erklaerung = "Der erste ist der Funktionstest"
+
+[[band1]]
+stichwort = "gematcht"
+formen = ["gematcht", "gematchte", "gematchten"]
+erklaerung = "also verglichen mit Betrieben gleicher Größe"
+
+[[band1]]
+stichwort = "Gegenprobe"
+formen = ["Gegenprobe", "Gegenproben"]
+erklaerung = "muss dem marxistischen Einwandkatalog standhalten"
+
+[[band1]]
+stichwort = "Gesamtfaktorproduktivität"
+erklaerung = "also an dem Teil des Wachstums"
+
+[[band1]]
+stichwort = "Heimatquote"
+erklaerung = "begrenzt eine Heimatquote"
+
+[[band1]]
+stichwort = "Horizontproblem"
+erklaerung = "in den siebziger Jahren als Horizontproblem beschrieben"
+
+[[band1]]
+stichwort = "illyrische Firma"
+formen = ["illyrische Firma", "illyrischen Firma"]
+erklaerung = "Sie maximiert das Einkommen pro Kopf"
+
+[[band1]]
+stichwort = "Insider-Outsider-Grenze"
+formen = ["Insider-Outsider"]
+erklaerung = "die Trennlinie zwischen den geschützten Mitgliedern"
+
+[[band1]]
+stichwort = "Kaderturnier"
+erklaerung = "Man nennt das das Kaderturnier"
+
+[[band1]]
+stichwort = "Kapitalkonten"
+formen = ["Kapitalkonto", "Kapitalkonten", "Kapitalkontos"]
+erklaerung = "persönliche Anteile jedes Mitglieds am einbehaltenen Überschuss"
+
+[[band1]]
+stichwort = "Kompression, große"
+formen = ["Kompression"]
+erklaerung = "Der Begriff, der dafür kursiert"
+
+[[band1]]
+stichwort = "Konsolidierungssperre"
+erklaerung = "bindet jede Zusammenlegung"
+
+[[band1]]
+stichwort = "Kontroll-Lock"
+erklaerung = "Kontroll-Lock auch die Stimmrechte bindet"
+
+[[band1]]
+stichwort = "Kreuzhaltung"
+erklaerung = "in einer Kreuzhaltung"
+
+[[band1]]
+stichwort = "Ledger"
+erklaerung = "Es verzeichnet, was diese Ordnung nicht leistet"
+
+[[band1]]
+stichwort = "Mitbestimmung"
+formen = ["Mitbestimmung", "Unternehmensmitbestimmung"]
+erklaerung = "Ihr Kern besteht aus zwei Gesetzen"
+
+[[band1]]
+stichwort = "Mitgliedschaft, offene"
+formen = ["offene Mitgliedschaft", "Offene Mitgliedschaft"]
+erklaerung = "Wer nach der Probezeit im Betrieb arbeitet"
+
+[[band1]]
+stichwort = "Monopol, natürliches"
+formen = ["natürliche Monopole", "natürliches Monopol", "natürlichen Monopolen"]
+erklaerung = "Güter, bei denen es unsinnig wäre"
+
+[[band1]]
+stichwort = "Monozentrik"
+erklaerung = "Ihr Gegenteil ist die Monozentrik"
+
+[[band1]]
+stichwort = "Neues Ökonomisches System (NÖS)"
+formen = ["Neue Ökonomische System", "NÖS"]
+erklaerung = "Die Zentrale sollte die großen Linien vorgeben"
+
+[[band1]]
+stichwort = "Nutzereigentum"
+erklaerung = "Wo Käufer und Langzeitnutzer zusammenfallen"
+
+[[band1]]
+stichwort = "Nutzergenossenschaft"
+formen = ["Nutzergenossenschaft", "Nutzergenossenschaften"]
+erklaerung = "Eine Nutzergenossenschaft ist keine"
+
+[[band1]]
+stichwort = "Offenheitskennzahl"
+erklaerung = "zählt eine Offenheitskennzahl seine Aufnahmen"
+
+[[band1]]
+stichwort = "Polyzentrik"
+erklaerung = "dafür gibt es einen Begriff"
+
+[[band1]]
+stichwort = "Privatsektor"
+formen = ["Privatsektor", "privater Marktsektor", "private Marktsektor", "privaten Marktsektor"]
+erklaerung = "als Organ mit einer Funktion"
+
+[[band1]]
+stichwort = "property-owning democracy"
+erklaerung = "John Rawls hat sie als"
+
+[[band1]]
+stichwort = "Rente"
+formen = ["Rente", "Renten"]
+erklaerung = "und Rente heißt dort ein Einkommen"
+
+[[band1]]
+stichwort = "Rost-These"
+erklaerung = "die Rost-These nennt"
+
+[[band1]]
+stichwort = "Rückversicherung"
+erklaerung = "die Mitglieder deckt und keine Betriebe"
+
+[[band1]]
+stichwort = "Schnittstellenpflicht"
+formen = ["Schnittstellenpflicht", "Schnittstellenpflichten"]
+erklaerung = "nach dem Muster der europäischen Ladebuchse"
+
+[[band1]]
+stichwort = "Schock, gemeinsamer"
+formen = ["gemeinsame Schock", "gemeinsamen Schock"]
+erklaerung = "in dem die Betriebe einer Region und Branche zugleich"
+
+[[band1]]
+stichwort = "Sekundärgenossenschaft"
+formen = ["Sekundärgenossenschaft", "Sekundärgenossenschaften"]
+erklaerung = "deren Mitglieder mehrere Stadtwerke sind"
+
+[[band1]]
+stichwort = "Sicherheitsdilemma"
+erklaerung = "in dem jede Rüstung des einen Staates"
+
+[[band1]]
+stichwort = "Sterberecht"
+erklaerung = "durch ein Sterberecht für Betreiber"
+
+[[band1]]
+stichwort = "Sterblichkeitsregeln"
+formen = ["Sterblichkeitsregel", "Sterblichkeitsregeln"]
+erklaerung = "Vermögen darf entstehen"
+
+[[band1]]
+stichwort = "Subsidiarität"
+erklaerung = "nach der eine Aufgabe zur kleinsten Ebene gehört"
+
+[[band1]]
+stichwort = "Subsidiaritätsklage"
+erklaerung = "mit einer Subsidiaritätsklage prüfen lassen"
+
+[[band1]]
+stichwort = "Systemvariable"
+erklaerung = "Die entscheidende Systemvariable"
+
+[[band1]]
+stichwort = "Tätigkeitsquote"
+erklaerung = "dem Anteil der im Betrieb Tätigen"
+
+[[band1]]
+stichwort = "Trittbrettfahren"
+erklaerung = "Die Fachsprache nennt das Trittbrettfahren"
+
+[[band1]]
+stichwort = "Umsetzungstest"
+erklaerung = "Der zweite ist der Umsetzungstest"
+
+[[band1]]
+stichwort = "Vergesellschaftung"
+erklaerung = "die Überführung von Fabriken"
+
+[[band1]]
+stichwort = "Vergleichsportal"
+erklaerung = "Vergleichsportal der Datenstelle zeigt"
+
+[[band1]]
+stichwort = "Vermögensbindung"
+erklaerung = "Das ist die Vermögensbindung"
+
+[[band1]]
+stichwort = "Ward-Effekt"
+erklaerung = "der Neigung der illyrischen Firma"
+
+[[band1]]
+stichwort = "Werbeabgabe"
+erklaerung = "gestaffelt nach dem Werbeaufwand des Unternehmens"
+
+[[band1]]
+stichwort = "Wertform"
+erklaerung = "das die Fachsprache die Wertform nennt"
+
+[[band1]]
+stichwort = "Wette gegen den Konsens"
+formen = ["Wette gegen den Konsens", "Wetten gegen den Konsens"]
+erklaerung = "Radikale Innovation entsteht typischerweise"
+
+[[band1]]
+stichwort = "Wettrüsten"
+erklaerung = "das jeder mitmacht, weil der Konkurrent es tut"
+
+[[band1]]
+stichwort = "Wohnungsgemeinnützigkeit"
+formen = ["Wohnungsgemeinnützigkeit", "Wohnungsgemeinnützigkeitsgesetz"]
+erklaerung = "band das Wohnungsgemeinnützigkeitsgesetz rund"
+
+[[band1]]
+stichwort = "Zehnjahresbilanz"
+erklaerung = "prüft den Sektor an vier Größen"
+
+# --------------------------------------------------------------------------
+# Zweiter Band: Die Bauanleitung
+# --------------------------------------------------------------------------
+
+[[band2]]
+stichwort = "Abschaltkriterium"
+formen = ["Abschaltkriterium", "Abschaltkriterien", "Abschaltkriteriums"]
+erklaerung = "was geschieht, wenn sie gerissen wird"
+
+[[band2]]
+stichwort = "Abspaltungsverbot"
+erklaerung = "Der Grundsatz heißt Abspaltungsverbot"
+
+[[band2]]
+stichwort = "Allmende-Sektor"
+formen = ["Allmende-Sektor", "Allmende-Sektors"]
+erklaerung = "umfasst Netze für Strom"
+
+[[band2]]
+stichwort = "Andienungsrecht"
+formen = ["Andienungsrecht", "Andienungsrechts"]
+erklaerung = "sie darf zum gleichen Preis kaufen wie ein Dritter"
+
+[[band2]]
+stichwort = "Anspruch auf den Platz"
+erklaerung = "derselbe Anspruch für die Pflege- und Betreuungsinfrastruktur"
+
+[[band2]]
+stichwort = "anspruchsgesichert"
+formen = ["anspruchsgesichert", "Anspruchsgesichert", "Anspruchssicherung", "anspruchssichern"]
+erklaerung = "mehr als bloß verfahrensgesichert"
+
+[[band2]]
+stichwort = "Asset Lock"
+erklaerung = "heißt in der internationalen Debatte"
+
+[[band2]]
+stichwort = "Ausgleich vor Wettbewerb"
+erklaerung = "ist damit mehr als eine Reihenfolge"
+
+[[band2]]
+stichwort = "Auslandsbedingung"
+erklaerung = "Das ist die Auslandsbedingung des Sektors"
+
+[[band2]]
+stichwort = "Ausnahmequote"
+erklaerung = "Erhoben wird sie deshalb als Ausnahmequote"
+
+[[band2]]
+stichwort = "Ausweichregel"
+erklaerung = "Für sie gilt die Ausweichregel"
+
+[[band2]]
+stichwort = "Belastungstest"
+erklaerung = "das dieses Buch sich selbst auferlegt"
+
+[[band2]]
+stichwort = "Belegschaftsgenossenschaft"
+formen = ["Belegschaftsgenossenschaft", "Belegschaftsgenossenschaften"]
+erklaerung = "deren Mitglieder dort arbeiten"
+
+[[band2]]
+stichwort = "Belegschaftssektor"
+formen = ["Belegschaftssektor", "Belegschaftssektors"]
+erklaerung = "umfasst Betriebe im Eigentum ihrer Belegschaften"
+
+[[band2]]
+stichwort = "Belegschaftstreuhand"
+formen = ["Belegschaftstreuhand", "Belegschaftstreuhänden", "Belegschaftstreuhänder"]
+erklaerung = "die für die Belegschaft eines Unternehmens dessen Anteile"
+
+[[band2]]
+stichwort = "Bestandsabgabe"
+erklaerung = "muss das Halten der Position verteuern"
+
+[[band2]]
+stichwort = "Beweislastumkehr"
+formen = ["Beweislastumkehr", "Umkehr der Beweislast"]
+erklaerung = "Begründen muss nicht die kleinere Einheit"
+
+[[band2]]
+stichwort = "Budgetbeschränkung, harte"
+formen = ["harte Budgetbeschränkung", "harter Budgetbeschränkung", "harte Budgetbeschränkungen", "Harte Budgetbeschränkungen"]
+erklaerung = "Ihr Gegenstück ist die harte Budgetbeschränkung"
+
+[[band2]]
+stichwort = "Budgetbeschränkung, weiche"
+formen = ["weiche Budgetbeschränkung", "weichen Budgetbeschränkung", "weiche Budgetbeschränkungen"]
+erklaerung = "Kornai nannte das die weiche Budgetbeschränkung"
+
+[[band2]]
+stichwort = "Budgetpreise, ökologische"
+formen = ["Ökologische Budgetpreise", "ökologischen Budgetpreisen"]
+erklaerung = "samt erweiterter Herstellerverantwortung"
+
+[[band2]]
+stichwort = "Bürgerrat"
+formen = ["Bürgerrat", "Bürgerräte"]
+erklaerung = "Gremien, deren Mitglieder nach dem Zufallsprinzip"
+
+[[band2]]
+stichwort = "Datenstelle"
+erklaerung = "Eine Datenstelle mit eigenem Erhebungsrecht"
+
+[[band2]]
+stichwort = "Distributismus"
+formen = ["Distributismus", "evolved distributism"]
+erklaerung = "ihr Ergebnis evolved distributism genannt"
+
+[[band2]]
+stichwort = "Doppelstiftung"
+formen = ["Doppelstiftung", "Doppelstiftungen"]
+erklaerung = "Die Doppelstiftung ist die Kombination beider"
+
+[[band2]]
+stichwort = "dyadisch und monadisch"
+formen = ["dyadisch", "dyadische", "dyadischer", "monadisch", "monadische"]
+erklaerung = "Befund, einer über Staatenpaare"
+
+[[band2]]
+stichwort = "Effizienzvergleich"
+formen = ["Effizienzvergleich", "Effizienzvergleichs"]
+erklaerung = "Der deutsche Effizienzvergleich der Netzbetreiber"
+
+[[band2]]
+stichwort = "Eigenbeitragselement"
+erklaerung = "Die Anwartschaft entsteht durch eine geringe"
+
+[[band2]]
+stichwort = "eigentumsgesichert"
+formen = ["eigentumsgesichert", "Eigentumsgesichert", "eigentumssichern"]
+erklaerung = "Eigentumsgesichert ist die Rentenanwartschaft"
+
+[[band2]]
+stichwort = "Employee Ownership Trust"
+formen = ["Employee Ownership Trust", "Employee Ownership Trusts"]
+erklaerung = "Treuhänder, die ein Unternehmen für seine gesamte"
+
+[[band2]]
+stichwort = "Endzustand"
+erklaerung = "in dem das Machtproblem erledigt wäre"
+
+[[band2]]
+stichwort = "Engpass"
+erklaerung = "damit sich die Verhältnisse ändern, den Engpass"
+
+[[band2]]
+stichwort = "Ertragsrecht"
+formen = ["Ertragsrecht", "Ertragsrechte"]
+erklaerung = "Diese Kapitalgeber bekommen dafür gesondert bestellte Ertragsrechte"
+
+[[band2]]
+stichwort = "Exit und Voice"
+formen = ["Exit", "Voice"]
+erklaerung = "die zwei Wege, auf einen Missstand zu reagieren"
+
+[[band2]]
+stichwort = "Exit, funktionaler"
+formen = ["funktionaler Exit", "funktionalen Exit", "funktionalen Exits"]
+erklaerung = "den Wechsel der Zugehörigkeit ohne Wechsel des Wohnorts"
+
+[[band2]]
+stichwort = "Familienprinzip"
+erklaerung = "Es besagt: Der Erwerb der engsten"
+
+[[band2]]
+stichwort = "Fehlertoleranz"
+erklaerung = "sein oberstes Ordnungskriterium"
+
+[[band2]]
+stichwort = "Feuermelder"
+erklaerung = "der ruht, bis ein Betroffener ihn auslöst"
+
+[[band2]]
+stichwort = "Föderalismustest"
+erklaerung = "wer zahlt, wer verwaltet"
+
+[[band2]]
+stichwort = "Fondsanwartschaft"
+
+[[band2]]
+stichwort = "Fondsfamilie"
+erklaerung = "mehreren nach Ländern geschnittenen Bürgerfonds"
+
+[[band2]]
+stichwort = "Friedenswahl"
+formen = ["Friedenswahl", "Friedenswahlen"]
+erklaerung = "Die vorschlagsberechtigten Organisationen einigen sich"
+
+[[band2]]
+stichwort = "Funktionstest"
+erklaerung = "Der Funktionstest fragt"
+
+[[band2]]
+stichwort = "gematcht"
+formen = ["gematcht", "Gematcht", "gematchte", "Gematchte", "gematchten", "gematchter", "gematchtem"]
+erklaerung = "Gematcht heißt"
+
+[[band2]]
+stichwort = "Gegenprobe"
+formen = ["Gegenprobe", "Gegenproben"]
+erklaerung = "Aus derselben Regel folgt die Gegenprobe"
+
+[[band2]]
+stichwort = "Genussrecht"
+erklaerung = "einen vertraglichen Gewinnanspruch ohne Mitgliedschaft"
+
+[[band2]]
+stichwort = "Grenzausgleich"
+erklaerung = "Wer nach Europa exportiert"
+
+[[band2]]
+stichwort = "Heimatquote"
+erklaerung = "die Heimatquote der Fondsfamilie"
+
+[[band2]]
+stichwort = "Horizontproblem"
+erklaerung = "Die Mitglieder unterinvestieren systematisch"
+
+[[band2]]
+stichwort = "Innenkläger"
+erklaerung = "Der wirksamere Kläger sitzt aber innen"
+
+[[band2]]
+stichwort = "Insider-Outsider-Grenze"
+formen = ["Insider-Outsider"]
+erklaerung = "die Trennlinie zwischen den geschützten Mitgliedern"
+
+[[band2]]
+stichwort = "Kapitalereignisse"
+formen = ["Kapitalereignis", "Kapitalereignisse"]
+erklaerung = "Seine Gelegenheiten sind deshalb die Kapitalereignisse"
+
+[[band2]]
+stichwort = "Kapitalkonten"
+formen = ["Kapitalkonto", "Kapitalkonten"]
+erklaerung = "Einbehaltene Überschüsse gehen nicht anonym"
+
+[[band2]]
+stichwort = "Klagbarkeit"
+erklaerung = "das Recht, gegen ein Gesetz, das ihre Selbstverwaltung verletzt"
+
+[[band2]]
+stichwort = "Kläger-Regel"
+erklaerung = "am häufigsten ist dieser Träger ein Kläger"
+
+[[band2]]
+stichwort = "Konsolidierungssperre"
+erklaerung = "muss die Konsolidierungssperre mitbauen"
+
+[[band2]]
+stichwort = "Konsortialstruktur"
+formen = ["Konsortialstruktur", "Konsortialstrukturen", "Konsortialblock", "Konsortialformen", "Konsortialverfassung"]
+erklaerung = "in denen eine Belegschaftstreuhand als Halterin"
+
+[[band2]]
+stichwort = "Kontroll-Lock"
+formen = ["Kontroll-Lock", "Control Lock"]
+erklaerung = "der Bindung der Stimmrechte, an die jede steuerliche Begünstigung"
+
+[[band2]]
+stichwort = "Kostenvergleich"
+formen = ["Kostenvergleich", "Kostenvergleiche"]
+erklaerung = "sektorweite Kostenvergleiche auf Basis maschinenlesbarer Daten"
+
+[[band2]]
+stichwort = "Kreuzhaltung"
+erklaerung = "Die Folge ist eine Kreuzhaltung"
+
+[[band2]]
+stichwort = "Kriegskostenwahrheit"
+erklaerung = "keine Finanzierung außerhalb des Haushalts"
+
+[[band2]]
+stichwort = "Länderfamilie"
+erklaerung = "weil die Ertragshoheit der Länder es verlangt"
+
+[[band2]]
+stichwort = "Lebenszykluskosten"
+erklaerung = "alles, was ein Gegenstand von der Anschaffung"
+
+[[band2]]
+stichwort = "Ledger"
+formen = ["Ledger", "Ledgers"]
+erklaerung = "Dies ist der zweite Teil des Ehrlichkeits-Ledgers"
+
+[[band2]]
+stichwort = "Leistungen, versicherungsfremde"
+formen = ["versicherungsfremden Leistungen"]
+erklaerung = "soll der Steuerzahler tragen"
+
+[[band2]]
+stichwort = "Lohnquote"
+erklaerung = "der Anteil der Arbeitseinkommen an der Wertschöpfung"
+
+[[band2]]
+stichwort = "Marcora-Gesetz"
+formen = ["Marcora-Gesetz", "Marcora"]
+erklaerung = "das Belegschaftsübernahmen insolventer Betriebe"
+
+[[band2]]
+stichwort = "Mindestkapitalklausel"
+formen = ["Mindestkapitalklausel", "Mindestkapital"]
+erklaerung = "kann die Satzung ein Mindestkapital bestimmen"
+
+[[band2]]
+stichwort = "Mindestlohn"
+erklaerung = "ein Internalisierungsinstrument"
+
+[[band2]]
+stichwort = "Mitgliedschaft, offene"
+formen = ["offene Mitgliedschaft", "Offene Mitgliedschaft", "offener Mitgliedschaft"]
+erklaerung = "Die naheliegende Antwort lautet offene Mitgliedschaft"
+
+[[band2]]
+stichwort = "Monopol, natürliches"
+formen = ["natürliche Monopole"]
+erklaerung = "bei denen niemand ein zweites Wasserrohrnetz"
+
+[[band2]]
+stichwort = "Monozentrik"
+erklaerung = "heißt, dass sie in einem zusammenläuft"
+
+[[band2]]
+stichwort = "Nachfolgekanal"
+formen = ["Nachfolgekanal", "Nachfolgekanals"]
+erklaerung = "der steuerlich begünstigte Übergang von Betrieben"
+
+[[band2]]
+stichwort = "Nießbrauch"
+erklaerung = "das Recht, die Erträge einer fremden Sache zu ziehen"
+
+[[band2]]
+stichwort = "Nutzereigentum"
+erklaerung = "Wo Käufer und Langzeitnutzer zusammenfallen, ist Haltbarkeit Gewinn"
+
+[[band2]]
+stichwort = "Nutzergenossenschaft"
+formen = ["Nutzergenossenschaft", "Nutzergenossenschaften"]
+erklaerung = "deren Mitglieder dort wohnen oder angeschlossen sind"
+
+[[band2]]
+stichwort = "Obsoleszenz, geplante"
+formen = ["Obsoleszenz"]
+erklaerung = "jener Praxis, Produkte so zu bauen"
+
+[[band2]]
+stichwort = "Offenheitskennzahl"
+erklaerung = "die die Bewegung misst statt des Anteils"
+
+[[band2]]
+stichwort = "Polyzentrik"
+erklaerung = "sterbliche und beobachtbare Zentren"
+
+[[band2]]
+stichwort = "Prämien, entkoppelte"
+formen = ["Entkoppelte Prämien", "entkoppelten Prämien"]
+erklaerung = "Wo der Markt eine Innovation bestraft"
+
+[[band2]]
+stichwort = "Privatsektor"
+formen = ["Privatsektor", "Privatsektors", "private Marktsektor", "privaten Marktsektor"]
+erklaerung = "bleibt, weil er eine Aufgabe erfüllt"
+
+[[band2]]
+stichwort = "Rechtsraum, gemeinsamer"
+formen = ["Rechtsraum"]
+erklaerung = "Innerstaatliche Polyzentrik funktioniert innerhalb einer Rechtsordnung"
+
+[[band2]]
+stichwort = "Regelform"
+erklaerung = "von der die Abweichung zu begründen ist"
+
+[[band2]]
+stichwort = "Rost-These"
+erklaerung = "was der erste Band die Rost-These nennt"
+
+[[band2]]
+stichwort = "Rückversicherung"
+erklaerung = "eine Rückversicherung für Menschen"
+
+[[band2]]
+stichwort = "schiedsfest"
+formen = ["schiedsfest", "Schiedsfest", "schiedsfester", "schiedsfeste"]
+erklaerung = "Schiedsfest heißt dabei"
+
+[[band2]]
+stichwort = "Schnittstelle, gemeinsame"
+formen = ["Gemeinsame Schnittstellen"]
+erklaerung = "Die europäische Ladegeräte-Richtlinie verpflichtet"
+
+[[band2]]
+stichwort = "Schock, gemeinsamer"
+formen = ["gemeinsame Schock", "gemeinsamen Schock", "gemeinsamen Schocks"]
+erklaerung = "Die Technik nennt das den Ausfall aus gemeinsamer Ursache"
+
+[[band2]]
+stichwort = "Sekundärgenossenschaft"
+formen = ["Sekundärgenossenschaften"]
+erklaerung = "deren Mitglieder selbst Genossenschaften"
+
+[[band2]]
+stichwort = "Sicherheitsdilemma"
+erklaerung = "in dem die Verteidigungsmaßnahme des einen"
+
+[[band2]]
+stichwort = "Sorgearbeit"
+erklaerung = "ist der letzte monozentrische Bereich"
+
+[[band2]]
+stichwort = "Sperrminorität"
+erklaerung = "der groß genug ist, um wichtige Beschlüsse"
+
+[[band2]]
+stichwort = "Staffel für den kleinen Betrieb"
+formen = ["Staffel"]
+erklaerung = "Daraus folgt eine Staffel mit drei Regeln"
+
+[[band2]]
+stichwort = "Sterberecht"
+formen = ["Sterberecht", "Sterberechts"]
+erklaerung = "braucht dieser Sektor einen Ersatz für die Insolvenz"
+
+[[band2]]
+stichwort = "Sterberecht für Verwaltungen"
+erklaerung = "Hier trennt sie die Gebietskörperschaft"
+
+[[band2]]
+stichwort = "Sterblichkeitsregeln"
+formen = ["Sterblichkeitsregel", "Sterblichkeitsregeln"]
+erklaerung = "Eine Sterblichkeitsregel schreibt vor"
+
+[[band2]]
+stichwort = "Streubesitz"
+erklaerung = "deren Aktien auf viele Anteilseigner verteilt sind"
+
+[[band2]]
+stichwort = "Streuungswege"
+formen = ["Streuungsweg", "Streuungswegen"]
+erklaerung = "Diese Ordnung streut Eigentum über drei Wege"
+
+[[band2]]
+stichwort = "Stücke politischen Eigentums, drei"
+formen = ["drei Stücke", "drei Stücken"]
+erklaerung = "und sie hat drei Stücke"
+
+[[band2]]
+stichwort = "Subsidiarität"
+erklaerung = "Das ist die Subsidiarität in ihrer klassischen Fassung"
+
+[[band2]]
+stichwort = "Subsidiaritätsklage"
+erklaerung = "kann die Verlagerung mit einer Subsidiaritätsklage angreifen"
+
+[[band2]]
+stichwort = "Systemvariable"
+erklaerung = "Die eigentliche Systemvariable heißt"
+
+[[band2]]
+stichwort = "Tätigkeitsquote"
+erklaerung = "der Anteil der im Betrieb tätigen Personen mit Mitgliedschaftspfad"
+
+[[band2]]
+stichwort = "Trennungsverfahren"
+erklaerung = "Als Bauteil: klare Frage"
+
+[[band2]]
+stichwort = "Überwälzung"
+erklaerung = "ist kein Rechtsakt, und sie ist nicht verbietbar"
+
+[[band2]]
+stichwort = "Umlage"
+erklaerung = "ist ein Rechtsakt, und sie ist verbietbar"
+
+[[band2]]
+stichwort = "Umsetzungstest"
+erklaerung = "Der Umsetzungstest fragt"
+
+[[band2]]
+stichwort = "Verantwortungseigentum"
+erklaerung = "Einführung der Gesellschaft mit gebundenem Vermögen"
+
+[[band2]]
+stichwort = "verfahrensgesichert"
+formen = ["verfahrensgesichert", "Verfahrensgesichert"]
+erklaerung = "also bloßes Programm"
+
+[[band2]]
+stichwort = "Vergesellschaftung"
+erklaerung = "die Vergesellschaftung nach Artikel 15"
+
+[[band2]]
+stichwort = "Vergleichsportal"
+erklaerung = "Also führt die Datenstelle ein Vergleichsportal"
+
+[[band2]]
+stichwort = "Verlustdeckung, stille"
+formen = ["stille Verlustdeckung", "stillen Verlustdeckung"]
+erklaerung = "Verbot der stillen Verlustdeckung. Quersubventionen dürfen bestehen"
+
+[[band2]]
+stichwort = "Vermögensbindung"
+erklaerung = "Ein definierter Teil des Betriebsvermögens"
+
+[[band2]]
+stichwort = "Vorkaufsrecht"
+formen = ["Vorkaufsrecht", "Vorkaufsrechts"]
+erklaerung = "der Bewohner und ihrer Genossenschaften beim Verkauf"
+
+[[band2]]
+stichwort = "Ward-Effekt"
+formen = ["Ward-Effekt", "Ward-Effekts"]
+erklaerung = "Konstruktionsproblem ist der Ward-Effekt"
+
+[[band2]]
+stichwort = "Weltstaat"
+formen = ["Weltstaat", "Weltregierung"]
+erklaerung = "Eine Weltregierung wäre die Maximalform"
+
+[[band2]]
+stichwort = "Werbeabgabe"
+erklaerung = "nach dem Werbeaufwand des einzelnen Unternehmens"
+
+[[band2]]
+stichwort = "Wette gegen den Konsens"
+formen = ["Wette gegen den Konsens", "Wetten gegen den Konsens"]
+erklaerung = "Diese Funktion heißt"
+
+[[band2]]
+stichwort = "Wettrüsten"
+formen = ["Wettrüsten", "Wettrüstens"]
+erklaerung = "Der kämpferische Teil der Werbung ist ein Wettrüsten"
+
+[[band2]]
+stichwort = "Wohnungsgemeinnützigkeit"
+formen = ["Wohnungsgemeinnützigkeit", "Wohnungsgemeinnützigkeitsgesetz", "gemeinnütziges Wohnungsunternehmen"]
+erklaerung = "unterlag vier Bindungen"
+
+[[band2]]
+stichwort = "Zehnjahresbilanz"
+formen = ["Zehnjahresbilanz", "Zwischenbilanz"]
+erklaerung = "gehört eine Zwischenbilanz mit Datum dazu"
+
+[[band2]]
+stichwort = "Zunft"
+formen = ["Zunft", "Zünfte"]
+erklaerung = "Der ältere Entwurf hält sie mit der Zunft"
+
+[[band2]]
+stichwort = "Zustimmungsvorbehalt"
+erklaerung = "ist so viel wert wie das Gremium"

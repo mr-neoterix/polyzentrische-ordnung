@@ -34,7 +34,7 @@ Der entscheidende Vorzug dieses Pfades ist, dass er kaum etwas erfinden muss. Fa
 
 *Kommunale Stadtwerke* mit einer Neugründungswelle im laufenden Jahrhundert. Den Allmende-Sektor muss niemand schaffen; er muss umgebaut werden.
 
-*Selbstverwaltung in der Sozialversicherung.* Deutschland hat seit über hundert Jahren Institutionen, die von Vertretern der Versicherten und der Arbeitgeber getragen werden. In der Krankenversicherung kommen konkurrierende Träger hinzu, ein Wechselrecht und ein tatsächlich angewandtes Insolvenzrecht – die polyzentrischste Struktur, die dieser Staat besitzt. Diese Selbstverwaltung ist zugleich der Baustein in der schlechtesten Verfassung, denn ihr Selbstverwaltungsorgan wird von gut einem Fünftel der Berechtigten bestellt, und ein großer Teil der Sitze wird gar nicht erst umkämpft. Der zweite Band behandelt beides im Kapitel über den Sozialstaat, weil dieser Baustein anders als die übrigen zuerst instand gesetzt werden muss, bevor er benutzt werden kann.
+*Selbstverwaltung in der Sozialversicherung.* Deutschland hat seit über hundert Jahren Institutionen, die von Vertretern der Versicherten und der Arbeitgeber getragen werden. In der Krankenversicherung kommen konkurrierende Träger hinzu, ein Wechselrecht und ein tatsächlich angewandtes Insolvenzrecht – die polyzentrischste Struktur, die dieser Staat besitzt. Diese Selbstverwaltung ist zugleich der Baustein in der schlechtesten Verfassung, denn ihr Selbstverwaltungsorgan wird von gut einem Fünftel der Berechtigten bestellt, und ein großer Teil der Sitze wird gar nicht erst umkämpft. Anders als die übrigen muss dieser Baustein deshalb zuerst instand gesetzt werden, bevor er benutzt werden kann. Dazu gehören Wahllisten mit mehr Bewerbern als Sitzen, leichterer Zugang für Listen außerhalb der Verbände und die Zustimmung der Mitglieder selbst zu jeder Vereinigung ihrer Kasse. Der zweite Band führt das im Kapitel über den Sozialstaat aus.
 
 *Föderalismus.* Er wird in Deutschland meist als Bremse beklagt. In diesem Entwurf ist er ein Konstruktionsvorteil: Er liefert die regionale Gliederung, die die Fondsfamilie ohnehin braucht.
 
@@ -62,9 +62,9 @@ Die Ergebnisse dieses Tests sind unterschiedlich.
 
 *Und der Sozialstaat ist beides zugleich.* Die Rentenanwartschaft ist eine Struktur, weil sie Eigentum ist; das Existenzminimum ist dem Grunde nach eine Struktur, weil es in der Verfassung steht; die Höhe jeder Leistung dagegen ist ein Programm. Ausgerechnet der Teil, auf den sich diese Ordnung stützt – die Sicherung derer, die ein gestorbener Betrieb freigesetzt hat –, liegt überwiegend im Programmteil. Das Kapitel über den Sozialstaat im zweiten Band zieht daraus die Konsequenzen.
 
-Einmal ist dieser Test in der Wirklichkeit durchgeführt worden statt als Gedankenspiel, und zwar an der größten Vermögensklasse des Landes. Bis Ende 1989 band das Wohnungsgemeinnützigkeitsgesetz rund 1.800 anerkannte Unternehmen mit etwa 3,3 Millionen Wohnungen an Kostendeckung, gedeckelte Ausschüttung und Vermögensbindung; ein Artikel des Steuerreformgesetzes 1990 hob es zum 1. Januar 1990 auf. Übrig blieb, was der Test vorhersagt: Die Genossenschaften behielten ihre Bestände, weil sie ihren Mitgliedern gehörten; die kommunalen und die gewerkschaftlichen Gesellschaften wurden gewöhnliche Unternehmen mit gewöhnlichen Anteilen, und die Berliner GSW war vierzehn Jahre später verkauft. Der zweite Band führt den Fall beim Allmende-Sektor aus.
+Einmal ist dieser Test in der Wirklichkeit durchgeführt worden, an dem Fall, den das achte Kapitel angeführt hat: 1990 fiel die Wohnungsgemeinnützigkeit. Übrig blieb, was der Test vorhersagt. Die Genossenschaften behielten ihre Bestände, in denen ihre Mitglieder wohnen; die kommunalen und die gewerkschaftlichen Gesellschaften wurden gewöhnliche Unternehmen, und die Berliner GSW war vierzehn Jahre später verkauft.
 
-Die Regel, die daraus folgt, ist streng: **Was den Belastungstest nicht besteht, ist ein Programm und darf nicht als Struktur geführt werden.** Denn ein Reformpfad, der Programme als Strukturen ausgibt, verspricht eine Dauerhaftigkeit, die er nicht liefern kann.
+**Was den Belastungstest nicht besteht, ist ein Programm und darf nicht als Struktur geführt werden.** Denn ein Reformpfad, der Programme als Strukturen ausgibt, verspricht eine Dauerhaftigkeit, die er nicht liefern kann.
 
 ### Die Reihenfolge
 
@@ -94,6 +94,8 @@ Die drei Stufen selbst und ihre Prüfung an den sechs Tests führt der zweite Ba
 
 *Ertragshoheit und Verwaltung der Erbschaftsteuer (Grundlage des Föderalismustests):* Artikel 106 Absatz 2, Artikel 108 Absatz 2 und Artikel 105 Absatz 3 GG – ausgeführt und belegt in Band 2, Kapitel 10. **Bestätigt.**
 
-*Die Wohnungsgemeinnützigkeit als vollzogener Belastungstest:* Wohnungsgemeinnützigkeitsgesetz vom 29. Februar 1940, aufgehoben durch Artikel 21 des Steuerreformgesetzes 1990 vom 25. Juli 1988 mit Wirkung zum 1. Januar 1990; rund 1.800 Unternehmen mit etwa 3,3 Millionen Wohnungen. Fundstellen und Verifikationsstatus in Band 2, Kapitel 3. **Bestätigt.**
+*Die Wohnungsgemeinnützigkeit als vollzogener Belastungstest:* Wohnungsgemeinnützigkeitsgesetz vom 29. Februar 1940, aufgehoben durch Artikel 21 des Steuerreformgesetzes 1990 vom 25. Juli 1988 mit Wirkung zum 1. Januar 1990; Verkauf der GSW 2004. Fundstellen und Verifikationsstatus in Kapitel 8 und in Band 2, Kapitel 3. **Bestätigt;** dass die Genossenschaften ihre Bestände im Ganzen behielten, **mit Einschränkung** (siehe Kapitel 8). Die Lesart als Belastungstest ist **Wertung.**
+
+*Instandsetzung der Selbstverwaltung:* Wahlbeteiligung und Friedenswahlen, Zustimmung der Mitglieder zu Vereinigungen, mehr Bewerber als Sitze als Zulässigkeitsbedingung einer Liste und gesenkte Hürden für freie Listen: Befund und Konstruktionsvorschlag in Band 2, Kapitel 8. Befund **bestätigt,** Vorschlag **Wertung.**
 
 *Die sechs Tests und der Belastungstest* sind Prüfverfahren dieses Buches. **Wertung.**

@@ -37,6 +37,10 @@ $endif$
 \usepackage{fontspec}
 \usepackage[ngerman]{babel}
 \usepackage{microtype}
+% Allein für das Register am Ende des Bandes, das zweispaltig steht und auf
+% der letzten Seite gleich lange Spalten braucht. multicol gehört zum
+% LaTeX-Kern (Paket tools) und kommt mit texlive-latex-base.
+\usepackage{multicol}
 % Im Innenteil rechnet xcolor jede Farbe in einen Grauwert um. Gedruckt wird
 % schwarzweiß, und so steht in der Datei schon, was auf dem Papier ankommt,
 % statt dass die Druckerei eine Farbe nach eigener Regel übersetzt.
@@ -314,8 +318,9 @@ $endif$
 
 \newcommand{\hauptteil}{\cleardoublepage\mainmatter}
 
-% Der Belegapparat am Kapitelende: kleiner gesetzt, mit Abstand statt
-% Einzug, damit er als Apparat und nicht als Fließtext gelesen wird.
+% Der Belegapparat am Kapitelende: zwei Grade unter der Grundschrift gesetzt
+% (footnotesize, 8 pt bei 10 pt), mit Abstand statt Einzug, damit er als
+% Apparat und nicht als Fließtext gelesen wird.
 \newcounter{belegblock}
 \newcommand{\belegeanfang}{%
   \par\bigskip
@@ -335,11 +340,79 @@ $endif$
   {\normalfont\scshape\color{akzent}Belege}\par
   \nobreak\vspace{0.5em}%
   \begingroup
-    \small
+    \footnotesize
     \setlength{\parindent}{0pt}%
     \setlength{\parskip}{0.55em}%
 }
 \newcommand{\belegeende}{\par\endgroup}
+
+% --------------------------------------------------------------------------
+% Register
+% --------------------------------------------------------------------------
+% Am Ende jedes Bandes steht ein Register der Begriffe: Stichwort und Seiten,
+% die Seite der Erklärungsstelle halbfett, keine Erklärungen. Die Stichwörter
+% stehen in satz/register.toml. Das Satzskript setzt an jede Fundstelle im
+% Fließtext eine Marke \regmarke, die beim Ausgeben der Seite deren Nummer in
+% die .aux-Datei schreibt; aus diesen Nummern schreibt es nach jedem Lauf die
+% Datei \jobname.reg, die \registerteil einliest.
+%
+% Die Marke ist nichts als ein \write: Sie nimmt keinen Platz und bricht keine
+% Zeile, und sie steht in Leseausgabe und Innenteil gleich, damit beide
+% seitengleich bleiben. Das \leavevmode sorgt dafür, dass eine Marke am
+% Absatzanfang in der ersten Zeile des Absatzes steht und nicht davor, wo
+% ein Seitenumbruch sie auf die vorige Seite trennen könnte.
+\newcommand*{\regmarke}[1]{%
+  \leavevmode
+  \protected@write\@auxout{}{\string\regseite{#1}{\thepage}}%
+}
+% Die Einträge in der .aux-Datei sind für das Satzskript; LaTeX überliest sie.
+\newcommand*{\regseite}[2]{}
+
+% Der Kopf des Registers wie ein Vorspannabschnitt, im Inhaltsverzeichnis
+% aber auf der Ebene der Teile: Das Register gehört zu keinem Teil, und so
+% steht es auch in den Lesezeichen nicht unter dem letzten. Darunter der
+% Hinweis, wie es zu lesen ist, und die Einträge in zwei Spalten.
+\newcommand{\registerteil}[2]{%
+  \cleardoublepage
+  \phantomsection
+  \thispagestyle{plain}%
+  \vspace*{0.04\textheight}%
+  \begingroup
+    \raggedright
+    {\normalfont\LARGE\bfseries#1\par}%
+  \endgroup
+  \vspace{1.6em}%
+  \addcontentsline{toc}{part}{#1}%
+  \markboth{#1}{#1}%
+  \begingroup
+    \small
+    \setlength{\parindent}{0pt}%
+    \setlength{\parskip}{0pt}%
+    \if\relax\detokenize{#2}\relax\else
+      {\raggedright\itshape\color{leise}#2\par}%
+      \bigskip
+    \fi
+    \IfFileExists{\jobname.reg}{%
+      \setlength{\columnsep}{1.4em}%
+      \raggedright
+      \begin{multicols}{2}
+        \input{\jobname.reg}
+      \end{multicols}%
+    }{}%
+  \endgroup
+}
+% Eine Zeile: das Stichwort, dann die Seiten; was umbricht, rückt ein.
+\newcommand{\registerzeile}[2]{%
+  \par\hangindent=1em\hangafter=1
+  #1\hskip 0.6em plus 0.2em\relax#2\par
+}
+% In der Leseausgabe führt jede Seitenzahl auf ihre Seite. Im Innenteil
+% läuft hyperref im Entwurfsmodus, und \hyperlink setzt dieselbe Zahl ohne
+% Verweisfläche.
+\newcommand*{\registerseite}[1]{\hyperlink{page.#1}{#1}}
+\newcommand*{\registerseitefett}[1]{\hyperlink{page.#1}{\textbf{#1}}}
+% Zwischen zwei Anfangsbuchstaben etwas Luft.
+\newcommand*{\registerbuchstabe}{\par\addvspace{0.7\baselineskip}}
 
 \makeatother
 
