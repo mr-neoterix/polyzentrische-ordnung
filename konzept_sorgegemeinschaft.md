@@ -68,7 +68,7 @@ Bevor konstruiert wird, gehört die Diagnose gestellt, und zwar nach der Methode
 
 Die Größenordnung zuerst, damit die Skizze nicht schwebt. Der Gender Care Gap – der Unterschied im täglichen Aufwand für unbezahlte Arbeit – lag 2022 bei 43,4 Prozent; Frauen leisteten gut 29, Männer gut 20 Wochenstunden unbezahlte Arbeit. Der Wert war 2012/13 noch deutlich höher, nämlich 52,4 Prozent, die Bewegung geht also in die richtige Richtung und ist langsam. Die Bruttowertschöpfung der Haushaltsproduktion bezifferte das Statistische Bundesamt für 2013 auf 987 Milliarden Euro, rund 39 Prozent der im Bruttoinlandsprodukt erfassten Bruttowertschöpfung. Im Dezember 2023 waren 5,7 Millionen Menschen pflegebedürftig; 86 Prozent von ihnen wurden zu Hause versorgt, zwei Drittel – 3,8 Millionen – überwiegend durch Angehörige, und 3,1 Millionen bezogen ausschließlich Pflegegeld, also die Geldleistung, die an die Stelle eines Dienstes tritt und in aller Regel in der Familie bleibt.
 
-Das ist kein Randbereich der Volkswirtschaft. Gemessen an der Wertschöpfung ist er größer als das gesamte Produzierende Gewerbe, und er hat keine Eigentumsverfassung.
+Das ist kein Randbereich der Volkswirtschaft. Die Haushaltsproduktion, zu der die Sorge gehört, ist nach ihrer Wertschöpfung größer als das gesamte Produzierende Gewerbe, und die Sorge hat keine Eigentumsverfassung.
 
 Nun die Diagnose. Warum ist diese Arbeit unbezahlt? Nicht, weil niemand sie schätzt – sie wird in jeder Sonntagsrede geschätzt. Sondern weil ihr alle vier Bauteile fehlen, an denen dieses Projekt sonst die Funktionsfähigkeit einer Institution misst.
 

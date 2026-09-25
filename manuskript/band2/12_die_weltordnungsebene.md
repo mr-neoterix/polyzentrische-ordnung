@@ -50,7 +50,7 @@ Der Haken liegt also in der Verteilung der Kläger. Wer eine Marktfreiheit gelte
 
 Damit steht dasselbe Ungleichgewicht noch einmal da, nur im Verfahrensrecht: *Der Marktzugang hat einen Kläger, die Betroffenheit hat eine Zuständigkeit.*
 
-Bemerkenswert ist dabei, dass ein Kläger für die Zuständigkeitsordnung bereitliegt und nicht klagt. Der Ausschuss der Regionen – die Vertretung der Länder, Städte und Gemeinden bei der Union – kann seit Lissabon nach Artikel 8 des Protokolls Nr. 2 vor dem Gerichtshof gegen Rechtsakte vorgehen, für die seine Anhörung vorgeschrieben ist. Von dieser Befugnis hat er nie Gebrauch gemacht, und dieselbe Klage der nationalen Parlamente ist erst einmal erhoben worden; aber ein ungenutztes Recht ist billiger zu beleben als ein fehlendes zu schaffen.
+Einen Kläger für die Zuständigkeitsordnung gibt es dabei schon, wie das siebte Kapitel gezeigt hat: den Ausschuss der Regionen, die Vertretung der Länder, Städte und Gemeinden bei der Union. Er kann seit Lissabon nach Artikel 8 des Protokolls Nr. 2 vor dem Gerichtshof gegen Rechtsakte vorgehen, für die seine Anhörung vorgeschrieben ist. Er hat nie geklagt; ein ungenutztes Recht ist trotzdem billiger zu beleben als ein fehlendes zu schaffen, auch wenn es allein wenig ändert, solange der Gerichtshof nur die Vertretbarkeit der Begründung prüft.
 
 ### Der Investitionsschutz: die Wand, die nicht rostet
 
