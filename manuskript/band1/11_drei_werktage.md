@@ -24,7 +24,7 @@ Und was passiert, wenn es schiefgeht?
 
 Der Betrieb geht in Insolvenz wie jeder andere. Die Mitglieder verlieren ihre Kapitalkonten, der Fonds seine Beteiligung, die Bank ihr Geld, die Verkäuferin ihr Restdarlehen. Es gibt keine Auffangzusage, und das ist kein Versehen: Eine Auffangzusage wäre die weiche Budgetbeschränkung, an der die DDR erblindete.
 
-Was es gibt, ist die Föderation. Solidarfonds, Umsetzung von Mitgliedern in andere Betriebe des Verbunds, gemeinsame Sozialversicherung. Fagors 5.700 Beschäftigte haben das Auffangnetz erlebt und seine Grenzen.
+Was es gibt, ist die Föderation, wie Mondragón sie hat: Solidarfonds und die Umsetzung von Mitgliedern in andere Betriebe des Verbunds. Fagors 5.700 Beschäftigte haben dieses Auffangnetz erlebt und seine Grenzen. Deshalb reicht die Absicherung der Mitglieder in dieser Ordnung über Region und Branche hinaus, und versichert bleiben sie in den allgemeinen Sozialversicherungen.
 
 ### Ein Stadtwerk und sein Sterberecht
 
@@ -68,7 +68,7 @@ Daraus folgt eine Reihenfolge der Instrumente, und über sie entscheidet nicht d
 
 *Employee Ownership Trusts (britischer Steuerhebel):* siehe Kapitel 8, dort mit dem Status jeder einzelnen Angabe; **bestätigt** sind Registerzahlen und Datum der Halbierung, offen ist, wie viele der Unternehmen über den Hebel entstanden sind.
 
-*Fagor:* siehe Kapitel 9.
+*Fagor:* siehe Kapitel 9. Die Absicherung der Mitglieder über Region und Branche hinaus führt Band 2, Kapitel 2 beim gemeinsamen Schock aus, den Verbleib in den allgemeinen Sozialversicherungen dort und in Band 2, Kapitel 8 beim Sozialstaat; die eigene Sozialversicherung des baskischen Verbunds übernimmt diese Ordnung nicht. Konstruktionsvorschlag dieses Buches, **Wertung.**
 
 *Steuerlicher Querverbund, Effizienzvergleich, § 46 EnWG, § 613a BGB:* siehe Band 2, Kapitel 3.
 

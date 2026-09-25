@@ -127,6 +127,26 @@ section.belege a, section.belege code {
   overflow-wrap: break-word;
 }
 
+/* Das Register am Ende des Bandes: je Stichwort ein Absatz, und was
+   umbricht, rückt ein. Zwischen zwei Anfangsbuchstaben etwas Luft. */
+section.register div.registerhinweis p {
+  text-indent: 0;
+  text-align: left;
+  font-style: italic;
+  font-size: 0.9em;
+  margin: 0 0 1.5em 0;
+}
+
+section.register div.registergruppe {
+  margin-top: 0.9em;
+}
+
+section.register div.registergruppe p {
+  text-indent: -1.2em;
+  margin: 0 0 0 1.2em;
+  text-align: left;
+}
+
 /* Die Titelseite. */
 section.titelseite {
   text-align: center;

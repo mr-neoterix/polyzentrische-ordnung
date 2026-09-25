@@ -34,6 +34,7 @@ Veröffentlichung.
 | `umschlag.tex` | der Umschlag und das Titelbild des E-Books |
 | `epub-vorlage.xhtml`, `epub.css` | Titelseite, Impressum und Gestaltung des E-Books |
 | `veroeffentlichung.toml` | was nicht im Manuskript steht: Format, Papier, Verlag, Anschrift, Lizenz, ISBN |
+| `register.toml` | die Stichwörter des Registers am Ende jedes Bandes, mit ihren Wortformen und der Stelle, die sie erklärt |
 | `umschlag/band1.md`, `umschlag/band2.md` | der Text der Umschlagrückseite, zugleich die Beschreibung des E-Books |
 | `schriften/` | die Schriftschnitte selbst, samt Lizenz |
 
@@ -236,6 +237,95 @@ sind die, als die ein gewöhnliches Farbprofil die Druckfarben wiedergibt,
 damit das Titelbild aussieht wie das gedruckte Buch. Gerastert wird mit
 `pdftoppm` aus Poppler, sonst mit Ghostscript; fehlt beides, entsteht das
 E-Book ohne Titelbild, und der Lauf warnt.
+
+## Das Register
+
+Am Ende jedes Bandes steht ein Register der Begriffe: die Eigenprägungen
+und Fachbegriffe, die ein Leser nachschlagen will, jedes mit den Seiten, auf
+denen es im Text steht. Eine Erklärung steht dort nicht. Sie wäre eine
+weitere Fassung des Begriffs neben der im Text, und zwei Fassungen driften;
+das Register nennt die Stelle, der Text erklärt. Wer wissen will, was ein
+Begriff bedeutet, schlägt die halbfette Seite auf.
+
+Genannt wird je Kapitel die Seite, auf der ein Begriff zuerst im Fließtext
+steht, und dazu halbfett die Seite des Satzes, der ihn in diesem Band
+erklärt. Erklärt der Band ihn an mehreren Stellen – knapp bei einer frühen
+Nennung, ausführlich an seiner Heimatstelle, im zweiten Band oft auch im
+ersten Kapitel, das den ersten Band zusammenfasst –, führt die Liste eine
+davon, und die übrigen erscheinen als gewöhnliche Seiten. Der Satz über dem
+Register sagt deshalb „eine Seite“ und verspricht keine Rangfolge. Gesucht
+wird nur im Fließtext der Kapitel; Vorspann, Überschriften und Belegapparate
+bleiben außen vor. Jeder Band hat seine eigene Liste und nennt nur seine
+eigenen Seiten, der erste Band also keine des zweiten. In der Leseausgabe
+führt jede Seitenzahl auf ihre Seite, im Innenteil steht dieselbe Zahl ohne
+Verweisfläche, und beide bleiben seitengleich. Im E-Book, das keine Seiten
+hat, steht statt der Seite das Kapitel, jedes als Verweis auf die
+Fundstelle, halbfett das Kapitel der Erklärung. Im Inhaltsverzeichnis steht
+das Register auf der Ebene der Teile, damit es in den Lesezeichen nicht
+unter dem letzten Teil hängt.
+
+**Die Stichwörter stehen in `register.toml`**, je Band eine Liste. Ein
+Eintrag nennt das Stichwort, wie es im Register erscheint, die Wortformen,
+nach denen gesucht wird, und eine kurze wörtliche Wortfolge aus dem Satz,
+der den Begriff erklärt:
+
+```toml
+[[band1]]
+stichwort = "Budgetbeschränkung, weiche"
+formen = ["weiche Budgetbeschränkung", "weichen Budgetbeschränkung"]
+erklaerung = "unter dem es seither läuft"
+```
+
+Gesucht wird genau, mit Groß- und Kleinschreibung und an Wortgrenzen, jede
+Beugung einzeln: „Engpass“ findet „Engpass-Argument“, aber nicht
+„Engpasses“. Zeilenumbrüche und Auszeichnungen zwischen den Wörtern stören
+die Suche nicht. Fehlt `formen`, wird nach dem Stichwort selbst gesucht; mit
+`sortierung` bekommt ein Eintrag einen eigenen Sortierschlüssel, sonst
+sortiert der Lauf nach dem Stichwort, deutsch, ä wie a und ß wie ss.
+Wortgruppen aus Eigenschaftswort und Hauptwort stehen umgestellt
+(„Budgetbeschränkung, weiche“), feste Fügungen nicht („Wette gegen den
+Konsens“). Die Wortfolge der Erklärung schreibt man ohne Sternchen und
+Anführungszeichen ab, und sie muss im Fließtext des Bandes genau einmal
+stehen.
+
+Wer ein Stichwort hinzufügt, trägt es in die Liste seines Bandes ein, sucht
+im Text die Formen, in denen es vorkommt, und wählt die Wortfolge aus dem
+Satz, der es erklärt. Findet der nächste Lauf eine Form oder die Wortfolge
+nicht, oder findet er die Wortfolge mehrmals, warnt er, und die Warnung
+steht in `build/ausgabe.json` und im Text der Veröffentlichung; abgebrochen
+wird nichts. Darin liegt der Zweck der wörtlichen Wortfolge: Wer einen
+erklärenden Satz umschreibt, erfährt beim nächsten Satz, dass die
+Registerzeile nachzuziehen ist, und nicht erst vom Leser, der auf der
+halbfetten Seite nichts findet. Erklärt der Text ein Stichwort nirgends,
+entfällt die Angabe `erklaerung`; eine Erklärung, die der Text nicht
+gibt, gehört auch nicht ins Register. Den einen Satz über dem Register,
+der sagt, wie es zu lesen ist, führt dieselbe Datei unter `[hinweis]`,
+für das PDF und das E-Book getrennt.
+
+Die genaue Suche findet nur, was in der Liste steht, und eine übersehene
+Beugung bliebe deshalb ohne Folge. Der Lauf sucht darum zusätzlich nach
+gebeugten Formen der geführten – eine Endung mehr, ein Umlaut im Stamm,
+ein großer Anfangsbuchstabe am Satzanfang – und warnt, wenn ihretwegen ein
+Kapitel im Register fehlt oder die erste Nennung zu spät steht:
+„Wettrüstens“ zu „Wettrüsten“, „Belegschaftstreuhänden“ zu
+„Belegschaftstreuhand“. Meint die Form den Begriff, gehört sie unter
+`formen`. Meint sie etwas anderes, gehört sie unter `ausnahmen`, und die
+Prüfung übergeht sie.
+
+Die Quellen bleiben dabei unberührt. Auf dem Weg in den Satz setzt das
+Skript an jede Fundstelle eine unsichtbare Marke, im PDF einen Befehl, der
+beim Ausgeben der Seite deren Nummer in die `.aux`-Datei schreibt, im E-Book
+einen leeren Anker. Aus der `.aux`-Datei schreibt es nach jedem Lauf von
+LuaLaTeX die Registerzeilen, und ändern sie sich, folgt ein weiterer Lauf.
+Ein Indexprogramm braucht es dafür nicht. Die Seiten der Marken stehen nach
+dem ersten Lauf fest, weil der Hauptteil bei eins zu zählen beginnt und das
+Register hinter ihm steht; das Register kostet deshalb keinen zusätzlichen
+Lauf. Die Marke ist ein bloßes `\write` ohne Breite. Am Text geprüft,
+bleiben Zeilenfall und Seitenumbruch, wie sie ohne Register sind; nur der
+Wortabstand einer Zeile kann sich um Bruchteile eines Punkts verschieben,
+wenn eine Marke vor einem Anführungszeichen am Zeilenanfang steht, weil
+sie dort den optischen Randausgleich berühren kann. Weil die Marke in
+Leseausgabe und Innenteil gleich steht, bleiben beide seitengleich.
 
 ## Angaben zur Veröffentlichung
 
@@ -478,5 +568,10 @@ weil Brotschriften diese Zeichen selten mitführen und LuaTeX sie sonst
 stillschweigend weglässt; im E-Book werden sie als Hoch- und Tiefstellung
 ausgezeichnet, weil niemand weiß, welche Schrift ein Lesegerät nimmt.
 
-Beides geschieht nur auf dem Weg in die Erzeugnisse. Die Dateien in
+Hinzu kommt, was in keiner Quelle steht: das Register am Ende jedes Bandes
+und die unsichtbaren Marken, aus denen es seine Seiten bezieht (siehe
+oben). Es nennt Stellen; außer dem Satz, der sagt, wie es zu lesen ist,
+fügt es dem Buch keinen Text hinzu.
+
+All das geschieht nur auf dem Weg in die Erzeugnisse. Die Dateien in
 `manuskript/band1/` und `manuskript/band2/` bleiben, wie sie sind.

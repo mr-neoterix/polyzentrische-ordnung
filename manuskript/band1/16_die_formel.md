@@ -18,7 +18,7 @@ Die Symmetrieregel verlangte dieselbe Prüfung nach der anderen Seite, und sie e
 
 Damit hatte die Vermutung, die diesen Text trägt, ihren Namen: Polyzentrik gegen Monozentrik. Was die Fallreihe erledigt hat, ist die Erklärung durch das Etikett; ihren Ersatz hat sie benannt und nicht bewiesen, und deshalb hängt er an dem, was ihm widersprechen darf.
 
-Keine der beiden klassischen Antworten löst das damit gestellte Problem. Der Kommunismus definiert es weg – er erwartet, dass mit den Klassen auch Knappheit und legitime Meinungsverschiedenheit verschwinden, und wer das Verschwinden von Macht erwartet, baut keine Käfige für sie. Der regulierte Kapitalismus lässt die Machtquelle intakt und muss seine Fesseln dauerhaft gegen einen konzentrierten Gegner verteidigen; deshalb rosten sie, und der Nachweis dafür ist die Erosion der deutschen Mitbestimmung neben dem Fortbestand der Sparkassen.
+Keine der beiden klassischen Antworten löst das damit gestellte Problem. Der Kommunismus definiert es weg – er erwartet, dass mit den Klassen auch Knappheit und legitime Meinungsverschiedenheit verschwinden, und wer das Verschwinden von Macht erwartet, baut keine Käfige für sie. Der regulierte Kapitalismus lässt die Machtquelle intakt und muss seine Fesseln dauerhaft gegen einen konzentrierten Gegner verteidigen; deshalb rosten sie, wie die Erosion der deutschen Mitbestimmung zeigt.
 
 Was folgt, ist eine Bauanweisung: Wo immer möglich, wird eine Regel durch eine Eigentumsstruktur ersetzt, weil eine Struktur mit gebundenem Vermögen einen Träger hat, der sie verteidigt. Und das oberste Kriterium ist Fehlertoleranz, nicht Gerechtigkeit: Es fragt, ob eine Ordnung ihre Fehler überlebt.
 
@@ -56,4 +56,4 @@ Und das ist die Formel.
 
 ---
 
-*Zu den Belegen: Jedes Kapitel schließt mit seinem eigenen Nachweisapparat samt Verifikationsstatus. Das vollständige Quellen- und Begriffsverzeichnis des Projekts liegt in `quellen_und_glossar.md`; was davon noch offen ist, benennt das fünfzehnte Kapitel, und Posten für Posten führt es das offene Verzeichnis.*
+*Zu den Belegen: Jedes Kapitel schließt mit seinem eigenen Nachweisapparat samt Verifikationsstatus. Ein Quellenverzeichnis des Projekts mit Prüfvermerken liegt im offenen Verzeichnis, in `quellen_und_glossar.md`; die Begriffe führt das Register am Ende jedes Bandes. Was an Belegen noch offen ist, benennt das fünfzehnte Kapitel, und Posten für Posten führt es das offene Verzeichnis.*
