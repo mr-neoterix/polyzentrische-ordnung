@@ -70,6 +70,8 @@ Der Satz hat Grenzen. Erstens ist Eigentum kein Zauber. Auch Eigentümer können
 
 Aus dieser Grenze folgt eine Faustregel: *Klagerechte statt Aufsichtszuständigkeiten.* Wo immer möglich, bekommt der Betroffene einen eigenen Anspruch, den er selbst einklagen kann, statt dass eine Behörde ein Ermessen bekommt, das man ihr wegkürzen kann. Ein Geschädigter mit Klagerecht ist ein konzentriertes Interesse. Eine Behörde mit Ermessen ist ein Haushaltsposten.
 
+Die Frage im Untertitel, warum Eigentum verteilt werden muss, damit Freiheit Bestand hat, ist schon mit der Diagnose der vorigen Kapitel beantwortet. Dieses Kapitel hat das Mittel begründet: Verteilung hält nur, wo sie Träger hat, und Eigentum mit gebundenem Vermögen schafft solche Träger verlässlicher als eine Regel, doch nur um einen Grad.
+
 Neben dem Werkzeug fehlt diesem Buch noch sein Maßstab: Woran erkennt man eigentlich, dass eine Ordnung gut ist?
 
 ---
