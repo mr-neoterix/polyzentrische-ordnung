@@ -24,7 +24,7 @@ Und dann die Frage, die der britische Fall aufwirft: Wie baut man einen Hebel, d
 
 *Ein ausdrücklicher Bestandsschutz für abgeschlossene Übertragungen im Gesetz selbst,* so dass eine spätere Kürzung nur künftige Fälle trifft. Eine Stundung braucht ihn mehr als eine Befreiung, denn ihre Bedingungen sind noch Jahre offen. Abschaffen kann eine Regierung den Hebel dann jederzeit; zurückdrehen kann sie ihn für die abgeschlossenen Fälle nur mit einem eigenen, sichtbaren Beschluss, der sich am verfassungsrechtlichen Vertrauensschutz messen lassen muss.
 
-*Eine Evaluationsklausel mit Begründungszwang statt einer Verfallsklausel.* Eine Verfallsklausel – die Norm läuft nach acht Jahren automatisch aus – klingt nach Sorgfalt und ist ein Geschenk an die Gegner, weil sie nichts tun müssen. Eine Evaluationsklausel zwingt zur Messung und macht jede Kürzung zu einem Vorgang, in dem eine Regierung öffentlich gegen gemessene Ergebnisse argumentieren muss. Gemessen werden dabei auch die Kosten und der Anteil der Übertragungen, die ohne den Hebel stattgefunden hätten. Die Klausel wirkt deshalb in beide Richtungen: Sie schützt einen Hebel, der wirkt, vor einer Kürzung ohne Begründung, und sie macht sichtbar, wenn er mehr kostet, als er bewirkt.
+*Eine Evaluationsklausel mit Begründungszwang statt einer Verfallsklausel.* Eine Verfallsklausel – die Norm läuft nach acht Jahren automatisch aus – klingt nach Sorgfalt und ist ein Geschenk an die Gegner, weil sie nichts tun müssen. Eine Evaluationsklausel zwingt zur Messung und macht jede Kürzung zu einem Vorgang, in dem eine Regierung öffentlich gegen veröffentlichte Ergebnisse argumentieren muss. Gemessen werden dabei auch die Kosten, und geschätzt wird der Anteil der Übertragungen, die ohne den Hebel stattgefunden hätten. Die Klausel wirkt deshalb in beide Richtungen: Sie schützt einen Hebel, der wirkt, vor einer Kürzung ohne Begründung, und sie macht sichtbar, wenn er mehr kostet, als er bewirkt.
 
 *Und die frühe Erzeugung von Trägern:* Genossenschaftsverbände, Kammern und Banken, deren Geschäft an dem Instrument hängt. Sie verteidigen den Hebel auch dort, wo er nur mitgenommen wird; gegen diese Seite ihres Interesses steht die Evaluationsklausel.
 
@@ -62,13 +62,15 @@ Das ist zugleich die Antwort auf den liberalen Einwand, ein Vorkaufsrecht enteig
 
 Eine Belegschaftsübernahme ist ein Unternehmenskauf. Sie wirft Rechtsform-, Bewertungs-, Finanzierungs-, Steuer- und Verfassungsfragen auf, sie braucht Verträge, Gutachten, Satzungen und Bankgespräche. Der Engpass dieses Pfades ist die Zahl der Menschen, die solche Transaktionen begleiten können.
 
-Was gebraucht wird, ist unspektakulär: Genossenschaftsverbände mit Gründungsberatung, Kammern, die den Weg kennen, Steuerberater mit Musterlösungen, standardisierte Satzungen, standardisierte Kapitalkontenmodelle, Musterverträge für Verkäuferdarlehen, Bewertungsleitfäden. Die Satzungen enthalten die Mindestkapitalklausel, die gestreckte Auszahlung und das Mitgliedschaftsangebot nach der Probezeit aus dem zweiten Kapitel, und für den kleinen Betrieb weist die geprüfte Satzung nach, was sonst laufend gemeldet würde.
+Was gebraucht wird, ist unspektakulär: Genossenschaftsverbände mit Gründungsberatung, Kammern, die den Weg kennen, Steuerberater mit Musterlösungen, standardisierte Satzungen, standardisierte Kapitalkontenmodelle, Musterverträge für Verkäuferdarlehen, Bewertungsleitfäden. Die Satzungen enthalten die Vermögensbindung, die Mindestkapitalklausel, die gestreckte Auszahlung und das Mitgliedschaftsangebot nach der Probezeit aus dem zweiten Kapitel, und für den kleinen Betrieb weist die geprüfte Satzung nach, was sonst laufend gemeldet würde.
 
 Wer den Kanal will, muss zuerst ein paar hundert Leute ausbilden.
 
 ### Der Rest der Stufe eins
 
 *Genossenschaftsrecht:* Entbürokratisierung von Gründung und Prüfungswesen nach der Größenstaffel des zweiten Kapitels, digitale Verfahren, Augenmaß bei der Pflichtmitgliedschaft jeder eingetragenen Genossenschaft in einem Prüfungsverband nach § 54 des Genossenschaftsgesetzes. Diese Pflichtmitgliedschaft sichert Qualität – sie ist einer der Gründe, warum Genossenschaften in Deutschland selten insolvent werden – und sie verteuert Gründungen. Die Aufgabe ist eine Abwägung, keine Abschaffung.
+
+*Vermögensbindung:* die Nachwirkung aus dem zweiten Kapitel. Was ein Betrieb unter der Förderung an gebundenen Rücklagen bildet, fällt bei Auflösung und Umwandlung an den Fonds des Sektors, auch wenn der Betrieb inzwischen auf die Förderung verzichtet hat oder sie beendet ist, gleich, was seine Satzung dann bestimmt. Das Gesetz dazu gehört in diese Stufe, weil es mit der ersten Förderung gelten muss.
 
 *Verantwortungseigentum:* Einführung der Gesellschaft mit gebundenem Vermögen – aber nur mit dem Kontroll-Lock aus dem vierten Kapitel, sonst schafft der Gesetzgeber ein weiteres Dynastie-Instrument.
 
@@ -111,5 +113,7 @@ Dann greift ein Ersatzweg aus drei Teilen.
 *Lebenszykluskosten im Vergaberecht:* siehe Kapitel 5. **Bestätigt.** Die Grenze – Standards über Kriterien, nicht über Trägerpräferenz – folgt aus dem Vergaberecht und ist im Text ausgewiesen.
 
 *Gesellschaft mit gebundenem Vermögen:* siehe Kapitel 4. **Bestätigt.**
+
+*Nachwirkung der Vermögensbindung:* Muster, Rechtslage und die offene Frage der Satzungsklausel in Kapitel 2. Die Nachwirkung und ihre Einordnung in die erste Stufe sind **Wertung.**
 
 *Der neue Steuertatbestand als Stundung mit Nachversteuerung, die drei Sicherungen des Hebels, die Zwei-Instrumente-Unterscheidung, das Andienungs- und Gleichpreisrecht und der Ersatzplan für das verpasste Fenster* sind Konstruktionsvorschläge dieses Buches. **Wertung.** Wie weit der verfassungsrechtliche Vertrauensschutz eine laufende Stundung gegen eine spätere Kürzung sichert (unechte Rückwirkung), ist **offen.**

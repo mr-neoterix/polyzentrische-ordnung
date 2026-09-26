@@ -66,7 +66,7 @@ Aus diesem Kapitel folgen zwei Regeln, die alles Weitere binden.
 
 ### Belege
 
-*Engels, „Verwaltung von Sachen":* Friedrich Engels, *Herrn Eugen Dührings Umwälzung der Wissenschaft* (*Anti-Dühring*, 1878), dritter Abschnitt; MEW 20, S. 262. Wortlaut der Passage bestätigt („An die Stelle der Regierung über Personen tritt die Verwaltung von Sachen und die Leitung von Produktionsprozessen"). **Bestätigt** im Wortlaut; die Seitenangabe ist über mehrere voneinander unabhängige Fundstellennachweise übereinstimmend bestätigt, in die gedruckte Dietz-Ausgabe ist nicht eingesehen.
+*Engels, „Verwaltung von Sachen":* Friedrich Engels, *Herrn Eugen Dührings Umwälzung der Wissenschaft* (*Anti-Dühring*, 1878), dritter Abschnitt; MEW 20, S. 262. Wortlaut: „An die Stelle der Regierung über Personen tritt die Verwaltung von Sachen und die Leitung von Produktionsprozessen". **Bestätigt** im Wortlaut; die Seitenangabe ist über mehrere voneinander unabhängige Fundstellennachweise übereinstimmend bestätigt, in die gedruckte Dietz-Ausgabe ist nicht eingesehen.
 
 *Ostrom:* Elinor Ostrom, *Governing the Commons. The Evolution of Institutions for Collective Action*, Cambridge University Press 1990; deutsch: *Die Verfassung der Allmende*, Tübingen: Mohr Siebeck 1999. Acht Gestaltungsprinzipien, darunter klar definierte Grenzen, Überwachung, abgestufte Sanktionen, Konfliktmechanismen und verschachtelte Einheiten. **Bestätigt.**
 

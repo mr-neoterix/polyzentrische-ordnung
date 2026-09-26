@@ -6,7 +6,7 @@
 
 **Marcel Richtsteiger**
 
-*Stand: 25. September 2026.*
+*Stand: 26. September 2026.*
 
 ---
 
@@ -84,4 +84,4 @@ Was hier steht, ist deshalb ein Stand. Das Verzeichnis, aus dem dieses Buch gese
 
 Jedes Kapitel schließt mit einem Abschnitt *Belege*. Er nennt Fundstellen und weist den Verifikationsstatus aus: *bestätigt* heißt unabhängig belegt; *mit Einschränkung* heißt, dass die Angabe im Kern trägt, aber eine ausgewiesene Unschärfe hat; *Wertung* heißt, dass es sich um eine Deutung handelt und nicht um einen Befund. Eine vierte Stufe kommt selten vor: *offen* heißt, dass eine Angabe aussteht: weder belegt noch gedeutet, weil die Messung fehlt oder der Fall noch läuft. Wo eine Zahl umstritten ist, steht die Spanne. Wo eine Zuschreibung nicht haltbar ist, steht sie nicht im Text. Verweist ein Belegapparat auf den anderen Band, nennt er ihn mit Band und Kapitelnummer.
 
-Ein Quellenverzeichnis des Projekts mit Prüfvermerken liegt im offenen Verzeichnis, in `quellen_und_glossar.md`; die Begriffe führt das Register am Ende jedes Bandes.
+Ein Quellenverzeichnis des Projekts mit Prüfvermerken liegt im offenen Verzeichnis, in `quellen_und_glossar.md`; dort stehen auch die Rechenwege und Prüfprotokolle zu den Belegen. Die Begriffe führt das Register am Ende jedes Bandes.
