@@ -34,7 +34,7 @@ Der entscheidende Vorzug dieses Pfades ist, dass er kaum etwas erfinden muss. Fa
 
 *Kommunale Stadtwerke* mit einer Neugründungswelle im laufenden Jahrhundert. Den Allmende-Sektor muss niemand schaffen; er muss umgebaut werden.
 
-*Selbstverwaltung in der Sozialversicherung.* Deutschland hat seit über hundert Jahren Institutionen, die von Vertretern der Versicherten und der Arbeitgeber getragen werden. In der Krankenversicherung kommen konkurrierende Träger hinzu, ein Wechselrecht und ein tatsächlich angewandtes Insolvenzrecht – die polyzentrischste Struktur, die dieser Staat besitzt. Diese Selbstverwaltung ist zugleich der Baustein in der schlechtesten Verfassung, denn ihr Selbstverwaltungsorgan wird von gut einem Fünftel der Berechtigten bestellt, und ein großer Teil der Sitze wird gar nicht erst umkämpft. Anders als die übrigen muss dieser Baustein deshalb zuerst instand gesetzt werden, bevor er benutzt werden kann. Dazu gehören Wahllisten mit mehr Bewerbern als Sitzen, leichterer Zugang für Listen außerhalb der Verbände und die Zustimmung der Mitglieder selbst zu jeder Vereinigung ihrer Kasse. Der zweite Band führt das im Kapitel über den Sozialstaat aus.
+*Selbstverwaltung in der Sozialversicherung.* Deutschland hat seit über hundert Jahren Institutionen, die von Vertretern der Versicherten und der Arbeitgeber getragen werden. In der Krankenversicherung kommen konkurrierende Träger hinzu, ein Wechselrecht und ein tatsächlich angewandtes Insolvenzrecht – die polyzentrischste Struktur, die dieser Staat besitzt. Diese Selbstverwaltung ist zugleich der Baustein in der schlechtesten Verfassung, denn ihr Selbstverwaltungsorgan wird von gut einem Fünftel der Berechtigten bestellt, und ein großer Teil der Sitze wird gar nicht erst umkämpft. Anders als die übrigen muss dieser Baustein deshalb zuerst instand gesetzt werden, bevor er benutzt werden kann. Dazu gehören Wahllisten mit mehr Bewerbern als Sitzen, leichterer Zugang für Listen außerhalb der Verbände und die Zustimmung der Mitglieder selbst zu jeder Vereinigung ihrer Kasse.
 
 *Föderalismus.* Er wird in Deutschland meist als Bremse beklagt. In diesem Entwurf ist er ein Konstruktionsvorteil: Er liefert die regionale Gliederung, die die Fondsfamilie ohnehin braucht.
 
@@ -54,13 +54,15 @@ Die Ergebnisse dieses Tests sind unterschiedlich.
 
 *Ein übernommener Betrieb bleibt übernommen.* Wenn die Steuerentlastung morgen gestrichen wird, gehört der Maschinenbauer aus Ostwestfalen weiterhin seiner Belegschaft.
 
+*Eine Vermögensbindung ist eine Regel mit Kläger.* Endet die Förderung, bleibt gebunden, was unter ihr angespart wurde. Hebt ein Gesetz die Bindung auf, stehen den Mitgliedern die Rücklagen offen wie denen der Building Societies; bis dahin klagt der Fonds, an den der gebundene Teil bei Auflösung oder Umwandlung fällt, auf ihre Einhaltung.
+
 *Ein Kreditprogramm ist ein Programm.* Es kann mit einem Haushaltsbeschluss enden, und dann enden auch die Übernahmen, die es finanziert hätte. Was bereits finanziert wurde, bleibt.
 
 *Ein Kostenvergleich im Allmende-Sektor ist eine Regel.* Er kann von einer Regierung, die ihn unbequem findet, methodisch entschärft, personell ausgehungert oder in der Veröffentlichungsfrist verzögert werden, bis er nichts mehr aussagt.
 
 *Eine Fondsanwartschaft ist – vermutlich – ein Programm.* Das ist der unangenehmste Befund dieses Buches über sich selbst, und der zweite Band führt ihn bei der zweiten Stufe aus.
 
-*Und der Sozialstaat ist beides zugleich.* Die Rentenanwartschaft ist eine Struktur, weil sie Eigentum ist; das Existenzminimum ist dem Grunde nach eine Struktur, weil es in der Verfassung steht; die Höhe jeder Leistung dagegen ist ein Programm. Ausgerechnet der Teil, auf den sich diese Ordnung stützt – die Sicherung derer, die ein gestorbener Betrieb freigesetzt hat –, liegt überwiegend im Programmteil. Das Kapitel über den Sozialstaat im zweiten Band zieht daraus die Konsequenzen.
+*Und der Sozialstaat ist beides zugleich.* Die Rentenanwartschaft ist eine Struktur, weil sie Eigentum ist; das Existenzminimum ist dem Grunde nach eine Struktur, weil es in der Verfassung steht; die Höhe jeder Leistung dagegen ist ein Programm. Ausgerechnet der Teil, auf den sich diese Ordnung stützt – die Sicherung derer, die ein gestorbener Betrieb freigesetzt hat –, liegt überwiegend im Programmteil.
 
 Einmal ist dieser Test in der Wirklichkeit durchgeführt worden, an dem Fall, den das achte Kapitel angeführt hat: 1990 fiel die Wohnungsgemeinnützigkeit. Übrig blieb, was der Test vorhersagt. Die Genossenschaften behielten ihre Bestände, in denen ihre Mitglieder wohnen; die kommunalen und die gewerkschaftlichen Gesellschaften wurden gewöhnliche Unternehmen, und die Berliner GSW war vierzehn Jahre später verkauft.
 
@@ -94,7 +96,11 @@ Die drei Stufen selbst und ihre Prüfung an den sechs Tests führt der zweite Ba
 
 *Ertragshoheit und Verwaltung der Erbschaftsteuer (Grundlage des Föderalismustests):* Artikel 106 Absatz 2, Artikel 108 Absatz 2 und Artikel 105 Absatz 3 GG – ausgeführt und belegt in Band 2, Kapitel 10. **Bestätigt.**
 
-*Die Wohnungsgemeinnützigkeit als vollzogener Belastungstest:* Wohnungsgemeinnützigkeitsgesetz vom 29. Februar 1940, aufgehoben durch Artikel 21 des Steuerreformgesetzes 1990 vom 25. Juli 1988 mit Wirkung zum 1. Januar 1990; Verkauf der GSW 2004. Fundstellen und Verifikationsstatus in Kapitel 8 und in Band 2, Kapitel 3. **Bestätigt;** dass die Genossenschaften ihre Bestände im Ganzen behielten, **mit Einschränkung** (siehe Kapitel 8). Die Lesart als Belastungstest ist **Wertung.**
+*Die Vermögensbindung im Belastungstest:* Verteilung der Rücklagen bei Auflösung und Formwechsel (§ 91 GenG, § 263 Abs. 2 UmwG), das italienische Muster (Art. 2545-octies Codice civile) und die Building Societies: siehe Kapitel 8. Die Nachwirkung der Bindung und der Fonds als Kläger sind Konstruktion dieses Buches (Band 2, Kapitel 2), **Wertung;** wie die Nachwirkung im deutschen Recht zu verankern ist, ist **offen,** die Rechtsfrage ist nicht geprüft.
+
+*Sicherungsstufen des Sozialstaats:* Rentenanwartschaft als Eigentum nur bei nicht unerheblicher Eigenleistung (Art. 14 Abs. 1 GG; Band 2, Kapitel 10), Existenzminimum dem Grunde nach (BVerfGE 125, 175; Band 2, Kapitel 8, dort auch die Folgerungen). **Bestätigt,** die Eigenleistung dem Grundsatz nach. Die Zuordnung zu Struktur und Programm ist **Wertung.**
+
+*Die Wohnungsgemeinnützigkeit als vollzogener Belastungstest:* siehe Kapitel 8. **Bestätigt;** dass die Genossenschaften ihre Bestände im Ganzen behielten, **mit Einschränkung.** Die Lesart als Belastungstest ist **Wertung.**
 
 *Instandsetzung der Selbstverwaltung:* Wahlbeteiligung und Friedenswahlen, Zustimmung der Mitglieder zu Vereinigungen, mehr Bewerber als Sitze als Zulässigkeitsbedingung einer Liste und gesenkte Hürden für freie Listen: Befund und Konstruktionsvorschlag in Band 2, Kapitel 8. Befund **bestätigt,** Vorschlag **Wertung.**
 

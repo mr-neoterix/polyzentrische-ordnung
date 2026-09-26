@@ -20,7 +20,7 @@ Damit hatte die Vermutung, die diesen Text trägt, ihren Namen: Polyzentrik gege
 
 Keine der beiden klassischen Antworten löst das damit gestellte Problem. Der Kommunismus definiert es weg – er erwartet, dass mit den Klassen auch Knappheit und legitime Meinungsverschiedenheit verschwinden, und wer das Verschwinden von Macht erwartet, baut keine Käfige für sie. Der regulierte Kapitalismus lässt die Machtquelle intakt und muss seine Fesseln dauerhaft gegen einen konzentrierten Gegner verteidigen; deshalb rosten sie, wie die Erosion der deutschen Mitbestimmung zeigt.
 
-Was folgt, ist eine Bauanweisung: Wo immer möglich, wird eine Regel durch eine Eigentumsstruktur ersetzt, weil eine Struktur mit gebundenem Vermögen einen Träger hat, der sie verteidigt. Und das oberste Kriterium ist Fehlertoleranz, nicht Gerechtigkeit: Es fragt, ob eine Ordnung ihre Fehler überlebt.
+Was folgt, ist eine Bauanweisung: Wo immer möglich, wird eine Regel durch eine Eigentumsstruktur ersetzt, weil gebundenes Vermögen Eigentümer mit eigenem Interesse an seinem Bestand schafft, und was Regel bleibt, die Bindung selbst eingeschlossen, bekommt einen Kläger, wo sich einer finden lässt. Und das oberste Kriterium ist Fehlertoleranz, nicht Gerechtigkeit: Es fragt, ob eine Ordnung ihre Fehler überlebt.
 
 Daraus entstehen drei Sektoren, die nebeneinander konkurrieren. Belegschaftseigene Betriebe mit gebundenem Kollektivvermögen *und* individuellen Kapitalkonten, offener Mitgliedschaft und echtem Insolvenzrisiko. Netze, Wasser, Wohnen und digitale Grundstrukturen in gemeinwirtschaftlicher Trägerschaft, mit einem Sterberecht für Betreiber, das den Betrieb nicht unterbricht. Und ein privater Marktsektor, der bleibt, weil für die Wette gegen den Konsens kein anderes verlässliches Verfahren bekannt ist – unter Sterblichkeitsregeln, die Vermögen entstehen lassen und Dynastien nicht.
 
@@ -30,7 +30,7 @@ Und der Weg dorthin beginnt bei einem Steuerparagraphen, einem Kreditprogramm, e
 
 Funktionsfähig ist diese Ordnung nicht deshalb, weil ihre Teile schön zueinander passen. Sie ist es, weil an jeder Stelle, an der sie etwas verlangt, jemand steht, der ein Interesse an der Erfüllung hat.
 
-Die Belegschaft am Betrieb, der ihr gehört. Das Mitglied am Kapitalkonto, das ihm folgt. Die Kommune am Netz, das ihr gehört. Der Anschlussnehmer an der Genossenschaft, in der er Mitglied ist statt Kunde. Der Betreiber am Vergleichswert, der über seine Konzession entscheidet. Der Prüfer am Testat, für das er haftet. Der Berechtigte an der Anwartschaft, für die er selbst eingezahlt hat. Der Geschädigte am Klagerecht, das ihm gehört und nicht einer Behörde.
+Die Belegschaft am Betrieb, der ihr gehört. Das Mitglied am Kapitalkonto, das ihm folgt. Der Fonds an der Bindung, die ihm die Rücklagen zuweist, wenn die Mitglieder ihren Betrieb auflösen oder umwandeln. Die Kommune am Netz, das ihr gehört. Der Anschlussnehmer an der Genossenschaft, in der er Mitglied ist statt Kunde. Der Betreiber am Vergleichswert, der über seine Konzession entscheidet. Der Prüfer am Testat, für das er haftet. Der Berechtigte an der Anwartschaft, für die er selbst eingezahlt hat. Der Geschädigte am Klagerecht, das ihm gehört und nicht einer Behörde.
 
 Umsetzbar ist sie, weil ihr erster Schritt aus Instrumenten besteht, die eine gewöhnliche Mehrheit im geltenden Recht beschließen kann, deren Gewinner benennbar sind und deren Ergebnisse messbar bleiben. Und weil dieselbe Politik aus drei verschiedenen Weltbildern heraus begründbar ist – als Standorterhalt, als Eigentumsverteilung, als Beseitigung einer Marktunvollkommenheit.
 
@@ -56,4 +56,4 @@ Und das ist die Formel.
 
 ---
 
-*Zu den Belegen: Jedes Kapitel schließt mit seinem eigenen Nachweisapparat samt Verifikationsstatus. Ein Quellenverzeichnis des Projekts mit Prüfvermerken liegt im offenen Verzeichnis, in `quellen_und_glossar.md`; die Begriffe führt das Register am Ende jedes Bandes. Was an Belegen noch offen ist, benennt das fünfzehnte Kapitel, und Posten für Posten führt es das offene Verzeichnis.*
+*Zu den Belegen: Jedes Kapitel schließt mit seinem eigenen Nachweisapparat samt Verifikationsstatus. Ein Quellenverzeichnis des Projekts mit Prüfvermerken liegt im offenen Verzeichnis, in `quellen_und_glossar.md`; dort stehen auch die Rechenwege und Prüfprotokolle zu den Belegen. Die Begriffe führt das Register am Ende jedes Bandes. Was an Belegen noch offen ist, benennt das fünfzehnte Kapitel, und Posten für Posten führt es das offene Verzeichnis.*

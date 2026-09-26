@@ -1470,12 +1470,12 @@ Anlass war eine externe Prüfung von Einleitung, Belastungstest, Falsifizierbark
 ### Die vier Größen der Zehnjahresbilanz und ihre vorab festgelegte Entscheidungsregel
 **Erläuterung:** Verbreitung, Leistung, Verteilung und Ausnahmequote, jede mit eigener Richtung, eigener Schwelle und eigenem Urteil, sämtlich festgelegt vor der ersten Erhebung. Die Bauart ist nicht neu im Projekt, sondern seine eigene: Die einzige quantitative Auswertung dieses Buches – die Prüfung der Friedensvermutung – hat ihre Entscheidungsregel vor der ersten Schätzung festgeschrieben und seither nicht geändert; die Vorregistrierung liegt im Verzeichnis `pruefung/`, und ihr Wert liegt darin, dass ihr Commit älter ist als der des Ergebnisses. Die frühere Fassung der Bilanz erklärte die Wette nur dann für verloren, wenn sich in keiner der drei Größen etwas bewegt hatte – eine Regel, die den Fall freispricht, der am meisten gegen den Entwurf spräche, und die überdies ohne Richtung auskam.
 **Quelle(n):** Konstruktion dieses Buches (Kapitel 22, nachgezogen in Kapitel 25; Thesenpapier Sektion IV). Bauartvorbild im eigenen Bestand: `pruefung/praeregistrierung.md` samt Skript, Rohausgabe und Ergebnisbericht, ausgewiesen in Kapitel 23.
-**Verifikation:** Wertung. Welche Zahl die Schwelle der Verbreitung trägt, sagt dieses Buch nicht – die Lücke ist im Ledger als offene Stelle geführt und nicht durch eine erfundene Zahl geschlossen.
+**Verifikation:** Wertung. Welche Zahl die Schwelle der Verbreitung trägt, sagt dieses Buch nicht – die Lücke ist im Ledger als offene Stelle geführt und nicht durch eine erfundene Zahl geschlossen. *Nachtrag vom 26.09.2026:* Die Toleranz steht seither vor der Messung fest, nach der Regel, die das Buch dem chinesischen Fall gibt (Band 1, Kapitel 14; Vorregistrierung `pruefung/praeregistrierung_china.md`): Für Leistung und Verteilung ist die Schwelle der Vergleich, gegen den ohnehin gemessen wird, die gematchte Gruppe und der Stand bei Inkrafttreten, dieser im Mittel jeder Hälfte; *dauerhaft* heißt in beiden Hälften der zehn Jahre; eine Bandbreite gibt es nicht (Heimat Band 2, Kapitel 11; Ledger Band 1, Kapitel 15; Thesenpapier Sektionen IV und VI). Eine Zahl braucht allein die Verbreitung, und sie bleibt offen. Ebenfalls **Wertung.**
 
 ### Die Ausnahmequote als Erhebung der Fehlertoleranz
 **Erläuterung:** Fehlertoleranz wird nicht an der Zahl der Zusammenbrüche gemessen, sondern an der Zahl der Ausnahmen von den eigenen Sterblichkeitsregeln: gerissene Schwellen ohne Folge, Stützungen entgegen der harten Budgetbeschränkung, verlängerte Fristen, ausgesetzte Vergleiche. Die Größe ist erhebbar, weil jeder solche Vorgang eine aktenkundige Entscheidung ist. Der Begriff, an dem sie hängt, ist Kornais weiche Budgetbeschränkung; der inländische Anschauungsfall ist die Rettung der Landesbanken, bei der gestützt wurde, weil das Scheitern politisch teurer war als das Auffangen. Bis zum 29.08.2026 hatte das oberste Kriterium dieses Buches als einzige seiner tragenden Aussagen keine Messgröße.
 **Quelle(n):** Kornai und die Landesbanken sind mit Fundstellen und Verifikationsstatus in den Kapiteln 4, 8 und 9 belegt; Fagor als Gegenfall der eingehaltenen Regel in Kapitel 9. Die Messgröße selbst ist Konstruktion dieses Buches (Kapitel 22).
-**Verifikation:** Wertung. Für die Erhebung liegt kein Vorbild vor: Keine bekannte Förderarchitektur veröffentlicht, wie oft sie von ihren eigenen Abbruchregeln abgewichen ist. *Nachtrag vom 25.09.2026:* Die Quote hat seither einen Nenner, die Anlässe, bei denen die Regel hätte greifen müssen – gerissene Schwellen und Anträge auf Stützung oder Aufschub (Band 1, Kapitel 14 und 15; Band 2, Kapitel 11; Thesenpapier Sektion IV). Eine Niveauschwelle und eine Zahl hat sie weiterhin nicht.
+**Verifikation:** Wertung. Für die Erhebung liegt kein Vorbild vor: Keine bekannte Förderarchitektur veröffentlicht, wie oft sie von ihren eigenen Abbruchregeln abgewichen ist. *Nachtrag vom 25.09.2026:* Die Quote hat seither einen Nenner, die Anlässe, bei denen die Regel hätte greifen müssen – gerissene Schwellen und Anträge auf Stützung oder Aufschub (Band 1, Kapitel 14 und 15; Band 2, Kapitel 11; Thesenpapier Sektion IV). Eine Niveauschwelle und eine Zahl hat sie weiterhin nicht. *Nachtrag vom 26.09.2026:* Ihre Toleranz steht seither vorab fest: Gemessen wird die zweite Hälfte der zehn Jahre an der ersten, je Art des Anlasses gerechnet (Band 2, Kapitel 11; Band 1, Kapitel 15; Thesenpapier Sektionen IV und VI). **Wertung.**
 
 ### Warum die Folge auf der obersten Ebene eine Ausweisungspflicht bleibt
 **Erläuterung:** Bauteile bekommen Abschaltkriterien mit Folge – die Förderlinie endet, der Betreiber verliert die Betriebsführung, die Bestandsabgabe endet. Für die Ordnung als Ganze bleibt es bei der Pflicht, das Ergebnis als das auszuweisen, was es ist. Der Grund ist das Engpass-Argument des ersten Kapitels, auf den eigenen Entwurf angewandt: Eine Instanz, die befugt wäre, eine Eigentumsordnung abzuschalten, wäre genau die Machtkonzentration, gegen die gebaut wird. Der Abstand zwischen beiden Ebenen wird dadurch begründet und nicht beseitigt und ist deshalb im Ledger verbucht.
@@ -1647,7 +1647,7 @@ Anlass war die Kritik eines Lesers am ersten Band, die unter anderem drei Stelle
 ### Vermögensbindung am gemeinsamen Ausgang
 **Erläuterung:** Das deutsche Genossenschaftsrecht sperrt den einzelnen Ausgang (§ 73 Abs. 2 Satz 3 GenG: kein Anspruch des Ausscheidenden auf die Rücklagen), den gemeinsamen nicht: Bei der Auflösung wird der Überschuss über die Geschäftsguthaben nach Köpfen verteilt, soweit die Satzung es nicht ausschließt (§ 91 GenG), beim Formwechsel sind die Mitglieder im Verhältnis ihrer Geschäftsguthaben am neuen Kapital beteiligt (§ 263 Abs. 2 UmwG). Das italienische Recht führt bei der Umwandlung den Vermögenswert über das eingezahlte Kapital hinaus an die Förderfonds des Genossenschaftswesens ab (Art. 2545-undecies Codice civile); umwandeln dürfen sich nur Genossenschaften ohne überwiegende Gegenseitigkeit (Art. 2545-decies), die übrigen müssen die Verteilung der Rücklagen ausschließen (Art. 2514). Eine Klagebefugnis der Fonds sieht es nicht vor; Muster des klagenden Begünstigten ist die Nationwide Foundation, die die Abtretungen neuer Mitglieder selbst durchsetzen kann. Im Text: die Sperre beider Ausgänge als Förderbedingung, der gebundene Teil an einen Fonds des Sektors, der als Begünstigter auf die Einhaltung klagen kann (Band 2, Kapitel 2).
 **Quelle(n):** §§ 73, 91, 92 GenG; §§ 258 ff., 259, 262, 263 UmwG; Art. 2514, 2545-octies, 2545-decies, 2545-undecies Codice civile samt Art. 223-duodecies ff. disp. att.
-**Verifikation:** bestätigt am Wortlaut über Spiegelungen (GenG und UmwG in einer konsolidierten Fassung älteren Stands, Codice civile über Normattiva-Texte), amtliche Seiten gesperrt; offen, ob eine Satzungsregel nach § 91 Abs. 3 oder § 92 GenG einer späteren Satzungsänderung oder einem Formwechsel standhält (V23). Die Konstruktion ist Wertung.
+**Verifikation:** bestätigt am Wortlaut über Spiegelungen (GenG und UmwG in einer konsolidierten Fassung älteren Stands, Codice civile über Normattiva-Texte), amtliche Seiten gesperrt; offen, ob eine Satzungsregel nach § 91 Abs. 3 oder § 92 GenG einer späteren Satzungsänderung oder einem Formwechsel standhält (V23, seit dem 26.09.2026 eigens V41). Die Konstruktion ist Wertung. *Nachtrag vom 26.09.2026:* Die Sperre des gemeinsamen Ausgangs überdauert seither die Förderung, mit Art. 2545-octies als Muster und einem Gesetz als Träger der Nachwirkung; beides steht mit Status in Abschnitt AG („Art. 2545-octies Codice civile" und „Die Nachwirkung der Bindung im deutschen Recht").
 
 ## AF. Anker der Leserkritik am zweiten Band: Datenstelle, kleiner Betrieb, Subsidiaritätsklage (Stand 25.09.2026)
 
@@ -1723,9 +1723,11 @@ Anlass war die Kritik eines Lesers am zweiten Band in der Ausgabe 3.7, die zwei 
 **Quelle(n):** Gesetz zur Änderung des Grundgesetzes vom 20.12.2024 (BGBl. 2024 I Nr. 439).
 **Verifikation:** bestätigt am Bundesgesetzblatt.
 
-## AG. Anker der Leserkritik an der Einordnung des ersten Bandes: Nachbarn, Sparkassen, China-Reihen, Register (Stand 25.09.2026)
+## AG. Anker der Leserkritik an der Einordnung des ersten Bandes: Nachbarn, Sparkassen, China-Reihen, Register (Stand 25.09.2026, ergänzt 26.09.2026)
 
-Anlass war die Kritik eines Lesers an der Ausgabe 3.8 des ersten Bandes. Sie traf weniger das Argument als seine Einordnung: Das Buch nenne seine Nachbarn und Vorläufer kaum – die Institutionenökonomik, Meade und Rawls, Wright –, es schreibe den Begriff der Polyzentrik der falschen Person zu und mache Ostroms Allmenden zu Zeugen staatenloser Selbstverwaltung, es führe die Sparkassen als Beleg dafür, dass Eigentum sich selbst verteidigt, ohne den organisierten Träger und den Vorteil der Kommunalpolitik zu nennen, und es stütze das China-Kriterium auf eine „unabhängige Erhebung", die es nicht gibt. Dazu kamen der Vorwurf, das alles sei nur Sozialdemokratie, die gezählten und etikettierten Zugeständnisse der Gegenproben und die Frage, wo das Buch seine Begriffe erklärt. Die Anker stützen die Herkunft der Polyzentrik und die institutionenökonomischen Nachbarn in Band 1, Kapitel 5, die Vorläufer der Regeln und Prüfsteine im Belegapparat des ersten Kapitels, Ostroms Fälle in den Kapiteln 7 und 13, North im Belegapparat des neunten, die Sparkassen und die Wohnungsgemeinnützigkeit im achten, die Trägerbegründung der Belegschaft im zehnten, den Sozialdemokratie-Vorwurf und die schnellere Gerechtigkeit im dreizehnten, das neu gefasste China-Kriterium im vierzehnten und die Seite des Eigentums im Ledger, dazu die Anschlüsse in Band 2, Kapitel 1, 3, 6, 7, 10 und 11 und die entsprechenden Stellen des Thesenpapiers. Die berichtigten älteren Einträge sind an ihrem Ort nachgezogen: Chile und Mitterrand (Abschnitt B), Elinor Ostrom und Madison (Abschnitt D), Sparkassen (Abschnitt E), Hansmann (Abschnitt F), Polyzentrik als Begriff (Abschnitt K), Existenzminimum (Abschnitt N), Kaderbewertung, Gesamtfaktorproduktivität und Acemoglu/Robinson (Abschnitt Q), Ausnahmequote (Abschnitt Z). Geprüft per Websuche und, wo angegeben, am Volltext; was nicht am Druck geprüft ist, steht als Auftrag V33 bis V40 in `PROCESS.md`.
+Anlass war die Kritik eines Lesers an der Ausgabe 3.8 des ersten Bandes. Sie traf weniger das Argument als seine Einordnung: Das Buch nenne seine Nachbarn und Vorläufer kaum – die Institutionenökonomik, Meade und Rawls, Wright –, es schreibe den Begriff der Polyzentrik der falschen Person zu und mache Ostroms Allmenden zu Zeugen staatenloser Selbstverwaltung, es führe die Sparkassen als Beleg dafür, dass Eigentum sich selbst verteidigt, ohne den organisierten Träger und den Vorteil der Kommunalpolitik zu nennen, und es stütze das China-Kriterium auf eine „unabhängige Erhebung", die es nicht gibt. Dazu kamen der Vorwurf, das alles sei nur Sozialdemokratie, die gezählten und etikettierten Zugeständnisse der Gegenproben und die Frage, wo das Buch seine Begriffe erklärt. Die Anker stützen die Herkunft der Polyzentrik und die institutionenökonomischen Nachbarn in Band 1, Kapitel 5, die Vorläufer der Regeln und Prüfsteine im Belegapparat des ersten Kapitels, Ostroms Fälle in den Kapiteln 7 und 13, North im Fließtext und im Belegapparat des neunten, die Sparkassen und die Wohnungsgemeinnützigkeit im achten, die Trägerbegründung der Belegschaft im zehnten, den Sozialdemokratie-Vorwurf und die schnellere Gerechtigkeit im dreizehnten, das neu gefasste China-Kriterium im vierzehnten und die Seite des Eigentums im Ledger, dazu die Anschlüsse in Band 2, Kapitel 1, 3, 6, 7, 10 und 11 und die entsprechenden Stellen des Thesenpapiers. Die berichtigten älteren Einträge sind an ihrem Ort nachgezogen: Chile und Mitterrand (Abschnitt B), Elinor Ostrom und Madison (Abschnitt D), Sparkassen (Abschnitt E), Hansmann (Abschnitt F), Polyzentrik als Begriff (Abschnitt K), Existenzminimum (Abschnitt N), Kaderbewertung, Gesamtfaktorproduktivität und Acemoglu/Robinson (Abschnitt Q), Ausnahmequote (Abschnitt Z). Geprüft per Websuche und, wo angegeben, am Volltext; was nicht am Druck geprüft ist, steht als Auftrag V33 bis V40 in `PROCESS.md`.
+
+Am 26.09.2026 ist der Abschnitt nach einer zweiten Kritik desselben Lesers, an der Ausgabe 3.9, ergänzt worden. Nachgezogen sind die Einträge zu North (der Vorrang steht seither im Fließtext des neunten Kapitels, die Abgrenzung läuft allein über den Zweck) und zu Rawls (die Zurückstellung ist verortet, beim Vergleich der Ordnungen in § 41, und die Stellen, an denen er die Stabilität behandelt, sind nachgewiesen). Neu sind die Einträge zu Art. 2545-octies Codice civile und zur Nachwirkung der Bindung im deutschen Recht: Die Sperre des gemeinsamen Ausgangs überdauert seither die Förderung (Band 2, Kapitel 2 und 9; Band 1, Kapitel 8 und 12; Ledger der Bauteile; Thesenpapier Sektionen III und IV). Die drei Anpassungsstudien (Abschnitt W) führt seither auch der Belegapparat von Band 1, Kapitel 13 mit Fundstellen, weil der Merksatz über die Selbstausbeutung dort auf ihnen ruht. Die neue Toleranz der Zehnjahresbilanz ist in Abschnitt Z nachgetragen. Was aus den Belegapparaten beider Bände nach der Gattungsregel genommen wurde, steht in Abschnitt AH. Offen ist, was als V41 bis V43 in `PROCESS.md` steht.
 
 ### Herkunft des Begriffs der Polyzentrik
 **Erläuterung:** Eingeführt haben den Begriff 1961 Vincent Ostrom, Charles Tiebout und Robert Warren, für die vielen Verwaltungen einer amerikanischen Großstadtregion. Elinor Ostrom hat ihn später für die Selbstverwaltung gemeinschaftlicher Ressourcen ausgearbeitet und schreibt die Einführung in ihrem Nobelvortrag den dreien zu. Das Wort hat vor ihnen Michael Polanyi gebraucht; diesen Vorrang hat Vincent Ostrom 1972 vermerkt. Seine Fassung von 1972 bestimmt die polyzentrische Ordnung als eine, in der viele voneinander unabhängige Elemente ihre Beziehungen „within a general system of rules" wechselseitig ordnen. Das Buch führt die dünnere Fassung ohne die Bedingung eines allgemeinen Regelsystems (Band 1, Kapitel 5). Nähme es die Bedingung auf, wäre die Staatenwelt, der das gemeinsame Regelwerk fehlt, nicht mehr polyzentrisch, und das Gegenbeispiel, an dem das Buch seinen Satz als nicht hinreichend ausweist, verschwände durch Umdefinition. Im Text: Band 1, Kapitel 5 (Heimat, Fließtext und Beleg), Kapitel 10 (Beleg), Band 2, Kapitel 1 und 7 (Beleg).
@@ -1751,10 +1753,10 @@ Anlass war die Kritik eines Lesers an der Ausgabe 3.8 des ersten Bandes. Sie tra
 **Verifikation:** bestätigt hinsichtlich der Werke, der Begriffspaare und der Stelle von 2007, diese am Volltext; **mit Einschränkung** Norths Wortlaut von 1990, die Wiedergabe des Buches von 2009 und die von Acemoglu und Robinson samt Venedig, gesichert über das Vorläuferpapier und Sekundärdarstellungen (V34). Dass der Streit an derselben Stelle liegt wie mit Eucken, ist **Wertung.**
 
 ### North: adaptive Effizienz
-**Erläuterung:** Den Tausch der Frage – ob eine Ordnung ihre Fehler überlebt, statt wie viele sie macht – hat vor diesem Buch Douglass North vorgenommen, als er der allokativen Effizienz die adaptive gegenüberstellte, die Bereitschaft einer Gesellschaft, Wissen zu erwerben, Neues zu versuchen, Risiken einzugehen und ihre Probleme über die Zeit zu lösen. North misst sie am langfristigen Wachstum, dieses Buch am Überleben der Ordnung und daran, ob sie aus dem Scheitern ihrer Teile lernt. Im Text als Vorrang im Beleg von Band 1, Kapitel 9; der Fließtext und die neun Befunde sind unberührt.
-**Quelle(n):** North 1990, S. 80; ders., „Economic Performance through Time", Nobelvortrag 1993, in: *American Economic Review* 84 (1994), H. 3, S. 359–368 („It is adaptive rather than allocative efficiency which is the key to long run growth").
-**URL:** https://ideas.repec.org/a/aea/aecrev/v84y1994i3p359-68.html – indiziert 25.09.2026; der Vortragstext auf nobelprize.org war aus der Arbeitsumgebung nicht abrufbar
-**Verifikation:** bestätigt hinsichtlich Werk, Vortrag und Fundstellen; **mit Einschränkung** der Wortlaut beider Stellen und die Seite von 1990, über Suchnachweise und Sekundärdarstellungen gesichert (V34). Die Abgrenzung ist **Wertung.**
+**Erläuterung:** Den Tausch der Frage – ob eine Ordnung ihre Fehler überlebt, statt wie viele sie macht – hat Douglass North vorgenommen. 1990 stellte er der allokativen Effizienz die adaptive gegenüber, die Bereitschaft einer Gesellschaft, Wissen zu erwerben, Neues zu versuchen, Risiken einzugehen und ihre Probleme über die Zeit zu lösen. Die Rangfolge steht im Nobelvortrag von 1993; ob schon das Buch von 1990 sie führt, ist nicht geprüft (V34), und die Abgrenzung hängt nicht daran. Nach dem Vortrag ist die adaptive Effizienz der Schlüssel zum Wachstum auf lange Sicht, und erfolgreiche Ordnungen hätten flexible Institutionen entwickelt, die Schocks überstehen. Das Lernen aus Versuchen und das Überstehen von Schocks stehen also beide bei North; verschieden ist allein der Zweck, bei ihm das Wachstum auf lange Sicht, in diesem Buch die Haltbarkeit einer Ordnung. Das Lernen und die Schocks werden deshalb nie als Unterschied zu North geführt. Im Text steht der Vorrang im Fließtext von Band 1, Kapitel 9, ohne Jahreszahl und ohne Rang, im Absatz vor dem Merksatz, der unverändert bleibt; Wortlaut, Jahre und Fundstellen stehen im Beleg desselben Kapitels. Die neun Befunde sind unberührt. Nicht im Buch: Nach Sekundärnachweisen fördert die adaptive Effizienz bei North 1990, S. 81, dezentrale Entscheidungsprozesse, die es erlauben, möglichst viele Lösungswege zu erproben, und beide Effizienzen „may not always be consistent"; die Gegenüberstellung von S. 80 trägt das Lernen schon (V34).
+**Quelle(n):** North 1990, S. 80 (Gegenüberstellung), S. 81 (dezentrale Entscheidungsprozesse, nicht im Buch); ders., „Economic Performance through Time", Nobelvortrag 1993, in: *American Economic Review* 84 (1994), H. 3, S. 359–368 (Rangfolge: „It is adaptive rather than allocative efficiency which is the key to long run growth").
+**URL:** https://ideas.repec.org/a/aea/aecrev/v84y1994i3p359-68.html – indiziert 25.09.2026; der Vortragstext auf nobelprize.org war aus der Arbeitsumgebung nicht abrufbar; zu S. 81: https://link.springer.com/article/10.1007/s40803-016-0028-8, https://www.yuenyuenang.org/glossary-index/adaptive-efficiency und https://onlinelibrary.wiley.com/doi/full/10.1002/app5.249 – indiziert 26.09.2026
+**Verifikation:** bestätigt hinsichtlich Werk, Vortrag und Fundstellen; **mit Einschränkung** der Wortlaut beider Stellen und die Seite von 1990, über Suchnachweise und Sekundärdarstellungen gesichert, beide Texte nicht eingesehen (V34); ebenso S. 81, nur über Sekundärnachweise. Die Zuordnung und die Abgrenzung sind **Wertung.**
 
 ### Wright: die drei Kriterien realer Utopien
 **Erläuterung:** Erik Olin Wright misst gesellschaftliche Alternativen an Wünschbarkeit, Funktionsfähigkeit und Erreichbarkeit, drei Kriterien, die ineinanderliegen: Nicht alles Wünschbare ist funktionsfähig, und nicht alles Funktionsfähige ist erreichbar. Funktions- und Umsetzungstest dieses Buches entsprechen den beiden letzten; die Wünschbarkeit ist kein Prüfstein, weil das Buch aus Scheiternsursachen rückwärts konstruiert. Im Text als Vorrang im Beleg von Band 1, Kapitel 1; die Formel („der ganze Unterschied zur Utopie") ist unverändert.
@@ -1780,10 +1782,10 @@ Anlass war die Kritik eines Lesers an der Ausgabe 3.8 des ersten Bandes. Sie tra
 **Verifikation:** bestätigt hinsichtlich Werk, Verlag, Gegenstand, Amt und Preis. **Mit Einschränkung:** die Vierteilung und Meades Vorzug für die beiden letzten Antworten in Verbindung, nur über Wiedergaben gesichert; die Wendung im Wortlaut über Friedman, ihre Seite offen; das Buch selbst ist nicht eingesehen (V33). Meades Nähe zur Labour Party in den dreißiger Jahren und seine Mitgliedschaft in der Social Democratic Party in den achtziger Jahren sind nur **mit Einschränkung** gesichert und stehen nicht im Text, der allein das Amt unter Attlee nennt. Eine Titelfassung „…of Private Property" für die amerikanische Ausgabe deckt das Katalogisat nicht; geführt wird der Titel ohne „Private".
 
 ### Rawls: property-owning democracy und die zurückgestellte Frage
-**Erläuterung:** Rawls unterscheidet in der revidierten Ausgabe von *A Theory of Justice* schärfer zwischen *welfare-state capitalism* und property-owning democracy und weist aus, den Begriff von Meade übernommen zu haben. In *Justice as Fairness* sichert die property-owning democracy breites Eigentum am Anfang jeder Periode, statt Einkommen an ihrem Ende umzuverteilen, damit kein kleiner Teil der Gesellschaft die Wirtschaft und mittelbar das politische Leben beherrscht. Von vier Fragen an jede Ordnung – nach Recht und Gerechtigkeit, nach ihrer Bauart, nach ihrer Befolgung durch Bürger angesichts ihrer Interessen und nach der Kompetenz – behandelt er nur die erste. Im Text (Band 1, Kapitel 13) arbeitet dieses Buch an der zurückgestellten Frage der Befolgung; Rawls ist dort Einordnung und nicht Fundament. Dass die Frage der Haltbarkeit in der Rawls-Literatur selbst gestellt wird, zeigt Williamson.
-**Quelle(n):** John Rawls, *A Theory of Justice*, Cambridge (Mass.): Harvard UP 1971, § 43, revidierte Ausgabe 1999, Vorwort; ders., *Justice as Fairness. A Restatement*, hg. v. Erin Kelly, Cambridge (Mass.): Belknap 2001, § 41, S. 136–137, und S. 139; Thad Williamson, „Is Property-Owning Democracy a Politically Viable Aspiration?", in: Martin O'Neill / Thad Williamson (Hg.), *Property-Owning Democracy. Rawls and Beyond*, Malden (Mass.): Wiley-Blackwell 2012, S. 287–306.
-**URL:** https://undsoc.org/2012/06/09/rawls-on-a-property-owning-democracy/ – indiziert 25.09.2026; https://philpapers.org/rec/WILPDR – indiziert 25.09.2026
-**Verifikation:** bestätigt für *Justice as Fairness*, S. 139 (übereinstimmend in zwei Sekundärwiedergaben) und für Williamson; **mit Einschränkung** § 41, S. 136–137 (nur eine Sekundärwiedergabe, deshalb im Text umschrieben), § 43 und das Vorwort von 1999 mit dem Meade-Nachweis, Wortlaut und Seiten nicht eingesehen (V33). Die Einordnung ist **Wertung.**
+**Erläuterung:** Rawls unterscheidet in der revidierten Ausgabe von *A Theory of Justice* schärfer zwischen *welfare-state capitalism* und property-owning democracy und weist aus, den Begriff von Meade übernommen zu haben. In *Justice as Fairness* sichert die property-owning democracy breites Eigentum am Anfang jeder Periode, statt Einkommen an ihrem Ende umzuverteilen, damit kein kleiner Teil der Gesellschaft die Wirtschaft und mittelbar das politische Leben beherrscht. Beim Vergleich der Ordnungen, in § 41 im vierten Teil von *Justice as Fairness*, stellt er vier Fragen an jede Ordnung: nach Recht und Gerechtigkeit, nach ihrer Bauart, nach ihrer Befolgung durch die Bürger in ihren Ämtern angesichts ihrer Interessen und Ziele, wie die Grundstruktur der Ordnung sie prägt, wozu er die Korruption zählt, und nach der Kompetenz. Er beschränkt sich dort weitgehend auf die erste und stellt die übrigen zurück. Die Stabilität einer gerechten Ordnung behandelt er an anderer Stelle ausführlich: in *A Theory of Justice*, Teil III (§§ 69, 76, 86), in *Justice as Fairness*, Teil V (§§ 54–60), und in *Political Liberalism*, Vorlesung IV. Im Text (Band 1, Kapitel 13) ist die Zurückstellung deshalb verortet, „beim Vergleich der Ordnungen" und „dort"; dieses Buch arbeitet an der zurückgestellten Frage der Befolgung, und Rawls ist dort Einordnung und nicht Fundament. Nie „nur die erste": Das ginge über Rawls' „largely" hinaus und folgte Brennans Verschärfung zu „exclusively". Nie „nicht-ideal" für diese Stelle, weil das bei Rawls die Theorie teilweiser Befolgung meint, und nie „organisiertes Interesse" als sein Wort. Dass die Frage der Haltbarkeit in der Rawls-Literatur selbst gestellt wird, zeigt Williamson.
+**Quelle(n):** John Rawls, *A Theory of Justice*, Cambridge (Mass.): Harvard UP 1971, § 43 und Teil III (§§ 69, 76, 86), revidierte Ausgabe 1999, Vorwort; ders., *Political Liberalism*, New York: Columbia UP 1993, Vorlesung IV; ders., *Justice as Fairness. A Restatement*, hg. v. Erin Kelly, Cambridge (Mass.): Belknap 2001, § 41 (Teil IV), S. 136–137, S. 139, und Teil V (§§ 54–60); Daniel Little, „A property-owning democracy", *Understanding Society*, 26.07.2010 (§ 41 wörtlich); Jason Brennan, „Tomasi Part III", *Bleeding Heart Libertarians*, 19.03.2013 (§ 41 inhaltlich, „largely" zu „exclusively" verschärft); Thad Williamson, „Is Property-Owning Democracy a Politically Viable Aspiration?", in: Martin O'Neill / Thad Williamson (Hg.), *Property-Owning Democracy. Rawls and Beyond*, Malden (Mass.): Wiley-Blackwell 2012, S. 287–306.
+**URL:** https://undsoc.org/2012/06/09/rawls-on-a-property-owning-democracy/ – indiziert 25.09.2026, gibt nur S. 139 wieder und nicht § 41; https://undsoc.org/2010/07/26/a-property-owning-democracy/ – indiziert 26.09.2026; https://bleedingheartlibertarians.com/2013/03/tomasi-part-iii/ – indiziert 26.09.2026; https://philpapers.org/rec/WILPDR – indiziert 25.09.2026; Inhaltsverzeichnisse: https://catdir.loc.gov/catdir/toc/fy053/2004060697.html und https://contemporarythinkers.org/john-rawls/book/justice-fairness-restatement/ – indiziert 26.09.2026; Nachschlagewerke: https://iep.utm.edu/rawls/ und https://plato.stanford.edu/entries/rawls/ – indiziert 26.09.2026
+**Verifikation:** bestätigt für *Justice as Fairness*, S. 139 (übereinstimmend in zwei Sekundärwiedergaben), für § 41, S. 136–137, die vier Fragen (übereinstimmend in zwei Sekundärwiedergaben, bei Little wörtlich) und für Williamson; **mit Einschränkung** der Wortlaut „weitgehend" (nur bei Little wörtlich, Druck nicht eingesehen), § 43 und das Vorwort von 1999 mit dem Meade-Nachweis (Wortlaut und Seiten nicht eingesehen); die Stabilitätsstellen **bestätigt** nach Teilen und Paragraphen über die Inhaltsverzeichnisse, ihr Inhalt **mit Einschränkung** über Nachschlagewerke, Seiten nicht eingesehen (V33). Die Verortung und die Einordnung sind **Wertung.**
 
 ### Der eine Fonds: Meades Agathotopia und Corneos Bundesaktionär
 **Erläuterung:** Die bekannteste Fassung des einen Bürgerfonds, gegen den Band 2, Kapitel 10 die Länderfamilie baut: Auf Meades erdachter Insel Agathotopia hält der Staat das Ertragseigentum an der Hälfte des Kapitals, ohne die Unternehmen zu leiten, und finanziert daraus eine Sozialdividende. Die stärkste gegenwärtige Fassung ist Giacomo Corneos Staatsfonds mit einem Bundesaktionär, der an ausgewählten großen Gesellschaften die Mehrheit hält, gesichert durch Unabhängigkeit nach dem Muster der Bundesbank und durch eine Dividende, die politisch „wie ein Bürgerrecht" wirkt. Corneo erwägt selbst, die Anteile auf viele kommunale Fonds oder an die Bürger zu verteilen, falls der Bundesaktionär zu erfolgreich wird. Die Antwort des Buches: Beide Sicherungen verteuern den Zugriff, die zweite nutzt auch die Fondsfamilie, und vorgesehen bleibt ein einzelnes Haus.
@@ -1879,7 +1881,795 @@ Anlass war die Kritik eines Lesers an der Ausgabe 3.8 des ersten Bandes. Sie tra
 **Quelle(n):** `pruefung/praeregistrierung_china.md`.
 **Verifikation:** Wertung (Konstruktion des Buches). Frist bis Ende 2038 und die Lesart „in jedem Jahr des Fensters" sind in der Datei gesetzt und nicht aus einer Vorlage übernommen.
 
+### Art. 2545-octies Codice civile: die Bindung nach dem Verlust des Status
+**Erläuterung:** Eine italienische Genossenschaft mit überwiegender Gegenseitigkeit (*mutualità prevalente*) muss die Verteilung ihrer Rücklagen in der Satzung ausschließen (Art. 2514). Sie verliert den Status, wenn sie die Bedingung der überwiegenden Gegenseitigkeit (Art. 2513) zwei Geschäftsjahre in Folge verfehlt oder die Satzungsklauseln nach Art. 2514 ändert (Abs. 1). Dann stellen die Verwalter eine eigene Bilanz auf, die ein Prüfer ohne Beanstandung bestätigen und die binnen sechzig Tagen dem Ministerium mitgeteilt werden muss, um den tatsächlichen Vermögenswert festzustellen, der den unteilbaren Rücklagen zuzuweisen ist („da imputare alle riserve indivisibili", Abs. 2). Beruht der Verlust allein auf dem Verfehlen der Bedingung, gilt die Pflicht nur, wenn die Genossenschaft auch die Klauseln ändert oder Finanzinstrumente ausgegeben hat (Abs. 3). Der Verlust des Status allein löst keine Abführung an die Förderfonds aus; das Vermögen bleibt als unteilbare Rücklage in der Genossenschaft, abgeführt wird erst bei der Umwandlung nach Art. 2545-undecies (Corte di Cassazione, Ord. Nr. 23602 vom 28.07.2022; Art. 17 der Legge 388/2000 gilt danach als stillschweigend aufgehoben). Im Text Muster dafür, dass die Sperre des gemeinsamen Ausgangs die Förderung überdauert: Band 2, Kapitel 2 („die ihren begünstigten Status aufgeben"), Belege in Band 1, Kapitel 8 und 12, Thesenpapier Sektion III. Zwei Selbstbindungen: nie behaupten, die Norm führe das Vermögen an die Fonds ab, und nie, sie gebe den Fonds ein Klagerecht.
+**Quelle(n):** Art. 2513, 2514, 2545-octies, 2545-undecies Codice civile; Corte di Cassazione, Ordinanza Nr. 23602 vom 28.07.2022.
+**URL:** https://www.brocardi.it/codice-civile/libro-quinto/titolo-vi/capo-i/sezione-v/art2545octies.html – abgerufen 26.09.2026; https://www.ilcaso.it/codice_civile/2545-octies und https://www.laleggepertutti.it/codice-civile/art-2545-octies-codice-civile-perdita-della-qualifica-di-cooperativa-a-mutualita-prevalente – indiziert 26.09.2026; zur Entscheidung von 2022: https://www.eutekne.info/Sezioni/Art_906149_perdita_della_mutualita_prevalente_senza_devoluzione_del_patrimonio.aspx, https://ntplusdiritto.ilsole24ore.com/art/societa-cooperative-perdita-mutualita-prevalente-non-comporta-devoluzione-patrimonio-fondo-AE7PRipB und https://www.dirittobancario.it/art/societa-cooperative-conseguenze-della-modifica-delle-clausole-antilucrative/ – indiziert 26.09.2026
+**Verifikation:** bestätigt am Wortlaut für Abs. 1 und die tragende Wendung des Abs. 2, über zwei Textausgaben, am amtlichen Text bei Normattiva nicht geprüft; Abs. 3 **mit Einschränkung,** über zwei übereinstimmende Wiedergaben; die Entscheidung von 2022 **mit Einschränkung,** über Fachdarstellungen, nicht eingesehen (V42). Die Lesart als Muster der Nachwirkung ist **Wertung.**
+
+### Die Nachwirkung der Bindung im deutschen Recht
+**Erläuterung:** Im deutschen Genossenschaftsrecht kann die Satzung die Verteilung des Vermögens bei der Auflösung ausschließen (§ 91 Abs. 3 GenG) oder das unverteilbare Reinvermögen einer bestimmten Person zu einem bestimmten Zweck überweisen (§ 92 GenG). Eine solche Klausel können die Mitglieder mit mindestens drei Vierteln der abgegebenen Stimmen wieder streichen, „sofern nicht die Satzung andere Erfordernisse aufstellt" (§ 16 Abs. 4 GenG). Ob die Satzung sie ihrem Zugriff ganz entziehen kann, etwa durch einen Zustimmungsvorbehalt des Fonds, und ob sie einen Formwechsel übersteht, bei dem die Mitglieder nach § 263 Abs. 2 UmwG am neuen Kapital beteiligt sind, ist nicht geprüft. Deshalb führt das Buch die Nachwirkung als Gesetz: Es weist den gebundenen Teil, der unter der Förderung entstanden ist, bei Auflösung und Umwandlung dem Fonds des Sektors zu, gleich, was die Satzung dann bestimmt, und gilt mit der ersten Förderung. Der Fonds kann auf die Einhaltung klagen, auch nach dem Ende der Förderung; gegen den Gesetzgeber sichert er die Bindung nicht, denn die Nachwirkung ist selbst ein Gesetz. Verwandte Muster, nicht im Buch: § 61 Abs. 3 AO, nach dem eine nachträglich geänderte Vermögensbindung einer steuerbegünstigten Körperschaft von Anfang an als steuerlich nicht ausreichend gilt und Bescheide der letzten zehn Kalenderjahre geändert werden können, eine Rückforderung und keine Bindung des Vermögens; im Buch steht reg. 7 SI 2006/264, nach der die einmal gewählte Bindung einer britischen Community Benefit Society nicht streichbar ist (Band 1, Kapitel 8). Den Fonds als Begünstigten führt das Buch nicht als eigentumsgeschützt: Für einen gesetzlichen Anfall an einen öffentlich-rechtlichen Fonds spricht die Rechtsprechung zu Trägern öffentlicher Aufgaben dagegen, bei vertraglicher Abtretung nach dem Nationwide-Muster ist die Frage offen. Im Text: Band 2, Kapitel 2 (Konstruktion), 9 (Stufe eins) und 13 (Ledger der Bauteile, Klasse II); Band 1, Kapitel 12 (Leitzeile im Belastungstest und Beleg); Thesenpapier Sektionen III und IV.
+**Quelle(n):** §§ 16, 91, 92 GenG; § 263 UmwG; § 61 Abs. 3 AO; BVerfG, Beschluss vom 31.10.1984 – 1 BvR 35/82 u. a., BVerfGE 68, 193 (Zahntechniker-Innungen); BVerfGE 61, 82 (Abschnitt AG, „Grundrechtsschutz öffentlich-rechtlicher Träger").
+**URL:** https://www.gesetze-im-internet.de/geng/__16.html – abgerufen 26.09.2026; https://www.gesetze-im-internet.de/geng/__91.html und https://www.gesetze-im-internet.de/geng/__92.html – indiziert 26.09.2026; https://www.servat.unibe.ch/dfr/bv068193.html – indiziert 26.09.2026
+**Verifikation:** bestätigt am Wortlaut für § 16 Abs. 4, §§ 91 und 92 GenG und § 61 Abs. 3 AO; **offen,** ob die Satzung die Klausel dem Zugriff der Mitglieder ganz entziehen kann und ob sie einen Formwechsel übersteht (V41); BVerfGE 68, 193 **mit Einschränkung,** über Suchnachweise. Die Nachwirkung als Gesetz, ihre Einordnung in die erste Stufe und die Aussage, der Fonds sei nicht eigentumsgeschützt, sind **Wertung.**
+
 ### Das Register am Ende jedes Bandes
 **Erläuterung:** Seit dem 25.09.2026 steht am Ende jedes Bandes, in Leseausgabe, Innenteil und E-Book, ein Register der Begriffe. Es nennt je Kapitel die erste Seite, auf der ein Begriff im Fließtext steht, und halbfett eine Seite, auf der dieser Band ihn erklärt; im E-Book steht das Kapitel statt der Seite. Es definiert nichts, denn eine Erklärung im Register wäre eine zweite Fassung des Begriffs neben der im Text. Die Liste steht in `satz/register.toml` (Band 1 mit 70, Band 2 mit 120 Stichwörtern). Deshalb ist diese Datei seither ausdrücklich kein Glossar für Leser; der Vorspann beider Bände und der Schluss der Formel nennen sie ein Quellenverzeichnis mit Prüfvermerken.
 **Quelle(n):** `satz/register.toml`; `satz/README.md`, Abschnitt „Das Register".
 **Verifikation:** Werkzeug, kein Beleg.
+
+### Gar Alperovitz und der Pluralist Commonwealth
+**Erläuterung:** Seit dem 26.09.2026 in Band 1, Kapitel 10 als Vorrang der Bauform geführt: eine plurale Ordnung demokratisierten Eigentums – Belegschaftsbetriebe, städtische Versorger, öffentliche Banken, gemeinnützige Bodenträger (*community land trusts*) –, dezentralisiert bis zur regionalen Ebene und schrittweise aufgebaut, auf einem Weg, den Alperovitz „evolutionary reconstruction" nennt und von Reform wie Revolution unterscheidet. Der Unterschied liegt im Kriterium (Gemeinschaft, Demokratie und Gerechtigkeit dort, Fehlertoleranz hier), in der Koordination („substantial but not complete forms of democratic planning" als viertes seiner Axiome dort, überwiegend Preise hier) und in den Folgen (hier ein dauerhaft großer Privatsektor und die Sterblichkeit jeder Einheit; dort sollen die Institutionen die örtliche Wirtschaft stabilisieren, „help stabilize local community economies"). Die Nähe ist ein Vorrang und keine Abstammung. In der Gegenprüfung vom 26.09.2026 berichtigt: Die erste Fassung nannte als Begründung nur Gemeinschaft und Gerechtigkeit und als Unterschied nur das Kriterium, und sie stützte sich auf den Abstract des Aufsatzes.
+**Quelle(n):** Gar Alperovitz, *America Beyond Capitalism. Reclaiming Our Wealth, Our Liberty, and Our Democracy*, Hoboken: John Wiley & Sons 2005 (Katalogangaben teils 2004); ders., „The Possibility of a Pluralist Commonwealth. Evolutionary Reconstruction Toward a Caring and Just Political Economy", *Interdisciplinary Journal of Partnership Studies* 4 (2017), H. 1, doi 10.24926/ijps.v4i1.154; ders., *Principles of a Pluralist Commonwealth*, The Democracy Collaborative 2017.
+**URL:** https://pubs.lib.umn.edu/index.php/ijps/article/view/154 – Volltext über die Downloadseite des Heftes, abgerufen 26.09.2026
+**Verifikation:** bestätigt am Volltext des Aufsatzes von 2017 (Institutionen samt öffentlichen Banken, Dezentralisierung bis zur regionalen Ebene, die vier Axiome, Weg jenseits von Reform und Revolution, Stabilisierung der örtlichen Wirtschaft); mit Einschränkung das Erscheinungsjahr des Buches. Der Unterschied ist **Wertung.** Am Druck: V34 in `PROCESS.md`.
+
+### Acemoglu und Robinson 2019: der schmale Korridor
+**Erläuterung:** Seit dem 26.09.2026 in Band 1, Kapitel 5: Acemoglu und Robinson halten die Freiheit 2019 nicht mehr für selbsterhaltend; sie hält nur, solange Staat und Gesellschaft einander im Wettlauf halten (der „Red Queen"-Effekt, der „Shackled Leviathan"). Das rückt sie an die Rost-These heran, und der Streit mit ihnen liegt dann beim Mittel des Wettlaufs: einer mobilisierten Gesellschaft bei ihnen, Trägern mit eigenem Interesse und Klagerecht hier. Den Einwand gegen das Mittel dieses Buches spricht Acemoglu selbst aus: Freiheit entstehe nicht „from checks and balances or from clever institutional design"; er steht seit der Gegenprüfung vom selben Tag im Beleg, und „wachsam" ist dabei der eigenen Bezeichnung der Verfasser gewichen, der mobilisierten Gesellschaft.
+**Quelle(n):** Daron Acemoglu / James A. Robinson, *The Narrow Corridor. States, Societies, and the Fate of Liberty*, New York: Penguin Press 2019; Rezensionen in der *Italian Political Science Review* (Cambridge Core) und in *Inroads*; die Meldung zum Buch in MIT News vom 24.09.2019.
+**URL:** https://news.mit.edu/2019/narrow-corridor-acemoglu-liberty-0924 – abgerufen 26.09.2026
+**Verifikation:** bestätigt hinsichtlich Werk und Verlag und hinsichtlich Acemoglus Satz gegen das institutionelle Design, an der Meldung; mit Einschränkung der Kerngedanke, über Rezensionen und die Meldung gesichert, das Buch ist nicht eingesehen (V34). Die Verortung des Streits ist **Wertung.**
+
+### Warten auf die eigene Welle: Verschiebung von Veräußerungen
+**Erläuterung:** Grund für die Entscheidung vom 26.09.2026, den Steuerhebel nicht in Wellen einzuführen: Änderungen der Besteuerung verschieben vor allem den Zeitpunkt von Veräußerungen, bei vorübergehenden Unterschieden im Steuersatz stark, bei dauerhaften schwach (Burman/Randolph), und vor einer angekündigten Änderung werden Veräußerungen verschoben (Burman/Clausing/O'Hare zu den vorgezogenen Veräußerungen vor der Erhöhung von 1986). Ein Vergleich von Regionen, in denen der Hebel früher oder später gilt, zählte deshalb als Wirkung, was nur verschoben ist, und aus demselben Grund wird seine Wirkung gegen den Verlauf vor seiner Ankündigung geschätzt und nicht gegen den vor seinem Inkrafttreten. Diesen Verlauf erfasst keine amtliche Statistik; die Zahl der Unternehmensübergaben schätzt das Institut für Mittelstandsforschung Bonn mit einem eigenen Verfahren. In der Gegenprüfung vom 26.09.2026 berichtigt: Burman/Randolph untersuchen keine angekündigten Änderungen, und der Fristdruck, mit dem die erste Fassung die Entscheidung begründete, trifft den ganzen Nachfolgekanal und nicht den Hebel allein (`PROCESS.md`, Abschnitt II).
+**Quelle(n):** Leonard E. Burman / William C. Randolph, „Measuring Permanent Responses to Capital-Gains Tax Changes in Panel Data", *American Economic Review* 84 (1994), H. 4, S. 794–809; Leonard E. Burman / Kimberly A. Clausing / John O'Hare, „Tax Reform and Realizations of Capital Gains in 1986", *National Tax Journal* 47 (1994), H. 1, S. 1–18; IfM Bonn, *Unternehmensnachfolgen in Deutschland 2026 bis 2030*, nach Wiedergaben der Kammern.
+**URL:** https://econpapers.repec.org/RePEc:aea:aecrev:v:84:y:1994:i:4:p:794-809 und https://www.ihk.de/stuttgart/fuer-unternehmen/nachfolge/unternehmensnachfolgen-in-deutschland-678884 – indiziert 26.09.2026
+**Verifikation:** Burman/Randolph bestätigt über die Zusammenfassung; Burman/Clausing/O'Hare **mit Einschränkung,** über Fundstellennachweise; dass keine amtliche Statistik die Übergaben erfasst, **mit Einschränkung,** über Wiedergaben der IfM-Veröffentlichungen. Die Übertragung auf Verkäufe an Belegschaften ist **Wertung.** Band 2, Kapitel 11, Beleg „Warten auf die eigene Welle", und Band 2, Kapitel 13, Beleg „Was der Steuerhebel bewirkt".
+
+## AH. Rechenwege und Prüfprotokolle zu den Belegapparaten (Stand 26.09.2026)
+
+Seit dem 26.09.2026 gilt für die Belegapparate beider Bände eine Gattungsregel. Ein Belegeintrag führt die Fundstelle, den Verifikationsstatus, die Abgrenzung dessen, was Wertung ist, und, wo der Status nicht „bestätigt" lautet, einen knappen Grund. Was darüber hinausging, ist an diesem Tag aus den Apparaten genommen worden und steht hier wörtlich, gegliedert nach Band, Kapitel und Belegeintrag. Das sind Rechenwege und Zwischenwerte, Reihenkennungen und Abrufstände, Versionsgeschichten einer Quelle, Einzelheiten von Replikationsstreiten, Prüfprotokolle, ausführliche Begründungen eines Status und Werkstattspuren, dazu einzelne Inhaltsangaben und Wiederholungen, die der Fließtext nicht braucht. In den Apparaten geblieben ist alles, was ein Kernbegriff oder Anker als Abgrenzung verlangt, jede Zahl, auf die der Fließtext sich stützt, jede Fundstelle und jeder Status.
+
+Wo aus einem Satz nur ein Teil herausgenommen wurde, steht hier der ganze Satz in der Fassung vor der Kürzung; der Apparat führt den verbliebenen Teil, an einigen Stellen verdichtet. Zwei Sätze geben eine Zwischenfassung desselben Tages wieder (Band 1, Kapitel 8, italienisches Genossenschaftsrecht; Band 1, Kapitel 9, North). Ein ersetzter Verweis (Band 1, Kapitel 13, Lohn- und Beschäftigungsanpassung, heute mit eigenen Fundstellen) und ein Metasatz ohne Beleginhalt (Band 1, Kapitel 15) stehen hier der Vollständigkeit halber. Ein zweiter Durchgang am selben Tag hat die längsten Einträge weiter gekürzt; was er herausgenommen hat, steht in der Fassung, die der erste Durchgang hinterlassen hatte, und wo ein Eintrag auch Sätze des ersten Durchgangs führt, unter „Zweiter Durchgang, 26.09.2026". Nichts in diesem Abschnitt ändert einen Status; maßgeblich ist der Apparat. Kapitelangaben ohne Band meinen ein Kapitel des Bandes, aus dem der Satz stammt. Vermerke wie „aus der Arbeitsumgebung nicht abrufbar" beziehen sich auf die Umgebung der Prüfung, wie der Prüfhinweis am Anfang dieser Datei sie beschreibt.
+
+### Band 1, Kapitel 1: Eine Frage, die weiterführte
+
+#### Methodische Regeln
+
+Ihre Prüfbarkeit liegt in ihrer Anwendung, nicht in einer Fundstelle.
+
+### Band 1, Kapitel 3: Die Reform, die niemand wollte
+
+#### Neues Ökonomisches System (NÖS)
+
+*Neues Ökonomisches System (NÖS):* André Steiner, *Die DDR-Wirtschaftsreform der sechziger Jahre. Konflikt zwischen Effizienz- und Machtkalkül*, Berlin: Akademie Verlag 1999; ders., *Von Plan zu Plan. Eine Wirtschaftsgeschichte der DDR*, München: DVA 2004.
+
+Zum Machtwechsel 1971: Jochen Stelkens, „Machtwechsel in Ost-Berlin. Der Sturz Walter Ulbrichts 1971", in: *Vierteljahrshefte für Zeitgeschichte* 45 (1997), H. 4.
+
+#### Kybernetik, Georg Klaus und die Organisationswissenschaft
+
+*Kybernetik, Georg Klaus und die Organisationswissenschaft:* Jérôme Segal, „Die Einführung der Kybernetik in der DDR. Begegnung mit der marxistischen Ideologie", in: *Dresdener Beiträge zur Geschichte der Technikwissenschaften* 27 (2001), S. 47–75; Biographie „Klaus, Georg", in: *Wer war wer in der DDR?*, Bundesstiftung Aufarbeitung.
+
+Zur Organisationswissenschaft: Jakob Tanner, „Komplexität, Kybernetik und Kalter Krieg. ‚Information' im Systemantagonismus von Markt und Plan", in: Michael Hagner/Erich Hörl (Hg.), *Die Transformation des Humanen. Beiträge zur Kulturgeschichte der Kybernetik*, Frankfurt a. M. 2008; Oliver Sukrow, „Die Akademie der Marxistisch-Leninistischen Organisationswissenschaft in Berlin. Geschichte und Kontext eines (vergessenen) sozialistischen Zukunftsorts", in: *die hochschule* 28 (2019), H. 1, S. 113–126.
+
+Zum 10. Plenum im April 1969: Wolfgang G. Stock, „Information science in the German Democratic Republic", in: *Journal of Documentation* 80 (2024), H. 7.
+
+Zur Einschränkung nach 1971: Wolfgang Schönpflug, „Psychologie im Kontext der Kybernetik und im Kontext des Sozialismus", in: *Psychologische Rundschau* 66 (2015), H. 2, S. 91–113. Zum Ende nach dem VIII. Parteitag: K. J. Richter, „OR in der DDR – Versuch einer Schlußbilanz", in: *Operations Research Proceedings 1991*, Berlin/Heidelberg 1992.
+
+**Bestätigt**, *mit Einschränkung:* Klaus' Rolle, Ulbrichts Förderung, die Einführung der Organisationswissenschaft ab 1968, die Eröffnung ihrer Akademie 1969, Hagers Kritik auf dem 10. Plenum und die Beschränkung der Kybernetik auf eine technisch-ökonomische Einzeldisziplin nach 1971 sind übereinstimmend belegt, aber nur über Zusammenfassungen und nicht am Volltext gesichert; Hagers Rede ist nicht im Wortlaut eingesehen.
+
+Dass sie die Kybernetik damit der Führungsrolle der Partei unterstellte, dass ein Regelkreis diese Rolle auf die eines Sollwertgebers verkleinert und dass hinter Hagers Einwand die Machtfrage stand, ist **Wertung** dieses Buches, gestützt auf Caldwells Befund, die kybernetische Theorie habe den Planungsanspruch untergraben, indem sie die Grenzen des Wissens zeigte; daneben steht die schlichtere Erklärung, dass sie als Ulbrichts Projekt mit ihm fiel.
+
+Der Wortlaut „bürgerliche Pseudowissenschaft" ist an keiner zeitgenössischen Quelle geprüft und **offen**; die sowjetische Verurteilung der fünfziger Jahre wird auch als „reaktionäre Pseudowissenschaft" wiedergegeben.
+
+### Band 1, Kapitel 4: Fünf Länder, ein Muster
+
+#### Vietnam
+
+Reisernte als ungeschälter Reis nach FAOSTAT („Rice, paddy", Produktion), das die amtliche Statistik des vietnamesischen Statistikamts übernimmt: 1985 15,87 Mio. t, 1986 16,00, 1987 15,10, 1988 17,00, 1989 19,00, 1990 19,23, 1995 24,96 Mio. t.
+
+Nach derselben Quelle stand Vietnam 1989 hinter Thailand (6,45 Mio. t) und den Vereinigten Staaten (2,83 Mio. t) an dritter Stelle der Exporteure, 1991 und 1995 an vierter, 1996 an zweiter.
+
+Eingesehen sind die FAOSTAT-Werte in der Weitergabe durch Our World in Data und durch das Joint Global Change Research Institute, nicht an der Datenbank der FAO selbst.
+
+### Band 1, Kapitel 5: Die Gegenprobe: Was den Kapitalismus einhegte
+
+#### Mitterrand 1983
+
+Die Devisenkontrollen wurden 1981 verschärft und waren im März 1983 am schärfsten, bis zur Beschränkung der Reisedevisen; gelockert wurden sie ab 1984, abgeschafft 1989.
+
+**Mit Einschränkung:** über Zusammenfassungen und Suchnachweise gesichert, beide Texte sind aus der Arbeitsumgebung nicht abrufbar.
+
+#### Herkunft des Begriffs der Polyzentrik
+
+**Bestätigt** hinsichtlich Einführung, Zuschreibung und Wortlaut; das Arbeitspapier von 1972 ist am Text geprüft, der Nobelvortrag an der Entwurfsfassung von 2009, deren Seitenzählung von der Druckfassung abweicht.
+
+### Band 1, Kapitel 6: Marx' Diagnose und Marx' Irrtum
+
+#### Gilens/Page
+
+1.779 Politikvorhaben aus 1981–2002, zu denen Umfragen nach Einkommensgruppen vorlagen; ökonomische Eliten gemessen am neunzigsten, Durchschnittsbürger am fünfzigsten Einkommensperzentil; im Hauptmodell Koeffizienten von 0,76 und 0,03 bei einem Bestimmtheitsmaß von 0,074, wiedergegeben nach Bashir.
+
+Bashir ist am Volltext einer Textfassung des frei zugänglichen Artikels geprüft, Branham, Soroka und Wlezien am Manuskript der Verfasser, Gilens/Page 2014, Enns und Bowman über die Verlagsabstracts; die Erwiderungen, die Replik und der Zeitungsbeitrag sind nur bibliographisch gesichert (Auftrag V20 in `PROCESS.md`).
+
+Zweiter Durchgang, 26.09.2026:
+
+1.779 Politikvorhaben aus 1981–2002, zu denen Umfragen nach Einkommensgruppen vorlagen; ökonomische Eliten gemessen am neunzigsten, Durchschnittsbürger am fünfzigsten Einkommensperzentil.
+
+Kritik: Omar S. Bashir, „Testing Inferences about American Politics: A Review of the ‚Oligarchy' Result", in: *Research & Politics* 2 (2015), H. 4, DOI 10.1177/2053168015608896 – das Verfahren sei nach Simulationen anfällig dafür, den Einfluss der Mitte „by a wide margin" zu unterschätzen, weil die Präferenzen beider Gruppen hoch korreliert sind; bei den 185 Vorhaben mit gegenläufigen Mehrheiten erhalte die Mitte in 47 Prozent der Fälle ihr Ergebnis; ausdrücklich ohne Entwarnung für die Vorteile der Wohlhabenden und der Wirtschaftsverbände; am Rand hält er den Vorrang der Wirtschaftsverbände vor den Massenorganisationen für unklar, weil beide Verbandsarten nach Umrechnung auf die Zahl der erfassten Akteure nach den Verfassern selbst etwa gleichen Einfluss hätten; mit der Erwiderung von Martin Gilens, „Simulating Representation: The Devil's in the Detail", in: *Research & Politics* 3 (2016).
+
+Peter K. Enns, „Relative Policy Support and Coincidental Representation", in: *Perspectives on Politics* 13 (2015), H. 4, S. 1053–1064 – auch bei auseinanderliegenden Präferenzen lande die Politik ungefähr dort, wo sie bei alleiniger Vertretung der Mitte zu erwarten wäre; mit der Erwiderung von Martin Gilens, „The Insufficiency of ‚Democracy by Coincidence': A Response to Peter K. Enns", ebendort S. 1065–1071, und der Replik von Enns, „Reconsidering the Middle: A Reply to Martin Gilens", ebendort S. 1072–1074 (beide Seitenangaben nur über Sekundärnachweise).
+
+J. Alexander Branham / Stuart N. Soroka / Christopher Wlezien, „When Do the Rich Win?", in: *Political Science Quarterly* 132 (2017), H. 1, S. 43–62 – übereinstimmende Mehrheiten von Mitte und Wohlhabenden bei 1.594 der 1.779 Vorhaben; in den übrigen 185 Fällen 98 Siege der Wohlhabenden gegen 87 der Mitte, statistisch nicht von der Hälfte zu trennen; verabschiedet werden Vorhaben, die nur die Wohlhabenden wollen, zu 37 Prozent, solche, die nur die Mitte will, zu 26 Prozent, nach den Verfassern statistisch signifikant (p = 0,05); ihr Urteil: die Wohlhabenden seien „systematically overrepresented … just not by much".
+
+Für Gilens und Page: Jarron Bowman, „Do the Affluent Override Average Americans? Measuring Policy Disagreement and Unequal Influence", in: *Social Science Quarterly* 101 (2020), H. 3, S. 1018–1037 – Siegquoten seien kein verlässliches Einflussmaß, bei Uneinigkeit wirkten nur die Präferenzen der Wohlhabenden signifikant.
+
+Dazu die Antwort von Gilens und Page auf ihre Kritiker in der *Washington Post* (Monkey Cage) vom 23. Mai 2016.
+
+Gilens/Page 2014, Enns und Bowman sind über die Verlagsabstracts gesichert, die Erwiderungen, die Replik und der Zeitungsbeitrag nur bibliographisch (Auftrag V20 in `PROCESS.md`).
+
+#### „Große Kompression" (Goldin/Margo)
+
+Krieg und National War Labor Board „share some of the credit"; einen großen Teil („much") schreiben die Verfasser der rasch steigenden Nachfrage nach ungelernter bei stark wachsendem Angebot ausgebildeter Arbeit zu, und dieselben Kräfte hielten die Lohnstruktur nach ihrem Befund bis zu ihrer Ausweitung seit etwa 1970 zusammengedrückt.
+
+Die Ausdehnung auf die ganze Phase bis 1980 ist Rezeptionsgebrauch – im Text ausdrücklich als solcher gekennzeichnet.
+
+#### Scheidel
+
+**Bestätigt** in der Kernthese über Verlagsangaben und mehrere voneinander unabhängige Rezensionen, *mit Einschränkung:* Das Buch war aus der Arbeitsumgebung nicht einsehbar, Seitenangaben werden nicht geführt.
+
+Zweiter Durchgang, 26.09.2026:
+
+Die vier Kräfte, die die Ungleichheit von Einkommen und Vermögen in der überlieferten Geschichte stark gesenkt haben – Krieg mit Massenmobilisierung, umwälzende Revolution, Staatszerfall, tödliche Seuche –, und die Einebnung des zwanzigsten Jahrhunderts in den reichen wie in den kommunistisch regierten Ländern als vor allem ihr Werk.
+
+**Bestätigt** in der Kernthese über Verlagsangaben und mehrere voneinander unabhängige Rezensionen, *mit Einschränkung:* Das Buch ist nicht eingesehen, Seitenangaben werden nicht geführt.
+
+#### Piketty, Kriegsschocks
+
+**Bestätigt** im Wortlaut der englischen Ausgabe über mehrere übereinstimmende Textnachweise, *mit Einschränkung:* Seite und deutscher Wortlaut sind nicht eingesehen; der Text gibt die Stelle sinngemäß wieder.
+
+Die Aufzählung der Schocks folgt Pikettys Zerlegung des Kapitalrückgangs 1913–1950 in Mengen- und Preiseffekte (Kap. 4 der genannten Ausgabe); **mit Einschränkung,** nur über eine Zusammenfassung gesichert.
+
+#### Piketty/Saez
+
+Anteil des obersten Dezils zwischen den Kriegen rund 40 bis 45 Prozent, im Zweiten Weltkrieg Rückgang auf rund ein Drittel, danach bis in die siebziger Jahre auf diesem Stand; die unvollständige Erholung der großen Vermögen erklären die Verfasser als plausibel mit der steilen Progression von Einkommen- und Erbschaftsteuer („may have prevented large fortunes from fully recovering"); die Spitzenlöhne erholten sich „not … before the late 1960s", und das Arbeitspapier (NBER w8467) nennt für sie „social norms" als mögliche Erklärung.
+
+#### Scheve/Stasavage
+
+*Scheve/Stasavage:* Kenneth Scheve / David Stasavage, „The Conscription of Wealth: Mass Warfare and the Demand for Progressive Taxation", in: *International Organization* 64 (2010), H. 4, S. 529–561; dies., *Taxing the Rich. A History of Fiscal Fairness in the United States and Europe*, Princeton: Princeton University Press 2016 – die Mobilisierung für den Massenkrieg führte zu Forderungen, die Reichen zur gerechteren Verteilung der Kriegslasten stärker zu besteuern.
+
+#### Marx, Ziel und Weg
+
+*Mit Einschränkung:* Der Volltext war aus dieser Arbeitsumgebung nicht direkt abrufbar; Seitenangaben innerhalb der Schrift werden deshalb nicht geführt, der Sichtprüfungsauftrag steht in `PROCESS.md`.
+
+### Band 1, Kapitel 7: Der Endzustand, der das Problem wegdefiniert
+
+#### Engels, „Verwaltung von Sachen"
+
+Wortlaut der Passage bestätigt („An die Stelle der Regierung über Personen tritt die Verwaltung von Sachen und die Leitung von Produktionsprozessen").
+
+### Band 1, Kapitel 8: Warum Regeln rosten und Eigentum sich wehrt
+
+#### Anlass des Berliner Verkaufs
+
+**Bestätigt** am Wortlaut der Entscheidung, eingesehen über eine Spiegelung auf legislation.gov.uk.
+
+#### Stralsund 2003/04
+
+*Stralsund 2003/04:* Oberbürgermeister Harald Lastovka, zugleich Vorsitzender des Verwaltungsrats, betrieb den Verkauf der Sparkasse Hansestadt Stralsund (erwartet bis zu 50 Mio. Euro; Interessenten unter anderen Commerzbank und SEB); die Bürgerschaft beschloss am 11.12.2003 mit 27 zu 10 Stimmen, Möglichkeiten der Veräußerung zu prüfen.
+
+Zweiter Durchgang, 26.09.2026:
+
+Das Finanzministerium des Landes hob einen Beschluss des Verwaltungsrats auf, das Innenministerium setzte den Beschluss der Bürgerschaft am 18.12.2003 aus.
+
+Anfang März 2004 verschärfte der Landtag Mecklenburg-Vorpommern das Sparkassengesetz, im selben Monat stellte die Bürgerschaft das Verfahren ein; zum 01.01.2005 fusionierte die Sparkasse mit der Sparkasse Vorpommern.
+
+#### Kreditvergabe im Takt der Wahlen
+
+Sparkassen, die von Kreispolitikern kontrolliert werden, passen ihre Kreditvergabe dem Zyklus der Kreiswahlen an; die Wirkung ist über die unterschiedlichen Wahltermine der Länder und über die Genossenschaftsbanken als Vergleichsgruppe ohne politische Anbindung bestimmt; die wahlbedingte Kreditvergabe drückt die Rentabilität und geht rund drei Jahre nach der Wahl mit mehr Kreditausfällen einher. **Bestätigt** am Abstract.
+
+Dass der Anstieg weder bei den Genossenschaftsbanken noch vor Landtagswahlen auftritt und der Kreditbestand vor Kreiswahlen um rund 1,5 Prozent stieg, steht in der Zusammenfassung der Verfasser, „Electoral Cycles in German Public-Bank Lending", *International Banker,* Dezember 2015.
+
+#### Landesbanken
+
+Die Größenordnungen sind zu trennen: Die rund 68 bis 70 Milliarden Euro seit 2007 betreffen die *deutsche Bankenrettung insgesamt*, einschließlich der Bundesfälle Hypo Real Estate und Commerzbank; die Landesbanken allein liegen nach den verfügbaren Aufstellungen zusammen in der Größenordnung von 40 bis 50 Milliarden Euro – für die WestLB bezifferte das nordrhein-westfälische Finanzministerium die Gesamtkosten der öffentlichen Hand 2012 amtlich auf rund 18 Milliarden Euro (etwa hälftig beim Land, der Rest bei Bund und Sparkassen), für die HSH Nordbank werden 11 bis 14, für die BayernLB rund 10, für LBBW und SachsenLB zusammen gut 5 Milliarden Euro genannt.
+
+#### Employee Ownership Trusts
+
+**Mit Einschränkung:** gesichert über eine Praktikerdarstellung mit Norm- und Handbuchangaben (HMRC, *Capital Gains Manual*, CG67820); Gesetzestext und Handbuch waren aus der Arbeitsumgebung nicht einsehbar.
+
+**Bestätigt** in Datum und Umfang am Wortlaut der amtlichen Kurzbeschreibung, eingesehen über einen Datenspiegel des GOV.UK-Teams.
+
+Rechtsgrundlage: s. 236H(2A) TCGA 1992 in der Fassung von s. 35 Finance Act 2026; nur die Hälfte des Gewinns ist steuerpflichtig, die andere mindert den Einstandswert der Treuhänder.
+
+Zweiter Durchgang, 26.09.2026:
+
+**Bestätigt** für die Registerzahlen; wie viele davon über einen Employee Ownership Trust und nach 2014 belegschaftseigen wurden, ist **offen** (V24); die Normangabe **mit Einschränkung,** über eine Praktikerdarstellung.
+
+Die drei Vergünstigungen des Pakets – Kapitalertragsteuer-, Erbschaftsteuer- und Bonusbefreiung bis 3.600 Pfund – nach der amtlichen Kurzbeschreibung der Ipsos-Evaluation. **Bestätigt.**
+
+Dass die Bonusbefreiung bei der Halbierung bestehen blieb: **mit Einschränkung,** Praktikerdarstellung.
+
+Für Verkäufe ab dem 30.10.2024 (Finance Act 2025) drei zusätzliche Bedingungen – Ansässigkeit der Treuhänder im Vereinigten Königreich, Unabhängigkeit der Treuhänder von Verkäufer und nahestehenden Personen, die Pflicht der Treuhänder, alle zumutbaren Schritte zu tun, damit sie nicht mehr als den Marktwert zahlen (CG67828; Voraussetzung schon beim Verkauf, eine Sorgfaltspflicht und keine starre Obergrenze) –; die Frist, in der ein schädliches Ereignis dem Verkäufer die Befreiung nimmt, ist von einem auf vier Steuerjahre verlängert (s. 236O), danach trifft es die Treuhänder (s. 236P).
+
+**Mit Einschränkung:** gesichert über eine Praktikerdarstellung mit Norm- und Handbuchangaben (HMRC, *Capital Gains Manual*, CG67820); Gesetzestext und Handbuch sind nicht eingesehen.
+
+Halbierung der Befreiung von 100 auf 50 Prozent für alle Veräußerungen ab dem 26.11.2025, angekündigt im Haushalt 2025: HMRC, *Capital Gains Tax – Employee Ownership Trusts*, GOV.UK. **Bestätigt** in Datum und Umfang am Wortlaut der amtlichen Kurzbeschreibung. Rechtsgrundlage: s. 236H(2A) TCGA 1992 in der Fassung von s. 35 Finance Act 2026. **Mit Einschränkung,** über eine Praktikerdarstellung mit Verweis auf das Policy paper „Capital Gains Tax: Employee Ownership Trusts relief reduction", GOV.UK; der Normtext ist nicht eingesehen.
+
+Wie weit die Befreiungen die Entscheidung der Verkäufer beeinflussen, hat HMRC durch Ipsos qualitativ untersuchen lassen (*Qualitative Evaluation of Employee Ownership Trusts*, GOV.UK); **bestätigt** dem Gegenstand nach, Ergebnisse nicht eingesehen.
+
+Kostenschätzung bei Einführung, tatsächliche Kosten der Befreiung, ihre Prognose und die amtliche Begründung der Halbierung sind **offen,** der Text beziffert sie deshalb nicht (Auftrag V24 in `PROCESS.md`).
+
+**Wertung:** Die Halbierung ist ein sichtbarer Beschluss, der ein konzentriertes Interesse traf, und kein Fall der Rost-These; die Zuordnung des Beratungsgewerbes zum konzentrierten Interesse und die Parallele zu den Sparkassen sind ebenfalls Wertung; Olsons Logik erklärt an diesem Fall die Neigung des Privilegs, sich von seinem Zweck zu lösen, und gegen diese Neigung richten sich die Bedingungen von 2024.
+
+*Zusatz, der mitgeführt gehört:* Employee Ownership Trusts sind treuhänderisch gehalten und haben keine mitgliedschaftliche Verfassung.
+
+#### Building Societies und ihr Umwandlungsrecht
+
+**Bestätigt** am geltenden Wortlaut und an der Änderungsverordnung, eingesehen über eine Spiegelung der Texte von legislation.gov.uk; die Fassung von 1989, auch für s. 100(8), ist aus dem Änderungsnachweis erschlossen und nicht am Text geprüft.
+
+Zweiter Durchgang, 26.09.2026:
+
+Die Übertragung des Geschäfts auf eine Gesellschaft braucht einen Beschluss der Sparer mit drei Vierteln der abstimmenden berechtigten Mitglieder und einen Beschluss der Kreditnehmer mit der Mehrheit der Abstimmenden; ein Recht auf Aktien haben nach s. 100(8) nur Mitglieder mit mindestens zweijähriger Mitgliedschaft.
+
+Mehrheiten: Schedule 2 para. 27A und 29(1); Bonus aus den Rücklagen für Mitglieder ohne Stimmrecht: s. 100(2)(b) und (4).
+
+Die Beschlussfassung verlangte außerdem die Beteiligung von mindestens einem Fünftel der Berechtigten (Schedule 2 para. 30(2)(b)); die Hälfte gilt erst seit dem 05.12.1997 (Building Societies (Transfer Resolutions) Order 1997, SI 1997/2714, Art. 2).
+
+**Bestätigt** am geltenden Wortlaut und an der Änderungsverordnung; die Fassung von 1989, auch für s. 100(8), ist aus dem Änderungsnachweis erschlossen und nicht am Text geprüft.
+
+#### Abbey National 1989
+
+**Bestätigt** hinsichtlich des Vorrangs (House of Commons, 23.06.1997, Paymaster General: „the first mutual society to convert"); **mit Einschränkung** hinsichtlich der Zuteilung, nur über Wiedergaben gesichert.
+
+#### Die Umwandlungen bis 2000
+
+**Mit Einschränkung:** Die Zwei-Drittel-Angabe ist über eine Sekundärfassung gesichert, der Aufsatz ist nicht eingesehen; Abstimmungsergebnisse nennen nur Unternehmensgeschichten, sie stehen deshalb nicht im Text.
+
+#### Die Einmalzahlungen der Halifax
+
+Die Freiaktien gelten steuerlich als ohne Gegenleistung und ohne Wert erworben (Taxation of Chargeable Gains Act 1992, s. 217(2)); ein belegter Kurs des ersten Handelstags liegt nicht vor, der Text nennt deshalb keinen Geldwert.
+
+Eine belastbare Gesamtsumme der Einmalzahlungen der ganzen Welle ist nicht gefunden und wird nicht genannt.
+
+#### Carpetbagger und die Nationwide
+
+Die Abtretung an die Nationwide Foundation (Charity Nr. 1065552, nicht am Register geprüft) erfasst Umwandlungsvorteile bis zwei Jahre nach dem Ende der Mitgliedschaft, ist unwiderruflich, und die Stiftung kann sie nach dem Contracts (Rights of Third Parties) Act 1999 selbst durchsetzen; für künftige Antragsteller kann die Society die Bedingung aufheben.
+
+Die Bewerbung der fünf Kandidaten mit dem Tausend-Pfund-Versprechen und die 25.000 Kontoanträge am Tag nach der Rede der Abgeordneten Sally Keeble im Unterhaus am 23.06.1997; das ist die Angabe einer Abgeordneten und keine amtliche Zahl.
+
+1998 scheiterte ein Umwandlungsantrag.
+
+**Bestätigt** hinsichtlich der Abtretung, ihres Stichtags und ihres Wortlauts, dieser über eine Wiedergabe der Kontobedingungen; *mit Einschränkung* hinsichtlich der Abstimmung von 1998, deren Stimmenzahlen nicht ermittelt sind.
+
+#### Was aus den umgewandelten Häusern wurde
+
+*Was aus den umgewandelten Häusern wurde:* Woolwich 2000 an Barclays; Halifax 2001 in der HBOS, diese seit dem 19.01.2009 Teil der Lloyds Banking Group; Abbey National 2004 und Alliance & Leicester 2008 an Santander; Northern Rock am 22.02.2008 verstaatlicht (Northern Rock plc Transfer Order 2008, SI 2008/432, erlassen am 21.02.2008), Bradford & Bingley am 29.09.2008 (Bradford & Bingley plc Transfer of Securities and Property etc. Order 2008, SI 2008/2546), Einlagen und weitere Vermögenswerte an die zu Santander gehörende Abbey National.
+
+**Bestätigt** für Northern Rock und Bradford & Bingley am Text der Verordnungen, für die übrigen Häuser über übereinstimmende Wiedergaben; der Übergang der Filialen der Bradford & Bingley ist nicht am Text geprüft.
+
+#### Olsons Lage im Inneren des Eigentums
+
+*Olsons Lage im Inneren des Eigentums:* Dass die Rücklagen keinem Mitglied einzeln zustanden und bei der Umwandlung den Mitgliedern am Stichtag zufielen, folgt aus dem Umwandlungsrecht; die Deutung als Abstimmung der gegenwärtigen Mitglieder über das Vermögen früherer und künftiger und die Unterscheidung nach dem Nutzen der Form – die Wohnung für ihre Bewohner gegen den Zinsvorteil für Sparer und Kreditnehmer – sind **Wertung.**
+
+#### Wohnungsgemeinnützigkeit
+
+Versucht werden Auflösungen: Am 04.05.2022 warnte der Zentralverband deutscher Konsumgenossenschaften, auf Hinweis des Verbands der Wohnungs- und Immobilienwirtschaft in Niedersachsen und Bremen, vor einer Kanzlei, die Vollmachten von Mitgliedern sammelte, um Wohnungsgenossenschaften aufzulösen und ihre Bestände zu verkaufen, mit Beteiligung der Mitglieder am Erlös und zehn Jahren Bestandsschutz für die Bewohner (zdk-hamburg.de). Verlinkt ist dort ein Fernsehbericht des NDR über einen solchen Versuch.
+
+#### Italienisches Genossenschaftsrecht
+
+**Bestätigt** am Wortlaut über eine Spiegelung der Normattiva-Texte, Art. 2545-octies über eine Kommentarausgabe.
+
+#### Gesetzliche Vermögensbindung in Großbritannien
+
+**Bestätigt** am Wortlaut über eine Spiegelung der Texte von legislation.gov.uk.
+
+Zweiter Durchgang, 26.09.2026:
+
+*Gesetzliche Vermögensbindung in Großbritannien:* Co-operatives and Community Benefit Societies Act 2003, s. 1 (aufgehoben; die Ermächtigung steht heute in s. 29 des Co-operative and Community Benefit Societies Act 2014); Community Benefit Societies (Restriction on Use of Assets) Regulations 2006, SI 2006/264, erlassen am 07.02.2006, in Kraft seit 06.04.2006 – wählbar für *community benefit societies* außer registrierten Sozialvermietern und *charities* (reg. 5), einmal aufgenommen nicht wieder streichbar (reg. 7), Übertragung nur an Träger mit gleichwertiger Bindung; Community Interest Company Regulations 2005, SI 2005/1788, in Kraft seit 01.07.2005; House of Commons Library, Research Paper 03/08, 29.01.2003.
+
+### Band 1, Kapitel 9: Fehlertoleranz
+
+#### Die Frage, ob eine Ordnung ihre Fehler überlebt
+
+**Bestätigt** hinsichtlich Werk, Vortrag und Fundstellen; **mit Einschränkung** der Wortlaut beider Stellen und die Seitenangabe von 1990, die über Suchnachweise und Sekundärdarstellungen gesichert sind, weil beide Texte aus der Arbeitsumgebung nicht abrufbar waren.
+
+### Band 1, Kapitel 11: Drei Werktage
+
+#### Investitionsschutz
+
+**Bestätigt**, *mit Einschränkung:* Die Austrittsdaten sind über die Mitteilung des Verwahrers und über Mitteilungen von Rat und Kommission gesichert, aus der Arbeitsumgebung aber nur mittelbar; einzelne deutsche Meldungen nennen den 21.12.2023.
+
+Zweiter Durchgang, 26.09.2026:
+
+*Investitionsschutz:* Energiecharta-Vertrag, Art. 13 Abs. 1 (Entschädigung für eine Enteignung in Höhe des Marktwerts der Investition zuzüglich Zinsen), Art. 26 (Streitbeilegung zwischen einer Vertragspartei und einem Investor einer anderen Vertragspartei), Art. 1 Nr. 6 (geschützt sind Investitionen im Zusammenhang mit einer Wirtschaftstätigkeit im Energiesektor). **Bestätigt.**
+
+ICSID-Verfahren ARB/12/12 (Vattenfall AB u. a. gegen Bundesrepublik Deutschland), eingeleitet 2012 wegen der Stilllegung von Krümmel und Brunsbüttel, Forderung rund 4,7 Mrd. Euro; den auf das Achmea-Urteil gestützten Zuständigkeitseinwand der Bundesrepublik wies das Schiedsgericht am 31.08.2018 zurück; eingestellt am 09.11.2021 ohne Schiedsspruch in der Sache. **Bestätigt.**
+
+BVerfG, Urteil vom 06.12.2016 – 1 BvR 2821/11 u. a. (BVerfGE 143, 246), auf die Verfassungsbeschwerden von E.ON, RWE und Vattenfall: Die Dreizehnte Novelle des Atomgesetzes ist im Wesentlichen verfassungsgemäß und eine Inhalts- und Schrankenbestimmung; mit Art. 14 Abs. 1 GG unvereinbar ist sie, soweit sie für nicht mehr verwertbare Reststrommengen von 2002 (RWE, Vattenfall) und für im Vertrauen auf die Laufzeitverlängerung von 2010 getätigte Investitionen keinen angemessenen Ausgleich vorsieht; Vattenfalls deutsche Tochter kann sich trotz staatlicher Eigentümerschaft ausnahmsweise auf Art. 14 GG berufen.
+
+Einigung vom 05.03.2021 über rund 2,428 Mrd. Euro (Vattenfall 1,425 Mrd., RWE 880 Mio., EnBW 80 Mio., E.ON/PreussenElektra 42,5 Mio.) mit Rücknahme aller Rechtsbehelfe einschließlich des Schiedsverfahrens.
+
+**Bestätigt** in Tenor, Beträgen und Verfahrensgang; *mit Einschränkung:* Entscheidungsgründe und Randnummern sind nur über Sekundärquellen gesichert.
+
+Austritt Deutschlands aus dem Energiecharta-Vertrag: Notifikation im Dezember 2022, wirksam nach Art. 47 Abs. 2 ein Jahr nach Eingang, am 20.12.2023; nach der Sunset-Klausel des Art. 47 Abs. 3 bleibt der Vertrag auf die an diesem Tag bestehenden Investitionen bis zum 20.12.2043 anwendbar.
+
+**Bestätigt**, *mit Einschränkung:* Die Austrittsdaten sind über die Mitteilung des Verwahrers und über Mitteilungen von Rat und Kommission gesichert, aber nur mittelbar; einzelne deutsche Meldungen nennen den 21.12.2023.
+
+Welche bilateralen Abkommen die Anteilseigner einer börsennotierten deutschen Wohnungsgesellschaft erfassen und ob die Abkommen mit anderen Mitgliedstaaten nach dem Beendigungsübereinkommen von 2020 noch gelten, ist **offen.**
+
+### Band 1, Kapitel 12: Sechs Tests und die Bausteine, die schon da sind
+
+#### Die Wohnungsgemeinnützigkeit als vollzogener Belastungstest
+
+*Die Wohnungsgemeinnützigkeit als vollzogener Belastungstest:* Wohnungsgemeinnützigkeitsgesetz vom 29. Februar 1940, aufgehoben durch Artikel 21 des Steuerreformgesetzes 1990 vom 25. Juli 1988 mit Wirkung zum 1. Januar 1990; Verkauf der GSW 2004.
+
+**Bestätigt;** dass die Genossenschaften ihre Bestände im Ganzen behielten, **mit Einschränkung** (siehe Kapitel 8).
+
+Zweiter Durchgang, 26.09.2026:
+
+Fundstellen und Verifikationsstatus in Kapitel 8 und in Band 2, Kapitel 3.
+
+### Band 1, Kapitel 13: Die marxistische Gegenprobe
+
+#### Der Sozialdemokratie-Vorwurf
+
+Wortlaut an der Wiedergabe der Bayerischen Staatsbibliothek (*1000 Schlüsseldokumente zur deutschen Geschichte*) geprüft.
+
+**Bestätigt** über Verlagsangaben, das Katalogisat der amerikanischen Ausgabe und biographische Nachweise; *mit Einschränkung:* Die Vierteilung und Meades Vorzug für die beiden letzten Antworten sind nur über Sekundärdarstellungen gesichert.
+
+Zweiter Durchgang, 26.09.2026:
+
+*Der Sozialdemokratie-Vorwurf:* Der Allgemeine Deutsche Arbeiterverein, gegründet am 23. Mai 1863 in Leipzig, vereinigte sich 1875 in Gotha mit der Sozialdemokratischen Arbeiterpartei zur Sozialistischen Arbeiterpartei Deutschlands, die sich 1890 in Sozialdemokratische Partei Deutschlands umbenannte; die SPD führt den 23. Mai 1863 als ihren Gründungstag.
+
+Godesberger Programm der SPD, beschlossen auf dem außerordentlichen Parteitag in Bad Godesberg am 15. November 1959, Abschnitt „Einkommens- und Vermögensverteilung": „Geeignete Maßnahmen sollen dafür sorgen, daß ein angemessener Anteil des ständigen Zuwachses am Betriebsvermögen der Großwirtschaft als Eigentum breit gestreut oder gemeinschaftlichen Zwecken dienstbar gemacht wird."
+
+James E. Meade, *Efficiency, Equality and the Ownership of Property*, London: George Allen & Unwin 1964; amerikanische Ausgabe Cambridge (Mass.): Harvard University Press 1965.
+
+Das Buch prüft vier Antworten auf die Ungleichheit – Gewerkschaftsstaat, Wohlfahrtsstaat, property-owning democracy und sozialistischer Staat – und macht Vorschläge zur Reform der Erbschaftsbesteuerung.
+
+Meade leitete 1946 und 1947 die Wirtschaftsabteilung des britischen Kabinettsamts unter der Regierung Attlee und erhielt 1977 den Wirtschaftsnobelpreis.
+
+**Bestätigt**; *mit Einschränkung:* Die Vierteilung und Meades Vorzug für die beiden letzten Antworten sind nur über Sekundärdarstellungen gesichert.
+
+John Rawls, *A Theory of Justice*, Cambridge, Mass.: Harvard University Press 1971, § 43, zur laufenden Korrektur der Vermögensverteilung über Erbschafts- und Schenkungsteuern – **mit Einschränkung**, über Suchnachweise, Wortlaut und Seite nicht eingesehen; in der revidierten Ausgabe von 1999 unterscheidet Rawls im Vorwort schärfer zwischen welfare-state capitalism und property-owning democracy und weist aus, den Begriff von Meade übernommen zu haben – **mit Einschränkung**, über Sekundärnachweise, Seite nicht eingesehen.
+
+Ders., *Justice as Fairness. A Restatement*, hg. v. Erin Kelly, Cambridge, Mass.: Belknap Press 2001, S. 139: Die property-owning democracy verhindere, dass ein kleiner Teil der Gesellschaft die Wirtschaft und mittelbar das politische Leben beherrscht, indem sie breites Eigentum am Anfang jeder Periode sichert, statt Einkommen an ihrem Ende umzuverteilen.
+
+**Bestätigt** (übereinstimmend in zwei Sekundärwiedergaben).
+
+Ebd., § 41 (Teil IV), S. 136–137: vier Fragen an jede Ordnung, nämlich nach Recht und Gerechtigkeit, nach ihrer Bauart, nach der Befolgung durch die Bürger in ihren Ämtern angesichts ihrer Interessen und Ziele, wie die Grundstruktur der Ordnung sie prägt, und nach der Kompetenz.
+
+Zur dritten zählt Rawls die Korruption.
+
+Er beschränkt sich weitgehend auf die erste und stellt die übrigen zurück.
+
+**Bestätigt** (übereinstimmend in zwei Sekundärwiedergaben, eine davon wörtlich); der Wortlaut „weitgehend" **mit Einschränkung,** nur einmal wörtlich wiedergegeben, Druck nicht eingesehen.
+
+Die Stabilität einer gerechten Ordnung behandelt Rawls ausführlich, in *A Theory of Justice*, Teil III (§§ 69, 76, 86), in *Justice as Fairness*, Teil V (§§ 54–60), und in *Political Liberalism*, New York: Columbia University Press 1993, Vorlesung IV.
+
+Teile und Paragraphen **bestätigt** über die Inhaltsverzeichnisse, der Inhalt **mit Einschränkung,** über Nachschlagewerke, Seiten nicht eingesehen.
+
+Dass die Frage der Haltbarkeit in der Rawls-Literatur selbst gestellt wird, zeigt Thad Williamson, „Is Property-Owning Democracy a Politically Viable Aspiration?", in: Martin O'Neill / Thad Williamson (Hg.), *Property-Owning Democracy. Rawls and Beyond*, Malden, Mass.: Wiley-Blackwell 2012, S. 287–306.
+
+Die Antwort über die Bauart der Streuung und die Einordnung, dieses Buch arbeite an der Frage, die Rawls beim Vergleich der Ordnungen zurückstellt, sind **Wertung** dieses Buches; die Priorität der Unterscheidung liegt bei Meade, eine Abstammung wird nicht behauptet.
+
+#### Pérotin und Burdín
+
+**Bestätigt** hinsichtlich der Fundstellen und der Richtung des Befunds; *mit Einschränkung* hinsichtlich der Konjunkturaussage und der Stichprobenzahlen, die über Wiedergaben der Zusammenfassung gesichert sind und in der Sekundärliteratur einer Fassung von 2010 zugeordnet werden; die Effektgröße führt Band 2, Kapitel 6.
+
+Die Design-Einschränkung ist mitzuführen: Der Befund stammt aus Ländern mit degenerations- und unterinvestitionssicheren Genossenschaftsverfassungen; Wortlaut und Stelle dieser Einschränkung bei Pérotin sind nicht eingesehen, und ob sie Uruguay im Untersuchungszeitraum umfasst, ist nicht geprüft (Auftrag V22 in `PROCESS.md`).
+
+#### Parallelentwicklung in der sowjetischen Planwirtschaft
+
+*Parallelentwicklung in der sowjetischen Planwirtschaft:* Die sowjetische Luftfahrt vergab Entwicklungsaufträge im Wettbewerb konkurrierender Konstruktionsbüros mit parallel gebauten Prototypen; für das 1969 ausgeschriebene Erdkampfflugzeug traten die Büros Suchoi, Jakowlew, Iljuschin und Mikojan an (Ergebnis Su-25 gegen Il-102), für das ab 1971 laufende Programm des schweren Frontjägers Suchoi gegen Mikojan und Jakowlew (Ergebnis Su-27).
+
+Im Mondprogramm entwickelten neben Koroljows N1 die Büros Jangels (R-56) und Tschelomejs (UR-700) konkurrierende Schwerlastraketen; der Streit um ihre Finanzierung gilt in der Literatur als eine Ursache des Scheiterns.
+
+#### Operation Warp Speed
+
+*Mit Einschränkung:* über Suchnachweise gesichert, die Mitteilung selbst war aus der Arbeitsumgebung nicht einsehbar.
+
+#### Ressourcenintensität der DDR
+
+**Bestätigt**, *mit Einschränkung:* Die Angaben schwanken je nach Quelle zwischen rund zwanzig und rund fünfundzwanzig Prozent, und es handelt sich um einen Pro-Kopf-, nicht um einen Pro-Einheit-Vergleich; der Text führt deshalb die vorsichtigere Zahl und nennt die geringere Wirtschaftsleistung ausdrücklich daneben.
+
+#### Marx, Kapital III
+
+**Bestätigt im Wortlaut**, am 21. August 2026 auch an einer gedruckten Ausgabe (Nikol-Nachdruck, *Das Kapital*, Bd. III, dort auf S. 214 und S. 219); dabei die Fortsetzung des Genossenschaftssatzes berichtigt – sie lautet „…alle Mängel des bestehenden Systems reproduzieren und reproduzieren müssen", nicht „…reproduzieren müssen".
+
+Die Seitenangaben 452 und 456 sind die der MEW-Ausgabe, über mehrere voneinander unabhängige Fundstellennachweise und eine seitenmarkierte Textfassung übereinstimmend bestätigt; der Nikol-Nachdruck zählt eigene Seiten, sodass die reine Sichtprüfung am blauen MEW-Band der verbleibende Rest dieses Prüfauftrags bleibt.
+
+#### Engels, Anarchie der gesellschaftlichen Produktion
+
+Die im Text wiedergegebenen Bestimmungen – der Warenproduzent kennt weder den Absatz noch den Bedarf, es herrsche Anarchie der gesellschaftlichen Produktion, und aus ihr folgen Vergeudung und Krise – sind sinngemäß referiert und nicht als wörtliches Zitat geführt.
+
+#### Ostrom
+
+Zur Spanne der Fälle schreibt Ostrom, der größte umfasse rund 15.000 Nutzer und jeder liege in einem einzigen Land; der Wortlaut ist über die Verlagsseite bei Cambridge Core gesichert, die Druckseite nicht eingesehen.
+
+Zweiter Durchgang, 26.09.2026:
+
+*Ostrom:* Elinor Ostrom, *Governing the Commons. The Evolution of Institutions for Collective Action*, Cambridge University Press 1990; die Gestaltungsprinzipien siehe Kapitel 7, die Herkunft des Begriffs der Polyzentrik Kapitel 5.
+
+Zur Spanne der Fälle schreibt Ostrom, der größte umfasse rund 15.000 Nutzer und jeder liege in einem einzigen Land; die Druckseite ist nicht eingesehen.
+
+Die untere Grenze von rund fünfzig Nutzern ist nur über Sekundärnachweise gesichert.
+
+Zu den größeren Fällen gehören die ostspanischen Bewässerungsgemeinschaften, nach Kanälen gegliedert und mit eigenen Gerichten, dem Tribunal de las Aguas in Valencia und dem Consejo de Hombres Buenos in Murcia; beide sind heute als Gewohnheitsgerichte anerkannt (Art. 125 der spanischen Verfassung, Art. 19 des spanischen Gerichtsverfassungsgesetzes).
+
+Dass alle Fälle in Staaten liegen, die diese Selbstverwaltung dulden oder anerkennen, fasst zweierlei zusammen: Ostroms Angabe, jeder Fall liege in einem Land, und ihr siebtes Gestaltungsprinzip, das 1990 verlangt, dass staatliche Stellen das Recht der Nutzer, ihre Regeln selbst zu machen, nicht bestreiten, und das in ihrem Nobelvortrag die Anerkennung durch die Regierung verlangt (Elinor Ostrom, „Beyond Markets and States: Polycentric Governance of Complex Economic Systems", in: *American Economic Review* 100, 2010, H. 3, S. 641–672).
+
+Die Zusammenfassung ist **Wertung.**
+
+#### Lohn- und Beschäftigungsanpassung (Craig/Pencavel, Pencavel/Pistaferri/Schivardi, Burdín/Dean)
+
+*Lohn- und Beschäftigungsanpassung (Craig/Pencavel, Pencavel/Pistaferri/Schivardi, Burdín/Dean):* siehe Band 2, Kapitel 6, dort mit Fundstellen und Verifikationsstatus.
+
+### Band 1, Kapitel 14: Die liberale Gegenprobe
+
+#### Gesamtfaktorproduktivität
+
+**Mit Einschränkung:** über Auszüge gesichert, die Periodengrenzen werden dort uneinheitlich angegeben, und Wu schreibt seine Reihe fort und revidiert sie; nach dem Bericht über einen Vortrag vom 13. September 2024 nennt er für 2001–07 2,1 Prozent, für 2008–12 −2,0 und für 2013–2023 weiter negative Werte, gerechnet auf amtlichen Rohdaten.
+
+*Total Economy Database des Conference Board:* Die Reihe „China (Alternative)" beruht auf Wus Wachstumsraten, die Reihe „China (Official)", in neueren Ausgaben „China", auf der amtlichen Wertschöpfung; nach den öffentlichen Übersichtstabellen vom April 2022 (Tabelle 13) wuchs die Gesamtfaktorproduktivität 2000–2007 um 1,1 und 2011–2019 um −0,5 Prozent im Jahr, in der amtlichen Reihe um 2,9 und 1,7 Prozent.
+
+Eigene Rechnung aus der Gesamtfaktorproduktivität zu konstanten nationalen Preisen (rtfpna, über FRED, Reihe RTFPNACNA632NRUG; die Ausgabe 10.01 über ALFRED, Stand 1. Januar 2023), als Mittel der jährlichen Differenzen der Logarithmen über die Jahre des genannten Zeitraums: nach Ausgabe 10.01 3,4 Prozent im Jahr 2002–07, 0,6 Prozent 2008–12 und −0,6 Prozent 2011–19; nach Ausgabe 11.0 4,8, 2,6 und 2,4 Prozent, von 2011 bis 2023 (Indexwerte 0,7884 und 1,0137) 2,1 Prozent.
+
+*Der Rückgang nach 2007,* aus diesen Angaben gerechnet: bei Wu 3,3 Prozentpunkte, in der Penn World Table 2,8 (Ausgabe 10.01) und 2,2 (Ausgabe 11.0), jeweils 2002–07 gegen 2008–12; mit den Zeiträumen der Total Economy Database 1,6 in ihrer alternativen und 1,2 in ihrer amtlichen Reihe, 3,4 und 1,7 in den beiden Ausgaben der Penn World Table, deren Werte aus den ungerundeten Mitteln gerechnet sind; bei der Weltbank 2,4 (1979–2008 gegen die Jahre seit 2008).
+
+Zweiter Durchgang, 26.09.2026:
+
+**Mit Einschränkung:** über Auszüge gesichert, die Periodengrenzen werden dort uneinheitlich angegeben, und Wu schreibt seine Reihe fort und revidiert sie; nach dem Bericht über einen Vortrag vom 13. September 2024 nennt er für 2013–2023 weiter negative Werte, gerechnet auf amtlichen Rohdaten.
+
+*Total Economy Database des Conference Board:* Die Reihe „China (Alternative)" beruht auf Wus Wachstumsraten, die Reihe „China (Official)" auf der amtlichen Wertschöpfung.
+
+Nach den öffentlichen Übersichtstabellen vom April 2022 (Tabelle 13) wuchs die Gesamtfaktorproduktivität 2000–2007 um 1,1 und 2011–2019 um −0,5 Prozent im Jahr, in der amtlichen Reihe um 2,9 und 1,7 Prozent.
+
+**Bestätigt** für diese Ausgabe; neuere Werte sind nur nach Anmeldung zugänglich und hier nicht geprüft.
+
+*Penn World Table:* Von Ausgabe 8.0 an rechnete sie für China mit der von Angus Maddison und Wu bereinigten Wachstumsreihe (Robert C. Feenstra, Robert Inklaar und Marcel Timmer, *PWT 8.0 – a user guide*, 2013, Tabelle 7), seit Ausgabe 11.0 vom 7. Oktober 2025 mit der amtlichen (Groningen Growth and Development Centre, Mitteilung zur Ausgabe 11.0).
+
+Eigene Rechnung aus der Gesamtfaktorproduktivität zu konstanten nationalen Preisen, Rechenweg und Reihenkennung im Quellenverzeichnis: nach Ausgabe 10.01 3,4 Prozent im Jahr 2002–07, 0,6 Prozent 2008–12 und −0,6 Prozent 2011–19; nach Ausgabe 11.0 4,8, 2,6 und 2,4 Prozent, von 2011 bis 2023 2,1 Prozent.
+
+*Der Rückgang nach 2007* reicht nach eigener Rechnung (Rechenweg im Quellenverzeichnis) von 1,2 Prozentpunkten in der amtlichen Reihe der Total Economy Database bis 3,4 in der Penn World Table (Ausgabe 10.01, aus den ungerundeten Mitteln), beide mit den Zeiträumen der Total Economy Database.
+
+*Der Streit um die Wertschöpfung* läuft in beide Richtungen: Wei Chen, Xilu Chen, Chang-Tai Hsieh und Zheng Song, „A Forensic Examination of China's National Accounts", in: *Brookings Papers on Economic Activity*, Frühjahr 2019, S. 77–141, halten das amtliche Wachstum 2008–2016 für um 1,7 Prozentpunkte im Jahr überzeichnet; Hunter Clark, Maxim Pinkovskiy und Xavier Sala-i-Martin, „China's GDP Growth May Be Understated", in: *China Economic Review* 62 (2020), halten es für möglicherweise unterzeichnet.
+
+Der Text führt den Befund deshalb als stützend und nicht als beweisend.
+
+#### Jugoslawien, die vier Unterschiede und der Ward-Effekt
+
+Sie folgt aus Wards Modell selbst, das die Firma über das Einkommen je Kopf und die selbst bestimmte Mitgliederzahl beschreibt, nicht über die Eigentumsform des Kapitals.
+
+#### Das Abschaltkriterium
+
+Maßgeblich ist die erste Ausgabe, die 2036 nicht mehr als Prognose führt, weil jede Ausgabe der Datenbank das Vorjahr als Schätzung und das laufende Jahr als Prognose des Conference Board ausweist (Datenseite der Datenbank zur Ausgabe vom April 2023); nach diesem Turnus ist es die Ausgabe des Jahres 2037.
+
+Zweiter Durchgang, 26.09.2026:
+
+*Das Abschaltkriterium* – Hauptrechnung, Schwelle, Fenster, maßgebliche Ausgabe, Ausfallregel und die ungemessene Gegenrichtung – ist eine Selbstbindung dieses Buches nach dem Muster der Zehnjahresbilanz in Band 2, Kapitel 11 und der Prüfung der Friedensvermutung.
+
+Eine davon gehört hierher: In der amtlichen Reihe der Penn World Table (Ausgabe 11.0) liegt das Mittel 2018–2023 mit 2,0 Prozent im Jahr unter dem Mittel 2008–2017 mit 2,5 Prozent; setzte sich das fort, wäre die Bedingung auch dort nicht erfüllt, und die Wahl der Reihe entschiede nicht allein über den Ausgang.
+
+### Band 1, Kapitel 15: Offene Flanken
+
+#### Der Maßstabs-Einwand und die Grenze des Kläger-Maßstabs
+
+Die Einordnung des Eintrags als Grenze der Reichweite – ein Schaden ohne Träger und ohne Vergleichsgröße ist für diese Ordnung unsichtbar – ist **Wertung** dieses Buches.
+
+#### Kosten der Parallelität
+
+**Offen** ist die Größe selbst: Eine Messung des Doppelungsanteils am Entwicklungs-, Werkzeug- und Vertriebsaufwand einer Branche liegt für keine Warengruppe vor, und dieses Buch führt keine.
+
+#### Der chinesische Fall
+
+**Offen** ist die Frage selbst – und offen ist sie in dem Sinn, in dem dieses Verzeichnis das Wort gebraucht: Der Fall läuft, die Entscheidungsregel steht, das Ergebnis steht aus.
+
+#### Weltordnungsebene, Investitionsschutz, Kapitalverkehrsfreiheit, Erzwingungskanäle und der Befund zur Polyzentrik im internationalen System
+
+*Weltordnungsebene, Investitionsschutz, Kapitalverkehrsfreiheit, Erzwingungskanäle und der Befund zur Polyzentrik im internationalen System:* vollständig belegt in Band 2, Kapitel 12 – einschließlich der Klagerechtsasymmetrie im Unionsrecht, der Klimaentscheidungen von 2024 und 2025, des Austritts Russlands aus dem Konventionssystem, der Änderungssperre der Artikel 108 und 109 der UN-Charta und der drei Instrumente des Marktzugangs.
+
+#### Die Seite des Eigentums
+
+Ausnahmen macht das Gericht für öffentlich-rechtliche Träger, die unmittelbar einem grundrechtlich geschützten Lebensbereich zugeordnet sind, etwa Rundfunkanstalten, Hochschulen und Kirchen, und dort für das Grundrecht dieses Bereichs (BVerfGE 75, 192, 196 f.); deshalb „in der Regel".
+
+### Band 2, Kapitel 2: Die Verfassung des Belegschaftssektors
+
+#### Race Mathews und der Begriff
+
+*Race Mathews und der Begriff:* Race Mathews, *Jobs of Our Own. Building a Stake-Holder Society*, 1999 (überarbeitete Fassung 2009), hervorgegangen aus einer 1998 an der Monash University abgeschlossenen Dissertation; dort die Genealogie von *Rerum Novarum* über Belloc und die Brüder Chesterton und die Antigonish-Bewegung zu Arizmendiarrieta und Mondragón sowie der Begriff *evolved distributism*.
+
+#### Vermögensbindung am gemeinsamen Ausgang
+
+*Vermögensbindung am gemeinsamen Ausgang:* §§ 73, 91, 92 GenG, §§ 262, 263 UmwG, Art. 2545-undecies Codice civile – Belege in Band 1, Kapitel 8; das italienische Recht gibt den Förderfonds keine Klagebefugnis.
+
+Muster des klagenden Begünstigten ist die Abtretung künftiger Umwandlungserlöse neuer Mitglieder der Nationwide an die Nationwide Foundation, die sie nach dem Contracts (Rights of Third Parties) Act 1999 selbst durchsetzen kann; **bestätigt** hinsichtlich Abtretung, Stichtag und Wortlaut, dieser über eine Wiedergabe der Kontobedingungen (Band 1, Kapitel 8).
+
+Muster der Nachwirkung ist Art. 2545-octies Codice civile – wer die Satzungsklauseln nach Art. 2514 streicht, verliert den begünstigten Status, und eine eigene Bilanz stellt den Vermögenswert fest, der den unteilbaren Rücklagen zuzuweisen ist –, am Wortlaut **bestätigt**, Beleg in Band 1, Kapitel 8.
+
+Ob die Satzung eine Klausel nach § 91 Abs. 3 oder § 92 GenG dem Zugriff der Mitglieder ganz entziehen kann, ist **offen,** die Rechtsfrage ist nicht geprüft (Auftrag V41 in `PROCESS.md`).
+
+#### Ausbeutung jenseits der Grenze, in beiden Systemen
+
+Einbehaltene Löhne der mosambikanischen Vertragsarbeiter in der DDR: über 20.000 ab 1979; 1979 bis 1985 pauschal 25 Prozent des Nettolohns, ab 1986 60 Prozent oberhalb eines Sockelbetrags von 350 Mark als „Transferpflichtbetrag" einbehalten und großteils mit Mosambiks Schulden bei der DDR verrechnet statt überwiesen; „Sie kamen quasi mit leeren Händen zurück" (Interview mit Birgit Weyhe), in: *Deutschland Archiv* (bpb), 24.10.2016; bpb-Dossier „Migrantische Perspektiven auf die Deutsche Einheit"; Deutscher Bundestag, hib-Meldung „Entschädigung von DDR-Vertragsarbeitern aus Mosambik", 26.04.2023.
+
+Auch die Zahl schwankt nach Quelle: Die hib-Meldung nennt nach der SED-Opferbeauftragten rund 17.000 Vertragsarbeiter für 1979 bis 1989.
+
+#### Die zu vielen Abende
+
+Als Wilde-Zitat ist die Pointe nicht verifizierbar, und der Text führt die Zuschreibung als apokryph.
+
+#### Der gemeinsame Schock im baskischen Verbund 2008–2016
+
+*Der gemeinsame Schock im baskischen Verbund 2008–2016:* Fagor Electrodomésticos – Absatzrückgang von rund 37 Prozent seit 2007, Insolvenzantrag am 16.10.2013 zur Neuverhandlung von 1,1 Mrd. Euro Schulden, rund 5.600 bis 5.700 Beschäftigte; die Laboral Kutxa (Zusammenschluss von Caja Laboral und Ipar Kutxa 2012) zählte neben Kutxabank, BBVA, Santander und CaixaBank zu den Hauptgläubigern; Ablehnung des Rettungsplans, für den Fagor rund 170 Mio. Euro brauchte, durch den Generalrat des Verbunds Ende Oktober 2013 (spanische Wirtschaftspresse, u. a. elEconomista und Vozpópuli, 31.10.2013; der Betrag war der Gesamtbedarf des Plans, englischsprachige Darstellungen nennen 180 Mio.); zuvor rund 300 Mio. Euro Stützung durch den Verbund (Band 1, Kapitel 9, dort **bestätigt dem Grunde nach**).
+
+Eroski – zweite Umschuldung 2014 über rund 2.605 Mio. Euro mit Laufzeit bis 2019, Abgabe von 140 Filialen an Dia (2014) und 35 an Carrefour (2016).
+
+Nachrangige Genossenschaftsanleihen (*aportaciones financieras subordinadas*): Emissionen Eroskis 2002 (360 Mio.) und 2007 (300 Mio. Euro) bei rund 30.000 Kleinanlegern, Platzierung zu rund 44 Prozent über die Caja Laboral, zu rund 31 Prozent über BBVA; freiwilliger Umtausch mit Annahmefrist bis 27.01.2016, angenommen von über 62 Prozent, Verlust der Anleger nach Schätzungen knapp 200 Mio. Euro; Fagor-Emissionen 2002 und 2004 über dieselben Vertriebswege.
+
+Zweiter Durchgang, 26.09.2026:
+
+*Der gemeinsame Schock im baskischen Verbund 2008–2016:* Fagor Electrodomésticos – Absatzrückgang von rund 37 Prozent seit 2007, Insolvenzantrag am 16.10.2013 zur Neuverhandlung von 1,1 Mrd. Euro Schulden; die Laboral Kutxa (Zusammenschluss von Caja Laboral und Ipar Kutxa 2012) zählte neben Kutxabank, BBVA, Santander und CaixaBank zu den Hauptgläubigern; Ablehnung des Rettungsplans, für den Fagor rund 170 Mio. Euro brauchte, durch den Generalrat des Verbunds Ende Oktober 2013 (spanische Wirtschaftspresse, u. a. elEconomista und Vozpópuli, 31.10.2013; der Betrag war der Gesamtbedarf des Plans, englischsprachige Darstellungen nennen 180 Mio.); zuvor rund 300 Mio. Euro Stützung durch den Verbund (Band 1, Kapitel 9, dort **bestätigt dem Grunde nach**).
+
+Nachrangige Genossenschaftsanleihen (*aportaciones financieras subordinadas*): Emissionen Eroskis 2002 (360 Mio.) und 2007 (300 Mio. Euro) bei rund 30.000 Kleinanlegern, Platzierung zu rund 44 Prozent über die Caja Laboral; freiwilliger Umtausch mit Annahmefrist bis 27.01.2016, Verlust der Anleger nach Schätzungen knapp 200 Mio. Euro; Fagor-Emissionen 2002 und 2004 über dieselben Vertriebswege.
+
+Umsetzung: Von den rund 2.000 Mitgliedern Fagors hatten bis Anfang 2021 nach Josu Santos-Larrazabal / Imanol Basterretxea, „Intercooperation, flexicurity and their impact on workers: The case of Fagor Electrodomésticos", in: *Annals of Public and Cooperative Economics* 93 (2022), H. 3, S. 607–635, 1.070 eine Umsetzung in andere Genossenschaften erhalten und 881 Ruhestand, Vorruhestand, freiwilliges Ausscheiden oder unbezahlten Urlaub.
+
+**Bestätigt** hinsichtlich der Größenordnungen, sämtlich über Presse-, Verbands- und Fachdarstellungen; beim Betrag des abgelehnten Plans und bei den Umsetzungszahlen *mit Einschränkung*, diese über die Zusammenfassung der Studie, deren Volltext nicht eingesehen ist (Auftrag V28 in `PROCESS.md`); die Emissionsprospekte und die Abwicklung der Fagor-Papiere in der Insolvenz sind nicht am Primärdokument geprüft (Auftrag V16 in `PROCESS.md`).
+
+Dass beide Krisen einen gemeinsamen Schock bilden und die Anleihen die Berechtigten der Region zu ihren Gläubigern machten, ist **Wertung** dieses Buches.
+
+#### Diversifikation und Diversität
+
+**Bestätigt** als These; der Volltext des *Nature*-Aufsatzes war aus dieser Umgebung nicht abrufbar, die Rede ist auf der Seite der Bank of England hinterlegt.
+
+#### Der norwegische Auslandsgrundsatz
+
+**Bestätigt** über die Darstellungen des norwegischen Finanzministeriums und der Fondsverwaltung; deren Seiten waren aus dieser Umgebung nicht direkt abrufbar (V16).
+
+#### Größengrenzen und ihre Wirkung
+
+Jarkko Harju / Tuomas Matikka / Timo Rauhanen, „Compliance costs vs. tax incentives: Why do entrepreneurs respond to size-based regulations?", in: *Journal of Public Economics* 173 (2019), S. 139–164 – die Häufung an der finnischen Umsatzsteuergrenze erklären vor allem die Befolgungskosten.
+
+**Bestätigt** für Garicano u. a. und Harju u. a. am Volltext, *mit Einschränkung* für Koller u. a. und Bauer u. a., die über Zusammenfassungen geprüft sind.
+
+### Band 2, Kapitel 3: Der Allmende-Sektor und sein Sterberecht
+
+#### Berlin
+
+Die Gesellschaft führte seit 1937 die Firma Gemeinnützige Siedlungs- und Wohnungsbaugesellschaft Berlin mbH, hervorgegangen aus dem Zusammenschluss von acht kommunalen Wohnungs- und Siedlungsgesellschaften; ihr Ursprung ist die 1924 gegründete Wohnungsfürsorgegesellschaft Berlin.
+
+#### Wohnungsgemeinnützigkeit
+
+Pflichten des anerkannten gemeinnützigen Wohnungsunternehmens: Beschränkung des Entgelts für wohnungswirtschaftliche Leistungen auf die Deckung der Kosten und laufenden Aufwendungen; Deckelung der jährlichen Gewinnbeteiligung von Genossen, Gesellschaftern und Eigentümern auf vier Prozent der eingezahlten Kapitaleinlage; Bindung des gesamten Vermögens an den Zweck mit Bau- und Wiederanlagepflicht; Beschränkung des Geschäftskreises auf Bau, Betreuung, Bewirtschaftung und Verkauf von Wohnungen sowie auf Städtebau- und Sanierungsträgerschaft.
+
+Im Gesetzestext stehen die vier Bindungen in § 7 Absatz 2 (Preisbindung; die Ermittlung des angemessenen, kostendeckenden Preises regeln die Durchführungsvorschriften), § 9 Buchstaben a und b (Gewinnbeteiligung höchstens vier vom Hundert der eingezahlten Kapitaleinlagen, Rückzahlung beim Ausscheiden nur in Einlagenhöhe), § 11 (Vermögensbindung an gemeinnützige Zwecke bei Auflösung; die Baupflicht bereits in § 6 Absatz 1) und § 6 (Geschäftskreis) – geprüft am Faksimile des Reichsgesetzblatts.
+
+Zweiter Durchgang, 26.09.2026:
+
+Pflichten des anerkannten gemeinnützigen Wohnungsunternehmens: Beschränkung des Entgelts für wohnungswirtschaftliche Leistungen auf die Deckung der Kosten und laufenden Aufwendungen (§ 7 Absatz 2; die Ermittlung des angemessenen, kostendeckenden Preises regeln die Durchführungsvorschriften); Deckelung der jährlichen Gewinnbeteiligung von Genossen, Gesellschaftern und Eigentümern auf vier Prozent der eingezahlten Kapitaleinlage, Rückzahlung beim Ausscheiden nur in Einlagenhöhe (§ 9 Buchstaben a und b).
+
+Dazu die Bindung des gesamten Vermögens an den Zweck mit Bau- und Wiederanlagepflicht (Baupflicht § 6 Absatz 1; Vermögensbindung bei Auflösung § 11) und die Beschränkung des Geschäftskreises auf Bau, Betreuung, Bewirtschaftung und Verkauf von Wohnungen sowie auf Städtebau- und Sanierungsträgerschaft (§ 6).
+
+Die Angabe, in Großstädten hätten die gemeinnützigen Unternehmen bis zu einem Drittel des Angebots gestellt, ist **bestätigt mit Einschränkung** – verbreitete, nicht amtlich belegte Größenordnung; im Text als solche geführt.
+
+#### Warum die genossenschaftlichen Bestände blieben
+
+Dass es daran liegen kann, ist **Wertung** – dieselbe Unterscheidung nach dem Nutzen der Form, die Band 1, Kapitel 8 an den Building Societies trifft: Eigentümer, die die Sache selbst brauchen, können an der Form mehr haben als an ihrer Auflösung.
+
+#### Großbestände
+
+*Großbestände:* Vonovia SE, Zwischenmitteilung zum 31. März 2025 – 474.571 Wohnungen in Deutschland, 534.566 einschließlich Schweden und Österreich.
+
+LEG Immobilien SE, Quartalsberichte – 173.359 Wohn- und Gewerbeeinheiten zum 31. März 2025, 172.701 zum 31. März 2026, darunter rund 28.000 geförderte Einheiten.
+
+#### Anteilsverkauf statt Grundstücksverkauf
+
+– BGH, Urteil vom 21. Mai 2025 – VIII ZR 201/23: Vorkaufsrecht des Mieters nach § 577 Absatz 1 BGB auch bei Begründung von Teileigentum, begründet mit der Verhinderung von Umgehungen.
+
+**Bestätigt:** Die amtlichen Leitsätze sind am Wortlaut geprüft; eine Fundstelle in der amtlichen Sammlung (BGHZ) gibt es nicht, das Urteil steht in den Fachzeitschriften (NJW-RR 2025, 1228; ferner NZM 2025, 699).
+
+#### Belegschaft und Bewohnerschaft
+
+*Belegschaft und Bewohnerschaft:* Vonovia SE, Geschäftsbericht 2025 – 12.708 Beschäftigte im fortgeführten Geschäft zum Jahresende 2025 (12.056 zum Jahresende 2024), gegenüber 474.571 Wohnungen in Deutschland zum 31. März 2025; die Gesellschaft gehört seit 2015 als erstes Wohnungsunternehmen dem Deutschen Aktienindex an.
+
+#### Kollektives Andienungsrecht – das schottische Muster
+
+**Anwendungsfälle am 1. September 2026 am Register ermittelt** (`roacbl.ros.gov.uk`): seit dem 26. April 2020 genau fünf Part-5-Anträge (SD00001 bis SD00005) von drei Gemeinschaftskörperschaften – zweimal „RTB activated", zweimal „Declined", einmal „Pending".
+
+Das Recht wird gebraucht, aber selten; der Fall wird deshalb weiterhin als Muster und nicht als Feldbeleg geführt.
+
+### Band 2, Kapitel 4: Der Privatsektor und die Sterblichkeit des Vermögens
+
+#### Der Rettungsfall als Kapitalereignis
+
+*Der Rettungsfall als Kapitalereignis:* Commerzbank – Beteiligung des Bundes (SoFFin) von 25 Prozent plus einer Aktie über eine Kapitalerhöhung von 1,77 Milliarden Euro, vollzogen im Juni 2009, neben stillen Einlagen von insgesamt 16,4 Milliarden Euro; die Sperrminorität war ausdrücklich als Sicherung gewählt.
+
+Verkauf von 4,49 Prozentpunkten im September 2024 im Marktplatzierungsverfahren, danach Bundesanteil 12,11 Prozent; die UniCredit erwarb aus der Platzierung ihren Einstieg und baute ihn bis Ende 2024 auf rund 28 Prozent aus (teils über Derivate); vgl. BT-Drucksache 20/13499 vom 21.10.2024.
+
+Lufthansa – Beteiligung des Wirtschaftsstabilisierungsfonds von 20 Prozent für rund 306 Millionen Euro (2020), vollständiger Ausstieg durch Platzierung bei internationalen Investoren im September 2022, Gesamterlös rund 1,07 Milliarden Euro, Gewinn rund 760 Millionen Euro.
+
+#### Doppelte Stimmrechte und Belegschaftsanteile in Frankreich
+
+**Bestätigt** hinsichtlich der Loi Florange, der Eiffage-Angaben und der FAS-Durchschnitte – der CAC-40-Schnitt von 4,8 Prozent und die rund 2 Prozent der zweiten Börsenreihe sind an der Erhebung von Mitte 2026 geprüft.
+
+#### Erleichterter Bezugsrechtsausschluss und Mehrstimmrechte
+
+**Bestätigt**, am amtlichen Normtext geprüft (§ 186 Absatz 3 Satz 4: zwanzig vom Hundert des Grundkapitals; § 135a Absatz 1: Mehrstimmrechtsaktien mit höchstens zehnfachem Stimmrecht).
+
+#### Erbersatzsteuer für Familienstiftungen
+
+**Bestätigt** als geltendes Recht, am amtlichen Normtext geprüft.
+
+### Band 2, Kapitel 5: Die Kreislaufdimension
+
+#### Größenordnung des Werbemarkts
+
+Die weltweiten Werbeerlöse überschritten 2024 erstmals eine Billion US-Dollar (GroupM/WPP Media, *This Year Next Year*, Jahresendprognose vom 9. Dezember 2024: rund 1,04 Billionen bei 9,5 Prozent Wachstum).
+
+#### Der Einwand der achtzig Zahnbürsten
+
+*Der Einwand der achtzig Zahnbürsten* wird vollständig in Band 1, Kapitel 13 behandelt (fünfter Einwand), dort mit Engels' Fassung, Hayeks Entdeckungsverfahren, den sowjetischen Parallelentwicklungen, Operation Warp Speed, dem Programm der 1000 kleinen Dinge und dem Zugeständnis an Mankiw/Whinston sowie die Theorie der Produktvielfalt.
+
+### Band 2, Kapitel 6: Arbeit, Sorge, Krise und Weltmarkt
+
+#### Lohn- und Beschäftigungsanpassung in Genossenschaften
+
+Die tragende italienische Studie (Pencavel/Pistaferri/Schivardi) ist am Volltext ihrer Arbeitspapierfassung geprüft (IZA Discussion Paper 2188): Der Satz „Co-op wages are about 14 percent lower on average and they are more volatile (and employment less volatile) than those in capitalist enterprises" belegt sowohl den Durchschnittsabstand von rund 14 Prozent als auch die Anpassungsrichtung; die Volltexte von Craig/Pencavel und Burdín/Dean bleiben über Verlagsnachweis gesichert (Rest von V9 in `PROCESS.md`).
+
+Zweiter Durchgang, 26.09.2026:
+
+*Lohn- und Beschäftigungsanpassung in Genossenschaften:* Ben Craig / John Pencavel, „The Behavior of Worker Cooperatives: The Plywood Companies of the Pacific Northwest", in: *American Economic Review* 82 (1992), H. 5, S. 1083–1105 – die Kooperativen passten die Vergütung an die Produktpreise an, nach unten wie nach oben, und hielten die Beschäftigung stabiler als konventionelle Betriebe derselben Branche, die Löhne hielten und Arbeitsstunden und Beschäftigung anpassten.
+
+John Pencavel / Luigi Pistaferri / Fabiano Schivardi, „Wages, Employment, and Capital in Capitalist and Worker-Owned Firms", in: *Industrial and Labor Relations Review* 60 (2006), H. 1, S. 23–44 – gematchtes italienisches Betriebs-Beschäftigten-Panel 1982–1994: volatilere Löhne, stabilere Beschäftigung, Durchschnittslöhne rund 14 Prozent unter den kapitalistischen Vergleichsbetrieben.
+
+Gabriel Burdín / Andrés Dean, „New evidence on wages and employment in worker cooperatives compared with capitalist firms", in: *Journal of Comparative Economics* 37 (2009), H. 4, S. 517–533 – dieselbe Asymmetrie der Anpassung an Preis- und Makroschocks im uruguayischen Vollbestand.
+
+**Bestätigt** hinsichtlich Fundstellen und Kernbefunden, Pencavel/Pistaferri/Schivardi am Volltext der Arbeitspapierfassung (IZA Discussion Paper 2188), Craig/Pencavel und Burdín/Dean über Verlagsnachweis (Rest von V9 in `PROCESS.md`).
+
+Die Deutung des italienischen Lohnabstands – Preis der gewählten Sicherheit oder Nachteil der Form – ist in der Forschung **offen** und wird im Text als offen geführt.
+
+#### Gender Care Gap
+
+*Gender Care Gap:* Statistisches Bundesamt, Statistischer Bericht Erhebung zur Zeitverwendung privater Haushalte 2022 (EVAS 63911), erschienen am 28.02.2024, revidiert am 06.06.2025 nach neuer Hochrechnung am Mikrozensus 2022 auf Grundlage des Zensus 2022, Tabelle 63911-38 und Qualitätsbericht, Abschnitt 4.4.3: unbezahlte Arbeit von Personen ab 18 Jahren 29:18 Stunden (Frauen) und 20:26 Stunden (Männer) je Woche, daraus 43,4 Prozent; Vergleichswert der Erhebung 2012/13: 52,4 Prozent.
+
+Der Wert erschien in drei Fassungen: 43,8 Prozent in der Pressemitteilung Nr. 073 vom 28.02.2024, 44,3 Prozent nach der Korrektur vom 28.03.2024 (Pressemitteilung Nr. 131) und 43,4 Prozent nach der Revision; im Text steht die revidierte.
+
+#### Wert der Haushaltsproduktion
+
+*Wert der Haushaltsproduktion:* Norbert Schwarz / Florian Schwahn, „Entwicklung der unbezahlten Arbeit privater Haushalte. Bewertung und Vergleich mit gesamtwirtschaftlichen Größen", in: *WISTA – Wirtschaft und Statistik* 2/2016, S. 35–51 – Satellitensystem Haushaltsproduktion 2013 auf Basis der Zeitverwendungserhebung 2012/13, gerechnet nach ESVG 2010, Rechenstand August 2015: bewertete Arbeitszeit 826 Mrd. Euro zum Nettostundenlohn einer Hauswirtschafterin (9,25 Euro), Bruttowertschöpfung der Haushaltsproduktion 987 Mrd. Euro, darin 104 Mrd. Abschreibungen und 111 Mrd. aus der Eigennutzung von Wohnungen; Produzierendes Gewerbe 769 Mrd. Euro.
+
+Statistisches Bundesamt, Pressemitteilung Nr. 137 vom 19.04.2016: 39 Prozent der im Bruttoinlandsprodukt enthaltenen Bruttowertschöpfung von 2.537 Mrd. Euro.
+
+Die Quote bezieht sich auf die Bruttowertschöpfung; am Bruttoinlandsprodukt desselben Rechenstands (2.820,8 Mrd. Euro) wären es rund 35 Prozent, und 124 der 987 Mrd. sind bereits im Bruttoinlandsprodukt enthalten.
+
+#### Keynes und die technologische Arbeitslosigkeit
+
+**Bestätigt** über mehrere unabhängige Nachweise; der Volltext war aus dieser Arbeitsumgebung nicht direkt abrufbar.
+
+### Band 2, Kapitel 7: Die politische Architektur und die Bedingung des Exits
+
+#### Kommission zur Ermittlung der Konzentration im Medienbereich
+
+*Kommission zur Ermittlung der Konzentration im Medienbereich:* konstituiert am 15. Mai 1997 auf Grundlage des dritten Rundfunkänderungsstaatsvertrags; Untersagung der Übernahme der ProSiebenSat.1 Media AG durch die Axel Springer AG am 10. Januar 2006 wegen zu erwartender vorherrschender Meinungsmacht – nach übereinstimmenden Darstellungen die einzige Untersagung ihrer Geschichte; parallel Untersagung durch das Bundeskartellamt, Aufgabe des Vorhabens durch Springer im Frühjahr 2006.
+
+Erweiterung der Kommission durch den zehnten Rundfunkänderungsstaatsvertrag, in Kraft seit 1. September 2008: zu den sechs unabhängigen Sachverständigen traten sechs nach Landesrecht bestimmte gesetzliche Vertreter der Landesmedienanstalten; zugleich entfiel die Konferenz der Direktoren, die Entscheidungen der Kommission zuvor mit Dreiviertelmehrheit aufheben konnte.
+
+Kritik in der Fachliteratur: Dietrich Westphal, „Abschied vom Original – Zur Deformation der KEK durch den 10. Rundfunkänderungsstaatsvertrag", in: *ZUM* 2008, S. 854–861; die Kommission selbst berichtet, die Reformdiskussion sei durch ihre Springer-Entscheidung ausgelöst worden (KEK, Jahresberichte).
+
+BVerwG, Urteil vom 29. Januar 2014 – 6 C 2.13: Die Versagung der medienkonzentrationsrechtlichen Unbedenklichkeit war rechtswidrig; die Kommission hat ihren Beurteilungsspielraum überschritten.
+
+Die Deutung dieser Abfolge als Rost-These im Zeitraffer ist **Wertung** dieses Buches; die Bewertung der Erweiterung von 2008 als Schwächung ist der zitierten Literatur zuzurechnen und wird als deren Urteil geführt.
+
+#### Medien in Leser-, Belegschafts- und Stiftungshand
+
+Guardian: Scott Trust, errichtet 1936 von John Scott ausdrücklich zur Abwehr der Folgen der Erbschaftsteuer (death duties) und zur dauerhaften Sicherung der Unabhängigkeit; seit 2008 als Scott Trust Limited fortgeführt.
+
+#### Ostrom
+
+Die Spanne ihrer Fälle, von rund 50 bis rund 15.000 Nutzern, und die Gliederung und die Gerichte der größeren unter ihnen, etwa der ostspanischen Bewässerungsgemeinschaften, sind in Band 1, Kapitel 13 belegt, dort **mit Einschränkung:** die Spanne, weil die Druckseite nicht eingesehen und die untere Grenze nur über Sekundärnachweise gesichert ist, die Gerichte, weil sie nur über Suchnachweise gesichert sind.
+
+Dass alle Fälle in Staaten liegen, die die Selbstverwaltung dulden oder anerkennen, fasst zweierlei zusammen: Ostroms Angabe, jeder Fall liege in einem einzigen Land, und ihr siebtes Gestaltungsprinzip, das sie an den dauerhaften Fällen fand und nach dem staatliche Stellen den Nutzern das Recht nicht bestreiten, sich eigene Regeln zu geben.
+
+Die Zusammenfassung ist **Wertung**; der Wortlaut des Prinzips ist nicht am Druck geprüft.
+
+Der Begriff der Polyzentrik selbst stammt aus der Untersuchung *politischer* Zuständigkeiten: Vincent Ostrom, Charles M. Tiebout und Robert Warren, „The Organization of Government in Metropolitan Areas. A Theoretical Inquiry", in: *The American Political Science Review* 55 (1961), H. 4, S. 831–842; das Wort selbst hat nach Vincent Ostroms Kenntnis zuerst Michael Polanyi gebraucht (*The Logic of Liberty*, 1951), und 1972 hat Vincent Ostrom Polanyis Vorrang vermerkt („so far as I know was first used by Michael Polanyi"; „Polycentricity", Working Paper W72-2, vorgelegt auf der Jahrestagung der American Political Science Association, Washington, September 1972, S. 6).
+
+Die Herkunft des Begriffs steht mit ihren Fundstellen in Band 1, Kapitel 5.
+
+#### Methodenzuständigkeit der Regulierungsbehörde
+
+**Bestätigt**; das Urteil ist an der amtlichen deutschen Fassung geprüft.
+
+#### Misstrauensantrag und Initiativrecht in der Union
+
+Stand September 2026: vierzehn Abstimmungen zwischen dem 16.06.1976 und dem 22.01.2026, keine erfolgreich; die vier der zehnten Wahlperiode am 10.07.2025 (175 Ja, 360 Nein, 18 Enthaltungen), zweimal am 09.10.2025 (179:378:37 und 133:383:78) und am 22.01.2026 (165:390:10).
+
+Eingereicht wurden nach der Zählweise des Wissenschaftlichen Dienstes des Parlaments (dreizehn bis 2024) zuzüglich der vier seit Juli 2025 siebzehn Anträge seit 1972; zwei davon wurden vor 1979 zurückgezogen, einer verfiel 2016 mangels Unterschriften.
+
+Santer-Kommission: Anträge am 20.02.1997 (118:326:15) und am 14.01.1999 (232:293:27) abgelehnt; geschlossener Rücktritt am Abend des 15.03.1999 nach dem ersten Bericht des Ausschusses unabhängiger Sachverständiger, einer erneuten Abstimmung zuvorkommend.
+
+### Band 2, Kapitel 8: Der Sozialstaat als Bauteil
+
+#### Versicherungsfremde Leistungen
+
+Ein Faktencheck der Deutschen Presse-Agentur weist ausdrücklich darauf hin, dass Angaben zur Gesamthöhe als eindeutig bestimmbar darzustellen irreführend ist, weil vieles geschätzt werden muss – der Text führt deshalb die Spanne und keinen Einzelwert.
+
+Die kursierende Forderung einer Rentnerinitiative über 240 Mrd. Euro wird nicht geführt; sie ist eine Parteibehauptung in einem laufenden Verfahren.
+
+### Band 2, Kapitel 10: Stufe zwei: Erbschaftsteuer, Belegschaftstreuhand, Fondsfamilie
+
+#### Meidner-Plan / Löntagarfonder
+
+Die Abwicklungsstelle Fond 92-94 übernahm 20,1 Mrd. SEK; samt den Kursgewinnen bis 1993 gingen daraus 6,5 Mrd. SEK an die Beteiligungsgesellschaften Atle und Bure und sechs Risikokapitalgesellschaften, 0,6 Mrd. SEK an den Småföretagsfonden, bis zu 1,7 Mrd. SEK in die Stiftungsumwandlung der Hochschulen Chalmers und Jönköping und gut 17 Mrd. SEK Kapital an neun Stiftungen und eine Zustiftung an Riksbankens Jubileumsfond (1993–94), darunter die Forschungsstiftungen SSF und Mistra.
+
+Zweiter Durchgang, 26.09.2026:
+
+*Meidner-Plan / Löntagarfonder:* Erste Fassung August 1975 für den Gewerkschaftsbund LO, vom LO-Kongress im Juni 1976 als Grundlage der weiteren Arbeit angenommen: Unternehmen oberhalb einer Schwelle zwischen 50 und 100 Beschäftigten sollten jährlich neue Aktien im Wert von 20 Prozent des Gewinns an gewerkschaftlich gelenkte Fonds ausgeben.
+
+Nach dem Reichstagsbeschluss vom 21.12.1983 bestanden von 1984 bis 1991 fünf regionale Arbeitnehmerfonds im System der Allgemeinen Pensionsfonds (Lag 1983:1092 med reglemente för allmänna pensionsfonden; Lag 1983:1086 om vinstdelningsskatt); die Regierung bestellte ihre Vorstände, mindestens fünf von neun Mitgliedern vertraten Arbeitnehmer.
+
+Finanziert wurden sie aus einer Gewinnbeteiligungssteuer von 20 Prozent des realen Gewinns oberhalb eines Freibetrags und aus einem um 0,2 Prozentpunkte erhöhten ATP-Beitrag; Zuteilungen gab es für 1984 bis 1990.
+
+Die Fonds kauften an der Börse, je Fonds unter 8 Prozent der Aktien oder, bei ungleichem Stimmrecht, der Stimmen einer börsennotierten Gesellschaft, ab 01.07.1988 unter 6 Prozent; ihr Vermögen entsprach Ende 1989 rund 3 Prozent des Börsenwerts.
+
+Die Regierung Bildt ließ sie durch Reichstagsbeschluss vom 18.12.1991 (176 zu 137 Stimmen; Prop. 1991/92:36, SFS 1991:1857) zum 01.01.1992 auflösen.
+
+#### Der eine Fonds bei Meade und Corneo
+
+Die Sicherungen sind an Corneos eigenen späteren Fassungen im Volltext geprüft: „Inequality, Public Wealth, and the Federal Shareholder", CESifo Working Paper Nr. 5861, April 2016 – der Bundesaktionär mit 51 Prozent an den erworbenen Gesellschaften und einer Unabhängigkeit „similar to the one enjoyed by some central banks – e.g. the Bundesbank", der Fonds abgeschirmt gegen Regierung und Unternehmen, die Ergebnisse veröffentlicht gegen Vergleichsgruppen; für den Fall, dass der Bundesaktionär „too successful" wird, erwägt Corneo selbst, seine Anteile auf viele kommunale Fonds oder an die Bürger zu verteilen.
+
+Zweiter Durchgang, 26.09.2026:
+
+*Der eine Fonds bei Meade und Corneo:* James E. Meade, *Agathotopia: The Economics of Partnership*, Hume Paper Nr. 16, Aberdeen: Aberdeen University Press 1989 – unter den Einrichtungen der Insel „The Socialisation of the Beneficial Ownership (Without the Management) of One Half of the Island's Capital Assets as a Source of Revenue for the Finance of the Social Dividend"; der Staat selbst hält rund 50 Prozent des Kapitalvermögens.
+
+**Mit Einschränkung:** Der Wortlaut ist über einen Auszug aus Meades Beitrag „Can We Learn a ‚Third Way' from the Agathotopians?", in: Anthony B. Atkinson (Hg.), *Alternatives to Capitalism: The Economics of Partnership*, London 1993, gesichert; das Hume Paper selbst ist nicht eingesehen.
+
+Giacomo Corneo, *Bessere Welt. Hat der Kapitalismus ausgedient? Eine Reise durch alternative Wirtschaftssysteme*, Wien: Goldegg 2014 – ein Staatsfonds, dessen Erträge als soziale Dividende an die Bürger gehen, und ein Bundesaktionär, der an ausgewählten großen Gesellschaften die Mehrheit hält; das Buch selbst ist nicht eingesehen, **mit Einschränkung.**
+
+Die Sicherungen stehen in Corneos eigenen späteren Fassungen: „Inequality, Public Wealth, and the Federal Shareholder", CESifo Working Paper Nr. 5861, April 2016 – der Bundesaktionär mit 51 Prozent an den erworbenen Gesellschaften und einer Unabhängigkeit „similar to the one enjoyed by some central banks – e.g. the Bundesbank", der Fonds abgeschirmt gegen Regierung und Unternehmen, die Ergebnisse veröffentlicht gegen Vergleichsgruppen; für den Fall, dass der Bundesaktionär „too successful" wird, erwägt Corneo selbst, seine Anteile auf viele kommunale Fonds oder an die Bürger zu verteilen.
+
+Ders., „Ein Staatsfonds, der eine soziale Dividende finanziert", Diskussionspapier, Berlin, November 2017, erschienen in: *Perspektiven der Wirtschaftspolitik* 19 (2018), H. 2, S. 94–109 – die soziale Dividende wirke politisch „wie ein Bürgerrecht" und mache es für jede Regierung riskant, das Kapital des Fonds anzugreifen.
+
+**Bestätigt** am Volltext des Arbeitspapiers von 2016 und des Diskussionspapiers von 2017.
+
+Die Einordnung als stärkste gegenwärtige Fassung des einen Fonds und die Antwort über die Zahl der Häuser sind **Wertung** dieses Buches.
+
+### Band 2, Kapitel 11: Stufe drei, die Kosten und die Koalitionen
+
+#### Effizienzvergleich der Netzbetreiber und die Bestabrechnung
+
+*Effizienzvergleich der Netzbetreiber und die Bestabrechnung:* § 12 Abs. 3, 4 und 4a ARegV mit Anlage 3 – Dateneinhüllungsanalyse und stochastische Effizienzgrenzenanalyse, jeweils auf standardisierter und nicht standardisierter Kostenbasis, der höhere Wert ist zu verwenden, Mindesteffizienzwert 60 Prozent; Bundesnetzagentur, Große Beschlusskammer, Festlegungen vom 08.12.2025 zum Effizienzvergleich für die fünfte Regulierungsperiode (Strom GBK-25-02-1#2, Gas GBK-25-02-2#1): Mittelwert der beiden Kostenbasen je Methode und davon der höhere Wert (für Gas „grundsätzlich", mit Abweichungsklausel), Mindesteffizienzwert 70 Prozent; die Bestabrechnung wirke „für die Netznutzer einseitig negativ" und erzeuge einen „branchenweite[n] Anreiz zu einer überhöhten Kostendarstellung im Basisjahr" (Gas, Rn. 604 ff., 729); am Vorzug zwischen den Methoden hält die Kammer fest, um den Interessen der Netzbetreiber „derzeit noch" höheres Gewicht beizumessen (Strom, Rn. 528).
+
+#### Aufgabegewinn
+
+**Mit Einschränkung:** nach geltendem Recht wiedergegeben, der Normtext ist aus der Arbeitsumgebung nicht eingesehen (Auftrag V24 in `PROCESS.md`).
+
+### Band 2, Kapitel 12: Die Weltordnungsebene
+
+#### Kant und der republikanische Frieden
+
+**Bestätigt**, am Volltext geprüft (Projekt-Gutenberg-Einzeldatei-Fassung; alle vier Elemente wörtlich, Originalorthographie 1795).
+
+Offener Rest von V8 in `PROCESS.md` ist allein die Levy-Seitenangabe im folgenden Beleg.
+
+#### Dyadischer und monadischer Befund
+
+**Bestätigt** als Forschungsstand; der Vorname Maoz' ist am Verlagsnachweis als „Zeev" gesichert, die Levy-Fundstelle über mehrere unabhängige Sekundärnachweise.
+
+#### Ungleichgewicht des politischen Einflusses
+
+Nach Omar S. Bashir (*Research & Politics* 2, 2015) kann das Verfahren den Einfluss der Mitte erheblich unterschätzen, und bei gegenläufigen Mehrheiten erhält die Mitte in 47 Prozent der Fälle ihr Ergebnis; nach Peter K. Enns (*Perspectives on Politics* 13, 2015) landet die Politik auch bei auseinanderliegenden Präferenzen ungefähr dort, wo sie bei alleiniger Vertretung der Mitte zu erwarten wäre; nach J. Alexander Branham, Stuart N. Soroka und Christopher Wlezien (*Political Science Quarterly* 132, 2017) stimmen die Mehrheiten von Mitte und Wohlhabenden bei neun von zehn Vorhaben überein, und bei den übrigen gewinnen die Wohlhabenden etwas häufiger (bei der Verabschiedung 37 gegen 26 Prozent, knapp signifikant).
+
+Dass die Machtverteilung auch innerhalb der Staaten mit gewählter Regierung streut, zeigt unabhängig davon die eigene Prüfung (Standardabweichung der Verteilungsgröße 0,756 bei einem Mittel von 1,181 in 3.141 Staat-Jahren, siehe unten *Die durchgeführte Prüfung*); **bestätigt** als Datum, die Deutung als Abstand zwischen Etikett und Verteilung **Wertung.**
+
+Zweiter Durchgang, 26.09.2026:
+
+*Ungleichgewicht des politischen Einflusses:* Martin Gilens und Benjamin I. Page, „Testing Theories of American Politics: Elites, Interest Groups, and Average Citizens", *Perspectives on Politics* 12 (2014), H. 3, S. 564–581 – 1.779 Politikvorhaben aus den Jahren 1981 bis 2002, substanzieller unabhängiger Einfluss der Wohlhabenden (gemessen am neunzigsten Einkommensperzentil) und organisierter Wirtschaftsinteressen, wenig oder keiner der Durchschnittsbürger.
+
+Nach Omar S. Bashir (*Research & Politics* 2, 2015) erhält die Mitte bei gegenläufigen Mehrheiten in 47 Prozent der Fälle ihr Ergebnis; gegen die starke Lesart argumentiert auch Peter K. Enns (*Perspectives on Politics* 13, 2015).
+
+Nach J. Alexander Branham, Stuart N. Soroka und Christopher Wlezien (*Political Science Quarterly* 132, 2017) stimmen die Mehrheiten von Mitte und Wohlhabenden bei neun von zehn Vorhaben überein, und bei den übrigen gewinnen die Wohlhabenden etwas häufiger (bei der Verabschiedung 37 gegen 26 Prozent, knapp signifikant).
+
+Für Gilens und Page spricht Jarron Bowman (*Social Science Quarterly* 101, 2020).
+
+Dass die Machtverteilung auch innerhalb der Staaten mit gewählter Regierung streut, zeigt unabhängig davon die eigene Prüfung (siehe unten *Die durchgeführte Prüfung*); **bestätigt** als Datum, die Deutung als Abstand zwischen Etikett und Verteilung **Wertung.**
+
+#### Die durchgeführte Prüfung
+
+*Die durchgeführte Prüfung:* Verwendet wurden V-Dem in der Version 16 – der Indikator *Power distributed by socioeconomic position* (v2pepwrses) und die Regimeeinordnung *Regimes of the World* (v2x_regime) –, die Daten von Gibler, Miller und Little zu militarisierten Auseinandersetzungen in der Aufbereitung des Pakets `peacesciencer` (gerichtete Dyaden-Jahre, 1816–2010), ersatzweise COW MID 5.0, sowie Correlates of War für Großmachtstatus und Machtanteil.
+
+Panel 1946 bis 2010; Grundgesamtheit sind die als Wahldemokratie oder liberale Demokratie geführten Staat-Jahre (3.141 in 111 Staaten); die Verteilungsgröße hat in dieser Gruppe ein Mittel von 1,181 und eine Standardabweichung von 0,756; abhängige Variable ist die Initiierung im Folgejahr; geschätzt wurde ein Logit mit Jahres-Fixeffekten und nach Staat geclusterten Standardfehlern.
+
+Hauptmodell: Koeffizient −0,347 bei einem Standardfehler von 0,219 und p = 0,113, 3.029 Beobachtungen, 299 Ereignisse.
