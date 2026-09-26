@@ -60,7 +60,7 @@ Die Ergebnisse dieses Tests sind unterschiedlich.
 
 *Ein Kostenvergleich im Allmende-Sektor ist eine Regel.* Er kann von einer Regierung, die ihn unbequem findet, methodisch entschärft, personell ausgehungert oder in der Veröffentlichungsfrist verzögert werden, bis er nichts mehr aussagt.
 
-*Eine Fondsanwartschaft ist – vermutlich – ein Programm.* Das ist der unangenehmste Befund dieses Buches über sich selbst, und der zweite Band führt ihn bei der zweiten Stufe aus.
+*Eine Fondsanwartschaft ist – vermutlich – ein Programm.* Die Aussicht der Bürger auf Auszahlungen aus der Fondsfamilie gibt ein Gesetz, und als Eigentum schützt die Rechtsprechung eine Anwartschaft nur, soweit sie auf nicht unerheblicher Eigenleistung beruht. Das ist der unangenehmste Befund dieses Buches über sich selbst. Der zweite Band antwortet bei der zweiten Stufe mit einem kleinen, sozial gestaffelten Eigenbeitrag; ob ein Gericht die Anwartschaft danach als Eigentum einordnet, ist nicht entschieden.
 
 *Und der Sozialstaat ist beides zugleich.* Die Rentenanwartschaft ist eine Struktur, weil sie Eigentum ist; das Existenzminimum ist dem Grunde nach eine Struktur, weil es in der Verfassung steht; die Höhe jeder Leistung dagegen ist ein Programm. Ausgerechnet der Teil, auf den sich diese Ordnung stützt – die Sicherung derer, die ein gestorbener Betrieb freigesetzt hat –, liegt überwiegend im Programmteil.
 
@@ -74,7 +74,7 @@ Der Pfad hat drei Stufen, und ihre Reihenfolge ist Konstruktion, keine Bequemlic
 
 *Stufe eins* – sofort, im bestehenden Recht, drei bis vier Jahre – schafft den Kanal, durch den Betriebe in Belegschaftseigentum übergehen können, und nutzt ein Zeitfenster, das sich schließt.
 
-*Stufe zwei* – Jahre drei bis zehn – baut die Strukturen, die den Kanal speisen und die Eigentumsverteilung dauerhaft verändern: die Erbschaftsteuerreform, die Belegschaftstreuhand und die Fondsfamilie. Sie braucht mehr Zeit, weil sie Verfassungsfragen berührt.
+*Stufe zwei* – Jahre drei bis zehn – baut die Strukturen, die den Kanal speisen und die Eigentumsverteilung dauerhaft verändern: die Erbschaftsteuerreform, die Belegschaftstreuhand, die Unternehmensanteile aus der Erbschaftsteuer samt Stimme für die Belegschaft hält, und die Fondsfamilie. Diese Stufe braucht mehr Zeit, weil sie Verfassungsfragen berührt.
 
 *Stufe drei* – Jahre acht bis zwanzig – konsolidiert und behandelt die Fälle, in denen die milderen Instrumente versagen.
 
