@@ -114,6 +114,10 @@ stichwort = "Datenstelle"
 erklaerung = "Die Zahlen zieht eine Datenstelle"
 
 [[band1]]
+stichwort = "Doppelstiftung"
+erklaerung = "aus gemeinnütziger Stiftung und Familienstiftung"
+
+[[band1]]
 stichwort = "Employee Ownership Trust"
 formen = ["Employee Ownership Trust", "Employee Ownership Trusts"]
 erklaerung = "ist eine Treuhandkonstruktion"
@@ -190,7 +194,7 @@ erklaerung = "Man nennt das das Kaderturnier"
 
 [[band1]]
 stichwort = "Kapitalkonten"
-formen = ["Kapitalkonto", "Kapitalkonten"]
+formen = ["Kapitalkonto", "Kapitalkonten", "Kapitalkontos"]
 erklaerung = "persönliche Anteile jedes Mitglieds am einbehaltenen Überschuss"
 
 [[band1]]
@@ -214,7 +218,7 @@ erklaerung = "Ihr Kern besteht aus zwei Gesetzen"
 [[band1]]
 stichwort = "Mitgliedschaft, offene"
 formen = ["offene Mitgliedschaft", "Offene Mitgliedschaft"]
-erklaerung = "die jedem, der im Betrieb arbeitet, den Eintritt erlaubt"
+erklaerung = "die jedem Beschäftigten nach der Probezeit den Eintritt anbietet"
 
 [[band1]]
 stichwort = "Monopol, natürliches"
@@ -299,7 +303,7 @@ erklaerung = "Vermögen darf entstehen"
 
 [[band1]]
 stichwort = "Subsidiarität"
-erklaerung = "nach der eine Aufgabe zur kleinsten Ebene gehört"
+erklaerung = "Nach der Subsidiarität gehört eine Aufgabe zur kleinsten Ebene"
 
 [[band1]]
 stichwort = "Subsidiaritätsklage"
@@ -358,6 +362,10 @@ erklaerung = "Jeder muss sie treiben"
 stichwort = "Wohnungsgemeinnützigkeit"
 formen = ["Wohnungsgemeinnützigkeit", "Wohnungsgemeinnützigkeitsgesetz"]
 erklaerung = "band das Wohnungsgemeinnützigkeitsgesetz rund"
+
+# --------------------------------------------------------------------------
+# Zweiter Band: Die Bauanleitung
+# --------------------------------------------------------------------------
 
 [[band2]]
 stichwort = "Abschaltkriterium"
