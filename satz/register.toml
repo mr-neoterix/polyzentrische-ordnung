@@ -47,12 +47,8 @@ ebook = "Genannt ist je Kapitel die erste Stelle, an der ein Begriff im Text des
 # --------------------------------------------------------------------------
 
 [[band1]]
-stichwort = "Abgabe auf große Wohnungsbestände"
-erklaerung = "steigt oberhalb der Schwelle mit dem Bestand"
-
-[[band1]]
 stichwort = "Abschaltkriterium"
-formen = ["Abschaltkriterium", "Abschaltkriterien", "Abschaltkriteriums"]
+formen = ["Abschaltkriterium", "Abschaltkriterien"]
 erklaerung = "was geschieht, wenn sie gerissen wird"
 
 [[band1]]
@@ -67,7 +63,7 @@ erklaerung = "Sie darf zum gleichen Preis erwerben wie ein Dritter"
 [[band1]]
 stichwort = "anspruchsgesichert"
 formen = ["anspruchsgesichert", "Anspruchssicherung"]
-erklaerung = "auf einer Stufe zwischen der bloßen Regel und dem Eigentum"
+erklaerung = "besser gestellt als mit reiner"
 
 [[band1]]
 stichwort = "Asset Lock"
@@ -75,11 +71,11 @@ erklaerung = "der Asset Lock, mit dem im zweiten Band"
 
 [[band1]]
 stichwort = "Auslandsbedingung"
-erklaerung = "reicht als Auslandsbedingung"
+erklaerung = "die die Tätigkeitsquote auf eigene Töchter"
 
 [[band1]]
 stichwort = "Ausnahmequote"
-erklaerung = "darunter die Ausnahmequote, die zählt"
+erklaerung = "wie oft eine gerissene Schwelle folgenlos blieb"
 
 [[band1]]
 stichwort = "Bedürfnistribunal"
@@ -96,7 +92,7 @@ erklaerung = "Er umfasst Betriebe im Eigentum ihrer Belegschaften"
 
 [[band1]]
 stichwort = "Belegschaftstreuhand"
-erklaerung = "übernimmt eine Belegschaftstreuhand"
+erklaerung = "die Unternehmensanteile aus der Erbschaftsteuer"
 
 [[band1]]
 stichwort = "Budgetbeschränkung, harte"
@@ -115,11 +111,11 @@ erklaerung = "waren Spar- und Hypothekeninstitute auf Gegenseitigkeit"
 
 [[band1]]
 stichwort = "Datenstelle"
-erklaerung = "Die Kennzahlen zieht eine Datenstelle"
+erklaerung = "Die Zahlen zieht eine Datenstelle"
 
 [[band1]]
 stichwort = "Doppelstiftung"
-erklaerung = "einer Familie die Stimmen über Generationen"
+erklaerung = "aus gemeinnütziger Stiftung und Familienstiftung"
 
 [[band1]]
 stichwort = "Employee Ownership Trust"
@@ -150,11 +146,11 @@ erklaerung = "Wer zahlt, wer verwaltet"
 
 [[band1]]
 stichwort = "Fondsanwartschaft"
-erklaerung = "ist eine erworbene Aussicht auf Auszahlungen"
+erklaerung = "Die Aussicht der Bürger auf Auszahlungen"
 
 [[band1]]
 stichwort = "Fondsfamilie"
-erklaerung = "Die Familie besteht aus nach Ländern geschnittenen Häusern"
+erklaerung = "mehreren nach Ländern geschnittenen Bürgerfonds"
 
 [[band1]]
 stichwort = "Funktionstest"
@@ -163,11 +159,11 @@ erklaerung = "Der erste ist der Funktionstest"
 [[band1]]
 stichwort = "gematcht"
 formen = ["gematcht", "gematchte", "gematchten"]
-erklaerung = "also verglichen mit Betrieben gleicher Größe"
+erklaerung = "also neben den Beschäftigten von Betrieben gleicher Größe"
 
 [[band1]]
 stichwort = "Gegenprobe"
-formen = ["Gegenprobe", "Gegenproben"]
+formen = ["Gegenprobe"]
 erklaerung = "muss dem marxistischen Einwandkatalog standhalten"
 
 [[band1]]
@@ -176,7 +172,7 @@ erklaerung = "also an dem Teil des Wachstums"
 
 [[band1]]
 stichwort = "Heimatquote"
-erklaerung = "begrenzt eine Heimatquote"
+erklaerung = "die begrenzt, wie viel ihre Fonds im eigenen Land"
 
 [[band1]]
 stichwort = "Horizontproblem"
@@ -184,7 +180,7 @@ erklaerung = "in den siebziger Jahren als Horizontproblem beschrieben"
 
 [[band1]]
 stichwort = "illyrische Firma"
-formen = ["illyrische Firma", "illyrischen Firma"]
+formen = ["illyrische Firma"]
 erklaerung = "Sie maximiert das Einkommen pro Kopf"
 
 [[band1]]
@@ -207,16 +203,8 @@ formen = ["Kompression"]
 erklaerung = "Der Begriff, der dafür kursiert"
 
 [[band1]]
-stichwort = "Konsolidierungssperre"
-erklaerung = "bindet jede Zusammenlegung"
-
-[[band1]]
-stichwort = "Kontroll-Lock"
-erklaerung = "Kontroll-Lock auch die Stimmrechte bindet"
-
-[[band1]]
 stichwort = "Kreuzhaltung"
-erklaerung = "in einer Kreuzhaltung"
+erklaerung = "Kreuzhaltung geduldigen Kapitals aus anderen Ländern"
 
 [[band1]]
 stichwort = "Ledger"
@@ -230,7 +218,7 @@ erklaerung = "Ihr Kern besteht aus zwei Gesetzen"
 [[band1]]
 stichwort = "Mitgliedschaft, offene"
 formen = ["offene Mitgliedschaft", "Offene Mitgliedschaft"]
-erklaerung = "Wer nach der Probezeit im Betrieb arbeitet"
+erklaerung = "die jedem Beschäftigten nach der Probezeit den Eintritt anbietet"
 
 [[band1]]
 stichwort = "Monopol, natürliches"
@@ -248,7 +236,7 @@ erklaerung = "Die Zentrale sollte die großen Linien vorgeben"
 
 [[band1]]
 stichwort = "Nutzereigentum"
-erklaerung = "Wo Käufer und Langzeitnutzer zusammenfallen"
+erklaerung = "Wo Käufer und Eigentümer zusammenfallen"
 
 [[band1]]
 stichwort = "Nutzergenossenschaft"
@@ -257,7 +245,7 @@ erklaerung = "Eine Nutzergenossenschaft ist keine"
 
 [[band1]]
 stichwort = "Offenheitskennzahl"
-erklaerung = "zählt eine Offenheitskennzahl seine Aufnahmen"
+erklaerung = "zählt die Aufnahmen im Verhältnis"
 
 [[band1]]
 stichwort = "Polyzentrik"
@@ -287,13 +275,13 @@ erklaerung = "die Mitglieder deckt und keine Betriebe"
 
 [[band1]]
 stichwort = "Schnittstellenpflicht"
-formen = ["Schnittstellenpflicht", "Schnittstellenpflichten"]
+formen = ["Schnittstellenpflichten"]
 erklaerung = "nach dem Muster der europäischen Ladebuchse"
 
 [[band1]]
 stichwort = "Schock, gemeinsamer"
-formen = ["gemeinsame Schock", "gemeinsamen Schock"]
-erklaerung = "in dem die Betriebe einer Region und Branche zugleich"
+formen = ["gemeinsamen Schock"]
+erklaerung = "im selben Tal sitzen"
 
 [[band1]]
 stichwort = "Sekundärgenossenschaft"
@@ -306,7 +294,7 @@ erklaerung = "in dem jede Rüstung des einen Staates"
 
 [[band1]]
 stichwort = "Sterberecht"
-erklaerung = "durch ein Sterberecht für Betreiber"
+erklaerung = "ein Verfahren, das schlechte Betreiber sterben lässt"
 
 [[band1]]
 stichwort = "Sterblichkeitsregeln"
@@ -315,11 +303,11 @@ erklaerung = "Vermögen darf entstehen"
 
 [[band1]]
 stichwort = "Subsidiarität"
-erklaerung = "nach der eine Aufgabe zur kleinsten Ebene gehört"
+erklaerung = "Nach der Subsidiarität gehört eine Aufgabe zur kleinsten Ebene"
 
 [[band1]]
 stichwort = "Subsidiaritätsklage"
-erklaerung = "mit einer Subsidiaritätsklage prüfen lassen"
+erklaerung = "mit der eine Ebene sich gegen"
 
 [[band1]]
 stichwort = "Systemvariable"
@@ -343,7 +331,7 @@ erklaerung = "die Überführung von Fabriken"
 
 [[band1]]
 stichwort = "Vergleichsportal"
-erklaerung = "Vergleichsportal der Datenstelle zeigt"
+erklaerung = "das sie den Mitgliedern je Betrieb zeigt"
 
 [[band1]]
 stichwort = "Vermögensbindung"
@@ -351,11 +339,11 @@ erklaerung = "Das ist die Vermögensbindung"
 
 [[band1]]
 stichwort = "Ward-Effekt"
-erklaerung = "der Neigung der illyrischen Firma"
+erklaerung = "die Neigung selbstverwalteter Betriebe"
 
 [[band1]]
 stichwort = "Werbeabgabe"
-erklaerung = "gestaffelt nach dem Werbeaufwand des Unternehmens"
+erklaerung = "nach dem Werbeaufwand des Unternehmens gestaffelte"
 
 [[band1]]
 stichwort = "Wertform"
@@ -368,16 +356,12 @@ erklaerung = "Radikale Innovation entsteht typischerweise"
 
 [[band1]]
 stichwort = "Wettrüsten"
-erklaerung = "das jeder mitmacht, weil der Konkurrent es tut"
+erklaerung = "Jeder muss sie treiben"
 
 [[band1]]
 stichwort = "Wohnungsgemeinnützigkeit"
 formen = ["Wohnungsgemeinnützigkeit", "Wohnungsgemeinnützigkeitsgesetz"]
 erklaerung = "band das Wohnungsgemeinnützigkeitsgesetz rund"
-
-[[band1]]
-stichwort = "Zehnjahresbilanz"
-erklaerung = "prüft den Sektor an vier Größen"
 
 # --------------------------------------------------------------------------
 # Zweiter Band: Die Bauanleitung
