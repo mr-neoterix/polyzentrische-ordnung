@@ -12,7 +12,7 @@ Wer den ersten Band gelesen hat, kann dieses Kapitel überspringen. Wer ihn nich
 
 Am Anfang des ersten Bandes steht eine Buchhaltungsfrage: War die DDR pleite? Am 30. Oktober 1989 lag dem Politbüro der SED ein Papier vor, das Gerhard Schürer, der Chef der Staatlichen Plankommission, federführend verfasst hatte. Es bezifferte die Schulden gegenüber dem Westen auf rund 49 Milliarden Valutamark – einer internen Verrechnungseinheit, die stets eins zu eins zur D-Mark bewertet wurde. Die Bundesbank hat die Zahlungsbilanz der DDR 1999 nachgerechnet und kam für das Jahresende 1989 auf eine Nettoverschuldung von 19,9 Milliarden, weniger als die Hälfte. Schürer hatte Bruttoverbindlichkeiten genannt, und er wollte mit seiner Zahl etwas erreichen.
 
-Pleite im gewöhnlichen Sinn war die DDR also nicht. Was sie hatte, war ein Substanzproblem: Das Land lebte von seiner eigenen Bausubstanz, statt sie zu erhalten, und es merkte es nicht, weil es sich der beiden Geräte entledigt hatte, die einen solchen Verzehr sichtbar machen – Preise, die Knappheit melden, und Insolvenz, die falsche Entscheidungen aus der Welt schafft, ohne dass jemand sie eingestehen muss.
+Pleite im gewöhnlichen Sinn war die DDR nicht; ihre Gläubiger liehen ihr noch. Was sie hatte, war ein Substanzproblem: Das Land lebte von seiner eigenen Bausubstanz, statt sie zu erhalten, und es merkte es nicht, weil es sich der beiden Geräte entledigt hatte, die einen solchen Verzehr sichtbar machen – Preise, die Knappheit melden, und Insolvenz, die falsche Entscheidungen aus der Welt schafft, ohne dass jemand sie eingestehen muss.
 
 Von dieser Antwort aus führt der erste Band über die DDR hinaus, und er folgt dabei drei Regeln, die auch in diesem Band gelten.
 
@@ -126,7 +126,7 @@ Die beiden großen Gegenproben – die marxistische mit zwölf Einwänden, die l
 
 ### Belege
 
-*Schürer-Papier und Nachrechnung der Bundesbank:* Analyse der ökonomischen Lage der DDR mit Schlußfolgerungen vom 30.10.1989; Deutsche Bundesbank (Hg.), *Die Zahlungsbilanz der ehemaligen DDR 1975 bis 1989*, Frankfurt a. M. 1999 – Fundstellen und Verifikationsstatus in Band 1, Kapitel 2. **Bestätigt.**
+*Schürer-Papier und Nachrechnung der Bundesbank:* Analyse der ökonomischen Lage der DDR mit Schlußfolgerungen vom 30.10.1989; Deutsche Bundesbank (Hg.), *Die Zahlungsbilanz der ehemaligen DDR 1975 bis 1989*, Frankfurt a. M. 1999, dort auch die Kreditaufnahme der DDR 1988 und 1989 – Fundstellen und Verifikationsstatus in Band 1, Kapitel 2. **Bestätigt**, die Kreditaufnahme *mit Einschränkung*: Wortlaut über Sekundärnachweise.
 
 *Drei Regeln, zwei Prüfsteine, Engpass und Bakunin:* siehe Band 1, Kapitel 1, dort auch die Vorläufer der Regeln und der Prüfsteine. Die Regeln sind Arbeitsregeln dieses Projekts. **Wertung.** Bakunins Prophezeiung ist dort mit Fundstelle **bestätigt.**
 
