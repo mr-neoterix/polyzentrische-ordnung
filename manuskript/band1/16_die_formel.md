@@ -56,4 +56,4 @@ Und das ist die Formel.
 
 ---
 
-*Zu den Belegen: Jedes Kapitel schließt mit seinem eigenen Nachweisapparat samt Verifikationsstatus. Ein Quellenverzeichnis des Projekts mit Prüfvermerken liegt im offenen Verzeichnis, in `quellen_und_glossar.md`; dort stehen auch die Rechenwege und Prüfprotokolle zu den Belegen. Die Begriffe führt das Register am Ende jedes Bandes. Was an Belegen noch offen ist, benennt das fünfzehnte Kapitel, und Posten für Posten führt es das offene Verzeichnis.*
+*Zu den Belegen: Jedes Kapitel schließt mit seinem eigenen Nachweisapparat samt Verifikationsstatus. Ein Quellenverzeichnis des Projekts mit Prüfvermerken liegt im offenen Verzeichnis, in `quellen_und_glossar.md`; dort stehen auch die Rechenwege und Prüfprotokolle zu den Belegen. Die Begriffe führt das Register am Ende jedes Bandes. Was an Belegen noch zu prüfen ist, benennt das fünfzehnte Kapitel; die einzelnen Aufträge stehen in der Liste der Verifikationsaufträge, `PROCESS.md`.*
