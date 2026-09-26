@@ -106,7 +106,7 @@ Dann greift ein Ersatzweg aus drei Teilen.
 
 *Loi Hamon und Loi Macron:* Informationspflicht gegenüber der Belegschaft zwei Monate vor dem Verkauf von Unternehmen unter 250 Beschäftigten, in Kraft seit 01.11.2014; Verwerfung der Nichtigkeitssanktion durch den Conseil constitutionnel im Juli 2015 als unverhältnismäßiger Eingriff in die unternehmerische Freiheit; Loi Macron vom 06.08.2015 mit verengtem Anwendungsbereich und Bußgeld von höchstens 2 Prozent des Kaufpreises. **Bestätigt**; die Wirkungsbilanz ist in der Fachliteratur umstritten und im Text als umstritten geführt.
 
-*Prüfungsverband:* § 54 GenG – Pflichtmitgliedschaft jeder eingetragenen Genossenschaft in einem Prüfungsverband samt Gründungsgutachten und laufender Pflichtprüfung. **Bestätigt.**
+*Prüfungsverband:* § 54 GenG – Pflichtmitgliedschaft jeder eingetragenen Genossenschaft in einem Prüfungsverband, dazu das Gründungsgutachten (§ 11 Abs. 2 Nr. 3 GenG) und die laufende Pflichtprüfung (§ 53 GenG). **Bestätigt.**
 
 *Energy Sharing:* Artikel 22 der Richtlinie (EU) 2018/2001 und Artikel 16 der Richtlinie (EU) 2019/944 als europäischer Rahmen; deutsche Umsetzung mit § 42c EnWG durch die Novelle vom Dezember 2025, praktisch anwendbar ab 1. Juni 2026, zentrale Festlegungen der Bundesnetzagentur standen Mitte 2026 noch aus. **Bestätigt.**
 

@@ -14,7 +14,7 @@ Zum Lesen am Stück: **[Band 1 als PDF](https://github.com/mr-neoterix/polyzentr
 
 Das kompakte Thesenpapier: **[polyzentrische_ordnung.md](polyzentrische_ordnung.md)**
 
-Begleitend: **[quellen_und_glossar.md](quellen_und_glossar.md)** – Quellenverzeichnis und Glossar in einem, mit Verifikationsstatus für jeden Eintrag.
+Begleitend: **[quellen_und_glossar.md](quellen_und_glossar.md)** – das Quellenverzeichnis mit Prüfvermerken und Verifikationsstatus für jeden Eintrag, dazu die Rechenwege und Prüfprotokolle zu den Belegen; trotz des Dateinamens ist es kein Glossar, die Begriffe führt das Register am Ende jedes Bandes. Offene Prüfungen: **[PROCESS.md](PROCESS.md)** – die Liste der Verifikationsaufträge, die das Buch unter „Zu den Belegen" nennt; jede Prüfung, die ein Beleg als ausstehend ausweist, steht dort als Auftrag, bis sie erledigt ist.
 
 Zum Ledger: **[ledger_nachweise.md](ledger_nachweise.md)** – welche offene Flanke durch welche Änderung der Ordnung geschlossen oder verkleinert wurde. Das Buch führt das Ledger in zwei Teilen – die Grenzen des Arguments im fünfzehnten Kapitel des ersten Bandes, die offenen Flanken der Bauteile im dreizehnten des zweiten – und dort jeweils nur den gegenwärtigen Stand; der Nachweis steht hier.
 
